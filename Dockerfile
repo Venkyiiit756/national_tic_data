@@ -11,4 +11,4 @@ COPY . .
 RUN pip install --no-cache-dir requests pandas
 
 # Run pvr.py when the container launches
-CMD ["python", "./pvr.py"]
+CMD ["python", "./pvr2.py"]
