@@ -1,4 +1,5 @@
 import requests
+import pandas as pd
 
 def get_theaters_with_showtimes(zip_code, date, page=1, limit=10):
     base_url = "https://www.fandango.com/napi/theaterswithshowtimes"
@@ -48,7 +49,40 @@ date = "2024-09-01"
 page = 1
 limit = 10
 
-theaters_data = get_theaters_with_showtimes(zip_code, date, page, limit)
+data = get_theaters_with_showtimes(zip_code, date, page, limit)
 
 # Print the fetched data
-print(theaters_data)
+#print(theaters_data)
+
+
+# Reading the file content as a string to inspect and process the JSON-like structure
+"""with open(file_path, 'r') as file:
+    file_content = file.read()"""
+
+# Converting the JSON-like content into a Python dictionary using eval (since it's likely a Python dictionary format)
+#data = eval(theaters_data)
+
+# Re-checking the structure of the data related to 'id': 155562 from the newly loaded content
+for theater in data['theaters']:
+    for movie in theater.get('movies', []):
+        if movie.get('id') == 155562:
+            movie_data = movie
+            break
+
+# Extracting the required fields from the reloaded data
+showtime_details = []
+for variant in movie_data.get('variants', []):
+    for amenity_group in variant.get('amenityGroups', []):
+        for showtime in amenity_group.get('showtimes', []):
+            showtime_details.append({
+                'showtime_id': showtime.get('id'),
+                'date': showtime.get('ticketingDate', 'N/A'),
+                'showtime_hash_code': showtime.get('showtimeHashCode', 'N/A'),
+                'ticket_jump_url': showtime.get('ticketingJumpPageURL', 'N/A')
+            })
+
+# Creating a DataFrame and displaying it to the user
+df_showtime_details = pd.DataFrame(showtime_details)
+print(df_showtime_details)
+#tools.display_dataframe_to_user(name="Showtime Details from Corrected JSON", dataframe=df_showtime_details)
+
