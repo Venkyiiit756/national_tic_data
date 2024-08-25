@@ -68,6 +68,21 @@ with open('zipcodes.txt', 'r') as file:
 
 movieDetailList = []
 
+# function to prepare showtime details
+def prepareShowtimeDetails(movie, movieDetailList):
+    showtime_details = []
+    for variant in movie.get('variants', []):
+        for amenity_group in variant.get('amenityGroups', []):
+            for showtime in amenity_group.get('showtimes', []):
+                showtime_details.append({
+                    'showtime_id': showtime.get('id'),
+                    'date': showtime.get('ticketingDate', 'N/A'),
+                    'showtime_hash_code': showtime.get('showtimeHashCode', 'N/A'),
+                    'ticket_jump_url': showtime.get('ticketingJumpPageURL', 'N/A')
+                })
+    movieDetailList['showtimes'] = showtime_details
+    
+
 # process the zip code list
 for zip_code in zip_code_list:
     print(f"Processing zip code: {zip_code}")
@@ -121,6 +136,7 @@ for zip_code in zip_code_list:
                         'id': theater.get('id'),
                         'movieId': theater.get('id')              
                     })
+                    prepareShowtimeDetails(movie, movieDetailList[-1])
                 
 
   # Re-checking the structure of the data related to 'id': 155562 from the newly loaded content
