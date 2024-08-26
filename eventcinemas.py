@@ -1,17 +1,27 @@
-
-#read the api from the website
 import requests
 
-response = requests.get('https://www.eventcinemas.com.au/Cinemas/GetSessions?cinemaIds=66&date=2024-09-02')
+# Using print statements instead of logging
+url = "https://www.eventcinemas.com.au/Cinemas/GetSessions"
+params = {
+    'cinemaIds': ['17', '19', '22', '43', '49', '56', '66', '81'],
+    'date': '2024-09-02'
+}
 
-# validate the response
-if response.status_code == 200:
-    # log the status code the zip code and the date and url
-    print(f"Status Code: {response.status_code}")
-    #print(f"Date: {date}")
-    # print the request url
-    print(f"URL: {response.url}")
-    #print(f"Status Code: {response.status_code}")
-    #print(response.json())  # Return JSON response if successful
-else:
-    print({"error": f"Failed to retrieve data: {response.status_code}"})
+headers = {
+    'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36',
+}
+
+try:
+    print("Starting GET request to Event Cinemas API")
+    response = requests.get("https://www.eventcinemas.com.au/api/ticketing/session?sessionId=13948813&bookingSource=www%7Cmovies&includeSuggestedOnlyAddons=true&supportedPaymentProviders=1&supportedPaymentProviders=2&supportsModifierGroupSplit=true&isMobile=true/")
+    response.raise_for_status()  # Check if the request was successful
+    print(f"Request successful, status code: {response.status_code}")
+    
+    data = response.json()  # Parse the response as JSON
+    print("Successfully parsed JSON response")
+    result = data  # Store the response data
+except requests.exceptions.RequestException as e:
+    print(f"An error occurred: {e}")
+    result = f"An error occurred: {e}"
+
+result
