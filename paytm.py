@@ -3,7 +3,9 @@ import openpyxl
 import requests
 
 # Define the API endpoint
-api_url = "https://apiproxy.paytm.com/v3/movies/search/movie?meta=1&reqData=1&city=vijayawada&movieCode=o0gvbyvmx&version=3&site_id=6&channel=web&child_site_id=370&client_id=ticketnew&clientId=ticketnew"
+
+city = "chennai"
+api_url = "https://apiproxy.paytm.com/v3/movies/search/movie?meta=1&reqData=2&city="+city+"&movieCode=o0gvbyvmx&version=3&site_id=6&channel=HTML5&child_site_id=370&client_id=ticketnew&clientId=ticketnew"
 
 # Fetch the JSON data from the API
 response = requests.get(api_url)
@@ -50,7 +52,7 @@ for session in sessions:
         sheet2.append([theater_name, audi, show_time, sAvailTickets, sTotalTickets, sBookedTickets, sTotalGross, sBookedGross])
 
 # Save the workbook
-output_file_path = 'Theater_Data_with_API.xlsx'
+output_file_path = city+'Theater_Data_with_API.xlsx'
 workbook.save(output_file_path)
 
 print(f"Excel file has been saved to {output_file_path}")
