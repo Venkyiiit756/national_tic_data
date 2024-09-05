@@ -1,0 +1,762 @@
+{
+    "serverTime": 1725293777,
+    "meta": {
+        "movies": [
+            {
+                "id": "OB104Y",
+                "frmtId": "O0GvByvMx",
+                "name": "Gabbar Singh",
+                "imgPath": "https://assetscdn1.paytm.com/images/cinema/Gabbar-Singh--05x750-b8b2c670-642b-11ef-a843-85f89c69d392.jpg",
+                "appImgPath": "https://assetscdn1.paytm.com/images/cinema/Gabbar-Singh---608x800-bbf4ab00-642b-11ef-a843-85f89c69d392.jpg",
+                "cvrPath": "https://assetscdn1.paytm.com/images/cinema/Gabbar-Singh--bf1af140-642b-11ef-a843-85f89c69d392.jpg",
+                "appCvrPath": "https://assetscdn1.paytm.com/images/cinema/Gabbar-Singh--app-c1ea64f0-642b-11ef-ab88-c71a50c73cdf.jpg",
+                "thumbnail": null,
+                "edgeBanner": "https://assetscdn1.paytm.com/images/cinema/Gabbar-Singh---035%E2%80%8A%C3%97%E2%80%8A420-c510d240-642b-11ef-a843-85f89c69d392.jpg",
+                "trailer": "https://youtu.be/FpFoQPj4sgs",
+                "censor": "U/A",
+                "duration": 153,
+                "grn": [
+                    "Drama"
+                ],
+                "scrnFmt": "2D",
+                "sndFmt": null,
+                "rnr": {
+                    "hasUReview": 0,
+                    "hasContent": 1
+                },
+                "isNew": false,
+                "imxImgUrl": null,
+                "contentId": 177361,
+                "label": "Gabbar Singh",
+                "lang": "Telugu"
+            }
+        ],
+        "filterBuckets": {
+            "timeBuckets": [
+                {
+                    "sTime": "05:00",
+                    "eTime": "11:59",
+                    "desc": "5:00 AM to 11:59 AM",
+                    "dText": "Morning",
+                    "desc1": "Till 12 PM"
+                },
+                {
+                    "sTime": "12:00",
+                    "eTime": "15:59",
+                    "desc": "12:00 PM to 3:59 PM",
+                    "dText": "Afternoon",
+                    "desc1": "Till 4 PM"
+                },
+                {
+                    "sTime": "16:00",
+                    "eTime": "18:59",
+                    "desc": "4:00 PM to 6:59 PM",
+                    "dText": "Evening",
+                    "desc1": "Till 7 PM"
+                },
+                {
+                    "sTime": "19:00",
+                    "eTime": "04:59",
+                    "desc": "7:00 PM to 4:59 AM",
+                    "dText": "Night",
+                    "desc1": "After 7 PM"
+                }
+            ],
+            "priceBuckets": [
+                {
+                    "min": "0",
+                    "max": "99",
+                    "desc": "Below Rs 100"
+                },
+                {
+                    "min": "100",
+                    "max": "199",
+                    "desc": "Rs 100 - Rs 199"
+                },
+                {
+                    "min": "200",
+                    "max": "299",
+                    "desc": "Rs 200 - Rs 299"
+                },
+                {
+                    "min": "300",
+                    "max": "399",
+                    "desc": "Rs 300 - Rs 399"
+                },
+                {
+                    "min": "400",
+                    "max": "NA",
+                    "desc": "Rs 400 or above"
+                }
+            ],
+            "showTimeBuckets": [
+                {
+                    "sTime": "00:00",
+                    "eTime": "08:00",
+                    "desc": "12 AM to 8 AM",
+                    "dText": "Early Morning",
+                    "desc1": "Till 8 AM"
+                },
+                {
+                    "sTime": "08:00",
+                    "eTime": "12:00",
+                    "desc": "8 AM to 12 PM",
+                    "dText": "Morning",
+                    "desc1": "Till 12 PM"
+                },
+                {
+                    "sTime": "12:00",
+                    "eTime": "16:00",
+                    "desc": "12 PM to 4 PM",
+                    "dText": "Afternoon",
+                    "desc1": "Till 4 PM"
+                },
+                {
+                    "sTime": "16:00",
+                    "eTime": "19:00",
+                    "desc": "4 PM to 7 PM",
+                    "dText": "Evening",
+                    "desc1": "Till 7 PM"
+                },
+                {
+                    "sTime": "19:00",
+                    "eTime": "23:59",
+                    "desc": "7 PM to 12 AM",
+                    "dText": "Night",
+                    "desc1": "Till 12 AM"
+                }
+            ]
+        },
+        "amenities": [
+            {
+                "id": 2,
+                "name": "Parking",
+                "rank": 1
+            },
+            {
+                "id": 1,
+                "name": "Mobile Ticket",
+                "rank": 2
+            },
+            {
+                "id": 3,
+                "name": "Online Food",
+                "rank": 3
+            },
+            {
+                "id": 5,
+                "name": "Recliners",
+                "rank": 4
+            },
+            {
+                "id": 6,
+                "name": "Paytm Accepted",
+                "rank": 5
+            },
+            {
+                "id": 4,
+                "name": "Wheelchair Friendly",
+                "rank": 6
+            },
+            {
+                "id": 7,
+                "name": "RGB Laser",
+                "rank": 7
+            },
+            {
+                "id": 8,
+                "name": "Dolby Atmos",
+                "rank": 8
+            },
+            {
+                "id": 9,
+                "name": "IMAX",
+                "rank": 9
+            },
+            {
+                "id": 10,
+                "name": "4K",
+                "rank": 10
+            },
+            {
+                "id": 11,
+                "name": "AC",
+                "rank": 11
+            },
+            {
+                "id": 12,
+                "name": "WIFI",
+                "rank": 12
+            },
+            {
+                "id": 13,
+                "name": "Food Court",
+                "rank": 13
+            },
+            {
+                "id": 14,
+                "name": "Gaming Zone",
+                "rank": 14
+            },
+            {
+                "id": 15,
+                "name": "2K",
+                "rank": 15
+            },
+            {
+                "id": 16,
+                "name": "4D",
+                "rank": 16
+            },
+            {
+                "id": 17,
+                "name": "4DX",
+                "rank": 17
+            },
+            {
+                "id": 18,
+                "name": "Dolby 7.1",
+                "rank": 18
+            },
+            {
+                "id": 19,
+                "name": "Air conditioning",
+                "rank": 19
+            },
+            {
+                "id": 20,
+                "name": "Metro Train",
+                "rank": 20
+            },
+            {
+                "id": 21,
+                "name": "Sofa",
+                "rank": 21
+            },
+            {
+                "id": 22,
+                "name": "Social Seating",
+                "rank": 22
+            },
+            {
+                "id": 23,
+                "name": "Wheelchair Assistance",
+                "rank": 23
+            },
+            {
+                "id": 24,
+                "name": "Silver Screen",
+                "rank": 24
+            },
+            {
+                "id": 25,
+                "name": "Food & Beverages",
+                "rank": 25
+            },
+            {
+                "id": 26,
+                "name": "Paper Less Ticketing",
+                "rank": 26
+            },
+            {
+                "id": 27,
+                "name": "Handicapped Washroom",
+                "rank": 27
+            },
+            {
+                "id": 28,
+                "name": "Free Parking",
+                "rank": 28
+            },
+            {
+                "id": 29,
+                "name": "Baggage Counter",
+                "rank": 29
+            },
+            {
+                "id": 30,
+                "name": "Dolby 4 Way 11.1",
+                "rank": 30
+            },
+            {
+                "id": 31,
+                "name": "Barco 4K Ultra HD",
+                "rank": 31
+            }
+        ],
+        "cinemas": [
+            {
+                "id": 1023470,
+                "pid": 1707,
+                "name": "PVR INOX Urvasi Complex, Gandhi Nagar",
+                "address": "Urvashi Theatre Complex, #26-2-66/A, Andra Ratna Road, Gandhi Nagar, Vijayawada, Andhra Pradesh 520003, India",
+                "pincode": "520003",
+                "lat": 16.517184,
+                "lon": 80.631024,
+                "cityId": 27,
+                "appCovrImgUrl": "",
+                "covrImgUrl": "",
+                "fnb": 0,
+                "mTkt": 1,
+                "bCode": "0",
+                "sTop": 0,
+                "isMerchantCancellable": 0,
+                "cinemaLogoUrl": "https://assetscdn1.paytm.com/images/cinema/Inox%20(1)-70d00750-24ca-11ef-8a23-77631e928195.png",
+                "cinemaVideoUrl": "",
+                "appCoverVideoUrl": "",
+                "webCoverVideoUrl": "",
+                "amenities": null,
+                "promos": null,
+                "chainKey": "PVR",
+                "contentId": 174378,
+                "theatreGroupName": "",
+                "amenitiesOrder": null,
+                "carouselAttachments": [],
+                "isPassEnabled": 1,
+                "paytmCinemaId": 1023470,
+                "city": "Vijayawada",
+                "clientId": "ticketnew",
+                "isMapped": 0,
+                "city_id": null,
+                "is_city_mapped": null,
+                "state": "andhra-pradesh",
+                "label": "PVR INOX Urvasi Complex, Gandhi Nagar",
+                "sessionCount": 19
+            },
+            {
+                "id": 1023468,
+                "pid": 1707,
+                "name": "PVR INOX Ripples Mall, Vijaywada",
+                "address": "3rd Floor, Ripples Mall MG Road, Vijaywada,  Andhra Pradesh 520010, India",
+                "pincode": "520010",
+                "lat": 16.500968,
+                "lon": 80.643442,
+                "cityId": 27,
+                "appCovrImgUrl": "",
+                "covrImgUrl": "",
+                "fnb": 0,
+                "mTkt": 1,
+                "bCode": "0",
+                "sTop": 0,
+                "isMerchantCancellable": 0,
+                "cinemaLogoUrl": "https://assetscdn1.paytm.com/images/cinema/PVR%20(1)-ff10f5f0-d87c-11ee-8171-7df0cded886f.png",
+                "cinemaVideoUrl": "",
+                "appCoverVideoUrl": "",
+                "webCoverVideoUrl": "",
+                "amenities": null,
+                "promos": null,
+                "chainKey": "PVR",
+                "contentId": 170662,
+                "theatreGroupName": "",
+                "amenitiesOrder": null,
+                "carouselAttachments": [],
+                "isPassEnabled": 1,
+                "paytmCinemaId": 1023468,
+                "city": "Vijayawada",
+                "clientId": "ticketnew",
+                "isMapped": 0,
+                "city_id": null,
+                "is_city_mapped": null,
+                "state": "andhra-pradesh",
+                "label": "PVR INOX Ripples Mall, Vijaywada",
+                "sessionCount": 38
+            },
+            {
+                "id": 1023466,
+                "pid": 1707,
+                "name": "PVR INOX Laila Mall, M.G Road",
+                "address": "INOX Leisure Ltd., 4th Floor, Laila Mall, M.G. Road, Vijayawada, Andhra Pradesh 520002, India",
+                "pincode": "520002",
+                "lat": 16.50679,
+                "lon": 80.628488,
+                "cityId": 27,
+                "appCovrImgUrl": "",
+                "covrImgUrl": "",
+                "fnb": 0,
+                "mTkt": 1,
+                "bCode": "0",
+                "sTop": 0,
+                "isMerchantCancellable": 0,
+                "cinemaLogoUrl": "https://assetscdn1.paytm.com/images/cinema/Inox%20(1)-5579bcd0-24ca-11ef-8a23-77631e928195.png",
+                "cinemaVideoUrl": "",
+                "appCoverVideoUrl": "",
+                "webCoverVideoUrl": "",
+                "amenities": null,
+                "promos": null,
+                "chainKey": "PVR",
+                "contentId": 174379,
+                "theatreGroupName": "",
+                "amenitiesOrder": null,
+                "carouselAttachments": [],
+                "isPassEnabled": 1,
+                "paytmCinemaId": 1023466,
+                "city": "Vijayawada",
+                "clientId": "ticketnew",
+                "isMapped": 0,
+                "city_id": null,
+                "is_city_mapped": null,
+                "state": "andhra-pradesh",
+                "label": "PVR INOX Laila Mall, M.G Road",
+                "sessionCount": 15
+            },
+            {
+                "id": 1023465,
+                "pid": 1707,
+                "name": "PVR INOX LEPL Icon, Patamata",
+                "address": "3rd Floor, LEPL Icon, Patamata, Vijayawada, Andhra Pradesh 520010, India",
+                "pincode": "520010",
+                "lat": 16.502749,
+                "lon": 80.660014,
+                "cityId": 27,
+                "appCovrImgUrl": "",
+                "covrImgUrl": "",
+                "fnb": 0,
+                "mTkt": 1,
+                "bCode": "0",
+                "sTop": 0,
+                "isMerchantCancellable": 0,
+                "cinemaLogoUrl": "https://assetscdn1.paytm.com/images/cinema/Inox%20(1)-1f807240-24ca-11ef-a342-13ea6c7d9d31.png",
+                "cinemaVideoUrl": "",
+                "appCoverVideoUrl": "",
+                "webCoverVideoUrl": "",
+                "amenities": null,
+                "promos": null,
+                "chainKey": "PVR",
+                "contentId": 174380,
+                "theatreGroupName": "",
+                "amenitiesOrder": null,
+                "carouselAttachments": [],
+                "isPassEnabled": 1,
+                "paytmCinemaId": 1023465,
+                "city": "Vijayawada",
+                "clientId": "ticketnew",
+                "isMapped": 0,
+                "city_id": null,
+                "is_city_mapped": null,
+                "state": "andhra-pradesh",
+                "label": "PVR INOX LEPL Icon, Patamata",
+                "sessionCount": 21
+            },
+            {
+                "id": 7816,
+                "pid": 335,
+                "name": "Cinepolis Power One Mall, Bunder Road",
+                "address": "3rd Floor, Power one Mall, Survery no -220/4 Kanuru gram, Bunder Road, District- Krishna, Vijayawada, Andhra Pradesh 520007, India",
+                "pincode": "520007",
+                "lat": 16.488831,
+                "lon": 80.675161,
+                "cityId": 27,
+                "appCovrImgUrl": "",
+                "covrImgUrl": "",
+                "fnb": 0,
+                "mTkt": 1,
+                "bCode": "0",
+                "sTop": 0,
+                "isMerchantCancellable": 0,
+                "cinemaLogoUrl": "https://assetscdn1.paytm.com/images/cinema/Cinepolis-e80f9500-b38d-11ee-8a1f-bfa09bf4348a.png",
+                "cinemaVideoUrl": "",
+                "appCoverVideoUrl": "",
+                "webCoverVideoUrl": "",
+                "amenities": null,
+                "promos": null,
+                "chainKey": "Cinepolis",
+                "contentId": 149531,
+                "theatreGroupName": "",
+                "amenitiesOrder": null,
+                "carouselAttachments": [],
+                "isPassEnabled": 0,
+                "paytmCinemaId": 7816,
+                "city": "Vijayawada",
+                "clientId": "ticketnew",
+                "isMapped": 0,
+                "city_id": null,
+                "is_city_mapped": null,
+                "state": "andhra-pradesh",
+                "label": "Cinepolis Power One Mall, Bunder Road",
+                "sessionCount": 33
+            }
+        ],
+        "filterData": {
+            "minSTime": "16:30",
+            "maxSTime": "17:10",
+            "minPrice": 147.0,
+            "maxPrice": 295.0,
+            "premium": false,
+            "freeSeats": false,
+            "groupSeats": false,
+            "tokenFeeSeats": false,
+            "scnFrmts": [
+                "2D"
+            ],
+            "sndFrmts": [],
+            "mLangs": [
+                "Telugu"
+            ],
+            "genres": [
+                "Drama"
+            ]
+        }
+    },
+    "data": {
+        "pageSize": 100,
+        "cinemasOrder": [
+            1023470,
+            1023468,
+            1023466,
+            1023465,
+            7816
+        ],
+        "sessionDates": [
+            "2024-09-02"
+        ]
+    },
+    "pageData": {
+        "sessions": {
+            "1023470": [
+                {
+                    "sid": "55578",
+                    "pid": 1707,
+                    "pkey": "showbizz",
+                    "cid": 1023470,
+                    "mid": "OB104Y",
+                    "fid": "O0GvByvMx",
+                    "showTime": "2024-09-02T16:30",
+                    "closeTime": "2024-09-02T16:29",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "CL",
+                            "label": "CLUB",
+                            "typeCode": "55578_CL",
+                            "sType": "fixed",
+                            "sAvail": 0,
+                            "sTotal": 214,
+                            "price": 177.0,
+                            "statusColor": "D"
+                        }
+                    ],
+                    "total": 214,
+                    "avail": 0,
+                    "audi": "Screen 2",
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Drama"
+                    ],
+                    "statusColor": "D"
+                }
+            ],
+            "1023468": [
+                {
+                    "sid": "3702",
+                    "pid": 1707,
+                    "pkey": "showbizz",
+                    "cid": 1023468,
+                    "mid": "OB104Y",
+                    "fid": "O0GvByvMx",
+                    "showTime": "2024-09-02T16:30",
+                    "closeTime": "2024-09-02T16:29",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "CL",
+                            "label": "CLASSIC",
+                            "typeCode": "3702_CL",
+                            "sType": "fixed",
+                            "sAvail": 66,
+                            "sTotal": 163,
+                            "price": 177.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "RY",
+                            "label": "RECLINER",
+                            "typeCode": "3702_RY",
+                            "sType": "fixed",
+                            "sAvail": 0,
+                            "sTotal": 13,
+                            "price": 295.0,
+                            "statusColor": "D"
+                        }
+                    ],
+                    "total": 176,
+                    "avail": 66,
+                    "audi": "AUDI 03",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Drama"
+                    ],
+                    "statusColor": "Y"
+                }
+            ],
+            "1023466": [
+                {
+                    "sid": "9510",
+                    "pid": 1707,
+                    "pkey": "showbizz",
+                    "cid": 1023466,
+                    "mid": "OB104Y",
+                    "fid": "O0GvByvMx",
+                    "showTime": "2024-09-02T17:00",
+                    "closeTime": "2024-09-02T16:59",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "CL",
+                            "label": "CLUB",
+                            "typeCode": "9510_CL",
+                            "sType": "fixed",
+                            "sAvail": 156,
+                            "sTotal": 278,
+                            "price": 177.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "RY",
+                            "label": "ROYAL",
+                            "typeCode": "9510_RY",
+                            "sType": "fixed",
+                            "sAvail": 23,
+                            "sTotal": 32,
+                            "price": 295.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 310,
+                    "avail": 179,
+                    "audi": "SCREEN 3",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Drama"
+                    ],
+                    "statusColor": "G"
+                }
+            ],
+            "1023465": [
+                {
+                    "sid": "75223",
+                    "pid": 1707,
+                    "pkey": "showbizz",
+                    "cid": 1023465,
+                    "mid": "OB104Y",
+                    "fid": "O0GvByvMx",
+                    "showTime": "2024-09-02T17:00",
+                    "closeTime": "2024-09-02T16:59",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "CL",
+                            "label": "CLUB",
+                            "typeCode": "75223_CL",
+                            "sType": "fixed",
+                            "sAvail": 10,
+                            "sTotal": 249,
+                            "price": 177.0,
+                            "statusColor": "R"
+                        },
+                        {
+                            "code": "RY",
+                            "label": "ROYAL",
+                            "typeCode": "75223_RY",
+                            "sType": "fixed",
+                            "sAvail": 17,
+                            "sTotal": 28,
+                            "price": 295.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 277,
+                    "avail": 27,
+                    "audi": "SCREEN 2",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Drama"
+                    ],
+                    "statusColor": "R"
+                }
+            ],
+            "7816": [
+                {
+                    "sid": "36653",
+                    "pid": 335,
+                    "pkey": "vista_common_food",
+                    "cid": 7816,
+                    "mid": "OB104Y",
+                    "fid": "O0GvByvMx",
+                    "showTime": "2024-09-02T17:10",
+                    "closeTime": "2024-09-02T17:09",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "0000000000",
+                            "label": "NORMAL",
+                            "typeCode": "0002",
+                            "sType": "fixed",
+                            "sAvail": 24,
+                            "sTotal": 24,
+                            "price": 147.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "0000000002",
+                            "label": "EXECUTIVE",
+                            "typeCode": "0001",
+                            "sType": "fixed",
+                            "sAvail": 8,
+                            "sTotal": 58,
+                            "price": 147.0,
+                            "statusColor": "Y"
+                        },
+                        {
+                            "code": "0000000001",
+                            "label": "PREMIUM",
+                            "typeCode": "0003",
+                            "sType": "fixed",
+                            "sAvail": 0,
+                            "sTotal": 84,
+                            "price": 147.0,
+                            "statusColor": "D"
+                        }
+                    ],
+                    "total": 166,
+                    "avail": 32,
+                    "audi": "AUDI 3",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 10,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Drama"
+                    ],
+                    "statusColor": "Y",
+                    "subtitle": ""
+                }
+            ]
+        }
+    }
+}

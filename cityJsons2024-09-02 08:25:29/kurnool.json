@@ -1,0 +1,1085 @@
+{
+    "serverTime": 1725265550,
+    "meta": {
+        "movies": [
+            {
+                "id": "OB104Y",
+                "frmtId": "O0GvByvMx",
+                "name": "Gabbar Singh",
+                "imgPath": "https://assetscdn1.paytm.com/images/cinema/Gabbar-Singh--05x750-b8b2c670-642b-11ef-a843-85f89c69d392.jpg",
+                "appImgPath": "https://assetscdn1.paytm.com/images/cinema/Gabbar-Singh---608x800-bbf4ab00-642b-11ef-a843-85f89c69d392.jpg",
+                "cvrPath": "https://assetscdn1.paytm.com/images/cinema/Gabbar-Singh--bf1af140-642b-11ef-a843-85f89c69d392.jpg",
+                "appCvrPath": "https://assetscdn1.paytm.com/images/cinema/Gabbar-Singh--app-c1ea64f0-642b-11ef-ab88-c71a50c73cdf.jpg",
+                "thumbnail": null,
+                "edgeBanner": "https://assetscdn1.paytm.com/images/cinema/Gabbar-Singh---035%E2%80%8A%C3%97%E2%80%8A420-c510d240-642b-11ef-a843-85f89c69d392.jpg",
+                "trailer": "https://youtu.be/FpFoQPj4sgs",
+                "censor": "U/A",
+                "duration": 153,
+                "grn": [
+                    "Drama"
+                ],
+                "scrnFmt": "2D",
+                "sndFmt": null,
+                "rnr": {
+                    "hasUReview": 0,
+                    "hasContent": 1
+                },
+                "isNew": false,
+                "imxImgUrl": null,
+                "contentId": 177361,
+                "label": "Gabbar Singh",
+                "lang": "Telugu"
+            }
+        ],
+        "filterBuckets": {
+            "timeBuckets": [
+                {
+                    "sTime": "05:00",
+                    "eTime": "11:59",
+                    "desc": "5:00 AM to 11:59 AM",
+                    "dText": "Morning",
+                    "desc1": "Till 12 PM"
+                },
+                {
+                    "sTime": "12:00",
+                    "eTime": "15:59",
+                    "desc": "12:00 PM to 3:59 PM",
+                    "dText": "Afternoon",
+                    "desc1": "Till 4 PM"
+                },
+                {
+                    "sTime": "16:00",
+                    "eTime": "18:59",
+                    "desc": "4:00 PM to 6:59 PM",
+                    "dText": "Evening",
+                    "desc1": "Till 7 PM"
+                },
+                {
+                    "sTime": "19:00",
+                    "eTime": "04:59",
+                    "desc": "7:00 PM to 4:59 AM",
+                    "dText": "Night",
+                    "desc1": "After 7 PM"
+                }
+            ],
+            "priceBuckets": [
+                {
+                    "min": "0",
+                    "max": "99",
+                    "desc": "Below Rs 100"
+                },
+                {
+                    "min": "100",
+                    "max": "199",
+                    "desc": "Rs 100 - Rs 199"
+                },
+                {
+                    "min": "200",
+                    "max": "299",
+                    "desc": "Rs 200 - Rs 299"
+                },
+                {
+                    "min": "300",
+                    "max": "399",
+                    "desc": "Rs 300 - Rs 399"
+                },
+                {
+                    "min": "400",
+                    "max": "NA",
+                    "desc": "Rs 400 or above"
+                }
+            ],
+            "showTimeBuckets": [
+                {
+                    "sTime": "00:00",
+                    "eTime": "05:00",
+                    "desc": "12 AM to 5 AM",
+                    "dText": "Early Morning",
+                    "desc1": "Till 5 AM"
+                },
+                {
+                    "sTime": "05:00",
+                    "eTime": "12:00",
+                    "desc": "5 AM to 12 PM",
+                    "dText": "Morning",
+                    "desc1": "Till 12 PM"
+                },
+                {
+                    "sTime": "12:00",
+                    "eTime": "16:00",
+                    "desc": "12 PM to 4 PM",
+                    "dText": "Afternoon",
+                    "desc1": "Till 4 PM"
+                },
+                {
+                    "sTime": "16:00",
+                    "eTime": "19:00",
+                    "desc": "4 PM to 7 PM",
+                    "dText": "Evening",
+                    "desc1": "Till 7 PM"
+                },
+                {
+                    "sTime": "19:00",
+                    "eTime": "23:59",
+                    "desc": "7 PM to 12 AM",
+                    "dText": "Night",
+                    "desc1": "Till 12 AM"
+                }
+            ]
+        },
+        "amenities": [
+            {
+                "id": 2,
+                "name": "Parking",
+                "rank": 1
+            },
+            {
+                "id": 1,
+                "name": "Mobile Ticket",
+                "rank": 2
+            },
+            {
+                "id": 3,
+                "name": "Online Food",
+                "rank": 3
+            },
+            {
+                "id": 5,
+                "name": "Recliners",
+                "rank": 4
+            },
+            {
+                "id": 6,
+                "name": "Paytm Accepted",
+                "rank": 5
+            },
+            {
+                "id": 4,
+                "name": "Wheelchair Friendly",
+                "rank": 6
+            },
+            {
+                "id": 7,
+                "name": "RGB Laser",
+                "rank": 7
+            },
+            {
+                "id": 8,
+                "name": "Dolby Atmos",
+                "rank": 8
+            },
+            {
+                "id": 9,
+                "name": "IMAX",
+                "rank": 9
+            },
+            {
+                "id": 10,
+                "name": "4K",
+                "rank": 10
+            },
+            {
+                "id": 11,
+                "name": "AC",
+                "rank": 11
+            },
+            {
+                "id": 12,
+                "name": "WIFI",
+                "rank": 12
+            },
+            {
+                "id": 13,
+                "name": "Food Court",
+                "rank": 13
+            },
+            {
+                "id": 14,
+                "name": "Gaming Zone",
+                "rank": 14
+            },
+            {
+                "id": 15,
+                "name": "2K",
+                "rank": 15
+            },
+            {
+                "id": 16,
+                "name": "4D",
+                "rank": 16
+            },
+            {
+                "id": 17,
+                "name": "4DX",
+                "rank": 17
+            },
+            {
+                "id": 18,
+                "name": "Dolby 7.1",
+                "rank": 18
+            },
+            {
+                "id": 19,
+                "name": "Air conditioning",
+                "rank": 19
+            },
+            {
+                "id": 20,
+                "name": "Metro Train",
+                "rank": 20
+            },
+            {
+                "id": 21,
+                "name": "Sofa",
+                "rank": 21
+            },
+            {
+                "id": 22,
+                "name": "Social Seating",
+                "rank": 22
+            },
+            {
+                "id": 23,
+                "name": "Wheelchair Assistance",
+                "rank": 23
+            },
+            {
+                "id": 24,
+                "name": "Silver Screen",
+                "rank": 24
+            },
+            {
+                "id": 25,
+                "name": "Food & Beverages",
+                "rank": 25
+            },
+            {
+                "id": 26,
+                "name": "Paper Less Ticketing",
+                "rank": 26
+            },
+            {
+                "id": 27,
+                "name": "Handicapped Washroom",
+                "rank": 27
+            },
+            {
+                "id": 28,
+                "name": "Free Parking",
+                "rank": 28
+            },
+            {
+                "id": 29,
+                "name": "Baggage Counter",
+                "rank": 29
+            },
+            {
+                "id": 30,
+                "name": "Dolby 4 Way 11.1",
+                "rank": 30
+            },
+            {
+                "id": 31,
+                "name": "Barco 4K Ultra HD",
+                "rank": 31
+            }
+        ],
+        "cinemas": [
+            {
+                "id": 7222,
+                "pid": 902,
+                "name": "Sri Rama 70mm, River View Colony",
+                "address": "National Highway 18, River View Colony, Kurnool, Andhra Pradesh 518004, India",
+                "pincode": "518004",
+                "lat": 15.826538,
+                "lon": 78.034813,
+                "cityId": 62,
+                "appCovrImgUrl": "",
+                "covrImgUrl": "",
+                "fnb": 0,
+                "mTkt": 1,
+                "bCode": "0",
+                "sTop": 0,
+                "isMerchantCancellable": 0,
+                "cinemaLogoUrl": "https://assetscdn1.paytm.com/images/cinema/Theatre%403x-a4b1cf60-676c-11ef-8bfd-85c2f3bcaac6.png",
+                "cinemaVideoUrl": "",
+                "appCoverVideoUrl": "",
+                "webCoverVideoUrl": "",
+                "amenities": {
+                    "1": -1,
+                    "2": 1,
+                    "3": -1,
+                    "4": -1,
+                    "5": -1,
+                    "6": -1
+                },
+                "promos": null,
+                "chainKey": "Sri Ram",
+                "contentId": 149238,
+                "theatreGroupName": "",
+                "amenitiesOrder": [
+                    {
+                        "id": 1,
+                        "rank": 2,
+                        "status": -1
+                    },
+                    {
+                        "id": 2,
+                        "rank": 1,
+                        "status": 1
+                    },
+                    {
+                        "id": 3,
+                        "rank": 3,
+                        "status": -1
+                    },
+                    {
+                        "id": 4,
+                        "rank": 6,
+                        "status": -1
+                    },
+                    {
+                        "id": 5,
+                        "rank": 4,
+                        "status": -1
+                    },
+                    {
+                        "id": 6,
+                        "rank": 5,
+                        "status": -1
+                    }
+                ],
+                "carouselAttachments": [],
+                "isPassEnabled": 0,
+                "paytmCinemaId": 7222,
+                "city": "Kurnool",
+                "clientId": "ticketnew",
+                "isMapped": 0,
+                "city_id": null,
+                "is_city_mapped": null,
+                "state": "andhra-pradesh",
+                "label": "Sri Rama 70mm, River View Colony",
+                "sessionCount": 14
+            },
+            {
+                "id": 9622,
+                "pid": 721,
+                "name": "Raj Theatre, R S Road",
+                "address": "Dharma Pet,  R S Road, Kurnool Ho, Kurnool, Andhra Pradesh 518001, India",
+                "pincode": "518001",
+                "lat": 15.829444,
+                "lon": 78.037778,
+                "cityId": 62,
+                "appCovrImgUrl": "",
+                "covrImgUrl": "",
+                "fnb": 0,
+                "mTkt": 1,
+                "bCode": "0",
+                "sTop": 0,
+                "isMerchantCancellable": 0,
+                "cinemaLogoUrl": "https://assetscdn1.paytm.com/images/cinema/SP-cinema-logo-bea3e990-8504-11ed-9a8d-9b91ffeaf739.png",
+                "cinemaVideoUrl": "",
+                "appCoverVideoUrl": "",
+                "webCoverVideoUrl": "",
+                "amenities": null,
+                "promos": null,
+                "chainKey": "Suresh Production",
+                "contentId": 149898,
+                "theatreGroupName": "",
+                "amenitiesOrder": null,
+                "carouselAttachments": [],
+                "isPassEnabled": 0,
+                "paytmCinemaId": 9622,
+                "city": "Kurnool",
+                "clientId": "ticketnew",
+                "isMapped": 0,
+                "city_id": null,
+                "is_city_mapped": null,
+                "state": "andhra-pradesh",
+                "label": "Raj Theatre, R S Road",
+                "sessionCount": 10
+            },
+            {
+                "id": 15527,
+                "pid": 750,
+                "name": "SVC Cinemas, City Square Mall",
+                "address": "D.No. 40/37-M Sy.No. 177 And 192, 4A, New Bus Stand, Kurnool, Andhra Pradesh 518004, India",
+                "pincode": "518004",
+                "lat": 15.826793,
+                "lon": 78.035072,
+                "cityId": 62,
+                "appCovrImgUrl": "",
+                "covrImgUrl": "",
+                "fnb": 0,
+                "mTkt": 1,
+                "bCode": "0",
+                "sTop": 0,
+                "isMerchantCancellable": 0,
+                "cinemaLogoUrl": "https://assetscdn1.paytm.com/images/cinema/svc-5551d580-869c-11ed-9b16-5b1b1e9f8842.png",
+                "cinemaVideoUrl": "",
+                "appCoverVideoUrl": "",
+                "webCoverVideoUrl": "",
+                "amenities": null,
+                "promos": null,
+                "chainKey": "SVC Sangeetha",
+                "contentId": 150381,
+                "theatreGroupName": "",
+                "amenitiesOrder": null,
+                "carouselAttachments": [],
+                "isPassEnabled": 0,
+                "paytmCinemaId": 15527,
+                "city": "Kurnool",
+                "clientId": "ticketnew",
+                "isMapped": 0,
+                "city_id": null,
+                "is_city_mapped": null,
+                "state": "andhra-pradesh",
+                "label": "SVC Cinemas, City Square Mall",
+                "sessionCount": 46
+            },
+            {
+                "id": 1034180,
+                "pid": 736,
+                "name": "Bharath Complex",
+                "address": "Risaldar Masjid Rd, Bhagya Nagar, River View Colony, Kurnool, Andhra Pradesh 518001, India",
+                "pincode": "518001",
+                "lat": 15.828225,
+                "lon": 78.035739,
+                "cityId": 62,
+                "appCovrImgUrl": "",
+                "covrImgUrl": "",
+                "fnb": 0,
+                "mTkt": 1,
+                "bCode": "0",
+                "sTop": 0,
+                "isMerchantCancellable": 0,
+                "cinemaLogoUrl": "https://assetscdn1.paytm.com/images/cinema/Theatre-d0f1adb0-7bb5-11ed-9459-3d8116f03fee.png",
+                "cinemaVideoUrl": "",
+                "appCoverVideoUrl": "",
+                "webCoverVideoUrl": "",
+                "amenities": null,
+                "promos": null,
+                "chainKey": "TicketNew",
+                "contentId": 177526,
+                "theatreGroupName": "",
+                "amenitiesOrder": null,
+                "carouselAttachments": [],
+                "isPassEnabled": 0,
+                "paytmCinemaId": 1034180,
+                "city": "Kurnool",
+                "clientId": "ticketnew",
+                "isMapped": 0,
+                "city_id": null,
+                "is_city_mapped": null,
+                "state": "andhra-pradesh",
+                "label": "Bharath Complex",
+                "sessionCount": 3
+            }
+        ],
+        "filterData": {
+            "minSTime": "09:30",
+            "maxSTime": "16:55",
+            "minPrice": 70.0,
+            "maxPrice": 295.0,
+            "premium": true,
+            "freeSeats": false,
+            "groupSeats": false,
+            "tokenFeeSeats": false,
+            "scnFrmts": [
+                "2D"
+            ],
+            "sndFrmts": [],
+            "mLangs": [
+                "Telugu"
+            ],
+            "genres": [
+                "Drama"
+            ]
+        }
+    },
+    "data": {
+        "pageSize": 100,
+        "cinemasOrder": [
+            7222,
+            9622,
+            15527,
+            1034180
+        ],
+        "sessionDates": [
+            "2024-09-02",
+            "2024-09-03",
+            "2024-09-04",
+            "2024-09-05"
+        ]
+    },
+    "pageData": {
+        "sessions": {
+            "7222": [
+                {
+                    "sid": "23037__1725269400__1700__12778",
+                    "pid": 902,
+                    "pkey": "ticketnew",
+                    "cid": 7222,
+                    "mid": "OB104Y",
+                    "fid": "O0GvByvMx",
+                    "showTime": "2024-09-02T09:30",
+                    "closeTime": "2024-09-02T09:25",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "20",
+                            "label": "BALCONY",
+                            "typeCode": "23037__1725269400__1700__12778_BALCONY",
+                            "sType": "fixed",
+                            "sAvail": 357,
+                            "sTotal": 410,
+                            "price": 110.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "30",
+                            "label": "SECOND CLASS",
+                            "typeCode": "23037__1725269400__1700__12778_SECOND CLASS",
+                            "sType": "fixed",
+                            "sAvail": 214,
+                            "sTotal": 284,
+                            "price": 80.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 694,
+                    "avail": 571,
+                    "audi": "SRI RAMA 70mm  A/C  Dts",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Drama"
+                    ],
+                    "statusColor": "G",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "23037__1725282000__1700__12779",
+                    "pid": 902,
+                    "pkey": "ticketnew",
+                    "cid": 7222,
+                    "mid": "OB104Y",
+                    "fid": "O0GvByvMx",
+                    "showTime": "2024-09-02T13:00",
+                    "closeTime": "2024-09-02T12:55",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "20",
+                            "label": "BALCONY",
+                            "typeCode": "23037__1725282000__1700__12779_BALCONY",
+                            "sType": "fixed",
+                            "sAvail": 0,
+                            "sTotal": 410,
+                            "price": 110.0,
+                            "statusColor": "D"
+                        },
+                        {
+                            "code": "30",
+                            "label": "SECOND CLASS",
+                            "typeCode": "23037__1725282000__1700__12779_SECOND CLASS",
+                            "sType": "fixed",
+                            "sAvail": 0,
+                            "sTotal": 284,
+                            "price": 80.0,
+                            "statusColor": "D"
+                        }
+                    ],
+                    "total": 694,
+                    "avail": 0,
+                    "audi": "SRI RAMA 70mm  A/C  Dts",
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Drama"
+                    ],
+                    "statusColor": "D",
+                    "subtitle": ""
+                }
+            ],
+            "9622": [
+                {
+                    "sid": "23037__1725269400__3986__6394",
+                    "pid": 721,
+                    "pkey": "ticketnew",
+                    "cid": 9622,
+                    "mid": "OB104Y",
+                    "fid": "O0GvByvMx",
+                    "showTime": "2024-09-02T09:30",
+                    "closeTime": "2024-09-02T09:30",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "1",
+                            "label": "BALCONY",
+                            "typeCode": "23037__1725269400__3986__6394_BALCONY",
+                            "sType": "fixed",
+                            "sAvail": 0,
+                            "sTotal": 416,
+                            "price": 112.0,
+                            "statusColor": "D"
+                        },
+                        {
+                            "code": "2",
+                            "label": "SECOND CLASS",
+                            "typeCode": "23037__1725269400__3986__6394_SECOND CLASS",
+                            "sType": "fixed",
+                            "sAvail": 0,
+                            "sTotal": 149,
+                            "price": 80.0,
+                            "statusColor": "D"
+                        }
+                    ],
+                    "total": 565,
+                    "avail": 0,
+                    "audi": "RAJ THEATRE",
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Drama"
+                    ],
+                    "statusColor": "D",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "23037__1725282000__3986__6395",
+                    "pid": 721,
+                    "pkey": "ticketnew",
+                    "cid": 9622,
+                    "mid": "OB104Y",
+                    "fid": "O0GvByvMx",
+                    "showTime": "2024-09-02T13:00",
+                    "closeTime": "2024-09-02T13:00",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "1",
+                            "label": "BALCONY",
+                            "typeCode": "23037__1725282000__3986__6395_BALCONY",
+                            "sType": "fixed",
+                            "sAvail": 0,
+                            "sTotal": 416,
+                            "price": 112.0,
+                            "statusColor": "D"
+                        },
+                        {
+                            "code": "2",
+                            "label": "SECOND CLASS",
+                            "typeCode": "23037__1725282000__3986__6395_SECOND CLASS",
+                            "sType": "fixed",
+                            "sAvail": 0,
+                            "sTotal": 149,
+                            "price": 80.0,
+                            "statusColor": "D"
+                        }
+                    ],
+                    "total": 565,
+                    "avail": 0,
+                    "audi": "RAJ THEATRE",
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Drama"
+                    ],
+                    "statusColor": "D",
+                    "subtitle": ""
+                }
+            ],
+            "15527": [
+                {
+                    "sid": "23037__1725296100__4189__37056",
+                    "pid": 750,
+                    "pkey": "ticketnew",
+                    "cid": 15527,
+                    "mid": "OB104Y",
+                    "fid": "O0GvByvMx",
+                    "showTime": "2024-09-02T16:55",
+                    "closeTime": "2024-09-02T16:50",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "10",
+                            "label": "PLATINUM",
+                            "typeCode": "23037__1725296100__4189__37056_PLATINUM",
+                            "sType": "fixed",
+                            "sAvail": 15,
+                            "sTotal": 19,
+                            "price": 295.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "20",
+                            "label": "GOLD",
+                            "typeCode": "23037__1725296100__4189__37056_GOLD",
+                            "sType": "fixed",
+                            "sAvail": 124,
+                            "sTotal": 220,
+                            "price": 177.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "30",
+                            "label": "LOUNGERS",
+                            "typeCode": "23037__1725296100__4189__37056_LOUNGERS",
+                            "sType": "fixed",
+                            "sAvail": 17,
+                            "sTotal": 17,
+                            "price": 177.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 256,
+                    "avail": 156,
+                    "audi": "Screen3",
+                    "premium": 1,
+                    "premiumLabel": "ATMOS",
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Drama"
+                    ],
+                    "statusColor": "G",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "23037__1725275100__4189__37054",
+                    "pid": 750,
+                    "pkey": "ticketnew",
+                    "cid": 15527,
+                    "mid": "OB104Y",
+                    "fid": "O0GvByvMx",
+                    "showTime": "2024-09-02T11:05",
+                    "closeTime": "2024-09-02T11:00",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "10",
+                            "label": "PLATINUM",
+                            "typeCode": "23037__1725275100__4189__37054_PLATINUM",
+                            "sType": "fixed",
+                            "sAvail": 8,
+                            "sTotal": 19,
+                            "price": 295.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "20",
+                            "label": "GOLD",
+                            "typeCode": "23037__1725275100__4189__37054_GOLD",
+                            "sType": "fixed",
+                            "sAvail": 122,
+                            "sTotal": 220,
+                            "price": 177.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "30",
+                            "label": "LOUNGERS",
+                            "typeCode": "23037__1725275100__4189__37054_LOUNGERS",
+                            "sType": "fixed",
+                            "sAvail": 14,
+                            "sTotal": 17,
+                            "price": 177.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 256,
+                    "avail": 144,
+                    "audi": "Screen3",
+                    "premium": 1,
+                    "premiumLabel": "ATMOS",
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Drama"
+                    ],
+                    "statusColor": "G",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "23037__1725285600__4189__37055",
+                    "pid": 750,
+                    "pkey": "ticketnew",
+                    "cid": 15527,
+                    "mid": "OB104Y",
+                    "fid": "O0GvByvMx",
+                    "showTime": "2024-09-02T14:00",
+                    "closeTime": "2024-09-02T13:55",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "10",
+                            "label": "PLATINUM",
+                            "typeCode": "23037__1725285600__4189__37055_PLATINUM",
+                            "sType": "fixed",
+                            "sAvail": 0,
+                            "sTotal": 19,
+                            "price": 295.0,
+                            "statusColor": "D"
+                        },
+                        {
+                            "code": "20",
+                            "label": "GOLD",
+                            "typeCode": "23037__1725285600__4189__37055_GOLD",
+                            "sType": "fixed",
+                            "sAvail": 0,
+                            "sTotal": 220,
+                            "price": 177.0,
+                            "statusColor": "D"
+                        },
+                        {
+                            "code": "30",
+                            "label": "LOUNGERS",
+                            "typeCode": "23037__1725285600__4189__37055_LOUNGERS",
+                            "sType": "fixed",
+                            "sAvail": 0,
+                            "sTotal": 17,
+                            "price": 177.0,
+                            "statusColor": "D"
+                        }
+                    ],
+                    "total": 256,
+                    "avail": 0,
+                    "audi": "Screen3",
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Drama"
+                    ],
+                    "statusColor": "D",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "23037__1725285000__4188__37062",
+                    "pid": 750,
+                    "pkey": "ticketnew",
+                    "cid": 15527,
+                    "mid": "OB104Y",
+                    "fid": "O0GvByvMx",
+                    "showTime": "2024-09-02T13:50",
+                    "closeTime": "2024-09-02T13:45",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "10",
+                            "label": "PLATINUM",
+                            "typeCode": "23037__1725285000__4188__37062_PLATINUM",
+                            "sType": "fixed",
+                            "sAvail": 14,
+                            "sTotal": 19,
+                            "price": 295.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "20",
+                            "label": "GOLD",
+                            "typeCode": "23037__1725285000__4188__37062_GOLD",
+                            "sType": "fixed",
+                            "sAvail": 89,
+                            "sTotal": 220,
+                            "price": 177.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "30",
+                            "label": "LOUNGERS",
+                            "typeCode": "23037__1725285000__4188__37062_LOUNGERS",
+                            "sType": "fixed",
+                            "sAvail": 13,
+                            "sTotal": 17,
+                            "price": 177.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 256,
+                    "avail": 116,
+                    "audi": "Screen2",
+                    "premium": 1,
+                    "premiumLabel": "ATMOS",
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Drama"
+                    ],
+                    "statusColor": "G",
+                    "subtitle": ""
+                }
+            ],
+            "1034180": [
+                {
+                    "sid": "23037__1725282000__6007__17",
+                    "pid": 736,
+                    "pkey": "ticketnew",
+                    "cid": 1034180,
+                    "mid": "OB104Y",
+                    "fid": "O0GvByvMx",
+                    "showTime": "2024-09-02T13:00",
+                    "closeTime": "2024-09-02T12:50",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "1",
+                            "label": "PREMIUM",
+                            "typeCode": "23037__1725282000__6007__17_PREMIUM",
+                            "sType": "fixed",
+                            "sAvail": 240,
+                            "sTotal": 242,
+                            "price": 100.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "2",
+                            "label": "NON PREMIUM",
+                            "typeCode": "23037__1725282000__6007__17_NON PREMIUM",
+                            "sType": "fixed",
+                            "sAvail": 124,
+                            "sTotal": 155,
+                            "price": 70.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 397,
+                    "avail": 364,
+                    "audi": "BHARATH THEATRE",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 10,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Drama"
+                    ],
+                    "statusColor": "G",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "23037__1725292800__6007__18",
+                    "pid": 736,
+                    "pkey": "ticketnew",
+                    "cid": 1034180,
+                    "mid": "OB104Y",
+                    "fid": "O0GvByvMx",
+                    "showTime": "2024-09-02T16:00",
+                    "closeTime": "2024-09-02T15:50",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "1",
+                            "label": "PREMIUM",
+                            "typeCode": "23037__1725292800__6007__18_PREMIUM",
+                            "sType": "fixed",
+                            "sAvail": 242,
+                            "sTotal": 242,
+                            "price": 100.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "2",
+                            "label": "NON PREMIUM",
+                            "typeCode": "23037__1725292800__6007__18_NON PREMIUM",
+                            "sType": "fixed",
+                            "sAvail": 153,
+                            "sTotal": 155,
+                            "price": 70.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 397,
+                    "avail": 395,
+                    "audi": "BHARATH THEATRE",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 10,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Drama"
+                    ],
+                    "statusColor": "G",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "23037__1725269400__6007__16",
+                    "pid": 736,
+                    "pkey": "ticketnew",
+                    "cid": 1034180,
+                    "mid": "OB104Y",
+                    "fid": "O0GvByvMx",
+                    "showTime": "2024-09-02T09:30",
+                    "closeTime": "2024-09-02T09:20",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "1",
+                            "label": "PREMIUM",
+                            "typeCode": "23037__1725269400__6007__16_PREMIUM",
+                            "sType": "fixed",
+                            "sAvail": 234,
+                            "sTotal": 242,
+                            "price": 100.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "2",
+                            "label": "NON PREMIUM",
+                            "typeCode": "23037__1725269400__6007__16_NON PREMIUM",
+                            "sType": "fixed",
+                            "sAvail": 155,
+                            "sTotal": 155,
+                            "price": 70.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 397,
+                    "avail": 389,
+                    "audi": "BHARATH THEATRE",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 10,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Drama"
+                    ],
+                    "statusColor": "G",
+                    "subtitle": ""
+                }
+            ]
+        }
+    }
+}

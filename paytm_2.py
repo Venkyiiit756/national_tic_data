@@ -2,7 +2,7 @@ import json
 import openpyxl
 
 # Define the path to the JSON file
-json_file_path = "paytm_hyd_aug31_2103.json"
+json_file_path = "paytm_hyd_sep2_0425.json"
 
 # Load the JSON data from the file
 with open(json_file_path, "r") as file:
@@ -49,7 +49,7 @@ for cinema in data["meta"]["cinemas"]:
             sheet2.append([theater_name, audi, show_time, sAvailTickets, sTotalTickets, sBookedTickets, sTotalGross, sBookedGross])
 
 # Save the workbook
-output_file_path = 'Theater_Data_with_hyd_aug31_21.xlsx'
+output_file_path = 'Theater_Data_with_paytm_hyd_sep2_0425.xlsx'
 workbook.save(output_file_path)
 
 output_file_path

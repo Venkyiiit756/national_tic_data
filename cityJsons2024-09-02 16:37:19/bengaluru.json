@@ -1,0 +1,1907 @@
+{
+    "serverTime": 1725295343,
+    "meta": {
+        "movies": [
+            {
+                "id": "OB104Y",
+                "frmtId": "O0GvByvMx",
+                "name": "Gabbar Singh",
+                "imgPath": "https://assetscdn1.paytm.com/images/cinema/Gabbar-Singh--05x750-b8b2c670-642b-11ef-a843-85f89c69d392.jpg",
+                "appImgPath": "https://assetscdn1.paytm.com/images/cinema/Gabbar-Singh---608x800-bbf4ab00-642b-11ef-a843-85f89c69d392.jpg",
+                "cvrPath": "https://assetscdn1.paytm.com/images/cinema/Gabbar-Singh--bf1af140-642b-11ef-a843-85f89c69d392.jpg",
+                "appCvrPath": "https://assetscdn1.paytm.com/images/cinema/Gabbar-Singh--app-c1ea64f0-642b-11ef-ab88-c71a50c73cdf.jpg",
+                "thumbnail": null,
+                "edgeBanner": "https://assetscdn1.paytm.com/images/cinema/Gabbar-Singh---035%E2%80%8A%C3%97%E2%80%8A420-c510d240-642b-11ef-a843-85f89c69d392.jpg",
+                "trailer": "https://youtu.be/FpFoQPj4sgs",
+                "censor": "U/A",
+                "duration": 153,
+                "grn": [
+                    "Drama"
+                ],
+                "scrnFmt": "2D",
+                "sndFmt": null,
+                "rnr": {
+                    "hasUReview": 0,
+                    "hasContent": 1
+                },
+                "isNew": false,
+                "imxImgUrl": null,
+                "contentId": 177361,
+                "label": "Gabbar Singh",
+                "lang": "Telugu"
+            }
+        ],
+        "filterBuckets": {
+            "timeBuckets": [
+                {
+                    "sTime": "05:00",
+                    "eTime": "11:59",
+                    "desc": "5:00 AM to 11:59 AM",
+                    "dText": "Morning",
+                    "desc1": "Till 12 PM"
+                },
+                {
+                    "sTime": "12:00",
+                    "eTime": "15:59",
+                    "desc": "12:00 PM to 3:59 PM",
+                    "dText": "Afternoon",
+                    "desc1": "Till 4 PM"
+                },
+                {
+                    "sTime": "16:00",
+                    "eTime": "18:59",
+                    "desc": "4:00 PM to 6:59 PM",
+                    "dText": "Evening",
+                    "desc1": "Till 7 PM"
+                },
+                {
+                    "sTime": "19:00",
+                    "eTime": "04:59",
+                    "desc": "7:00 PM to 4:59 AM",
+                    "dText": "Night",
+                    "desc1": "After 7 PM"
+                }
+            ],
+            "priceBuckets": [
+                {
+                    "min": "0",
+                    "max": "99",
+                    "desc": "Below Rs 100"
+                },
+                {
+                    "min": "100",
+                    "max": "199",
+                    "desc": "Rs 100 - Rs 199"
+                },
+                {
+                    "min": "200",
+                    "max": "299",
+                    "desc": "Rs 200 - Rs 299"
+                },
+                {
+                    "min": "300",
+                    "max": "399",
+                    "desc": "Rs 300 - Rs 399"
+                },
+                {
+                    "min": "400",
+                    "max": "NA",
+                    "desc": "Rs 400 or above"
+                }
+            ],
+            "showTimeBuckets": [
+                {
+                    "sTime": "00:00",
+                    "eTime": "08:00",
+                    "desc": "12 AM to 8 AM",
+                    "dText": "Early Morning",
+                    "desc1": "Till 8 AM"
+                },
+                {
+                    "sTime": "08:00",
+                    "eTime": "12:00",
+                    "desc": "8 AM to 12 PM",
+                    "dText": "Morning",
+                    "desc1": "Till 12 PM"
+                },
+                {
+                    "sTime": "12:00",
+                    "eTime": "16:00",
+                    "desc": "12 PM to 4 PM",
+                    "dText": "Afternoon",
+                    "desc1": "Till 4 PM"
+                },
+                {
+                    "sTime": "16:00",
+                    "eTime": "19:00",
+                    "desc": "4 PM to 7 PM",
+                    "dText": "Evening",
+                    "desc1": "Till 7 PM"
+                },
+                {
+                    "sTime": "19:00",
+                    "eTime": "23:59",
+                    "desc": "7 PM to 12 AM",
+                    "dText": "Night",
+                    "desc1": "Till 12 AM"
+                }
+            ]
+        },
+        "amenities": [
+            {
+                "id": 2,
+                "name": "Parking",
+                "rank": 1
+            },
+            {
+                "id": 1,
+                "name": "Mobile Ticket",
+                "rank": 2
+            },
+            {
+                "id": 3,
+                "name": "Online Food",
+                "rank": 3
+            },
+            {
+                "id": 5,
+                "name": "Recliners",
+                "rank": 4
+            },
+            {
+                "id": 6,
+                "name": "Paytm Accepted",
+                "rank": 5
+            },
+            {
+                "id": 4,
+                "name": "Wheelchair Friendly",
+                "rank": 6
+            },
+            {
+                "id": 7,
+                "name": "RGB Laser",
+                "rank": 7
+            },
+            {
+                "id": 8,
+                "name": "Dolby Atmos",
+                "rank": 8
+            },
+            {
+                "id": 9,
+                "name": "IMAX",
+                "rank": 9
+            },
+            {
+                "id": 10,
+                "name": "4K",
+                "rank": 10
+            },
+            {
+                "id": 11,
+                "name": "AC",
+                "rank": 11
+            },
+            {
+                "id": 12,
+                "name": "WIFI",
+                "rank": 12
+            },
+            {
+                "id": 13,
+                "name": "Food Court",
+                "rank": 13
+            },
+            {
+                "id": 14,
+                "name": "Gaming Zone",
+                "rank": 14
+            },
+            {
+                "id": 15,
+                "name": "2K",
+                "rank": 15
+            },
+            {
+                "id": 16,
+                "name": "4D",
+                "rank": 16
+            },
+            {
+                "id": 17,
+                "name": "4DX",
+                "rank": 17
+            },
+            {
+                "id": 18,
+                "name": "Dolby 7.1",
+                "rank": 18
+            },
+            {
+                "id": 19,
+                "name": "Air conditioning",
+                "rank": 19
+            },
+            {
+                "id": 20,
+                "name": "Metro Train",
+                "rank": 20
+            },
+            {
+                "id": 21,
+                "name": "Sofa",
+                "rank": 21
+            },
+            {
+                "id": 22,
+                "name": "Social Seating",
+                "rank": 22
+            },
+            {
+                "id": 23,
+                "name": "Wheelchair Assistance",
+                "rank": 23
+            },
+            {
+                "id": 24,
+                "name": "Silver Screen",
+                "rank": 24
+            },
+            {
+                "id": 25,
+                "name": "Food & Beverages",
+                "rank": 25
+            },
+            {
+                "id": 26,
+                "name": "Paper Less Ticketing",
+                "rank": 26
+            },
+            {
+                "id": 27,
+                "name": "Handicapped Washroom",
+                "rank": 27
+            },
+            {
+                "id": 28,
+                "name": "Free Parking",
+                "rank": 28
+            },
+            {
+                "id": 29,
+                "name": "Baggage Counter",
+                "rank": 29
+            },
+            {
+                "id": 30,
+                "name": "Dolby 4 Way 11.1",
+                "rank": 30
+            },
+            {
+                "id": 31,
+                "name": "Barco 4K Ultra HD",
+                "rank": 31
+            }
+        ],
+        "cinemas": [
+            {
+                "id": 1020714,
+                "pid": 1707,
+                "name": "PVR INOX Nexus, Whitefield",
+                "address": "2nd Floor, The Forum Value Mall, No.62, Whitefield Main Road, Whitefield, Bengaluru, Karnataka 560066, India",
+                "pincode": "560066",
+                "lat": 12.95994,
+                "lon": 77.74797,
+                "cityId": 4,
+                "appCovrImgUrl": "",
+                "covrImgUrl": "",
+                "fnb": 0,
+                "mTkt": 1,
+                "bCode": "0",
+                "sTop": 0,
+                "isMerchantCancellable": 0,
+                "cinemaLogoUrl": "https://assetscdn1.paytm.com/images/cinema/Inox%20(1)-aeadd3c0-226a-11ef-96a9-cfd5d4e404b0.png",
+                "cinemaVideoUrl": "",
+                "appCoverVideoUrl": "",
+                "webCoverVideoUrl": "",
+                "amenities": null,
+                "promos": null,
+                "chainKey": "PVR",
+                "contentId": 174303,
+                "theatreGroupName": "",
+                "amenitiesOrder": null,
+                "carouselAttachments": [],
+                "isPassEnabled": 1,
+                "paytmCinemaId": 1020714,
+                "city": "Bengaluru",
+                "clientId": "ticketnew",
+                "isMapped": 0,
+                "city_id": null,
+                "is_city_mapped": null,
+                "state": "karnataka",
+                "label": "PVR INOX Nexus, Whitefield",
+                "sessionCount": 61
+            },
+            {
+                "id": 1022309,
+                "pid": 1707,
+                "name": "PVR INOX Vega City, Bannerghatta Road",
+                "address": "PVR Cinemas, 4th and 5th Floor, Vega City Mall, 172/1, Bannerghatta Main Road, Dollar Layout, JP Nagar 3rd Phase, Bengaluru, Karnataka 560076, India",
+                "pincode": "560076",
+                "lat": 12.907664,
+                "lon": 77.601161,
+                "cityId": 4,
+                "appCovrImgUrl": "",
+                "covrImgUrl": "",
+                "fnb": 0,
+                "mTkt": 1,
+                "bCode": "0",
+                "sTop": 0,
+                "isMerchantCancellable": 0,
+                "cinemaLogoUrl": "https://assetscdn1.paytm.com/images/cinema/PVR%20(1)-e328d580-eb71-11ee-a5ac-93ab64e9977e.png",
+                "cinemaVideoUrl": "",
+                "appCoverVideoUrl": "",
+                "webCoverVideoUrl": "",
+                "amenities": null,
+                "promos": null,
+                "chainKey": "PVR",
+                "contentId": 171848,
+                "theatreGroupName": "",
+                "amenitiesOrder": null,
+                "carouselAttachments": [],
+                "isPassEnabled": 1,
+                "paytmCinemaId": 1022309,
+                "city": "Bengaluru",
+                "clientId": "ticketnew",
+                "isMapped": 0,
+                "city_id": null,
+                "is_city_mapped": null,
+                "state": "karnataka",
+                "label": "PVR INOX Vega City, Bannerghatta Road",
+                "sessionCount": 151
+            },
+            {
+                "id": 1022307,
+                "pid": 1707,
+                "name": "PVR INOX GLOBAL MALL, MYSORE ROAD, Bengaluru",
+                "address": "PVR Global Mall, Mysore Road 3rd Floor, Pantharapalya, Kengeri Hobli, South Taluk , Nayanda Halli, Mysore Road, Bangalore, Karnataka- 560039, India",
+                "pincode": "560039",
+                "lat": 12.940387,
+                "lon": 77.525011,
+                "cityId": 4,
+                "appCovrImgUrl": "",
+                "covrImgUrl": "",
+                "fnb": 0,
+                "mTkt": 1,
+                "bCode": "0",
+                "sTop": 0,
+                "isMerchantCancellable": 0,
+                "cinemaLogoUrl": "https://assetscdn1.paytm.com/images/cinema/PVR%20(1)-1cff3ad0-ead0-11ee-be5f-7b4a82c5f7e3.png",
+                "cinemaVideoUrl": "",
+                "appCoverVideoUrl": "",
+                "webCoverVideoUrl": "",
+                "amenities": null,
+                "promos": null,
+                "chainKey": "PVR",
+                "contentId": 171747,
+                "theatreGroupName": "",
+                "amenitiesOrder": null,
+                "carouselAttachments": [],
+                "isPassEnabled": 1,
+                "paytmCinemaId": 1022307,
+                "city": "Bengaluru",
+                "clientId": "ticketnew",
+                "isMapped": 0,
+                "city_id": null,
+                "is_city_mapped": null,
+                "state": "karnataka",
+                "label": "PVR INOX GLOBAL MALL, MYSORE ROAD, Bengaluru",
+                "sessionCount": 86
+            },
+            {
+                "id": 1020738,
+                "pid": 1707,
+                "name": "PVR INOX SBR Horizon, Seegehalli Whitefield-Hoskote Rd",
+                "address": "INOX Leisure Ltd., 2nd Floor, SBR Horizon, Seegehalli, Whitefield-Hoskote Road, Bangalore, Karnataka 560067, India",
+                "pincode": "560067",
+                "lat": 13.019421,
+                "lon": 77.762798,
+                "cityId": 4,
+                "appCovrImgUrl": "",
+                "covrImgUrl": "",
+                "fnb": 0,
+                "mTkt": 1,
+                "bCode": "0",
+                "sTop": 0,
+                "isMerchantCancellable": 0,
+                "cinemaLogoUrl": "https://assetscdn1.paytm.com/images/cinema/Inox%20(1)-b8c5dfd0-226d-11ef-96a9-cfd5d4e404b0.png",
+                "cinemaVideoUrl": "",
+                "appCoverVideoUrl": "",
+                "webCoverVideoUrl": "",
+                "amenities": null,
+                "promos": null,
+                "chainKey": "PVR",
+                "contentId": 174305,
+                "theatreGroupName": "",
+                "amenitiesOrder": null,
+                "carouselAttachments": [],
+                "isPassEnabled": 1,
+                "paytmCinemaId": 1020738,
+                "city": "Bengaluru",
+                "clientId": "ticketnew",
+                "isMapped": 0,
+                "city_id": null,
+                "is_city_mapped": null,
+                "state": "karnataka",
+                "label": "PVR INOX SBR Horizon, Seegehalli Whitefield-Hoskote Rd",
+                "sessionCount": 63
+            },
+            {
+                "id": 1022305,
+                "pid": 1707,
+                "name": "PVR INOX Superplex Forum Mall, Kanakapura Road",
+                "address": "PVR Superplex, Forum Mall, 3rd Floor, Konanakunte cross, Kanakapura Road, South Bangalore, Karnataka 560062, India",
+                "pincode": "560062",
+                "lat": 12.888132,
+                "lon": 77.562885,
+                "cityId": 4,
+                "appCovrImgUrl": "",
+                "covrImgUrl": "",
+                "fnb": 0,
+                "mTkt": 1,
+                "bCode": "0",
+                "sTop": 0,
+                "isMerchantCancellable": 0,
+                "cinemaLogoUrl": "https://assetscdn1.paytm.com/images/cinema/PVR%20(1)-d8aca610-eb92-11ee-be5f-7b4a82c5f7e3.png",
+                "cinemaVideoUrl": "",
+                "appCoverVideoUrl": "",
+                "webCoverVideoUrl": "",
+                "amenities": null,
+                "promos": null,
+                "chainKey": "PVR",
+                "contentId": 171867,
+                "theatreGroupName": "",
+                "amenitiesOrder": null,
+                "carouselAttachments": [],
+                "isPassEnabled": 1,
+                "paytmCinemaId": 1022305,
+                "city": "Bengaluru",
+                "clientId": "ticketnew",
+                "isMapped": 0,
+                "city_id": null,
+                "is_city_mapped": null,
+                "state": "karnataka",
+                "label": "PVR INOX Superplex Forum Mall, Kanakapura Road",
+                "sessionCount": 151
+            },
+            {
+                "id": 55667,
+                "pid": 736,
+                "name": "Siddalingeshwara A/C 4K 3D , Jp Nagar",
+                "address": "Ramaiah Garden, Mg Layout, Jp Nagar 6Th Phase, Bangalore,Karnataka 560078, India",
+                "pincode": "560078",
+                "lat": 12.904055,
+                "lon": 77.581412,
+                "cityId": 4,
+                "appCovrImgUrl": "",
+                "covrImgUrl": "",
+                "fnb": 0,
+                "mTkt": 0,
+                "bCode": "0",
+                "sTop": 0,
+                "isMerchantCancellable": 0,
+                "cinemaLogoUrl": "https://assetscdn1.paytm.com/images/cinema/Theatre%403x-a4b1cf60-676c-11ef-8bfd-85c2f3bcaac6.png",
+                "cinemaVideoUrl": "",
+                "appCoverVideoUrl": "",
+                "webCoverVideoUrl": "",
+                "amenities": null,
+                "promos": null,
+                "chainKey": "TicketNew",
+                "contentId": 159281,
+                "theatreGroupName": "",
+                "amenitiesOrder": null,
+                "carouselAttachments": [],
+                "isPassEnabled": 0,
+                "paytmCinemaId": 55667,
+                "city": "Bengaluru",
+                "clientId": "ticketnew",
+                "isMapped": 0,
+                "city_id": null,
+                "is_city_mapped": null,
+                "state": "karnataka",
+                "label": "Siddalingeshwara A/C 4K 3D , Jp Nagar",
+                "sessionCount": 16
+            },
+            {
+                "id": 1022300,
+                "pid": 1707,
+                "name": "PVR INOX Phoenix Marketcity Mall, Whitefield Road",
+                "address": "Phoenix Market City Mall, Whitefield Road, Mahadevapura, Krishnarajapura, Bengaluru, Karnataka 560048, India",
+                "pincode": "560048",
+                "lat": 12.997251,
+                "lon": 77.69573,
+                "cityId": 4,
+                "appCovrImgUrl": "",
+                "covrImgUrl": "",
+                "fnb": 0,
+                "mTkt": 1,
+                "bCode": "0",
+                "sTop": 0,
+                "isMerchantCancellable": 0,
+                "cinemaLogoUrl": "https://assetscdn1.paytm.com/images/cinema/PVR%20(1)-ff10f5f0-d87c-11ee-8171-7df0cded886f.png",
+                "cinemaVideoUrl": "",
+                "appCoverVideoUrl": "",
+                "webCoverVideoUrl": "",
+                "amenities": null,
+                "promos": null,
+                "chainKey": "PVR",
+                "contentId": 170652,
+                "theatreGroupName": "",
+                "amenitiesOrder": null,
+                "carouselAttachments": [],
+                "isPassEnabled": 1,
+                "paytmCinemaId": 1022300,
+                "city": "Bengaluru",
+                "clientId": "ticketnew",
+                "isMapped": 0,
+                "city_id": null,
+                "is_city_mapped": null,
+                "state": "karnataka",
+                "label": "PVR INOX Phoenix Marketcity Mall, Whitefield Road",
+                "sessionCount": 110
+            },
+            {
+                "id": 1020731,
+                "pid": 1707,
+                "name": "PVR INOX Galleria Mall, Yelahanka",
+                "address": "INOX Leisure Ltd, 2nd Floor, Galleria Mall, Ambedkar Colony, Yelahanka, Bengaluru, Karnataka 560064, India",
+                "pincode": "560064",
+                "lat": 13.0944,
+                "lon": 77.595596,
+                "cityId": 4,
+                "appCovrImgUrl": "",
+                "covrImgUrl": "",
+                "fnb": 0,
+                "mTkt": 1,
+                "bCode": "0",
+                "sTop": 0,
+                "isMerchantCancellable": 0,
+                "cinemaLogoUrl": "https://assetscdn1.paytm.com/images/cinema/Inox%20(1)-7145f010-2258-11ef-a3d5-c9449a5ad550.png",
+                "cinemaVideoUrl": "",
+                "appCoverVideoUrl": "",
+                "webCoverVideoUrl": "",
+                "amenities": null,
+                "promos": null,
+                "chainKey": "PVR",
+                "contentId": 174273,
+                "theatreGroupName": "",
+                "amenitiesOrder": null,
+                "carouselAttachments": [],
+                "isPassEnabled": 1,
+                "paytmCinemaId": 1020731,
+                "city": "Bengaluru",
+                "clientId": "ticketnew",
+                "isMapped": 0,
+                "city_id": null,
+                "is_city_mapped": null,
+                "state": "karnataka",
+                "label": "PVR INOX Galleria Mall, Yelahanka",
+                "sessionCount": 65
+            },
+            {
+                "id": 1022299,
+                "pid": 1707,
+                "name": "PVR INOX Orion Mall, Dr Rajkumar Road",
+                "address": "3rd Floor, Orion Mall, Brigade Gateway, Dr. Rajkumar Road, Malleshwaram West, Bengaluru, Karnataka 560055, India",
+                "pincode": "560055",
+                "lat": 13.011014,
+                "lon": 77.555058,
+                "cityId": 4,
+                "appCovrImgUrl": "",
+                "covrImgUrl": "",
+                "fnb": 0,
+                "mTkt": 1,
+                "bCode": "0",
+                "sTop": 0,
+                "isMerchantCancellable": 0,
+                "cinemaLogoUrl": "https://assetscdn1.paytm.com/images/cinema/PVR%20(1)-7c1ef8e0-e236-11ee-b37f-29404991a0ba.png",
+                "cinemaVideoUrl": "",
+                "appCoverVideoUrl": "",
+                "webCoverVideoUrl": "",
+                "amenities": null,
+                "promos": null,
+                "chainKey": "PVR",
+                "contentId": 171311,
+                "theatreGroupName": "",
+                "amenitiesOrder": null,
+                "carouselAttachments": [],
+                "isPassEnabled": 1,
+                "paytmCinemaId": 1022299,
+                "city": "Bengaluru",
+                "clientId": "ticketnew",
+                "isMapped": 0,
+                "city_id": null,
+                "is_city_mapped": null,
+                "state": "karnataka",
+                "label": "PVR INOX Orion Mall, Dr Rajkumar Road",
+                "sessionCount": 88
+            },
+            {
+                "id": 1022297,
+                "pid": 1707,
+                "name": "PVR INOX Nexus (Formerly Forum), Koramangala",
+                "address": "Nexus Mall, 21-22, Adugodi Main Road, Chikku Lakshmaiah Layout, Koramangala, Bengaluru, Karnataka 560095, India",
+                "pincode": "560095",
+                "lat": 12.934661,
+                "lon": 77.611314,
+                "cityId": 4,
+                "appCovrImgUrl": "",
+                "covrImgUrl": "",
+                "fnb": 0,
+                "mTkt": 1,
+                "bCode": "0",
+                "sTop": 0,
+                "isMerchantCancellable": 0,
+                "cinemaLogoUrl": "https://assetscdn1.paytm.com/images/cinema/PVR%20(1)-5a8ad5a0-e23b-11ee-a3c7-f5f87f3f5d73.png",
+                "cinemaVideoUrl": "",
+                "appCoverVideoUrl": "",
+                "webCoverVideoUrl": "",
+                "amenities": null,
+                "promos": null,
+                "chainKey": "PVR",
+                "contentId": 171314,
+                "theatreGroupName": "",
+                "amenitiesOrder": null,
+                "carouselAttachments": [],
+                "isPassEnabled": 1,
+                "paytmCinemaId": 1022297,
+                "city": "Bengaluru",
+                "clientId": "ticketnew",
+                "isMapped": 0,
+                "city_id": null,
+                "is_city_mapped": null,
+                "state": "karnataka",
+                "label": "PVR INOX Nexus (Formerly Forum), Koramangala",
+                "sessionCount": 167
+            },
+            {
+                "id": 9339,
+                "pid": 736,
+                "name": "Sandhya Theatre RGB Laser Atmos -Madivala",
+                "address": "BTM Layout, 1st Stage, Chikka Madivala, Bangalore, Karnataka 560068, India",
+                "pincode": "560068",
+                "lat": 12.921132,
+                "lon": 77.618057,
+                "cityId": 4,
+                "appCovrImgUrl": "",
+                "covrImgUrl": "",
+                "fnb": 0,
+                "mTkt": 1,
+                "bCode": "0",
+                "sTop": 0,
+                "isMerchantCancellable": 0,
+                "cinemaLogoUrl": "https://assetscdn1.paytm.com/images/cinema/Theatre%403x-a4b1cf60-676c-11ef-8bfd-85c2f3bcaac6.png",
+                "cinemaVideoUrl": "",
+                "appCoverVideoUrl": "",
+                "webCoverVideoUrl": "",
+                "amenities": null,
+                "promos": null,
+                "chainKey": "TicketNew",
+                "contentId": 149713,
+                "theatreGroupName": "",
+                "amenitiesOrder": null,
+                "carouselAttachments": [],
+                "isPassEnabled": 0,
+                "paytmCinemaId": 9339,
+                "city": "Bengaluru",
+                "clientId": "ticketnew",
+                "isMapped": 0,
+                "city_id": null,
+                "is_city_mapped": null,
+                "state": "karnataka",
+                "label": "Sandhya Theatre RGB Laser Atmos -Madivala",
+                "sessionCount": 17
+            },
+            {
+                "id": 9340,
+                "pid": 736,
+                "name": "Manasa RGB Laser Atmos Cinemas-Konankunte",
+                "address": "21/5A, Vasantapura Road, Siddanna Layout, Konan, Bangalore, Karnataka 560062, India",
+                "pincode": "560062",
+                "lat": 12.89063,
+                "lon": 77.562221,
+                "cityId": 4,
+                "appCovrImgUrl": "",
+                "covrImgUrl": "",
+                "fnb": 0,
+                "mTkt": 1,
+                "bCode": "0",
+                "sTop": 0,
+                "isMerchantCancellable": 0,
+                "cinemaLogoUrl": "https://assetscdn1.paytm.com/images/cinema/Theatre%403x-a4b1cf60-676c-11ef-8bfd-85c2f3bcaac6.png",
+                "cinemaVideoUrl": "",
+                "appCoverVideoUrl": "",
+                "webCoverVideoUrl": "",
+                "amenities": null,
+                "promos": null,
+                "chainKey": "TicketNew",
+                "contentId": 149714,
+                "theatreGroupName": "",
+                "amenitiesOrder": null,
+                "carouselAttachments": [],
+                "isPassEnabled": 0,
+                "paytmCinemaId": 9340,
+                "city": "Bengaluru",
+                "clientId": "ticketnew",
+                "isMapped": 0,
+                "city_id": null,
+                "is_city_mapped": null,
+                "state": "karnataka",
+                "label": "Manasa RGB Laser Atmos Cinemas-Konankunte",
+                "sessionCount": 17
+            },
+            {
+                "id": 10940,
+                "pid": 1424,
+                "name": "Innovative Multiplex, Marathahalli",
+                "address": "No.135, Outer Ring Road Varthur Hobli Marathahalli, Near Marathalli Junction, Bengaluru, Karnataka 560037, India",
+                "pincode": "560037",
+                "lat": 12.95194,
+                "lon": 77.698958,
+                "cityId": 4,
+                "appCovrImgUrl": "",
+                "covrImgUrl": "",
+                "fnb": 0,
+                "mTkt": 1,
+                "bCode": "0",
+                "sTop": 0,
+                "isMerchantCancellable": 0,
+                "cinemaLogoUrl": "https://assetscdn1.paytm.com/images/cinema/SP-cinema-logo-bea3e990-8504-11ed-9a8d-9b91ffeaf739.png",
+                "cinemaVideoUrl": "",
+                "appCoverVideoUrl": "",
+                "webCoverVideoUrl": "",
+                "amenities": {
+                    "2": 1,
+                    "5": 1
+                },
+                "promos": null,
+                "chainKey": "Suresh Production",
+                "contentId": 150287,
+                "theatreGroupName": "",
+                "amenitiesOrder": [
+                    {
+                        "id": 2,
+                        "rank": 1,
+                        "status": 1
+                    },
+                    {
+                        "id": 5,
+                        "rank": 4,
+                        "status": 1
+                    }
+                ],
+                "carouselAttachments": [],
+                "isPassEnabled": 0,
+                "paytmCinemaId": 10940,
+                "city": "Bengaluru",
+                "clientId": "ticketnew",
+                "isMapped": 0,
+                "city_id": null,
+                "is_city_mapped": null,
+                "state": "karnataka",
+                "label": "Innovative Multiplex, Marathahalli",
+                "sessionCount": 150
+            }
+        ],
+        "filterData": {
+            "minSTime": "03:50",
+            "maxSTime": "16:45",
+            "minPrice": 120.0,
+            "maxPrice": 400.0,
+            "premium": false,
+            "freeSeats": false,
+            "groupSeats": false,
+            "tokenFeeSeats": false,
+            "scnFrmts": [
+                "2D"
+            ],
+            "sndFrmts": [],
+            "mLangs": [
+                "Telugu"
+            ],
+            "genres": [
+                "Drama"
+            ]
+        }
+    },
+    "data": {
+        "pageSize": 100,
+        "cinemasOrder": [
+            9339,
+            55667,
+            9340,
+            1020714,
+            1022309,
+            1022307,
+            1020738,
+            1022305,
+            1022300,
+            1022299,
+            1020731,
+            1022297,
+            10940
+        ],
+        "sessionDates": [
+            "2024-09-03",
+            "2024-09-04",
+            "2024-09-05"
+        ]
+    },
+    "pageData": {
+        "sessions": {
+            "1020714": [
+                {
+                    "sid": "102081",
+                    "pid": 1707,
+                    "pkey": "showbizz",
+                    "cid": 1020714,
+                    "mid": "OB104Y",
+                    "fid": "O0GvByvMx",
+                    "showTime": "2024-09-03T10:00",
+                    "closeTime": "2024-09-03T09:59",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "PR",
+                            "label": "PREMIERE",
+                            "typeCode": "102081_PR",
+                            "sType": "fixed",
+                            "sAvail": 100,
+                            "sTotal": 100,
+                            "price": 180.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "SL",
+                            "label": "SILVER",
+                            "typeCode": "102081_SL",
+                            "sType": "fixed",
+                            "sAvail": 85,
+                            "sTotal": 86,
+                            "price": 180.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 186,
+                    "avail": 185,
+                    "audi": "SCREEN 2",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 10,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Drama"
+                    ],
+                    "statusColor": "G"
+                }
+            ],
+            "1022309": [
+                {
+                    "sid": "10270",
+                    "pid": 1707,
+                    "pkey": "showbizz",
+                    "cid": 1022309,
+                    "mid": "OB104Y",
+                    "fid": "O0GvByvMx",
+                    "showTime": "2024-09-03T09:15",
+                    "closeTime": "2024-09-03T09:14",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "CL",
+                            "label": "CLASSIC",
+                            "typeCode": "10270_CL",
+                            "sType": "fixed",
+                            "sAvail": 90,
+                            "sTotal": 90,
+                            "price": 200.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "PR",
+                            "label": "PRIME",
+                            "typeCode": "10270_PR",
+                            "sType": "fixed",
+                            "sAvail": 52,
+                            "sTotal": 52,
+                            "price": 200.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "RE",
+                            "label": "RECLINER",
+                            "typeCode": "10270_RE",
+                            "sType": "fixed",
+                            "sAvail": 12,
+                            "sTotal": 12,
+                            "price": 400.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 154,
+                    "avail": 154,
+                    "audi": "AUDI 09",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 10,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Drama"
+                    ],
+                    "statusColor": "G"
+                }
+            ],
+            "1022307": [
+                {
+                    "sid": "5851",
+                    "pid": 1707,
+                    "pkey": "showbizz",
+                    "cid": 1022307,
+                    "mid": "OB104Y",
+                    "fid": "O0GvByvMx",
+                    "showTime": "2024-09-03T13:15",
+                    "closeTime": "2024-09-03T13:14",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "CL",
+                            "label": "CLASSIC",
+                            "typeCode": "5851_CL",
+                            "sType": "fixed",
+                            "sAvail": 68,
+                            "sTotal": 68,
+                            "price": 180.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "PR",
+                            "label": "PRIME",
+                            "typeCode": "5851_PR",
+                            "sType": "fixed",
+                            "sAvail": 33,
+                            "sTotal": 33,
+                            "price": 200.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "RE",
+                            "label": "RECLINER",
+                            "typeCode": "5851_RE",
+                            "sType": "fixed",
+                            "sAvail": 10,
+                            "sTotal": 10,
+                            "price": 290.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 111,
+                    "avail": 111,
+                    "audi": "AUDI 03",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 10,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Drama"
+                    ],
+                    "statusColor": "G"
+                }
+            ],
+            "1020738": [
+                {
+                    "sid": "29590",
+                    "pid": 1707,
+                    "pkey": "showbizz",
+                    "cid": 1020738,
+                    "mid": "OB104Y",
+                    "fid": "O0GvByvMx",
+                    "showTime": "2024-09-03T03:50",
+                    "closeTime": "2024-09-03T03:49",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "CL",
+                            "label": "CLUB",
+                            "typeCode": "29590_CL",
+                            "sType": "fixed",
+                            "sAvail": 54,
+                            "sTotal": 54,
+                            "price": 130.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "EX",
+                            "label": "EXECUTIVE",
+                            "typeCode": "29590_EX",
+                            "sType": "fixed",
+                            "sAvail": 50,
+                            "sTotal": 50,
+                            "price": 130.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 104,
+                    "avail": 104,
+                    "audi": "SCREEN 2",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 10,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Drama"
+                    ],
+                    "statusColor": "G"
+                },
+                {
+                    "sid": "29592",
+                    "pid": 1707,
+                    "pkey": "showbizz",
+                    "cid": 1020738,
+                    "mid": "OB104Y",
+                    "fid": "O0GvByvMx",
+                    "showTime": "2024-09-03T10:15",
+                    "closeTime": "2024-09-03T10:14",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "CL",
+                            "label": "CLUB",
+                            "typeCode": "29592_CL",
+                            "sType": "fixed",
+                            "sAvail": 54,
+                            "sTotal": 54,
+                            "price": 150.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "EX",
+                            "label": "EXECUTIVE",
+                            "typeCode": "29592_EX",
+                            "sType": "fixed",
+                            "sAvail": 50,
+                            "sTotal": 50,
+                            "price": 150.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 104,
+                    "avail": 104,
+                    "audi": "SCREEN 2",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 10,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Drama"
+                    ],
+                    "statusColor": "G"
+                }
+            ],
+            "1022305": [
+                {
+                    "sid": "9985",
+                    "pid": 1707,
+                    "pkey": "showbizz",
+                    "cid": 1022305,
+                    "mid": "OB104Y",
+                    "fid": "O0GvByvMx",
+                    "showTime": "2024-09-03T06:55",
+                    "closeTime": "2024-09-03T06:54",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "CL",
+                            "label": "CLASSIC",
+                            "typeCode": "9985_CL",
+                            "sType": "fixed",
+                            "sAvail": 105,
+                            "sTotal": 105,
+                            "price": 200.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "PR",
+                            "label": "PRIME",
+                            "typeCode": "9985_PR",
+                            "sType": "fixed",
+                            "sAvail": 79,
+                            "sTotal": 79,
+                            "price": 200.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "RE",
+                            "label": "RECLINER",
+                            "typeCode": "9985_RE",
+                            "sType": "fixed",
+                            "sAvail": 14,
+                            "sTotal": 14,
+                            "price": 400.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 198,
+                    "avail": 198,
+                    "audi": "AUDI 09",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 10,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Drama"
+                    ],
+                    "statusColor": "G"
+                }
+            ],
+            "55667": [
+                {
+                    "sid": "23037__1725370200__5437__4723",
+                    "pid": 736,
+                    "pkey": "ticketnew",
+                    "cid": 55667,
+                    "mid": "OB104Y",
+                    "fid": "O0GvByvMx",
+                    "showTime": "2024-09-03T13:30",
+                    "closeTime": "2024-09-03T13:25",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "10",
+                            "label": "DIAMOND",
+                            "typeCode": "23037__1725370200__5437__4723_DIAMOND",
+                            "sType": "fixed",
+                            "sAvail": 176,
+                            "sTotal": 245,
+                            "price": 150.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "20",
+                            "label": "GOLD",
+                            "typeCode": "23037__1725370200__5437__4723_GOLD",
+                            "sType": "fixed",
+                            "sAvail": 279,
+                            "sTotal": 356,
+                            "price": 120.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 601,
+                    "avail": 455,
+                    "audi": "Siddalingeshwara",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 10,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Drama"
+                    ],
+                    "statusColor": "G",
+                    "subtitle": ""
+                }
+            ],
+            "1022300": [
+                {
+                    "sid": "9177",
+                    "pid": 1707,
+                    "pkey": "showbizz",
+                    "cid": 1022300,
+                    "mid": "OB104Y",
+                    "fid": "O0GvByvMx",
+                    "showTime": "2024-09-03T13:15",
+                    "closeTime": "2024-09-03T13:14",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "CL",
+                            "label": "CLASSIC",
+                            "typeCode": "9177_CL",
+                            "sType": "fixed",
+                            "sAvail": 90,
+                            "sTotal": 90,
+                            "price": 210.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "PR",
+                            "label": "PRIME",
+                            "typeCode": "9177_PR",
+                            "sType": "fixed",
+                            "sAvail": 51,
+                            "sTotal": 51,
+                            "price": 240.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "RY",
+                            "label": "RECLINER",
+                            "typeCode": "9177_RY",
+                            "sType": "fixed",
+                            "sAvail": 14,
+                            "sTotal": 14,
+                            "price": 330.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 155,
+                    "avail": 155,
+                    "audi": "AUDI 07",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 10,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Drama"
+                    ],
+                    "statusColor": "G"
+                }
+            ],
+            "1022299": [
+                {
+                    "sid": "10283",
+                    "pid": 1707,
+                    "pkey": "showbizz",
+                    "cid": 1022299,
+                    "mid": "OB104Y",
+                    "fid": "O0GvByvMx",
+                    "showTime": "2024-09-03T10:10",
+                    "closeTime": "2024-09-03T10:09",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "CL",
+                            "label": "CLASSIIC",
+                            "typeCode": "10283_CL",
+                            "sType": "fixed",
+                            "sAvail": 140,
+                            "sTotal": 140,
+                            "price": 150.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "PR",
+                            "label": "PRIME",
+                            "typeCode": "10283_PR",
+                            "sType": "fixed",
+                            "sAvail": 108,
+                            "sTotal": 108,
+                            "price": 150.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "RE",
+                            "label": "RECLINER",
+                            "typeCode": "10283_RE",
+                            "sType": "fixed",
+                            "sAvail": 27,
+                            "sTotal": 27,
+                            "price": 300.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 275,
+                    "avail": 275,
+                    "audi": "AUDI 08",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 10,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Drama"
+                    ],
+                    "statusColor": "G"
+                }
+            ],
+            "1020731": [
+                {
+                    "sid": "47659",
+                    "pid": 1707,
+                    "pkey": "showbizz",
+                    "cid": 1020731,
+                    "mid": "OB104Y",
+                    "fid": "O0GvByvMx",
+                    "showTime": "2024-09-03T10:25",
+                    "closeTime": "2024-09-03T10:24",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "CL",
+                            "label": "CLUB",
+                            "typeCode": "47659_CL",
+                            "sType": "fixed",
+                            "sAvail": 63,
+                            "sTotal": 70,
+                            "price": 230.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "EX",
+                            "label": "EXECUTIVE",
+                            "typeCode": "47659_EX",
+                            "sType": "fixed",
+                            "sAvail": 127,
+                            "sTotal": 128,
+                            "price": 230.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "RY",
+                            "label": "ROYALE",
+                            "typeCode": "47659_RY",
+                            "sType": "fixed",
+                            "sAvail": 9,
+                            "sTotal": 9,
+                            "price": 350.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 207,
+                    "avail": 199,
+                    "audi": "SCREEN 2",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 10,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Drama"
+                    ],
+                    "statusColor": "G"
+                }
+            ],
+            "1022297": [
+                {
+                    "sid": "11699",
+                    "pid": 1707,
+                    "pkey": "showbizz",
+                    "cid": 1022297,
+                    "mid": "OB104Y",
+                    "fid": "O0GvByvMx",
+                    "showTime": "2024-09-03T16:00",
+                    "closeTime": "2024-09-03T15:59",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "CL",
+                            "label": "CLASSIC",
+                            "typeCode": "11699_CL",
+                            "sType": "fixed",
+                            "sAvail": 90,
+                            "sTotal": 90,
+                            "price": 250.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "PR",
+                            "label": "PRIME",
+                            "typeCode": "11699_PR",
+                            "sType": "fixed",
+                            "sAvail": 57,
+                            "sTotal": 57,
+                            "price": 250.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "RY",
+                            "label": "RECLINER",
+                            "typeCode": "11699_RY",
+                            "sType": "fixed",
+                            "sAvail": 10,
+                            "sTotal": 12,
+                            "price": 250.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 159,
+                    "avail": 157,
+                    "audi": "AUDI 5",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 10,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Drama"
+                    ],
+                    "statusColor": "G"
+                }
+            ],
+            "9339": [
+                {
+                    "sid": "23037__1725359400__2471__14354",
+                    "pid": 736,
+                    "pkey": "ticketnew",
+                    "cid": 9339,
+                    "mid": "OB104Y",
+                    "fid": "O0GvByvMx",
+                    "showTime": "2024-09-03T10:30",
+                    "closeTime": "2024-09-03T10:15",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "1",
+                            "label": "BOXA",
+                            "typeCode": "23037__1725359400__2471__14354_BOXA",
+                            "sType": "fixed",
+                            "sAvail": 21,
+                            "sTotal": 520,
+                            "price": 150.0,
+                            "statusColor": "R"
+                        },
+                        {
+                            "code": "2",
+                            "label": "BOXB",
+                            "typeCode": "23037__1725359400__2471__14354_BOXB",
+                            "sType": "fixed",
+                            "sAvail": 30,
+                            "sTotal": 185,
+                            "price": 150.0,
+                            "statusColor": "Y"
+                        },
+                        {
+                            "code": "3",
+                            "label": "GOLD",
+                            "typeCode": "23037__1725359400__2471__14354_GOLD",
+                            "sType": "fixed",
+                            "sAvail": 503,
+                            "sTotal": 21,
+                            "price": 150.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "4",
+                            "label": "SILVER",
+                            "typeCode": "23037__1725359400__2471__14354_SILVER",
+                            "sType": "fixed",
+                            "sAvail": 185,
+                            "sTotal": 30,
+                            "price": 150.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 756,
+                    "avail": 739,
+                    "audi": "Sandhya 4K",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 10,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Drama"
+                    ],
+                    "statusColor": "G",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "23037__1725337800__2471__14352",
+                    "pid": 736,
+                    "pkey": "ticketnew",
+                    "cid": 9339,
+                    "mid": "OB104Y",
+                    "fid": "O0GvByvMx",
+                    "showTime": "2024-09-03T04:30",
+                    "closeTime": "2024-09-03T04:15",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "1",
+                            "label": "BOXA",
+                            "typeCode": "23037__1725337800__2471__14352_BOXA",
+                            "sType": "fixed",
+                            "sAvail": 21,
+                            "sTotal": 520,
+                            "price": 150.0,
+                            "statusColor": "R"
+                        },
+                        {
+                            "code": "2",
+                            "label": "BOXB",
+                            "typeCode": "23037__1725337800__2471__14352_BOXB",
+                            "sType": "fixed",
+                            "sAvail": 30,
+                            "sTotal": 185,
+                            "price": 150.0,
+                            "statusColor": "Y"
+                        },
+                        {
+                            "code": "3",
+                            "label": "GOLD",
+                            "typeCode": "23037__1725337800__2471__14352_GOLD",
+                            "sType": "fixed",
+                            "sAvail": 505,
+                            "sTotal": 21,
+                            "price": 150.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "4",
+                            "label": "SILVER",
+                            "typeCode": "23037__1725337800__2471__14352_SILVER",
+                            "sType": "fixed",
+                            "sAvail": 185,
+                            "sTotal": 30,
+                            "price": 150.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 756,
+                    "avail": 741,
+                    "audi": "Sandhya 4K",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 10,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Drama"
+                    ],
+                    "statusColor": "G",
+                    "subtitle": ""
+                }
+            ],
+            "9340": [
+                {
+                    "sid": "23037__1725359400__165__14442",
+                    "pid": 736,
+                    "pkey": "ticketnew",
+                    "cid": 9340,
+                    "mid": "OB104Y",
+                    "fid": "O0GvByvMx",
+                    "showTime": "2024-09-03T10:30",
+                    "closeTime": "2024-09-03T10:15",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "1",
+                            "label": "PLATINUM",
+                            "typeCode": "23037__1725359400__165__14442_PLATINUM",
+                            "sType": "fixed",
+                            "sAvail": 76,
+                            "sTotal": 86,
+                            "price": 200.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "2",
+                            "label": "GOLD",
+                            "typeCode": "23037__1725359400__165__14442_GOLD",
+                            "sType": "fixed",
+                            "sAvail": 435,
+                            "sTotal": 438,
+                            "price": 150.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 524,
+                    "avail": 511,
+                    "audi": "Manasa",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 10,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Drama"
+                    ],
+                    "statusColor": "G",
+                    "subtitle": ""
+                }
+            ],
+            "10940": [
+                {
+                    "sid": "23037__1725336900__2410__74168",
+                    "pid": 1424,
+                    "pkey": "ticketnew",
+                    "cid": 10940,
+                    "mid": "OB104Y",
+                    "fid": "O0GvByvMx",
+                    "showTime": "2024-09-03T04:15",
+                    "closeTime": "2024-09-03T03:45",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "3",
+                            "label": "GOLD",
+                            "typeCode": "23037__1725336900__2410__74168_GOLD",
+                            "sType": "fixed",
+                            "sAvail": 82,
+                            "sTotal": 112,
+                            "price": 180.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "4",
+                            "label": "SILVER",
+                            "typeCode": "23037__1725336900__2410__74168_SILVER",
+                            "sType": "fixed",
+                            "sAvail": 195,
+                            "sTotal": 240,
+                            "price": 130.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 352,
+                    "avail": 277,
+                    "audi": "Screen2",
+                    "premium": 0,
+                    "premiumLabel": "SCREEN2",
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 10,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Drama"
+                    ],
+                    "statusColor": "G",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "23037__1725357600__2409__74240",
+                    "pid": 1424,
+                    "pkey": "ticketnew",
+                    "cid": 10940,
+                    "mid": "OB104Y",
+                    "fid": "O0GvByvMx",
+                    "showTime": "2024-09-03T10:00",
+                    "closeTime": "2024-09-03T09:30",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "1",
+                            "label": "GOLD",
+                            "typeCode": "23037__1725357600__2409__74240_GOLD",
+                            "sType": "fixed",
+                            "sAvail": 78,
+                            "sTotal": 110,
+                            "price": 180.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "2",
+                            "label": "SILVER",
+                            "typeCode": "23037__1725357600__2409__74240_SILVER",
+                            "sType": "fixed",
+                            "sAvail": 195,
+                            "sTotal": 240,
+                            "price": 130.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 350,
+                    "avail": 273,
+                    "audi": "Screen1",
+                    "premium": 0,
+                    "premiumLabel": "SCREEN1",
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 10,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Drama"
+                    ],
+                    "statusColor": "G",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "23037__1725381900__2411__74193",
+                    "pid": 1424,
+                    "pkey": "ticketnew",
+                    "cid": 10940,
+                    "mid": "OB104Y",
+                    "fid": "O0GvByvMx",
+                    "showTime": "2024-09-03T16:45",
+                    "closeTime": "2024-09-03T16:15",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "5",
+                            "label": "GOLD",
+                            "typeCode": "23037__1725381900__2411__74193_GOLD",
+                            "sType": "fixed",
+                            "sAvail": 81,
+                            "sTotal": 112,
+                            "price": 180.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "6",
+                            "label": "SILVER",
+                            "typeCode": "23037__1725381900__2411__74193_SILVER",
+                            "sType": "fixed",
+                            "sAvail": 184,
+                            "sTotal": 240,
+                            "price": 130.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 352,
+                    "avail": 265,
+                    "audi": "Screen3",
+                    "premium": 0,
+                    "premiumLabel": "SCREEN3",
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 10,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Drama"
+                    ],
+                    "statusColor": "G",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "23037__1725347700__2410__74169",
+                    "pid": 1424,
+                    "pkey": "ticketnew",
+                    "cid": 10940,
+                    "mid": "OB104Y",
+                    "fid": "O0GvByvMx",
+                    "showTime": "2024-09-03T07:15",
+                    "closeTime": "2024-09-03T06:45",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "3",
+                            "label": "GOLD",
+                            "typeCode": "23037__1725347700__2410__74169_GOLD",
+                            "sType": "fixed",
+                            "sAvail": 84,
+                            "sTotal": 112,
+                            "price": 180.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "4",
+                            "label": "SILVER",
+                            "typeCode": "23037__1725347700__2410__74169_SILVER",
+                            "sType": "fixed",
+                            "sAvail": 195,
+                            "sTotal": 240,
+                            "price": 130.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 352,
+                    "avail": 279,
+                    "audi": "Screen2",
+                    "premium": 0,
+                    "premiumLabel": "SCREEN2",
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 10,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Drama"
+                    ],
+                    "statusColor": "G",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "23037__1725371100__2411__74192",
+                    "pid": 1424,
+                    "pkey": "ticketnew",
+                    "cid": 10940,
+                    "mid": "OB104Y",
+                    "fid": "O0GvByvMx",
+                    "showTime": "2024-09-03T13:45",
+                    "closeTime": "2024-09-03T13:15",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "5",
+                            "label": "GOLD",
+                            "typeCode": "23037__1725371100__2411__74192_GOLD",
+                            "sType": "fixed",
+                            "sAvail": 79,
+                            "sTotal": 112,
+                            "price": 180.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "6",
+                            "label": "SILVER",
+                            "typeCode": "23037__1725371100__2411__74192_SILVER",
+                            "sType": "fixed",
+                            "sAvail": 195,
+                            "sTotal": 240,
+                            "price": 130.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 352,
+                    "avail": 274,
+                    "audi": "Screen3",
+                    "premium": 0,
+                    "premiumLabel": "SCREEN3",
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 10,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Drama"
+                    ],
+                    "statusColor": "G",
+                    "subtitle": ""
+                }
+            ]
+        }
+    }
+}
