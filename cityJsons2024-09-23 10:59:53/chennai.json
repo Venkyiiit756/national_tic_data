@@ -1,0 +1,2469 @@
+{
+    "serverTime": 1727089501,
+    "meta": {
+        "movies": [
+            {
+                "id": "OAV34I",
+                "frmtId": "TtdX_wUyN",
+                "name": "Devara - Part 1",
+                "imgPath": "https://assetscdn1.paytm.com/images/cinema/Devara---Part-1--705x750-ff23a0e0-ccc6-11ee-a6f3-b9b401515283.jpg",
+                "appImgPath": "https://assetscdn1.paytm.com/images/cinema/Devara-608x800-87e29260-7834-11ef-ad27-dfa11df60ee4.jpg",
+                "cvrPath": "https://assetscdn1.paytm.com/images/cinema/Devara---Part-1-084e6e20-ccc7-11ee-a6f3-b9b401515283.jpg",
+                "appCvrPath": "https://assetscdn1.paytm.com/images/cinema/Devara---Part-1-app-0c3c2310-ccc7-11ee-8a36-97e1f2b18ca4.jpg",
+                "thumbnail": null,
+                "edgeBanner": "https://assetscdn1.paytm.com/images/cinema/Devara---Part-1--1035%E2%80%8A%C3%97%E2%80%8A420-118bd900-ccc7-11ee-a6f3-b9b401515283.jpg",
+                "trailer": "https://youtu.be/5cx7rvMvAWo",
+                "censor": "U/A",
+                "duration": 178,
+                "grn": [
+                    "Action",
+                    "Drama",
+                    "Thriller"
+                ],
+                "scrnFmt": "2D",
+                "sndFmt": "none",
+                "rnr": {
+                    "hasUReview": 0,
+                    "hasContent": 1
+                },
+                "isNew": false,
+                "imxImgUrl": null,
+                "contentId": 159964,
+                "label": "Devara - Part 1",
+                "lang": "Telugu"
+            }
+        ],
+        "filterBuckets": {
+            "timeBuckets": [
+                {
+                    "sTime": "05:00",
+                    "eTime": "11:59",
+                    "desc": "5:00 AM to 11:59 AM",
+                    "dText": "Morning",
+                    "desc1": "Till 12 PM"
+                },
+                {
+                    "sTime": "12:00",
+                    "eTime": "15:59",
+                    "desc": "12:00 PM to 3:59 PM",
+                    "dText": "Afternoon",
+                    "desc1": "Till 4 PM"
+                },
+                {
+                    "sTime": "16:00",
+                    "eTime": "18:59",
+                    "desc": "4:00 PM to 6:59 PM",
+                    "dText": "Evening",
+                    "desc1": "Till 7 PM"
+                },
+                {
+                    "sTime": "19:00",
+                    "eTime": "04:59",
+                    "desc": "7:00 PM to 4:59 AM",
+                    "dText": "Night",
+                    "desc1": "After 7 PM"
+                }
+            ],
+            "priceBuckets": [
+                {
+                    "min": "0",
+                    "max": "99",
+                    "desc": "Below Rs 100"
+                },
+                {
+                    "min": "100",
+                    "max": "199",
+                    "desc": "Rs 100 - Rs 199"
+                },
+                {
+                    "min": "200",
+                    "max": "299",
+                    "desc": "Rs 200 - Rs 299"
+                },
+                {
+                    "min": "300",
+                    "max": "399",
+                    "desc": "Rs 300 - Rs 399"
+                },
+                {
+                    "min": "400",
+                    "max": "NA",
+                    "desc": "Rs 400 or above"
+                }
+            ],
+            "showTimeBuckets": [
+                {
+                    "sTime": "00:00",
+                    "eTime": "08:00",
+                    "desc": "12 AM to 8 AM",
+                    "dText": "Early Morning",
+                    "desc1": "Till 8 AM"
+                },
+                {
+                    "sTime": "08:00",
+                    "eTime": "12:00",
+                    "desc": "8 AM to 12 PM",
+                    "dText": "Morning",
+                    "desc1": "Till 12 PM"
+                },
+                {
+                    "sTime": "12:00",
+                    "eTime": "16:00",
+                    "desc": "12 PM to 4 PM",
+                    "dText": "Afternoon",
+                    "desc1": "Till 4 PM"
+                },
+                {
+                    "sTime": "16:00",
+                    "eTime": "19:00",
+                    "desc": "4 PM to 7 PM",
+                    "dText": "Evening",
+                    "desc1": "Till 7 PM"
+                },
+                {
+                    "sTime": "19:00",
+                    "eTime": "23:59",
+                    "desc": "7 PM to 12 AM",
+                    "dText": "Night",
+                    "desc1": "Till 12 AM"
+                }
+            ]
+        },
+        "amenities": [
+            {
+                "id": 2,
+                "name": "Parking",
+                "rank": 1
+            },
+            {
+                "id": 1,
+                "name": "Mobile Ticket",
+                "rank": 2
+            },
+            {
+                "id": 3,
+                "name": "Online Food",
+                "rank": 3
+            },
+            {
+                "id": 5,
+                "name": "Recliners",
+                "rank": 4
+            },
+            {
+                "id": 6,
+                "name": "Paytm Accepted",
+                "rank": 5
+            },
+            {
+                "id": 4,
+                "name": "Wheelchair Friendly",
+                "rank": 6
+            },
+            {
+                "id": 7,
+                "name": "RGB Laser",
+                "rank": 7
+            },
+            {
+                "id": 8,
+                "name": "Dolby Atmos",
+                "rank": 8
+            },
+            {
+                "id": 9,
+                "name": "IMAX",
+                "rank": 9
+            },
+            {
+                "id": 10,
+                "name": "4K",
+                "rank": 10
+            },
+            {
+                "id": 11,
+                "name": "AC",
+                "rank": 11
+            },
+            {
+                "id": 12,
+                "name": "WIFI",
+                "rank": 12
+            },
+            {
+                "id": 13,
+                "name": "Food Court",
+                "rank": 13
+            },
+            {
+                "id": 14,
+                "name": "Gaming Zone",
+                "rank": 14
+            },
+            {
+                "id": 15,
+                "name": "2K",
+                "rank": 15
+            },
+            {
+                "id": 16,
+                "name": "4D",
+                "rank": 16
+            },
+            {
+                "id": 17,
+                "name": "4DX",
+                "rank": 17
+            },
+            {
+                "id": 18,
+                "name": "Dolby 7.1",
+                "rank": 18
+            },
+            {
+                "id": 19,
+                "name": "Air conditioning",
+                "rank": 19
+            },
+            {
+                "id": 20,
+                "name": "Metro Train",
+                "rank": 20
+            },
+            {
+                "id": 21,
+                "name": "Sofa",
+                "rank": 21
+            },
+            {
+                "id": 22,
+                "name": "Social Seating",
+                "rank": 22
+            },
+            {
+                "id": 23,
+                "name": "Wheelchair Assistance",
+                "rank": 23
+            },
+            {
+                "id": 24,
+                "name": "Silver Screen",
+                "rank": 24
+            },
+            {
+                "id": 25,
+                "name": "Food & Beverages",
+                "rank": 25
+            },
+            {
+                "id": 26,
+                "name": "Paper Less Ticketing",
+                "rank": 26
+            },
+            {
+                "id": 27,
+                "name": "Handicapped Washroom",
+                "rank": 27
+            },
+            {
+                "id": 28,
+                "name": "Free Parking",
+                "rank": 28
+            },
+            {
+                "id": 29,
+                "name": "Baggage Counter",
+                "rank": 29
+            },
+            {
+                "id": 30,
+                "name": "Dolby 4 Way 11.1",
+                "rank": 30
+            },
+            {
+                "id": 31,
+                "name": "Barco 4K Ultra HD",
+                "rank": 31
+            }
+        ],
+        "cinemas": [
+            {
+                "id": 5059,
+                "pid": 846,
+                "name": "Kamala Cinemas, Vadapalani",
+                "address": "156, Arcot Road, Vadapalani, Chennai, Tamil Nadu 600026, India",
+                "pincode": "600026",
+                "lat": 13.049032,
+                "lon": 80.210098,
+                "cityId": 34,
+                "appCovrImgUrl": "",
+                "covrImgUrl": "",
+                "fnb": 0,
+                "mTkt": 1,
+                "bCode": "0",
+                "sTop": 0,
+                "isMerchantCancellable": 0,
+                "cinemaLogoUrl": "https://assetscdn1.paytm.com/images/cinema/Kamala-Cinemas--588efcb0-b800-11ed-aa6d-d31156ec62e3.png",
+                "cinemaVideoUrl": "",
+                "appCoverVideoUrl": "",
+                "webCoverVideoUrl": "",
+                "amenities": {
+                    "1": -1,
+                    "2": 1,
+                    "19": 1,
+                    "3": -1,
+                    "20": 1,
+                    "4": -1,
+                    "5": -1,
+                    "6": -1,
+                    "25": 1
+                },
+                "promos": null,
+                "chainKey": "Kamala Theatre",
+                "contentId": 149066,
+                "theatreGroupName": "",
+                "amenitiesOrder": [
+                    {
+                        "id": 1,
+                        "rank": 2,
+                        "status": -1
+                    },
+                    {
+                        "id": 2,
+                        "rank": 1,
+                        "status": 1
+                    },
+                    {
+                        "id": 3,
+                        "rank": 3,
+                        "status": -1
+                    },
+                    {
+                        "id": 4,
+                        "rank": 6,
+                        "status": -1
+                    },
+                    {
+                        "id": 5,
+                        "rank": 4,
+                        "status": -1
+                    },
+                    {
+                        "id": 6,
+                        "rank": 5,
+                        "status": -1
+                    },
+                    {
+                        "id": 19,
+                        "rank": 12,
+                        "status": 1
+                    },
+                    {
+                        "id": 20,
+                        "rank": 7,
+                        "status": 1
+                    },
+                    {
+                        "id": 25,
+                        "rank": 9,
+                        "status": 1
+                    }
+                ],
+                "carouselAttachments": [],
+                "isPassEnabled": 0,
+                "paytmCinemaId": 5059,
+                "city": "Chennai",
+                "clientId": "ticketnew",
+                "isMapped": 0,
+                "city_id": null,
+                "is_city_mapped": null,
+                "state": "tamil-nadu",
+                "label": "Kamala Cinemas, Vadapalani",
+                "sessionCount": 11
+            },
+            {
+                "id": 3956,
+                "pid": 736,
+                "name": "Murugan Cinemas PLF 4K, Ambattur",
+                "address": "No: 10, O.V. Alagesan Nagar, Near Ambattur Railway Station,Chennai,Tamil Nadu,600053",
+                "pincode": "600053",
+                "lat": 13.113544,
+                "lon": 80.157257,
+                "cityId": 34,
+                "appCovrImgUrl": "",
+                "covrImgUrl": "",
+                "fnb": 0,
+                "mTkt": 1,
+                "bCode": "0",
+                "sTop": 0,
+                "isMerchantCancellable": 0,
+                "cinemaLogoUrl": "https://assetscdn1.paytm.com/images/cinema/Murugan-cinema-ambattur-9d506350-cdfb-11ed-9242-39e1a294ee84.png",
+                "cinemaVideoUrl": "",
+                "appCoverVideoUrl": "",
+                "webCoverVideoUrl": "",
+                "amenities": {
+                    "1": -1,
+                    "2": 1,
+                    "19": 1,
+                    "3": -1,
+                    "4": -1,
+                    "21": 1,
+                    "5": -1,
+                    "6": -1,
+                    "7": 1,
+                    "8": 1,
+                    "10": 1
+                },
+                "promos": null,
+                "chainKey": "TicketNew",
+                "contentId": 148477,
+                "theatreGroupName": "",
+                "amenitiesOrder": [
+                    {
+                        "id": 1,
+                        "rank": 2,
+                        "status": -1
+                    },
+                    {
+                        "id": 2,
+                        "rank": 1,
+                        "status": 1
+                    },
+                    {
+                        "id": 3,
+                        "rank": 3,
+                        "status": -1
+                    },
+                    {
+                        "id": 4,
+                        "rank": 6,
+                        "status": -1
+                    },
+                    {
+                        "id": 5,
+                        "rank": 4,
+                        "status": -1
+                    },
+                    {
+                        "id": 6,
+                        "rank": 5,
+                        "status": -1
+                    },
+                    {
+                        "id": 7,
+                        "rank": 11,
+                        "status": 1
+                    },
+                    {
+                        "id": 8,
+                        "rank": 10,
+                        "status": 1
+                    },
+                    {
+                        "id": 10,
+                        "rank": 8,
+                        "status": 1
+                    },
+                    {
+                        "id": 19,
+                        "rank": 9,
+                        "status": 1
+                    },
+                    {
+                        "id": 21,
+                        "rank": 7,
+                        "status": 1
+                    }
+                ],
+                "carouselAttachments": [
+                    {
+                        "type": "IMAGE",
+                        "assetPosition": 1.0,
+                        "appImageUrl": "https://assetscdn1.paytm.com/images/cinema/BG2-81cb06d0-2af3-11ee-b34d-05fa8644d6a7.jpg",
+                        "webImageUrl": "https://assetscdn1.paytm.com/images/cinema/BG2-web-86113c00-2af3-11ee-b34d-05fa8644d6a7.jpg"
+                    },
+                    {
+                        "type": "IMAGE",
+                        "assetPosition": 2.0,
+                        "appImageUrl": "https://assetscdn1.paytm.com/images/cinema/BG2%20(1)-5396f2e0-2b9f-11ee-b34d-05fa8644d6a7.jpg",
+                        "webImageUrl": "https://assetscdn1.paytm.com/images/cinema/BG2-web%20(1)-5a3d3820-2b9f-11ee-a540-ef1242eadacd.jpg"
+                    }
+                ],
+                "isPassEnabled": 0,
+                "paytmCinemaId": 3956,
+                "city": "Chennai",
+                "clientId": "ticketnew",
+                "isMapped": 0,
+                "city_id": null,
+                "is_city_mapped": null,
+                "state": "tamil-nadu",
+                "label": "Murugan Cinemas PLF 4K, Ambattur",
+                "sessionCount": 29
+            },
+            {
+                "id": 1010362,
+                "pid": 1686,
+                "name": "Woodlands Complex - Chennai",
+                "address": "25, Westcott Rd, near Hindustan Petroleum Petrol Pump, Royapettah, Chennai, Tamil Nadu 600014, India",
+                "pincode": "600014",
+                "lat": 13.05656,
+                "lon": 80.2648,
+                "cityId": 34,
+                "appCovrImgUrl": "",
+                "covrImgUrl": "",
+                "fnb": 0,
+                "mTkt": 0,
+                "bCode": "0",
+                "sTop": 0,
+                "isMerchantCancellable": 0,
+                "cinemaLogoUrl": "https://assetscdn1.paytm.com/images/cinema/Woodlands-(1)-e958ec60-1a57-11ee-bd63-4350b5a1d76a.png",
+                "cinemaVideoUrl": "",
+                "appCoverVideoUrl": "",
+                "webCoverVideoUrl": "",
+                "amenities": null,
+                "promos": null,
+                "chainKey": "Woodlands Cinemas",
+                "contentId": 163845,
+                "theatreGroupName": "",
+                "amenitiesOrder": null,
+                "carouselAttachments": [
+                    {
+                        "type": "IMAGE",
+                        "assetPosition": 1.0,
+                        "appImageUrl": "https://assetscdn1.paytm.com/images/cinema/Woodlands_Chennai1-aadd7a00-1a3e-11ee-bd63-4350b5a1d76a.jpg",
+                        "webImageUrl": "https://assetscdn1.paytm.com/images/cinema/Woodlands_Chennai2-bb70b6f0-1a31-11ee-a129-bd1c450bd3a6-b99a0f40-1a3e-11ee-bd63-4350b5a1d76a.jpg"
+                    }
+                ],
+                "isPassEnabled": 0,
+                "paytmCinemaId": 1010362,
+                "city": "Chennai",
+                "clientId": "ticketnew",
+                "isMapped": 0,
+                "city_id": null,
+                "is_city_mapped": null,
+                "state": "tamil-nadu",
+                "label": "Woodlands Complex - Chennai",
+                "sessionCount": 56
+            },
+            {
+                "id": 10183,
+                "pid": 1407,
+                "name": "AGS Cinemas T. Nagar",
+                "address": "No: 24/1, GN Chetty Road, T. Nagar, Opposite Dr. M.G.R. Educational and Research Institute, Chennai, Tamil Nadu 600017, India",
+                "pincode": "600017",
+                "lat": 13.0475,
+                "lon": 80.244904,
+                "cityId": 34,
+                "appCovrImgUrl": "",
+                "covrImgUrl": "",
+                "fnb": 0,
+                "mTkt": 1,
+                "bCode": "AGS",
+                "sTop": 1,
+                "isMerchantCancellable": 0,
+                "cinemaLogoUrl": "https://assetscdn1.paytm.com/images/cinema/ags-fd95c880-869e-11ed-babd-1b40982c99df.png",
+                "cinemaVideoUrl": "",
+                "appCoverVideoUrl": "",
+                "webCoverVideoUrl": "",
+                "amenities": null,
+                "promos": null,
+                "chainKey": "AGS Cinemas",
+                "contentId": 150206,
+                "theatreGroupName": "",
+                "amenitiesOrder": null,
+                "carouselAttachments": [],
+                "isPassEnabled": 0,
+                "paytmCinemaId": 10183,
+                "city": "Chennai",
+                "clientId": "ticketnew",
+                "isMapped": 0,
+                "city_id": null,
+                "is_city_mapped": null,
+                "state": "tamil-nadu",
+                "label": "AGS Cinemas T. Nagar",
+                "sessionCount": 87
+            },
+            {
+                "id": 3896,
+                "pid": 719,
+                "name": "Sri Kumari Cinemas - Uthukottai",
+                "address": "New no:513/6Nagalapuram Road,Uthukottai,thiruvalluvar district-602026 ",
+                "pincode": "602026",
+                "lat": 13.334,
+                "lon": 79.88813,
+                "cityId": 1055,
+                "appCovrImgUrl": "",
+                "covrImgUrl": "",
+                "fnb": 0,
+                "mTkt": 1,
+                "bCode": "0",
+                "sTop": 0,
+                "isMerchantCancellable": 0,
+                "cinemaLogoUrl": "https://assetscdn1.paytm.com/images/cinema/Theatre%403x-a4b1cf60-676c-11ef-8bfd-85c2f3bcaac6.png",
+                "cinemaVideoUrl": "",
+                "appCoverVideoUrl": "",
+                "webCoverVideoUrl": "",
+                "amenities": {
+                    "1": -1,
+                    "2": 1,
+                    "3": -1,
+                    "4": -1,
+                    "5": -1,
+                    "6": 1
+                },
+                "promos": null,
+                "chainKey": "Sri Kumari Theatre",
+                "contentId": 148450,
+                "theatreGroupName": "",
+                "amenitiesOrder": [
+                    {
+                        "id": 1,
+                        "rank": 2,
+                        "status": -1
+                    },
+                    {
+                        "id": 2,
+                        "rank": 1,
+                        "status": 1
+                    },
+                    {
+                        "id": 3,
+                        "rank": 3,
+                        "status": -1
+                    },
+                    {
+                        "id": 4,
+                        "rank": 6,
+                        "status": -1
+                    },
+                    {
+                        "id": 5,
+                        "rank": 4,
+                        "status": -1
+                    },
+                    {
+                        "id": 6,
+                        "rank": 5,
+                        "status": 1
+                    }
+                ],
+                "carouselAttachments": [],
+                "isPassEnabled": 0,
+                "paytmCinemaId": 3896,
+                "city": "Uthukottai",
+                "clientId": "ticketnew",
+                "isMapped": 0,
+                "city_id": null,
+                "is_city_mapped": null,
+                "state": "tamil-nadu",
+                "label": "Sri Kumari Cinemas - Uthukottai",
+                "sessionCount": 34
+            },
+            {
+                "id": 3945,
+                "pid": 736,
+                "name": "Rakki Cinemas 4K Dolby Atmos, Ambattur",
+                "address": "No: 1, Red Hills Road, Ambattur,Chennai,Tamil Nadu,600053",
+                "pincode": "600053",
+                "lat": 13.122803,
+                "lon": 80.147461,
+                "cityId": 34,
+                "appCovrImgUrl": "",
+                "covrImgUrl": "",
+                "fnb": 0,
+                "mTkt": 1,
+                "bCode": "0",
+                "sTop": 0,
+                "isMerchantCancellable": 0,
+                "cinemaLogoUrl": "https://assetscdn1.paytm.com/images/cinema/Rakki-Cinemas---Ambathur-67652900-66a3-11ef-8bfd-85c2f3bcaac6.png",
+                "cinemaVideoUrl": "",
+                "appCoverVideoUrl": "",
+                "webCoverVideoUrl": "",
+                "amenities": {
+                    "2": 1,
+                    "7": 1,
+                    "8": 1,
+                    "25": 1,
+                    "10": 1
+                },
+                "promos": null,
+                "chainKey": "TicketNew",
+                "contentId": 148472,
+                "theatreGroupName": "",
+                "amenitiesOrder": [
+                    {
+                        "id": 2,
+                        "rank": 4,
+                        "status": 1
+                    },
+                    {
+                        "id": 7,
+                        "rank": 5,
+                        "status": 1
+                    },
+                    {
+                        "id": 8,
+                        "rank": 2,
+                        "status": 1
+                    },
+                    {
+                        "id": 10,
+                        "rank": 1,
+                        "status": 1
+                    },
+                    {
+                        "id": 25,
+                        "rank": 3,
+                        "status": 1
+                    }
+                ],
+                "carouselAttachments": [],
+                "isPassEnabled": 0,
+                "paytmCinemaId": 3945,
+                "city": "Chennai",
+                "clientId": "ticketnew",
+                "isMapped": 0,
+                "city_id": null,
+                "is_city_mapped": null,
+                "state": "tamil-nadu",
+                "label": "Rakki Cinemas 4K Dolby Atmos, Ambattur",
+                "sessionCount": 26
+            },
+            {
+                "id": 3993,
+                "pid": 736,
+                "name": "Rakki Cinemas 4K Dolby Atmos, Thiruvallur",
+                "address": "No 1. Thiruvallur High Rd, Thiruvallur, Tamil Nadu 602001, India",
+                "pincode": "602001",
+                "lat": 13.142799,
+                "lon": 79.910477,
+                "cityId": 34,
+                "appCovrImgUrl": "",
+                "covrImgUrl": "",
+                "fnb": 0,
+                "mTkt": 1,
+                "bCode": "0",
+                "sTop": 0,
+                "isMerchantCancellable": 0,
+                "cinemaLogoUrl": "https://assetscdn1.paytm.com/images/cinema/Rakki-Cinemas---Thiruvallur-cf270cc0-66a3-11ef-9f4b-f7813262cbfc.png",
+                "cinemaVideoUrl": "",
+                "appCoverVideoUrl": "",
+                "webCoverVideoUrl": "",
+                "amenities": {
+                    "1": -1,
+                    "2": 1,
+                    "4": -1,
+                    "5": -1,
+                    "6": -1,
+                    "8": 1,
+                    "25": 1,
+                    "10": 1
+                },
+                "promos": null,
+                "chainKey": "TicketNew",
+                "contentId": 148497,
+                "theatreGroupName": "",
+                "amenitiesOrder": [
+                    {
+                        "id": 1,
+                        "rank": 7,
+                        "status": -1
+                    },
+                    {
+                        "id": 2,
+                        "rank": 4,
+                        "status": 1
+                    },
+                    {
+                        "id": 4,
+                        "rank": 6,
+                        "status": -1
+                    },
+                    {
+                        "id": 5,
+                        "rank": 8,
+                        "status": -1
+                    },
+                    {
+                        "id": 6,
+                        "rank": 5,
+                        "status": -1
+                    },
+                    {
+                        "id": 8,
+                        "rank": 2,
+                        "status": 1
+                    },
+                    {
+                        "id": 10,
+                        "rank": 1,
+                        "status": 1
+                    },
+                    {
+                        "id": 25,
+                        "rank": 3,
+                        "status": 1
+                    }
+                ],
+                "carouselAttachments": [],
+                "isPassEnabled": 0,
+                "paytmCinemaId": 3993,
+                "city": "Chennai",
+                "clientId": "ticketnew",
+                "isMapped": 0,
+                "city_id": null,
+                "is_city_mapped": null,
+                "state": "tamil-nadu",
+                "label": "Rakki Cinemas 4K Dolby Atmos, Thiruvallur",
+                "sessionCount": 29
+            },
+            {
+                "id": 10185,
+                "pid": 1407,
+                "name": "AGS Cinemas OMR Navlur",
+                "address": "Coromandel Plaza 87/1A, 5th Floor, Navalur, Old Mahabalipuram Road, Near ETA Techno Park Entrance, Chennai, Tamil Nadu 603103, India",
+                "pincode": "603103",
+                "lat": 12.8505,
+                "lon": 80.2257,
+                "cityId": 34,
+                "appCovrImgUrl": "",
+                "covrImgUrl": "",
+                "fnb": 0,
+                "mTkt": 1,
+                "bCode": "AGS",
+                "sTop": 1,
+                "isMerchantCancellable": 0,
+                "cinemaLogoUrl": "https://assetscdn1.paytm.com/images/cinema/ags-fd95c880-869e-11ed-babd-1b40982c99df.png",
+                "cinemaVideoUrl": "",
+                "appCoverVideoUrl": "",
+                "webCoverVideoUrl": "",
+                "amenities": null,
+                "promos": null,
+                "chainKey": "AGS Cinemas",
+                "contentId": 150208,
+                "theatreGroupName": "",
+                "amenitiesOrder": null,
+                "carouselAttachments": [],
+                "isPassEnabled": 0,
+                "paytmCinemaId": 10185,
+                "city": "Chennai",
+                "clientId": "ticketnew",
+                "isMapped": 0,
+                "city_id": null,
+                "is_city_mapped": null,
+                "state": "tamil-nadu",
+                "label": "AGS Cinemas OMR Navlur",
+                "sessionCount": 86
+            },
+            {
+                "id": 4891,
+                "pid": 799,
+                "name": "Vettri Theatres RGB Laser, Chrompet",
+                "address": "Grand Southern Trunk Road, Chrompet, Chennai, Tamil Nadu 600044, India",
+                "pincode": "600044",
+                "lat": 12.954579,
+                "lon": 80.141939,
+                "cityId": 34,
+                "appCovrImgUrl": "",
+                "covrImgUrl": "",
+                "fnb": 0,
+                "mTkt": 1,
+                "bCode": "0",
+                "sTop": 0,
+                "isMerchantCancellable": 0,
+                "cinemaLogoUrl": "https://assetscdn1.paytm.com/images/cinema/Vettri-Theatre--1ac613a0-b7f6-11ed-9452-d9fc8dc00535.png",
+                "cinemaVideoUrl": "",
+                "appCoverVideoUrl": "",
+                "webCoverVideoUrl": "",
+                "amenities": {
+                    "1": 1,
+                    "2": 1,
+                    "7": 1,
+                    "8": 1,
+                    "25": 1,
+                    "10": 1
+                },
+                "promos": null,
+                "chainKey": "Vettri",
+                "contentId": 148989,
+                "theatreGroupName": "",
+                "amenitiesOrder": [
+                    {
+                        "id": 1,
+                        "rank": 5,
+                        "status": 1
+                    },
+                    {
+                        "id": 2,
+                        "rank": 6,
+                        "status": 1
+                    },
+                    {
+                        "id": 7,
+                        "rank": 1,
+                        "status": 1
+                    },
+                    {
+                        "id": 8,
+                        "rank": 4,
+                        "status": 1
+                    },
+                    {
+                        "id": 10,
+                        "rank": 3,
+                        "status": 1
+                    },
+                    {
+                        "id": 25,
+                        "rank": 2,
+                        "status": 1
+                    }
+                ],
+                "carouselAttachments": [
+                    {
+                        "type": "VIDEO",
+                        "assetPosition": 1.0,
+                        "videoUrl": "https://youtube.com/watch?v=M7ZqPSLVKgA&feature=share",
+                        "appCoverImageUrl": "https://assetscdn1.paytm.com/images/cinema/Vettri-1-2fdb3a10-0e6b-11ee-bc4c-519265b2aa9b.jpg",
+                        "webCoverImageUrl": "https://assetscdn1.paytm.com/images/cinema/Vettri-3e1a61f0-0e6b-11ee-bc4c-519265b2aa9b.jpg"
+                    }
+                ],
+                "isPassEnabled": 0,
+                "paytmCinemaId": 4891,
+                "city": "Chennai",
+                "clientId": "ticketnew",
+                "isMapped": 0,
+                "city_id": null,
+                "is_city_mapped": null,
+                "state": "tamil-nadu",
+                "label": "Vettri Theatres RGB Laser, Chrompet",
+                "sessionCount": 22
+            }
+        ],
+        "filterData": {
+            "minSTime": "03:30",
+            "maxSTime": "16:55",
+            "minPrice": 63.0,
+            "maxPrice": 201.81,
+            "premium": false,
+            "freeSeats": false,
+            "groupSeats": false,
+            "tokenFeeSeats": false,
+            "scnFrmts": [
+                "2D"
+            ],
+            "sndFrmts": [
+                "none"
+            ],
+            "mLangs": [
+                "Telugu"
+            ],
+            "genres": [
+                "Action",
+                "Drama",
+                "Thriller"
+            ]
+        }
+    },
+    "data": {
+        "pageSize": 100,
+        "cinemasOrder": [
+            5059,
+            1010362,
+            3945,
+            3993,
+            3956,
+            4891,
+            10185,
+            10183,
+            3896
+        ],
+        "sessionDates": [
+            "2024-09-27",
+            "2024-09-28",
+            "2024-09-29",
+            "2024-09-30",
+            "2024-10-01",
+            "2024-10-02",
+            "2024-10-03"
+        ]
+    },
+    "pageData": {
+        "sessions": {
+            "5059": [
+                {
+                    "sid": "30556__1727420400__10__63047",
+                    "pid": 846,
+                    "pkey": "ticketnew",
+                    "cid": 5059,
+                    "mid": "OAV34I",
+                    "fid": "TtdX_wUyN",
+                    "showTime": "2024-09-27T07:00",
+                    "closeTime": "2024-09-27T06:50",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "2",
+                            "label": "LOUNGE1",
+                            "typeCode": "30556__1727420400__10__63047_LOUNGE1",
+                            "sType": "fixed",
+                            "sAvail": 0,
+                            "sTotal": 21,
+                            "price": 162.13,
+                            "statusColor": "D"
+                        },
+                        {
+                            "code": "3",
+                            "label": "LOUNGE2",
+                            "typeCode": "30556__1727420400__10__63047_LOUNGE2",
+                            "sType": "fixed",
+                            "sAvail": 0,
+                            "sTotal": 21,
+                            "price": 162.13,
+                            "statusColor": "D"
+                        },
+                        {
+                            "code": "40",
+                            "label": "COUPLE SEAT",
+                            "typeCode": "30556__1727420400__10__63047_COUPLE SEAT",
+                            "sType": "fixed",
+                            "sAvail": 8,
+                            "sTotal": 8,
+                            "price": 162.13,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "50",
+                            "label": "ELITE",
+                            "typeCode": "30556__1727420400__10__63047_ELITE",
+                            "sType": "fixed",
+                            "sAvail": 464,
+                            "sTotal": 512,
+                            "price": 111.38,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "60",
+                            "label": "BUDGET",
+                            "typeCode": "30556__1727420400__10__63047_BUDGET",
+                            "sType": "fixed",
+                            "sAvail": 38,
+                            "sTotal": 38,
+                            "price": 63.73,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 600,
+                    "avail": 510,
+                    "audi": "SCREEN1",
+                    "premium": 0,
+                    "premiumLabel": "SCREEN1",
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 10,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "sndFmt": "none",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Thriller"
+                    ],
+                    "statusColor": "G",
+                    "subtitle": ""
+                }
+            ],
+            "3956": [
+                {
+                    "sid": "30556__1727421000__302__110812",
+                    "pid": 736,
+                    "pkey": "ticketnew",
+                    "cid": 3956,
+                    "mid": "OAV34I",
+                    "fid": "TtdX_wUyN",
+                    "showTime": "2024-09-27T07:10",
+                    "closeTime": "2024-09-27T07:05",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "1",
+                            "label": "BOX 1",
+                            "typeCode": "30556__1727421000__302__110812_BOX 1",
+                            "sType": "fixed",
+                            "sAvail": 8,
+                            "sTotal": 29,
+                            "price": 150.0,
+                            "statusColor": "Y"
+                        },
+                        {
+                            "code": "2",
+                            "label": "BOX 2",
+                            "typeCode": "30556__1727421000__302__110812_BOX 2",
+                            "sType": "fixed",
+                            "sAvail": 23,
+                            "sTotal": 29,
+                            "price": 150.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "3",
+                            "label": "FIRST CLASS",
+                            "typeCode": "30556__1727421000__302__110812_FIRST CLASS",
+                            "sType": "fixed",
+                            "sAvail": 186,
+                            "sTotal": 462,
+                            "price": 130.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 520,
+                    "avail": 217,
+                    "audi": "ThiruMurugan PLF RGB LASER",
+                    "premium": 0,
+                    "premiumLabel": "THIRUMURUGAN",
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 10,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "sndFmt": "none",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Thriller"
+                    ],
+                    "statusColor": "G",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "30556__1727407800__303__110701",
+                    "pid": 736,
+                    "pkey": "ticketnew",
+                    "cid": 3956,
+                    "mid": "OAV34I",
+                    "fid": "TtdX_wUyN",
+                    "showTime": "2024-09-27T03:30",
+                    "closeTime": "2024-09-27T03:25",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "1",
+                            "label": "BOX 1",
+                            "typeCode": "30556__1727407800__303__110701_BOX 1",
+                            "sType": "fixed",
+                            "sAvail": 0,
+                            "sTotal": 12,
+                            "price": 150.0,
+                            "statusColor": "D"
+                        },
+                        {
+                            "code": "2",
+                            "label": "BOX 2",
+                            "typeCode": "30556__1727407800__303__110701_BOX 2",
+                            "sType": "fixed",
+                            "sAvail": 0,
+                            "sTotal": 14,
+                            "price": 150.0,
+                            "statusColor": "D"
+                        },
+                        {
+                            "code": "3",
+                            "label": "FIRST CLASS",
+                            "typeCode": "30556__1727407800__303__110701_FIRST CLASS",
+                            "sType": "fixed",
+                            "sAvail": 0,
+                            "sTotal": 400,
+                            "price": 130.0,
+                            "statusColor": "D"
+                        }
+                    ],
+                    "total": 426,
+                    "avail": 0,
+                    "audi": "VEL MURUGAN RGB LASER",
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "sndFmt": "none",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Thriller"
+                    ],
+                    "statusColor": "D",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "30556__1727407800__1663__110740",
+                    "pid": 736,
+                    "pkey": "ticketnew",
+                    "cid": 3956,
+                    "mid": "OAV34I",
+                    "fid": "TtdX_wUyN",
+                    "showTime": "2024-09-27T03:30",
+                    "closeTime": "2024-09-27T03:25",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "5",
+                            "label": "DIAMOND",
+                            "typeCode": "30556__1727407800__1663__110740_DIAMOND",
+                            "sType": "fixed",
+                            "sAvail": 9,
+                            "sTotal": 80,
+                            "price": 130.0,
+                            "statusColor": "Y"
+                        }
+                    ],
+                    "total": 80,
+                    "avail": 9,
+                    "audi": "Sakthi Murugan A/C -4K Dolby Atmos",
+                    "premium": 0,
+                    "premiumLabel": "SAKTHI MURUGAN",
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 10,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "sndFmt": "none",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Thriller"
+                    ],
+                    "statusColor": "Y",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "30556__1727434200__301__110778",
+                    "pid": 736,
+                    "pkey": "ticketnew",
+                    "cid": 3956,
+                    "mid": "OAV34I",
+                    "fid": "TtdX_wUyN",
+                    "showTime": "2024-09-27T10:50",
+                    "closeTime": "2024-09-27T10:45",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "5",
+                            "label": "DIAMOND",
+                            "typeCode": "30556__1727434200__301__110778_DIAMOND",
+                            "sType": "fixed",
+                            "sAvail": 219,
+                            "sTotal": 276,
+                            "price": 150.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "6",
+                            "label": "GOLD",
+                            "typeCode": "30556__1727434200__301__110778_GOLD",
+                            "sType": "fixed",
+                            "sAvail": 301,
+                            "sTotal": 333,
+                            "price": 130.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 609,
+                    "avail": 520,
+                    "audi": "Sri Murugan A/C- 4k Dolby Atmos",
+                    "premium": 0,
+                    "premiumLabel": "SRI MURUGAN",
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 10,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "sndFmt": "none",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Thriller"
+                    ],
+                    "statusColor": "G",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "30556__1727447100__301__110779",
+                    "pid": 736,
+                    "pkey": "ticketnew",
+                    "cid": 3956,
+                    "mid": "OAV34I",
+                    "fid": "TtdX_wUyN",
+                    "showTime": "2024-09-27T14:25",
+                    "closeTime": "2024-09-27T14:20",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "5",
+                            "label": "DIAMOND",
+                            "typeCode": "30556__1727447100__301__110779_DIAMOND",
+                            "sType": "fixed",
+                            "sAvail": 126,
+                            "sTotal": 276,
+                            "price": 150.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "6",
+                            "label": "GOLD",
+                            "typeCode": "30556__1727447100__301__110779_GOLD",
+                            "sType": "fixed",
+                            "sAvail": 233,
+                            "sTotal": 333,
+                            "price": 130.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 609,
+                    "avail": 359,
+                    "audi": "Sri Murugan A/C- 4k Dolby Atmos",
+                    "premium": 0,
+                    "premiumLabel": "SRI MURUGAN",
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 10,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "sndFmt": "none",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Thriller"
+                    ],
+                    "statusColor": "G",
+                    "subtitle": ""
+                }
+            ],
+            "1010362": [
+                {
+                    "sid": "30556__1727442000__5606__5836",
+                    "pid": 1686,
+                    "pkey": "ticketnew",
+                    "cid": 1010362,
+                    "mid": "OAV34I",
+                    "fid": "TtdX_wUyN",
+                    "showTime": "2024-09-27T13:00",
+                    "closeTime": "2024-09-27T12:40",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "10",
+                            "label": "BOX",
+                            "typeCode": "30556__1727442000__5606__5836_BOX",
+                            "sType": "fixed",
+                            "sAvail": 0,
+                            "sTotal": 16,
+                            "price": 201.81,
+                            "statusColor": "D"
+                        },
+                        {
+                            "code": "20",
+                            "label": "BALCONY",
+                            "typeCode": "30556__1727442000__5606__5836_BALCONY",
+                            "sType": "fixed",
+                            "sAvail": 282,
+                            "sTotal": 388,
+                            "price": 159.4,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "30",
+                            "label": "FIRST CLASS",
+                            "typeCode": "30556__1727442000__5606__5836_FIRST CLASS",
+                            "sType": "fixed",
+                            "sAvail": 663,
+                            "sTotal": 831,
+                            "price": 106.09,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "40",
+                            "label": "SECOND CLASS",
+                            "typeCode": "30556__1727442000__5606__5836_SECOND CLASS",
+                            "sType": "fixed",
+                            "sAvail": 132,
+                            "sTotal": 386,
+                            "price": 63.72,
+                            "statusColor": "Y"
+                        }
+                    ],
+                    "total": 1621,
+                    "avail": 1077,
+                    "audi": "WOODLANDS",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 10,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "sndFmt": "none",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Thriller"
+                    ],
+                    "statusColor": "G",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "30556__1727416800__5606__5834",
+                    "pid": 1686,
+                    "pkey": "ticketnew",
+                    "cid": 1010362,
+                    "mid": "OAV34I",
+                    "fid": "TtdX_wUyN",
+                    "showTime": "2024-09-27T06:00",
+                    "closeTime": "2024-09-27T05:40",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "10",
+                            "label": "BOX",
+                            "typeCode": "30556__1727416800__5606__5834_BOX",
+                            "sType": "fixed",
+                            "sAvail": 0,
+                            "sTotal": 16,
+                            "price": 201.81,
+                            "statusColor": "D"
+                        },
+                        {
+                            "code": "20",
+                            "label": "BALCONY",
+                            "typeCode": "30556__1727416800__5606__5834_BALCONY",
+                            "sType": "fixed",
+                            "sAvail": 290,
+                            "sTotal": 388,
+                            "price": 159.4,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "30",
+                            "label": "FIRST CLASS",
+                            "typeCode": "30556__1727416800__5606__5834_FIRST CLASS",
+                            "sType": "fixed",
+                            "sAvail": 663,
+                            "sTotal": 831,
+                            "price": 106.09,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "40",
+                            "label": "SECOND CLASS",
+                            "typeCode": "30556__1727416800__5606__5834_SECOND CLASS",
+                            "sType": "fixed",
+                            "sAvail": 132,
+                            "sTotal": 386,
+                            "price": 63.72,
+                            "statusColor": "Y"
+                        }
+                    ],
+                    "total": 1621,
+                    "avail": 1085,
+                    "audi": "WOODLANDS",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 10,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "sndFmt": "none",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Thriller"
+                    ],
+                    "statusColor": "G",
+                    "subtitle": ""
+                }
+            ],
+            "10183": [
+                {
+                    "sid": "28445",
+                    "pid": 1407,
+                    "pkey": "vista_common_food",
+                    "cid": 10183,
+                    "mid": "OAV34I",
+                    "fid": "TtdX_wUyN",
+                    "showTime": "2024-09-27T13:30",
+                    "closeTime": "2024-09-27T11:30",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "0000000002",
+                            "label": "PEARL",
+                            "typeCode": "0002",
+                            "sType": "fixed",
+                            "sAvail": 0,
+                            "sTotal": 24,
+                            "price": 63.0,
+                            "statusColor": "D"
+                        },
+                        {
+                            "code": "0000000001",
+                            "label": "DIAMOND",
+                            "typeCode": "0001",
+                            "sType": "fixed",
+                            "sAvail": 146,
+                            "sTotal": 197,
+                            "price": 200.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 221,
+                    "avail": 146,
+                    "audi": "SCREEN 3",
+                    "premium": 0,
+                    "premiumLabel": "4K DOLBY 7.1",
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 10,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "sndFmt": "none",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Thriller"
+                    ],
+                    "statusColor": "G",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "28446",
+                    "pid": 1407,
+                    "pkey": "vista_common_food",
+                    "cid": 10183,
+                    "mid": "OAV34I",
+                    "fid": "TtdX_wUyN",
+                    "showTime": "2024-09-27T16:55",
+                    "closeTime": "2024-09-27T14:55",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "0000000002",
+                            "label": "PEARL",
+                            "typeCode": "0002",
+                            "sType": "fixed",
+                            "sAvail": 0,
+                            "sTotal": 24,
+                            "price": 63.0,
+                            "statusColor": "D"
+                        },
+                        {
+                            "code": "0000000001",
+                            "label": "DIAMOND",
+                            "typeCode": "0001",
+                            "sType": "fixed",
+                            "sAvail": 151,
+                            "sTotal": 197,
+                            "price": 200.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 221,
+                    "avail": 151,
+                    "audi": "SCREEN 3",
+                    "premium": 0,
+                    "premiumLabel": "4K DOLBY 7.1",
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 10,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "sndFmt": "none",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Thriller"
+                    ],
+                    "statusColor": "G",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "28443",
+                    "pid": 1407,
+                    "pkey": "vista_common_food",
+                    "cid": 10183,
+                    "mid": "OAV34I",
+                    "fid": "TtdX_wUyN",
+                    "showTime": "2024-09-27T06:50",
+                    "closeTime": "2024-09-27T04:50",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "0000000002",
+                            "label": "PEARL",
+                            "typeCode": "0002",
+                            "sType": "fixed",
+                            "sAvail": 0,
+                            "sTotal": 24,
+                            "price": 63.0,
+                            "statusColor": "D"
+                        },
+                        {
+                            "code": "0000000001",
+                            "label": "DIAMOND",
+                            "typeCode": "0001",
+                            "sType": "fixed",
+                            "sAvail": 149,
+                            "sTotal": 197,
+                            "price": 200.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 221,
+                    "avail": 149,
+                    "audi": "SCREEN 3",
+                    "premium": 0,
+                    "premiumLabel": "4K DOLBY 7.1",
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 10,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "sndFmt": "none",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Thriller"
+                    ],
+                    "statusColor": "G",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "28444",
+                    "pid": 1407,
+                    "pkey": "vista_common_food",
+                    "cid": 10183,
+                    "mid": "OAV34I",
+                    "fid": "TtdX_wUyN",
+                    "showTime": "2024-09-27T10:05",
+                    "closeTime": "2024-09-27T08:05",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "0000000002",
+                            "label": "PEARL",
+                            "typeCode": "0002",
+                            "sType": "fixed",
+                            "sAvail": 0,
+                            "sTotal": 24,
+                            "price": 63.0,
+                            "statusColor": "D"
+                        },
+                        {
+                            "code": "0000000001",
+                            "label": "DIAMOND",
+                            "typeCode": "0001",
+                            "sType": "fixed",
+                            "sAvail": 149,
+                            "sTotal": 197,
+                            "price": 200.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 221,
+                    "avail": 149,
+                    "audi": "SCREEN 3",
+                    "premium": 0,
+                    "premiumLabel": "4K DOLBY 7.1",
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 10,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "sndFmt": "none",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Thriller"
+                    ],
+                    "statusColor": "G",
+                    "subtitle": ""
+                }
+            ],
+            "3896": [
+                {
+                    "sid": "30556__1727413200__2443__25054",
+                    "pid": 719,
+                    "pkey": "ticketnew",
+                    "cid": 3896,
+                    "mid": "OAV34I",
+                    "fid": "TtdX_wUyN",
+                    "showTime": "2024-09-27T05:00",
+                    "closeTime": "2024-09-27T04:40",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "9",
+                            "label": "BALCONY",
+                            "typeCode": "30556__1727413200__2443__25054_BALCONY",
+                            "sType": "fixed",
+                            "sAvail": 67,
+                            "sTotal": 68,
+                            "price": 150.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "20",
+                            "label": "FIRST CLASS",
+                            "typeCode": "30556__1727413200__2443__25054_FIRST CLASS",
+                            "sType": "fixed",
+                            "sAvail": 491,
+                            "sTotal": 505,
+                            "price": 130.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 573,
+                    "avail": 558,
+                    "audi": "SRI KUMARI CINEMAS A/C DOLBY 7.1",
+                    "premium": 0,
+                    "premiumLabel": "SRI",
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 10,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "sndFmt": "none",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Thriller"
+                    ],
+                    "statusColor": "G",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "30556__1727440200__2443__25056",
+                    "pid": 719,
+                    "pkey": "ticketnew",
+                    "cid": 3896,
+                    "mid": "OAV34I",
+                    "fid": "TtdX_wUyN",
+                    "showTime": "2024-09-27T12:30",
+                    "closeTime": "2024-09-27T12:10",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "9",
+                            "label": "BALCONY",
+                            "typeCode": "30556__1727440200__2443__25056_BALCONY",
+                            "sType": "fixed",
+                            "sAvail": 61,
+                            "sTotal": 68,
+                            "price": 150.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "20",
+                            "label": "FIRST CLASS",
+                            "typeCode": "30556__1727440200__2443__25056_FIRST CLASS",
+                            "sType": "fixed",
+                            "sAvail": 498,
+                            "sTotal": 505,
+                            "price": 130.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 573,
+                    "avail": 559,
+                    "audi": "SRI KUMARI CINEMAS A/C DOLBY 7.1",
+                    "premium": 0,
+                    "premiumLabel": "SRI",
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 10,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "sndFmt": "none",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Thriller"
+                    ],
+                    "statusColor": "G",
+                    "subtitle": ""
+                }
+            ],
+            "3945": [
+                {
+                    "sid": "30556__1727416800__20__142547",
+                    "pid": 736,
+                    "pkey": "ticketnew",
+                    "cid": 3945,
+                    "mid": "OAV34I",
+                    "fid": "TtdX_wUyN",
+                    "showTime": "2024-09-27T06:00",
+                    "closeTime": "2024-09-27T05:45",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "4",
+                            "label": "PREMIUM",
+                            "typeCode": "30556__1727416800__20__142547_PREMIUM",
+                            "sType": "fixed",
+                            "sAvail": 85,
+                            "sTotal": 91,
+                            "price": 150.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "5",
+                            "label": "EXECUTIVE",
+                            "typeCode": "30556__1727416800__20__142547_EXECUTIVE",
+                            "sType": "fixed",
+                            "sAvail": 200,
+                            "sTotal": 210,
+                            "price": 130.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 301,
+                    "avail": 285,
+                    "audi": "CiniRakki - RGB LASER",
+                    "premium": 0,
+                    "premiumLabel": "CINI",
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 10,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "sndFmt": "none",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Thriller"
+                    ],
+                    "statusColor": "G",
+                    "subtitle": "Eng"
+                },
+                {
+                    "sid": "30556__1727407800__19__142481",
+                    "pid": 736,
+                    "pkey": "ticketnew",
+                    "cid": 3945,
+                    "mid": "OAV34I",
+                    "fid": "TtdX_wUyN",
+                    "showTime": "2024-09-27T03:30",
+                    "closeTime": "2024-09-27T03:15",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "2",
+                            "label": "PREMIUM2",
+                            "typeCode": "30556__1727407800__19__142481_PREMIUM2",
+                            "sType": "fixed",
+                            "sAvail": 8,
+                            "sTotal": 102,
+                            "price": 150.0,
+                            "statusColor": "R"
+                        },
+                        {
+                            "code": "3",
+                            "label": "PREMIUM1",
+                            "typeCode": "30556__1727407800__19__142481_PREMIUM1",
+                            "sType": "fixed",
+                            "sAvail": 37,
+                            "sTotal": 143,
+                            "price": 150.0,
+                            "statusColor": "Y"
+                        },
+                        {
+                            "code": "5",
+                            "label": "EXECUTIVE",
+                            "typeCode": "30556__1727407800__19__142481_EXECUTIVE",
+                            "sType": "fixed",
+                            "sAvail": 206,
+                            "sTotal": 413,
+                            "price": 130.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 658,
+                    "avail": 251,
+                    "audi": "Rakki 4K RGB LASER DOLBY ATMOS",
+                    "premium": 0,
+                    "premiumLabel": "4K RAKKI",
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 10,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "sndFmt": "none",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Thriller"
+                    ],
+                    "statusColor": "Y",
+                    "subtitle": "Eng"
+                },
+                {
+                    "sid": "30556__1727407800__21__142591",
+                    "pid": 736,
+                    "pkey": "ticketnew",
+                    "cid": 3945,
+                    "mid": "OAV34I",
+                    "fid": "TtdX_wUyN",
+                    "showTime": "2024-09-27T03:30",
+                    "closeTime": "2024-09-27T03:15",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "4",
+                            "label": "PREMIUM",
+                            "typeCode": "30556__1727407800__21__142591_PREMIUM",
+                            "sType": "fixed",
+                            "sAvail": 106,
+                            "sTotal": 106,
+                            "price": 150.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "5",
+                            "label": "EXECUTIVE",
+                            "typeCode": "30556__1727407800__21__142591_EXECUTIVE",
+                            "sType": "fixed",
+                            "sAvail": 104,
+                            "sTotal": 104,
+                            "price": 130.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 210,
+                    "avail": 210,
+                    "audi": "MiniRakki - DOLBY ATMOS",
+                    "premium": 0,
+                    "premiumLabel": "MINI",
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 10,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "sndFmt": "none",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Thriller"
+                    ],
+                    "statusColor": "G",
+                    "subtitle": "Eng"
+                },
+                {
+                    "sid": "30556__1727442000__20__142549",
+                    "pid": 736,
+                    "pkey": "ticketnew",
+                    "cid": 3945,
+                    "mid": "OAV34I",
+                    "fid": "TtdX_wUyN",
+                    "showTime": "2024-09-27T13:00",
+                    "closeTime": "2024-09-27T12:45",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "4",
+                            "label": "PREMIUM",
+                            "typeCode": "30556__1727442000__20__142549_PREMIUM",
+                            "sType": "fixed",
+                            "sAvail": 59,
+                            "sTotal": 91,
+                            "price": 150.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "5",
+                            "label": "EXECUTIVE",
+                            "typeCode": "30556__1727442000__20__142549_EXECUTIVE",
+                            "sType": "fixed",
+                            "sAvail": 193,
+                            "sTotal": 210,
+                            "price": 130.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 301,
+                    "avail": 252,
+                    "audi": "CiniRakki - RGB LASER",
+                    "premium": 0,
+                    "premiumLabel": "CINI",
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 10,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "sndFmt": "none",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Thriller"
+                    ],
+                    "statusColor": "G",
+                    "subtitle": "Eng"
+                }
+            ],
+            "3993": [
+                {
+                    "sid": "30556__1727407800__2291__26559",
+                    "pid": 736,
+                    "pkey": "ticketnew",
+                    "cid": 3993,
+                    "mid": "OAV34I",
+                    "fid": "TtdX_wUyN",
+                    "showTime": "2024-09-27T03:30",
+                    "closeTime": "2024-09-27T03:30",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "10",
+                            "label": "PREMIUM CIRCLE",
+                            "typeCode": "30556__1727407800__2291__26559_PREMIUM CIRCLE",
+                            "sType": "fixed",
+                            "sAvail": 86,
+                            "sTotal": 133,
+                            "price": 150.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "20",
+                            "label": "EXECUTIVE CLASS",
+                            "typeCode": "30556__1727407800__2291__26559_EXECUTIVE CLASS",
+                            "sType": "fixed",
+                            "sAvail": 357,
+                            "sTotal": 376,
+                            "price": 130.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 509,
+                    "avail": 443,
+                    "audi": "Screen 1",
+                    "premium": 0,
+                    "premiumLabel": "SCREEN 1",
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 10,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "sndFmt": "none",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Thriller"
+                    ],
+                    "statusColor": "G",
+                    "subtitle": "Eng"
+                }
+            ],
+            "10185": [
+                {
+                    "sid": "29195",
+                    "pid": 1407,
+                    "pkey": "vista_common_food",
+                    "cid": 10185,
+                    "mid": "OAV34I",
+                    "fid": "TtdX_wUyN",
+                    "showTime": "2024-09-27T06:55",
+                    "closeTime": "2024-09-27T04:55",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "0000000002",
+                            "label": "PEARL",
+                            "typeCode": "0002",
+                            "sType": "fixed",
+                            "sAvail": 0,
+                            "sTotal": 45,
+                            "price": 63.0,
+                            "statusColor": "D"
+                        },
+                        {
+                            "code": "0000000001",
+                            "label": "DIAMOND",
+                            "typeCode": "0001",
+                            "sType": "fixed",
+                            "sAvail": 333,
+                            "sTotal": 403,
+                            "price": 200.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 448,
+                    "avail": 333,
+                    "audi": "SCREEN 3",
+                    "premium": 0,
+                    "premiumLabel": "4K DOLBY 7.1",
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 10,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "sndFmt": "none",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Thriller"
+                    ],
+                    "statusColor": "G",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "29198",
+                    "pid": 1407,
+                    "pkey": "vista_common_food",
+                    "cid": 10185,
+                    "mid": "OAV34I",
+                    "fid": "TtdX_wUyN",
+                    "showTime": "2024-09-27T16:50",
+                    "closeTime": "2024-09-27T14:50",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "0000000002",
+                            "label": "PEARL",
+                            "typeCode": "0002",
+                            "sType": "fixed",
+                            "sAvail": 0,
+                            "sTotal": 45,
+                            "price": 63.0,
+                            "statusColor": "D"
+                        },
+                        {
+                            "code": "0000000001",
+                            "label": "DIAMOND",
+                            "typeCode": "0001",
+                            "sType": "fixed",
+                            "sAvail": 93,
+                            "sTotal": 403,
+                            "price": 200.0,
+                            "statusColor": "Y"
+                        }
+                    ],
+                    "total": 448,
+                    "avail": 93,
+                    "audi": "SCREEN 3",
+                    "premium": 0,
+                    "premiumLabel": "4K DOLBY 7.1",
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 10,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "sndFmt": "none",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Thriller"
+                    ],
+                    "statusColor": "Y",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "29197",
+                    "pid": 1407,
+                    "pkey": "vista_common_food",
+                    "cid": 10185,
+                    "mid": "OAV34I",
+                    "fid": "TtdX_wUyN",
+                    "showTime": "2024-09-27T13:25",
+                    "closeTime": "2024-09-27T11:25",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "0000000002",
+                            "label": "PEARL",
+                            "typeCode": "0002",
+                            "sType": "fixed",
+                            "sAvail": 0,
+                            "sTotal": 45,
+                            "price": 63.0,
+                            "statusColor": "D"
+                        },
+                        {
+                            "code": "0000000001",
+                            "label": "DIAMOND",
+                            "typeCode": "0001",
+                            "sType": "fixed",
+                            "sAvail": 141,
+                            "sTotal": 403,
+                            "price": 200.0,
+                            "statusColor": "Y"
+                        }
+                    ],
+                    "total": 448,
+                    "avail": 141,
+                    "audi": "SCREEN 3",
+                    "premium": 0,
+                    "premiumLabel": "4K DOLBY 7.1",
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 10,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "sndFmt": "none",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Thriller"
+                    ],
+                    "statusColor": "Y",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "29196",
+                    "pid": 1407,
+                    "pkey": "vista_common_food",
+                    "cid": 10185,
+                    "mid": "OAV34I",
+                    "fid": "TtdX_wUyN",
+                    "showTime": "2024-09-27T10:10",
+                    "closeTime": "2024-09-27T08:10",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "0000000002",
+                            "label": "PEARL",
+                            "typeCode": "0002",
+                            "sType": "fixed",
+                            "sAvail": 1,
+                            "sTotal": 45,
+                            "price": 63.0,
+                            "statusColor": "R"
+                        },
+                        {
+                            "code": "0000000001",
+                            "label": "DIAMOND",
+                            "typeCode": "0001",
+                            "sType": "fixed",
+                            "sAvail": 219,
+                            "sTotal": 403,
+                            "price": 200.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 448,
+                    "avail": 220,
+                    "audi": "SCREEN 3",
+                    "premium": 0,
+                    "premiumLabel": "4K DOLBY 7.1",
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 10,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "sndFmt": "none",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Thriller"
+                    ],
+                    "statusColor": "G",
+                    "subtitle": ""
+                }
+            ],
+            "4891": [
+                {
+                    "sid": "30556__1727407800__86__70298",
+                    "pid": 799,
+                    "pkey": "ticketnew",
+                    "cid": 4891,
+                    "mid": "OAV34I",
+                    "fid": "TtdX_wUyN",
+                    "showTime": "2024-09-27T03:30",
+                    "closeTime": "2024-09-27T03:20",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "85",
+                            "label": "BOX C",
+                            "typeCode": "30556__1727407800__86__70298_BOX C",
+                            "sType": "fixed",
+                            "sAvail": 0,
+                            "sTotal": 16,
+                            "price": 150.0,
+                            "statusColor": "D"
+                        },
+                        {
+                            "code": "87",
+                            "label": "BOX D",
+                            "typeCode": "30556__1727407800__86__70298_BOX D",
+                            "sType": "fixed",
+                            "sAvail": 0,
+                            "sTotal": 12,
+                            "price": 150.0,
+                            "statusColor": "D"
+                        },
+                        {
+                            "code": "90",
+                            "label": "GOLD",
+                            "typeCode": "30556__1727407800__86__70298_GOLD",
+                            "sType": "fixed",
+                            "sAvail": 0,
+                            "sTotal": 213,
+                            "price": 150.0,
+                            "statusColor": "D"
+                        },
+                        {
+                            "code": "100",
+                            "label": "SILVER",
+                            "typeCode": "30556__1727407800__86__70298_SILVER",
+                            "sType": "fixed",
+                            "sAvail": 15,
+                            "sTotal": 120,
+                            "price": 150.0,
+                            "statusColor": "Y"
+                        }
+                    ],
+                    "total": 361,
+                    "avail": 15,
+                    "audi": "Rakesh | RGB | 7.1",
+                    "premium": 0,
+                    "premiumLabel": "RAKESH ",
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 10,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "sndFmt": "none",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Thriller"
+                    ],
+                    "statusColor": "R",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "30556__1727448300__85__70277",
+                    "pid": 799,
+                    "pkey": "ticketnew",
+                    "cid": 4891,
+                    "mid": "OAV34I",
+                    "fid": "TtdX_wUyN",
+                    "showTime": "2024-09-27T14:45",
+                    "closeTime": "2024-09-27T14:35",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "1",
+                            "label": "BOX A",
+                            "typeCode": "30556__1727448300__85__70277_BOX A",
+                            "sType": "fixed",
+                            "sAvail": 0,
+                            "sTotal": 13,
+                            "price": 190.0,
+                            "statusColor": "D"
+                        },
+                        {
+                            "code": "2",
+                            "label": "BOX B",
+                            "typeCode": "30556__1727448300__85__70277_BOX B",
+                            "sType": "fixed",
+                            "sAvail": 0,
+                            "sTotal": 13,
+                            "price": 190.0,
+                            "statusColor": "D"
+                        },
+                        {
+                            "code": "3",
+                            "label": "BALCONY",
+                            "typeCode": "30556__1727448300__85__70277_BALCONY",
+                            "sType": "fixed",
+                            "sAvail": 0,
+                            "sTotal": 125,
+                            "price": 190.0,
+                            "statusColor": "D"
+                        },
+                        {
+                            "code": "60",
+                            "label": "GOLD",
+                            "typeCode": "30556__1727448300__85__70277_GOLD",
+                            "sType": "fixed",
+                            "sAvail": 4,
+                            "sTotal": 344,
+                            "price": 150.0,
+                            "statusColor": "R"
+                        },
+                        {
+                            "code": "80",
+                            "label": "SILVER",
+                            "typeCode": "30556__1727448300__85__70277_SILVER",
+                            "sType": "fixed",
+                            "sAvail": 129,
+                            "sTotal": 208,
+                            "price": 150.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 703,
+                    "avail": 133,
+                    "audi": "Vettri | RGB | Atmos",
+                    "premium": 0,
+                    "premiumLabel": "VETTRI ",
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 10,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "sndFmt": "none",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Thriller"
+                    ],
+                    "statusColor": "Y",
+                    "subtitle": ""
+                }
+            ]
+        }
+    }
+}
