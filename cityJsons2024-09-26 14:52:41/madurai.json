@@ -1,0 +1,665 @@
+{
+    "serverTime": 1727362685,
+    "meta": {
+        "movies": [
+            {
+                "id": "OAV34I",
+                "frmtId": "TtdX_wUyN",
+                "name": "Devara - Part 1",
+                "imgPath": "https://assetscdn1.paytm.com/images/cinema/Devara---Part-1--705x750-ff23a0e0-ccc6-11ee-a6f3-b9b401515283.jpg",
+                "appImgPath": "https://assetscdn1.paytm.com/images/cinema/Devara-608x800-87e29260-7834-11ef-ad27-dfa11df60ee4.jpg",
+                "cvrPath": "https://assetscdn1.paytm.com/images/cinema/we-a407a150-7b23-11ef-84df-ff7d1a67840c.jpg",
+                "appCvrPath": "https://assetscdn1.paytm.com/images/cinema/App-cover-a62c7d20-7b23-11ef-8892-f397183e5623.jpg",
+                "thumbnail": null,
+                "edgeBanner": "https://assetscdn1.paytm.com/images/cinema/Devara---Part-1--1035%E2%80%8A%C3%97%E2%80%8A420-118bd900-ccc7-11ee-a6f3-b9b401515283.jpg",
+                "trailer": "https://youtu.be/5cx7rvMvAWo",
+                "censor": "U/A",
+                "duration": 178,
+                "grn": [
+                    "Action",
+                    "Drama",
+                    "Thriller"
+                ],
+                "scrnFmt": "2D",
+                "sndFmt": "none",
+                "rnr": {
+                    "hasUReview": 0,
+                    "hasContent": 1
+                },
+                "isNew": false,
+                "imxImgUrl": null,
+                "contentId": 159964,
+                "label": "Devara - Part 1",
+                "lang": "Telugu"
+            }
+        ],
+        "filterBuckets": {
+            "timeBuckets": [
+                {
+                    "sTime": "05:00",
+                    "eTime": "11:59",
+                    "desc": "5:00 AM to 11:59 AM",
+                    "dText": "Morning",
+                    "desc1": "Till 12 PM"
+                },
+                {
+                    "sTime": "12:00",
+                    "eTime": "15:59",
+                    "desc": "12:00 PM to 3:59 PM",
+                    "dText": "Afternoon",
+                    "desc1": "Till 4 PM"
+                },
+                {
+                    "sTime": "16:00",
+                    "eTime": "18:59",
+                    "desc": "4:00 PM to 6:59 PM",
+                    "dText": "Evening",
+                    "desc1": "Till 7 PM"
+                },
+                {
+                    "sTime": "19:00",
+                    "eTime": "04:59",
+                    "desc": "7:00 PM to 4:59 AM",
+                    "dText": "Night",
+                    "desc1": "After 7 PM"
+                }
+            ],
+            "priceBuckets": [
+                {
+                    "min": "0",
+                    "max": "99",
+                    "desc": "Below Rs 100"
+                },
+                {
+                    "min": "100",
+                    "max": "199",
+                    "desc": "Rs 100 - Rs 199"
+                },
+                {
+                    "min": "200",
+                    "max": "299",
+                    "desc": "Rs 200 - Rs 299"
+                },
+                {
+                    "min": "300",
+                    "max": "399",
+                    "desc": "Rs 300 - Rs 399"
+                },
+                {
+                    "min": "400",
+                    "max": "NA",
+                    "desc": "Rs 400 or above"
+                }
+            ],
+            "showTimeBuckets": [
+                {
+                    "sTime": "00:00",
+                    "eTime": "08:00",
+                    "desc": "12 AM to 8 AM",
+                    "dText": "Early Morning",
+                    "desc1": "Till 8 AM"
+                },
+                {
+                    "sTime": "08:00",
+                    "eTime": "12:00",
+                    "desc": "8 AM to 12 PM",
+                    "dText": "Morning",
+                    "desc1": "Till 12 PM"
+                },
+                {
+                    "sTime": "12:00",
+                    "eTime": "16:00",
+                    "desc": "12 PM to 4 PM",
+                    "dText": "Afternoon",
+                    "desc1": "Till 4 PM"
+                },
+                {
+                    "sTime": "16:00",
+                    "eTime": "19:00",
+                    "desc": "4 PM to 7 PM",
+                    "dText": "Evening",
+                    "desc1": "Till 7 PM"
+                },
+                {
+                    "sTime": "19:00",
+                    "eTime": "23:59",
+                    "desc": "7 PM to 12 AM",
+                    "dText": "Night",
+                    "desc1": "Till 12 AM"
+                }
+            ]
+        },
+        "amenities": [
+            {
+                "id": 2,
+                "name": "Parking",
+                "rank": 1
+            },
+            {
+                "id": 1,
+                "name": "Mobile Ticket",
+                "rank": 2
+            },
+            {
+                "id": 3,
+                "name": "Online Food",
+                "rank": 3
+            },
+            {
+                "id": 5,
+                "name": "Recliners",
+                "rank": 4
+            },
+            {
+                "id": 6,
+                "name": "Paytm Accepted",
+                "rank": 5
+            },
+            {
+                "id": 4,
+                "name": "Wheelchair Friendly",
+                "rank": 6
+            },
+            {
+                "id": 7,
+                "name": "RGB Laser",
+                "rank": 7
+            },
+            {
+                "id": 8,
+                "name": "Dolby Atmos",
+                "rank": 8
+            },
+            {
+                "id": 9,
+                "name": "IMAX",
+                "rank": 9
+            },
+            {
+                "id": 10,
+                "name": "4K",
+                "rank": 10
+            },
+            {
+                "id": 11,
+                "name": "AC",
+                "rank": 11
+            },
+            {
+                "id": 12,
+                "name": "WIFI",
+                "rank": 12
+            },
+            {
+                "id": 13,
+                "name": "Food Court",
+                "rank": 13
+            },
+            {
+                "id": 14,
+                "name": "Gaming Zone",
+                "rank": 14
+            },
+            {
+                "id": 15,
+                "name": "2K",
+                "rank": 15
+            },
+            {
+                "id": 16,
+                "name": "4D",
+                "rank": 16
+            },
+            {
+                "id": 17,
+                "name": "4DX",
+                "rank": 17
+            },
+            {
+                "id": 18,
+                "name": "Dolby 7.1",
+                "rank": 18
+            },
+            {
+                "id": 19,
+                "name": "Air conditioning",
+                "rank": 19
+            },
+            {
+                "id": 20,
+                "name": "Metro Train",
+                "rank": 20
+            },
+            {
+                "id": 21,
+                "name": "Sofa",
+                "rank": 21
+            },
+            {
+                "id": 22,
+                "name": "Social Seating",
+                "rank": 22
+            },
+            {
+                "id": 23,
+                "name": "Wheelchair Assistance",
+                "rank": 23
+            },
+            {
+                "id": 24,
+                "name": "Silver Screen",
+                "rank": 24
+            },
+            {
+                "id": 25,
+                "name": "Food & Beverages",
+                "rank": 25
+            },
+            {
+                "id": 26,
+                "name": "Paper Less Ticketing",
+                "rank": 26
+            },
+            {
+                "id": 27,
+                "name": "Handicapped Washroom",
+                "rank": 27
+            },
+            {
+                "id": 28,
+                "name": "Free Parking",
+                "rank": 28
+            },
+            {
+                "id": 29,
+                "name": "Baggage Counter",
+                "rank": 29
+            },
+            {
+                "id": 30,
+                "name": "Dolby 4 Way 11.1",
+                "rank": 30
+            },
+            {
+                "id": 31,
+                "name": "Barco 4K Ultra HD",
+                "rank": 31
+            }
+        ],
+        "cinemas": [
+            {
+                "id": 1020190,
+                "pid": 1770,
+                "name": "Radiance Cinema",
+                "address": "326, Jeeva Theatre, Podumbu Main Rd, Sikkandar Savadi, Madurai, Tamil Nadu 625018, India",
+                "pincode": "625018",
+                "lat": 9.971911,
+                "lon": 78.095012,
+                "cityId": 53,
+                "appCovrImgUrl": "",
+                "covrImgUrl": "",
+                "fnb": 0,
+                "mTkt": 1,
+                "bCode": "0",
+                "sTop": 0,
+                "isMerchantCancellable": 0,
+                "cinemaLogoUrl": "https://assetscdn1.paytm.com/images/cinema/RADINEE--5e27b7c0-3d1a-11ef-99b5-d35223c98590.png",
+                "cinemaVideoUrl": "",
+                "appCoverVideoUrl": "",
+                "webCoverVideoUrl": "",
+                "amenities": null,
+                "promos": null,
+                "chainKey": "Radiance Cinema",
+                "contentId": 169248,
+                "theatreGroupName": "",
+                "amenitiesOrder": null,
+                "carouselAttachments": [
+                    {
+                        "type": "IMAGE",
+                        "assetPosition": 1.0,
+                        "appImageUrl": "https://assetscdn1.paytm.com/images/cinema/1%20(2)-d196e310-b12f-11ee-9dc3-a7b6a49337da.jpg",
+                        "webImageUrl": "https://assetscdn1.paytm.com/images/cinema/_web--%20(1)-65a57f10-b132-11ee-9dc3-a7b6a49337da.jpg"
+                    },
+                    {
+                        "type": "IMAGE",
+                        "assetPosition": 2.0,
+                        "appImageUrl": "https://assetscdn1.paytm.com/images/cinema/DSC04615-HDR-98e0fd70-b117-11ee-8a1f-bfa09bf4348a.jpg",
+                        "webImageUrl": "https://assetscdn1.paytm.com/images/cinema/DSC04615-HDR-web-9c2ca600-b117-11ee-9dc3-a7b6a49337da.jpg"
+                    },
+                    {
+                        "type": "IMAGE",
+                        "assetPosition": 3.0,
+                        "appImageUrl": "https://assetscdn1.paytm.com/images/cinema/DSC04492-HDR-Pano-a3b29ce0-b117-11ee-8a1f-bfa09bf4348a.jpg",
+                        "webImageUrl": "https://assetscdn1.paytm.com/images/cinema/DSC04492-HDR-Pano-web-a645cae0-b117-11ee-8a1f-bfa09bf4348a.jpg"
+                    },
+                    {
+                        "type": "IMAGE",
+                        "assetPosition": 4.0,
+                        "appImageUrl": "https://assetscdn1.paytm.com/images/cinema/DSC04576-HDR-af883ed0-b117-11ee-9dc3-a7b6a49337da.jpg",
+                        "webImageUrl": "https://assetscdn1.paytm.com/images/cinema/DSC04576-HDR-web-b3dea0a0-b117-11ee-8a1f-bfa09bf4348a.jpg"
+                    },
+                    {
+                        "type": "IMAGE",
+                        "assetPosition": 5.0,
+                        "appImageUrl": "https://assetscdn1.paytm.com/images/cinema/DSC04677-HDR-c0aea820-b117-11ee-8a1f-bfa09bf4348a.jpg",
+                        "webImageUrl": "https://assetscdn1.paytm.com/images/cinema/DSC04677-HDR-web-c473c670-b117-11ee-9dc3-a7b6a49337da.jpg"
+                    },
+                    {
+                        "type": "IMAGE",
+                        "assetPosition": 6.0,
+                        "appImageUrl": "https://assetscdn1.paytm.com/images/cinema/DSC04760-HDR-Pano-cbff89b0-b117-11ee-9dc3-a7b6a49337da.jpg",
+                        "webImageUrl": "https://assetscdn1.paytm.com/images/cinema/DSC04760-HDR-Pano-web-cf5b37d0-b117-11ee-8a1f-bfa09bf4348a.jpg"
+                    }
+                ],
+                "isPassEnabled": 0,
+                "paytmCinemaId": 1020190,
+                "city": "Madurai",
+                "clientId": "ticketnew",
+                "isMapped": 0,
+                "city_id": null,
+                "is_city_mapped": null,
+                "state": "tamil-nadu",
+                "label": "Radiance Cinema",
+                "sessionCount": 15
+            },
+            {
+                "id": 1029680,
+                "pid": 1707,
+                "name": "PVR INOX Vishaal De Mall, Madurai",
+                "address": "5th Floor, Vishaal De Mal, No. 31, Gokhale Road, Chinna Chokkikulam, Madurai, Tamil Nadu 625002, India",
+                "pincode": "625002",
+                "lat": 9.938244,
+                "lon": 78.135972,
+                "cityId": 53,
+                "appCovrImgUrl": "",
+                "covrImgUrl": "",
+                "fnb": 0,
+                "mTkt": 1,
+                "bCode": "0",
+                "sTop": 0,
+                "isMerchantCancellable": 0,
+                "cinemaLogoUrl": "https://assetscdn1.paytm.com/images/cinema/Inox%20(1)-c9129720-2961-11ef-823e-c1c5dc58e6ec.png",
+                "cinemaVideoUrl": "",
+                "appCoverVideoUrl": "",
+                "webCoverVideoUrl": "",
+                "amenities": null,
+                "promos": null,
+                "chainKey": "PVR",
+                "contentId": 174683,
+                "theatreGroupName": "",
+                "amenitiesOrder": null,
+                "carouselAttachments": [],
+                "isPassEnabled": 1,
+                "paytmCinemaId": 1029680,
+                "city": "Madurai",
+                "clientId": "ticketnew",
+                "isMapped": 0,
+                "city_id": null,
+                "is_city_mapped": null,
+                "state": "tamil-nadu",
+                "label": "PVR INOX Vishaal De Mall, Madurai",
+                "sessionCount": 91
+            }
+        ],
+        "filterData": {
+            "minSTime": "06:10",
+            "maxSTime": "16:50",
+            "minPrice": 60.0,
+            "maxPrice": 202.84,
+            "premium": false,
+            "freeSeats": false,
+            "groupSeats": false,
+            "tokenFeeSeats": false,
+            "scnFrmts": [
+                "2D"
+            ],
+            "sndFrmts": [
+                "none"
+            ],
+            "mLangs": [
+                "Telugu"
+            ],
+            "genres": [
+                "Action",
+                "Drama",
+                "Thriller"
+            ]
+        }
+    },
+    "data": {
+        "pageSize": 100,
+        "cinemasOrder": [
+            1020190,
+            1029680
+        ],
+        "sessionDates": [
+            "2024-09-27",
+            "2024-09-28",
+            "2024-09-29"
+        ]
+    },
+    "pageData": {
+        "sessions": {
+            "1020190": [
+                {
+                    "sid": "30556__1727442600__5727__9595",
+                    "pid": 1770,
+                    "pkey": "ticketnew",
+                    "cid": 1020190,
+                    "mid": "OAV34I",
+                    "fid": "TtdX_wUyN",
+                    "showTime": "2024-09-27T13:10",
+                    "closeTime": "2024-09-27T13:10",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "30",
+                            "label": "PL",
+                            "typeCode": "30556__1727442600__5727__9595_PL",
+                            "sType": "fixed",
+                            "sAvail": 71,
+                            "sTotal": 71,
+                            "price": 190.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "32",
+                            "label": "GD",
+                            "typeCode": "30556__1727442600__5727__9595_GD",
+                            "sType": "fixed",
+                            "sAvail": 36,
+                            "sTotal": 36,
+                            "price": 150.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "33",
+                            "label": "SL",
+                            "typeCode": "30556__1727442600__5727__9595_SL",
+                            "sType": "fixed",
+                            "sAvail": 0,
+                            "sTotal": 12,
+                            "price": 60.0,
+                            "statusColor": "D"
+                        }
+                    ],
+                    "total": 119,
+                    "avail": 107,
+                    "audi": "VERDOR",
+                    "premium": 0,
+                    "premiumLabel": "VERDOR",
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 10,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "sndFmt": "none",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Thriller"
+                    ],
+                    "statusColor": "G",
+                    "subtitle": ""
+                }
+            ],
+            "1029680": [
+                {
+                    "sid": "81224",
+                    "pid": 1707,
+                    "pkey": "showbizz",
+                    "cid": 1029680,
+                    "mid": "OAV34I",
+                    "fid": "TtdX_wUyN",
+                    "showTime": "2024-09-27T16:50",
+                    "closeTime": "2024-09-27T16:49",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "CL",
+                            "label": "CLUB",
+                            "typeCode": "81224_CL",
+                            "sType": "fixed",
+                            "sAvail": 197,
+                            "sTotal": 239,
+                            "price": 202.84,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "EX",
+                            "label": "EXECUTIVE",
+                            "typeCode": "81224_EX",
+                            "sType": "fixed",
+                            "sAvail": 0,
+                            "sTotal": 16,
+                            "price": 63.73,
+                            "statusColor": "D"
+                        }
+                    ],
+                    "total": 255,
+                    "avail": 197,
+                    "audi": "SCREEN 5",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 10,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "sndFmt": "none",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Thriller"
+                    ],
+                    "statusColor": "G"
+                },
+                {
+                    "sid": "81227",
+                    "pid": 1707,
+                    "pkey": "showbizz",
+                    "cid": 1029680,
+                    "mid": "OAV34I",
+                    "fid": "TtdX_wUyN",
+                    "showTime": "2024-09-27T06:10",
+                    "closeTime": "2024-09-27T06:09",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "CL",
+                            "label": "CLUB",
+                            "typeCode": "81227_CL",
+                            "sType": "fixed",
+                            "sAvail": 118,
+                            "sTotal": 124,
+                            "price": 202.84,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "EX",
+                            "label": "EXECUTIVE",
+                            "typeCode": "81227_EX",
+                            "sType": "fixed",
+                            "sAvail": 10,
+                            "sTotal": 12,
+                            "price": 63.73,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 136,
+                    "avail": 128,
+                    "audi": "SCREEN 1",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 10,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "sndFmt": "none",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Thriller"
+                    ],
+                    "statusColor": "G"
+                },
+                {
+                    "sid": "81168",
+                    "pid": 1707,
+                    "pkey": "showbizz",
+                    "cid": 1029680,
+                    "mid": "OAV34I",
+                    "fid": "TtdX_wUyN",
+                    "showTime": "2024-09-27T09:10",
+                    "closeTime": "2024-09-27T09:09",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "CL",
+                            "label": "CLUB",
+                            "typeCode": "81168_CL",
+                            "sType": "fixed",
+                            "sAvail": 219,
+                            "sTotal": 239,
+                            "price": 202.84,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "EX",
+                            "label": "EXECUTIVE",
+                            "typeCode": "81168_EX",
+                            "sType": "fixed",
+                            "sAvail": 0,
+                            "sTotal": 16,
+                            "price": 63.73,
+                            "statusColor": "D"
+                        }
+                    ],
+                    "total": 255,
+                    "avail": 219,
+                    "audi": "SCREEN 5",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 10,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "sndFmt": "none",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Thriller"
+                    ],
+                    "statusColor": "G"
+                }
+            ]
+        }
+    }
+}

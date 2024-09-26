@@ -1,0 +1,2594 @@
+{
+    "serverTime": 1727362400,
+    "meta": {
+        "movies": [
+            {
+                "id": "OAV34I",
+                "frmtId": "TtdX_wUyN",
+                "name": "Devara - Part 1",
+                "imgPath": "https://assetscdn1.paytm.com/images/cinema/Devara---Part-1--705x750-ff23a0e0-ccc6-11ee-a6f3-b9b401515283.jpg",
+                "appImgPath": "https://assetscdn1.paytm.com/images/cinema/Devara-608x800-87e29260-7834-11ef-ad27-dfa11df60ee4.jpg",
+                "cvrPath": "https://assetscdn1.paytm.com/images/cinema/we-a407a150-7b23-11ef-84df-ff7d1a67840c.jpg",
+                "appCvrPath": "https://assetscdn1.paytm.com/images/cinema/App-cover-a62c7d20-7b23-11ef-8892-f397183e5623.jpg",
+                "thumbnail": null,
+                "edgeBanner": "https://assetscdn1.paytm.com/images/cinema/Devara---Part-1--1035%E2%80%8A%C3%97%E2%80%8A420-118bd900-ccc7-11ee-a6f3-b9b401515283.jpg",
+                "trailer": "https://youtu.be/5cx7rvMvAWo",
+                "censor": "U/A",
+                "duration": 178,
+                "grn": [
+                    "Action",
+                    "Drama",
+                    "Thriller"
+                ],
+                "scrnFmt": "2D",
+                "sndFmt": "none",
+                "rnr": {
+                    "hasUReview": 0,
+                    "hasContent": 1
+                },
+                "isNew": false,
+                "imxImgUrl": null,
+                "contentId": 159964,
+                "label": "Devara - Part 1",
+                "lang": "Telugu"
+            }
+        ],
+        "filterBuckets": {
+            "timeBuckets": [
+                {
+                    "sTime": "05:00",
+                    "eTime": "11:59",
+                    "desc": "5:00 AM to 11:59 AM",
+                    "dText": "Morning",
+                    "desc1": "Till 12 PM"
+                },
+                {
+                    "sTime": "12:00",
+                    "eTime": "15:59",
+                    "desc": "12:00 PM to 3:59 PM",
+                    "dText": "Afternoon",
+                    "desc1": "Till 4 PM"
+                },
+                {
+                    "sTime": "16:00",
+                    "eTime": "18:59",
+                    "desc": "4:00 PM to 6:59 PM",
+                    "dText": "Evening",
+                    "desc1": "Till 7 PM"
+                },
+                {
+                    "sTime": "19:00",
+                    "eTime": "04:59",
+                    "desc": "7:00 PM to 4:59 AM",
+                    "dText": "Night",
+                    "desc1": "After 7 PM"
+                }
+            ],
+            "priceBuckets": [
+                {
+                    "min": "0",
+                    "max": "99",
+                    "desc": "Below Rs 100"
+                },
+                {
+                    "min": "100",
+                    "max": "199",
+                    "desc": "Rs 100 - Rs 199"
+                },
+                {
+                    "min": "200",
+                    "max": "299",
+                    "desc": "Rs 200 - Rs 299"
+                },
+                {
+                    "min": "300",
+                    "max": "399",
+                    "desc": "Rs 300 - Rs 399"
+                },
+                {
+                    "min": "400",
+                    "max": "NA",
+                    "desc": "Rs 400 or above"
+                }
+            ],
+            "showTimeBuckets": [
+                {
+                    "sTime": "00:00",
+                    "eTime": "08:00",
+                    "desc": "12 AM to 8 AM",
+                    "dText": "Early Morning",
+                    "desc1": "Till 8 AM"
+                },
+                {
+                    "sTime": "08:00",
+                    "eTime": "12:00",
+                    "desc": "8 AM to 12 PM",
+                    "dText": "Morning",
+                    "desc1": "Till 12 PM"
+                },
+                {
+                    "sTime": "12:00",
+                    "eTime": "16:00",
+                    "desc": "12 PM to 4 PM",
+                    "dText": "Afternoon",
+                    "desc1": "Till 4 PM"
+                },
+                {
+                    "sTime": "16:00",
+                    "eTime": "19:00",
+                    "desc": "4 PM to 7 PM",
+                    "dText": "Evening",
+                    "desc1": "Till 7 PM"
+                },
+                {
+                    "sTime": "19:00",
+                    "eTime": "23:59",
+                    "desc": "7 PM to 12 AM",
+                    "dText": "Night",
+                    "desc1": "Till 12 AM"
+                }
+            ]
+        },
+        "amenities": [
+            {
+                "id": 2,
+                "name": "Parking",
+                "rank": 1
+            },
+            {
+                "id": 1,
+                "name": "Mobile Ticket",
+                "rank": 2
+            },
+            {
+                "id": 3,
+                "name": "Online Food",
+                "rank": 3
+            },
+            {
+                "id": 5,
+                "name": "Recliners",
+                "rank": 4
+            },
+            {
+                "id": 6,
+                "name": "Paytm Accepted",
+                "rank": 5
+            },
+            {
+                "id": 4,
+                "name": "Wheelchair Friendly",
+                "rank": 6
+            },
+            {
+                "id": 7,
+                "name": "RGB Laser",
+                "rank": 7
+            },
+            {
+                "id": 8,
+                "name": "Dolby Atmos",
+                "rank": 8
+            },
+            {
+                "id": 9,
+                "name": "IMAX",
+                "rank": 9
+            },
+            {
+                "id": 10,
+                "name": "4K",
+                "rank": 10
+            },
+            {
+                "id": 11,
+                "name": "AC",
+                "rank": 11
+            },
+            {
+                "id": 12,
+                "name": "WIFI",
+                "rank": 12
+            },
+            {
+                "id": 13,
+                "name": "Food Court",
+                "rank": 13
+            },
+            {
+                "id": 14,
+                "name": "Gaming Zone",
+                "rank": 14
+            },
+            {
+                "id": 15,
+                "name": "2K",
+                "rank": 15
+            },
+            {
+                "id": 16,
+                "name": "4D",
+                "rank": 16
+            },
+            {
+                "id": 17,
+                "name": "4DX",
+                "rank": 17
+            },
+            {
+                "id": 18,
+                "name": "Dolby 7.1",
+                "rank": 18
+            },
+            {
+                "id": 19,
+                "name": "Air conditioning",
+                "rank": 19
+            },
+            {
+                "id": 20,
+                "name": "Metro Train",
+                "rank": 20
+            },
+            {
+                "id": 21,
+                "name": "Sofa",
+                "rank": 21
+            },
+            {
+                "id": 22,
+                "name": "Social Seating",
+                "rank": 22
+            },
+            {
+                "id": 23,
+                "name": "Wheelchair Assistance",
+                "rank": 23
+            },
+            {
+                "id": 24,
+                "name": "Silver Screen",
+                "rank": 24
+            },
+            {
+                "id": 25,
+                "name": "Food & Beverages",
+                "rank": 25
+            },
+            {
+                "id": 26,
+                "name": "Paper Less Ticketing",
+                "rank": 26
+            },
+            {
+                "id": 27,
+                "name": "Handicapped Washroom",
+                "rank": 27
+            },
+            {
+                "id": 28,
+                "name": "Free Parking",
+                "rank": 28
+            },
+            {
+                "id": 29,
+                "name": "Baggage Counter",
+                "rank": 29
+            },
+            {
+                "id": 30,
+                "name": "Dolby 4 Way 11.1",
+                "rank": 30
+            },
+            {
+                "id": 31,
+                "name": "Barco 4K Ultra HD",
+                "rank": 31
+            }
+        ],
+        "cinemas": [
+            {
+                "id": 6033,
+                "pid": 736,
+                "name": "V Max A/C 2K Dolby, Eluru",
+                "address": "Main Bazar, Paidichintapadu, Eluru, Andhra Pradesh 534001, India",
+                "pincode": "534001",
+                "lat": 16.708244,
+                "lon": 81.113836,
+                "cityId": 115,
+                "appCovrImgUrl": "",
+                "covrImgUrl": "",
+                "fnb": 0,
+                "mTkt": 1,
+                "bCode": "0",
+                "sTop": 0,
+                "isMerchantCancellable": 0,
+                "cinemaLogoUrl": "https://assetscdn1.paytm.com/images/cinema/Theatre%403x-a4b1cf60-676c-11ef-8bfd-85c2f3bcaac6.png",
+                "cinemaVideoUrl": "",
+                "appCoverVideoUrl": "",
+                "webCoverVideoUrl": "",
+                "amenities": null,
+                "promos": null,
+                "chainKey": "TicketNew",
+                "contentId": 156805,
+                "theatreGroupName": "",
+                "amenitiesOrder": null,
+                "carouselAttachments": [],
+                "isPassEnabled": 0,
+                "paytmCinemaId": 6033,
+                "city": "Eluru",
+                "clientId": "ticketnew",
+                "isMapped": 0,
+                "city_id": null,
+                "is_city_mapped": null,
+                "state": "andhra-pradesh",
+                "label": "V Max A/C 2K Dolby, Eluru",
+                "sessionCount": 18
+            },
+            {
+                "id": 1019166,
+                "pid": 750,
+                "name": "SVC Cinemas 4K Dolby Atmos, CMR Mall Eluru",
+                "address": "Opp New Bus Stand, Eluru, Andhra Pradesh 534006, India",
+                "pincode": "534006",
+                "lat": 16.70836,
+                "lon": 81.087662,
+                "cityId": 115,
+                "appCovrImgUrl": "",
+                "covrImgUrl": "",
+                "fnb": 0,
+                "mTkt": 0,
+                "bCode": "0",
+                "sTop": 0,
+                "isMerchantCancellable": 0,
+                "cinemaLogoUrl": "https://assetscdn1.paytm.com/images/cinema/svc-5551d580-869c-11ed-9b16-5b1b1e9f8842%5B1%5D-2bd624d0-9e2f-11ee-9c0a-f7ea7e5b0325.png",
+                "cinemaVideoUrl": "",
+                "appCoverVideoUrl": "",
+                "webCoverVideoUrl": "",
+                "amenities": null,
+                "promos": null,
+                "chainKey": "SVC Sangeetha",
+                "contentId": 168766,
+                "theatreGroupName": "",
+                "amenitiesOrder": null,
+                "carouselAttachments": [],
+                "isPassEnabled": 0,
+                "paytmCinemaId": 1019166,
+                "city": "Eluru",
+                "clientId": "ticketnew",
+                "isMapped": 0,
+                "city_id": null,
+                "is_city_mapped": null,
+                "state": "andhra-pradesh",
+                "label": "SVC Cinemas 4K Dolby Atmos, CMR Mall Eluru",
+                "sessionCount": 30
+            }
+        ],
+        "filterData": {
+            "minSTime": "23:00",
+            "maxSTime": "16:50",
+            "minPrice": 50.0,
+            "maxPrice": 430.0,
+            "premium": true,
+            "freeSeats": false,
+            "groupSeats": false,
+            "tokenFeeSeats": false,
+            "scnFrmts": [
+                "2D"
+            ],
+            "sndFrmts": [
+                "none"
+            ],
+            "mLangs": [
+                "Telugu"
+            ],
+            "genres": [
+                "Action",
+                "Drama",
+                "Thriller"
+            ]
+        }
+    },
+    "data": {
+        "pageSize": 100,
+        "cinemasOrder": [
+            6033,
+            1019166
+        ],
+        "sessionDates": [
+            "2024-09-27"
+        ]
+    },
+    "pageData": {
+        "sessions": {
+            "6033": [
+                {
+                    "sid": "30556__1727418600__934__56089",
+                    "pid": 736,
+                    "pkey": "ticketnew",
+                    "cid": 6033,
+                    "mid": "OAV34I",
+                    "fid": "TtdX_wUyN",
+                    "showTime": "2024-09-27T06:30",
+                    "closeTime": "2024-09-27T06:20",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "30",
+                            "label": "BALCONY",
+                            "typeCode": "30556__1727418600__934__56089_BALCONY",
+                            "sType": "fixed",
+                            "sAvail": 12,
+                            "sTotal": 22,
+                            "price": 250.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "40",
+                            "label": "SECOND CLASS",
+                            "typeCode": "30556__1727418600__934__56089_SECOND CLASS",
+                            "sType": "fixed",
+                            "sAvail": 1,
+                            "sTotal": 30,
+                            "price": 150.0,
+                            "statusColor": "R"
+                        },
+                        {
+                            "code": "50",
+                            "label": "LOW CLASS",
+                            "typeCode": "30556__1727418600__934__56089_LOW CLASS",
+                            "sType": "fixed",
+                            "sAvail": 30,
+                            "sTotal": 48,
+                            "price": 100.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 100,
+                    "avail": 43,
+                    "audi": "Screen 2",
+                    "premium": 0,
+                    "premiumLabel": "SCREEN 2",
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "sndFmt": "none",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Thriller"
+                    ],
+                    "statusColor": "G",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "30556__1727453700__934__56092",
+                    "pid": 736,
+                    "pkey": "ticketnew",
+                    "cid": 6033,
+                    "mid": "OAV34I",
+                    "fid": "TtdX_wUyN",
+                    "showTime": "2024-09-27T16:15",
+                    "closeTime": "2024-09-27T16:05",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "30",
+                            "label": "BALCONY",
+                            "typeCode": "30556__1727453700__934__56092_BALCONY",
+                            "sType": "fixed",
+                            "sAvail": 11,
+                            "sTotal": 22,
+                            "price": 250.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "40",
+                            "label": "SECOND CLASS",
+                            "typeCode": "30556__1727453700__934__56092_SECOND CLASS",
+                            "sType": "fixed",
+                            "sAvail": 10,
+                            "sTotal": 30,
+                            "price": 150.0,
+                            "statusColor": "Y"
+                        },
+                        {
+                            "code": "50",
+                            "label": "LOW CLASS",
+                            "typeCode": "30556__1727453700__934__56092_LOW CLASS",
+                            "sType": "fixed",
+                            "sAvail": 41,
+                            "sTotal": 48,
+                            "price": 100.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 100,
+                    "avail": 62,
+                    "audi": "Screen 2",
+                    "premium": 0,
+                    "premiumLabel": "SCREEN 2",
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "sndFmt": "none",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Thriller"
+                    ],
+                    "statusColor": "G",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "30556__1727420400__2298__56117",
+                    "pid": 736,
+                    "pkey": "ticketnew",
+                    "cid": 6033,
+                    "mid": "OAV34I",
+                    "fid": "TtdX_wUyN",
+                    "showTime": "2024-09-27T07:00",
+                    "closeTime": "2024-09-27T06:50",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "60",
+                            "label": "RECLINER",
+                            "typeCode": "30556__1727420400__2298__56117_RECLINER",
+                            "sType": "fixed",
+                            "sAvail": 0,
+                            "sTotal": 0,
+                            "price": 350.0,
+                            "statusColor": "D"
+                        },
+                        {
+                            "code": "70",
+                            "label": "FRIST CLASS",
+                            "typeCode": "30556__1727420400__2298__56117_FRIST CLASS",
+                            "sType": "fixed",
+                            "sAvail": 26,
+                            "sTotal": 20,
+                            "price": 250.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "80",
+                            "label": "LOW CLASS",
+                            "typeCode": "30556__1727420400__2298__56117_LOW CLASS",
+                            "sType": "fixed",
+                            "sAvail": 17,
+                            "sTotal": 46,
+                            "price": 100.0,
+                            "statusColor": "Y"
+                        }
+                    ],
+                    "total": 66,
+                    "avail": 43,
+                    "audi": "Screen 3",
+                    "premium": 1,
+                    "premiumLabel": "SCREEN 3",
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "sndFmt": "none",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Thriller"
+                    ],
+                    "statusColor": "G",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "30556__1727440200__933__56084",
+                    "pid": 736,
+                    "pkey": "ticketnew",
+                    "cid": 6033,
+                    "mid": "OAV34I",
+                    "fid": "TtdX_wUyN",
+                    "showTime": "2024-09-27T12:30",
+                    "closeTime": "2024-09-27T12:20",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "25",
+                            "label": "EXECUTIVE",
+                            "typeCode": "30556__1727440200__933__56084_EXECUTIVE",
+                            "sType": "fixed",
+                            "sAvail": 0,
+                            "sTotal": 0,
+                            "price": 250.0,
+                            "statusColor": "D"
+                        },
+                        {
+                            "code": "30",
+                            "label": "BALCONY",
+                            "typeCode": "30556__1727440200__933__56084_BALCONY",
+                            "sType": "fixed",
+                            "sAvail": 0,
+                            "sTotal": 30,
+                            "price": 250.0,
+                            "statusColor": "D"
+                        },
+                        {
+                            "code": "40",
+                            "label": "SECOND CLASS",
+                            "typeCode": "30556__1727440200__933__56084_SECOND CLASS",
+                            "sType": "fixed",
+                            "sAvail": 0,
+                            "sTotal": 32,
+                            "price": 150.0,
+                            "statusColor": "D"
+                        },
+                        {
+                            "code": "50",
+                            "label": "LOW CLASS",
+                            "typeCode": "30556__1727440200__933__56084_LOW CLASS",
+                            "sType": "fixed",
+                            "sAvail": 11,
+                            "sTotal": 54,
+                            "price": 100.0,
+                            "statusColor": "Y"
+                        }
+                    ],
+                    "total": 116,
+                    "avail": 11,
+                    "audi": "Screen 1",
+                    "premium": 0,
+                    "premiumLabel": "SCREEN 1",
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "sndFmt": "none",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Thriller"
+                    ],
+                    "statusColor": "R",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "30556__1727455500__2298__56120",
+                    "pid": 736,
+                    "pkey": "ticketnew",
+                    "cid": 6033,
+                    "mid": "OAV34I",
+                    "fid": "TtdX_wUyN",
+                    "showTime": "2024-09-27T16:45",
+                    "closeTime": "2024-09-27T16:35",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "60",
+                            "label": "RECLINER",
+                            "typeCode": "30556__1727455500__2298__56120_RECLINER",
+                            "sType": "fixed",
+                            "sAvail": 0,
+                            "sTotal": 0,
+                            "price": 350.0,
+                            "statusColor": "D"
+                        },
+                        {
+                            "code": "70",
+                            "label": "FRIST CLASS",
+                            "typeCode": "30556__1727455500__2298__56120_FRIST CLASS",
+                            "sType": "fixed",
+                            "sAvail": 19,
+                            "sTotal": 20,
+                            "price": 250.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "80",
+                            "label": "LOW CLASS",
+                            "typeCode": "30556__1727455500__2298__56120_LOW CLASS",
+                            "sType": "fixed",
+                            "sAvail": 19,
+                            "sTotal": 46,
+                            "price": 100.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 66,
+                    "avail": 38,
+                    "audi": "Screen 3",
+                    "premium": 1,
+                    "premiumLabel": "SCREEN 3",
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "sndFmt": "none",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Thriller"
+                    ],
+                    "statusColor": "G",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "30556__1727432100__2298__56118",
+                    "pid": 736,
+                    "pkey": "ticketnew",
+                    "cid": 6033,
+                    "mid": "OAV34I",
+                    "fid": "TtdX_wUyN",
+                    "showTime": "2024-09-27T10:15",
+                    "closeTime": "2024-09-27T10:05",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "60",
+                            "label": "RECLINER",
+                            "typeCode": "30556__1727432100__2298__56118_RECLINER",
+                            "sType": "fixed",
+                            "sAvail": 0,
+                            "sTotal": 0,
+                            "price": 350.0,
+                            "statusColor": "D"
+                        },
+                        {
+                            "code": "70",
+                            "label": "FRIST CLASS",
+                            "typeCode": "30556__1727432100__2298__56118_FRIST CLASS",
+                            "sType": "fixed",
+                            "sAvail": 31,
+                            "sTotal": 20,
+                            "price": 250.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "80",
+                            "label": "LOW CLASS",
+                            "typeCode": "30556__1727432100__2298__56118_LOW CLASS",
+                            "sType": "fixed",
+                            "sAvail": 27,
+                            "sTotal": 46,
+                            "price": 100.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 66,
+                    "avail": 58,
+                    "audi": "Screen 3",
+                    "premium": 1,
+                    "premiumLabel": "SCREEN 3",
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "sndFmt": "none",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Thriller"
+                    ],
+                    "statusColor": "G",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "30556__1727406900__934__56094",
+                    "pid": 736,
+                    "pkey": "ticketnew",
+                    "cid": 6033,
+                    "mid": "OAV34I",
+                    "fid": "TtdX_wUyN",
+                    "showTime": "2024-09-27T03:15",
+                    "closeTime": "2024-09-27T03:05",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "30",
+                            "label": "BALCONY",
+                            "typeCode": "30556__1727406900__934__56094_BALCONY",
+                            "sType": "fixed",
+                            "sAvail": 0,
+                            "sTotal": 22,
+                            "price": 250.0,
+                            "statusColor": "D"
+                        },
+                        {
+                            "code": "40",
+                            "label": "SECOND CLASS",
+                            "typeCode": "30556__1727406900__934__56094_SECOND CLASS",
+                            "sType": "fixed",
+                            "sAvail": 0,
+                            "sTotal": 30,
+                            "price": 150.0,
+                            "statusColor": "D"
+                        },
+                        {
+                            "code": "50",
+                            "label": "LOW CLASS",
+                            "typeCode": "30556__1727406900__934__56094_LOW CLASS",
+                            "sType": "fixed",
+                            "sAvail": 23,
+                            "sTotal": 48,
+                            "price": 100.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 100,
+                    "avail": 23,
+                    "audi": "Screen 2",
+                    "premium": 0,
+                    "premiumLabel": "SCREEN 2",
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "sndFmt": "none",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Thriller"
+                    ],
+                    "statusColor": "Y",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "30556__1727451900__933__56085",
+                    "pid": 736,
+                    "pkey": "ticketnew",
+                    "cid": 6033,
+                    "mid": "OAV34I",
+                    "fid": "TtdX_wUyN",
+                    "showTime": "2024-09-27T15:45",
+                    "closeTime": "2024-09-27T15:35",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "25",
+                            "label": "EXECUTIVE",
+                            "typeCode": "30556__1727451900__933__56085_EXECUTIVE",
+                            "sType": "fixed",
+                            "sAvail": 0,
+                            "sTotal": 0,
+                            "price": 250.0,
+                            "statusColor": "D"
+                        },
+                        {
+                            "code": "30",
+                            "label": "BALCONY",
+                            "typeCode": "30556__1727451900__933__56085_BALCONY",
+                            "sType": "fixed",
+                            "sAvail": 0,
+                            "sTotal": 30,
+                            "price": 250.0,
+                            "statusColor": "D"
+                        },
+                        {
+                            "code": "40",
+                            "label": "SECOND CLASS",
+                            "typeCode": "30556__1727451900__933__56085_SECOND CLASS",
+                            "sType": "fixed",
+                            "sAvail": 5,
+                            "sTotal": 32,
+                            "price": 150.0,
+                            "statusColor": "Y"
+                        },
+                        {
+                            "code": "50",
+                            "label": "LOW CLASS",
+                            "typeCode": "30556__1727451900__933__56085_LOW CLASS",
+                            "sType": "fixed",
+                            "sAvail": 27,
+                            "sTotal": 54,
+                            "price": 100.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 116,
+                    "avail": 32,
+                    "audi": "Screen 1",
+                    "premium": 0,
+                    "premiumLabel": "SCREEN 1",
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "sndFmt": "none",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Thriller"
+                    ],
+                    "statusColor": "Y",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "30556__1727416800__933__56082",
+                    "pid": 736,
+                    "pkey": "ticketnew",
+                    "cid": 6033,
+                    "mid": "OAV34I",
+                    "fid": "TtdX_wUyN",
+                    "showTime": "2024-09-27T06:00",
+                    "closeTime": "2024-09-27T05:50",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "25",
+                            "label": "EXECUTIVE",
+                            "typeCode": "30556__1727416800__933__56082_EXECUTIVE",
+                            "sType": "fixed",
+                            "sAvail": 0,
+                            "sTotal": 0,
+                            "price": 250.0,
+                            "statusColor": "D"
+                        },
+                        {
+                            "code": "30",
+                            "label": "BALCONY",
+                            "typeCode": "30556__1727416800__933__56082_BALCONY",
+                            "sType": "fixed",
+                            "sAvail": 0,
+                            "sTotal": 30,
+                            "price": 250.0,
+                            "statusColor": "D"
+                        },
+                        {
+                            "code": "40",
+                            "label": "SECOND CLASS",
+                            "typeCode": "30556__1727416800__933__56082_SECOND CLASS",
+                            "sType": "fixed",
+                            "sAvail": 1,
+                            "sTotal": 32,
+                            "price": 150.0,
+                            "statusColor": "R"
+                        },
+                        {
+                            "code": "50",
+                            "label": "LOW CLASS",
+                            "typeCode": "30556__1727416800__933__56082_LOW CLASS",
+                            "sType": "fixed",
+                            "sAvail": 2,
+                            "sTotal": 54,
+                            "price": 100.0,
+                            "statusColor": "R"
+                        }
+                    ],
+                    "total": 116,
+                    "avail": 3,
+                    "audi": "Screen 1",
+                    "premium": 0,
+                    "premiumLabel": "SCREEN 1",
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "sndFmt": "none",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Thriller"
+                    ],
+                    "statusColor": "R",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "30556__1727442000__934__56091",
+                    "pid": 736,
+                    "pkey": "ticketnew",
+                    "cid": 6033,
+                    "mid": "OAV34I",
+                    "fid": "TtdX_wUyN",
+                    "showTime": "2024-09-27T13:00",
+                    "closeTime": "2024-09-27T12:50",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "30",
+                            "label": "BALCONY",
+                            "typeCode": "30556__1727442000__934__56091_BALCONY",
+                            "sType": "fixed",
+                            "sAvail": 0,
+                            "sTotal": 22,
+                            "price": 250.0,
+                            "statusColor": "D"
+                        },
+                        {
+                            "code": "40",
+                            "label": "SECOND CLASS",
+                            "typeCode": "30556__1727442000__934__56091_SECOND CLASS",
+                            "sType": "fixed",
+                            "sAvail": 17,
+                            "sTotal": 30,
+                            "price": 150.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "50",
+                            "label": "LOW CLASS",
+                            "typeCode": "30556__1727442000__934__56091_LOW CLASS",
+                            "sType": "fixed",
+                            "sAvail": 25,
+                            "sTotal": 48,
+                            "price": 100.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 100,
+                    "avail": 42,
+                    "audi": "Screen 2",
+                    "premium": 0,
+                    "premiumLabel": "SCREEN 2",
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "sndFmt": "none",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Thriller"
+                    ],
+                    "statusColor": "G",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "30556__1727397000__2298__56121",
+                    "pid": 736,
+                    "pkey": "ticketnew",
+                    "cid": 6033,
+                    "mid": "OAV34I",
+                    "fid": "TtdX_wUyN",
+                    "showTime": "2024-09-27T00:30",
+                    "closeTime": "2024-09-27T00:20",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "60",
+                            "label": "RECLINER",
+                            "typeCode": "30556__1727397000__2298__56121_RECLINER",
+                            "sType": "fixed",
+                            "sAvail": 0,
+                            "sTotal": 0,
+                            "price": 350.0,
+                            "statusColor": "D"
+                        },
+                        {
+                            "code": "70",
+                            "label": "FRIST CLASS",
+                            "typeCode": "30556__1727397000__2298__56121_FRIST CLASS",
+                            "sType": "fixed",
+                            "sAvail": 0,
+                            "sTotal": 20,
+                            "price": 250.0,
+                            "statusColor": "D"
+                        },
+                        {
+                            "code": "80",
+                            "label": "LOW CLASS",
+                            "typeCode": "30556__1727397000__2298__56121_LOW CLASS",
+                            "sType": "fixed",
+                            "sAvail": 0,
+                            "sTotal": 46,
+                            "price": 100.0,
+                            "statusColor": "D"
+                        }
+                    ],
+                    "total": 66,
+                    "avail": 0,
+                    "audi": "Screen 3",
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "sndFmt": "none",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Thriller"
+                    ],
+                    "statusColor": "D",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "30556__1727430300__934__56090",
+                    "pid": 736,
+                    "pkey": "ticketnew",
+                    "cid": 6033,
+                    "mid": "OAV34I",
+                    "fid": "TtdX_wUyN",
+                    "showTime": "2024-09-27T09:45",
+                    "closeTime": "2024-09-27T09:35",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "30",
+                            "label": "BALCONY",
+                            "typeCode": "30556__1727430300__934__56090_BALCONY",
+                            "sType": "fixed",
+                            "sAvail": 5,
+                            "sTotal": 22,
+                            "price": 250.0,
+                            "statusColor": "Y"
+                        },
+                        {
+                            "code": "40",
+                            "label": "SECOND CLASS",
+                            "typeCode": "30556__1727430300__934__56090_SECOND CLASS",
+                            "sType": "fixed",
+                            "sAvail": 2,
+                            "sTotal": 30,
+                            "price": 150.0,
+                            "statusColor": "R"
+                        },
+                        {
+                            "code": "50",
+                            "label": "LOW CLASS",
+                            "typeCode": "30556__1727430300__934__56090_LOW CLASS",
+                            "sType": "fixed",
+                            "sAvail": 31,
+                            "sTotal": 48,
+                            "price": 100.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 100,
+                    "avail": 38,
+                    "audi": "Screen 2",
+                    "premium": 0,
+                    "premiumLabel": "SCREEN 2",
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "sndFmt": "none",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Thriller"
+                    ],
+                    "statusColor": "Y",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "30556__1727428500__933__56083",
+                    "pid": 736,
+                    "pkey": "ticketnew",
+                    "cid": 6033,
+                    "mid": "OAV34I",
+                    "fid": "TtdX_wUyN",
+                    "showTime": "2024-09-27T09:15",
+                    "closeTime": "2024-09-27T09:05",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "25",
+                            "label": "EXECUTIVE",
+                            "typeCode": "30556__1727428500__933__56083_EXECUTIVE",
+                            "sType": "fixed",
+                            "sAvail": 0,
+                            "sTotal": 0,
+                            "price": 250.0,
+                            "statusColor": "D"
+                        },
+                        {
+                            "code": "30",
+                            "label": "BALCONY",
+                            "typeCode": "30556__1727428500__933__56083_BALCONY",
+                            "sType": "fixed",
+                            "sAvail": 0,
+                            "sTotal": 30,
+                            "price": 250.0,
+                            "statusColor": "D"
+                        },
+                        {
+                            "code": "40",
+                            "label": "SECOND CLASS",
+                            "typeCode": "30556__1727428500__933__56083_SECOND CLASS",
+                            "sType": "fixed",
+                            "sAvail": 0,
+                            "sTotal": 32,
+                            "price": 150.0,
+                            "statusColor": "D"
+                        },
+                        {
+                            "code": "50",
+                            "label": "LOW CLASS",
+                            "typeCode": "30556__1727428500__933__56083_LOW CLASS",
+                            "sType": "fixed",
+                            "sAvail": 22,
+                            "sTotal": 54,
+                            "price": 100.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 116,
+                    "avail": 22,
+                    "audi": "Screen 1",
+                    "premium": 0,
+                    "premiumLabel": "SCREEN 1",
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "sndFmt": "none",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Thriller"
+                    ],
+                    "statusColor": "Y",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "30556__1727395200__934__56093",
+                    "pid": 736,
+                    "pkey": "ticketnew",
+                    "cid": 6033,
+                    "mid": "OAV34I",
+                    "fid": "TtdX_wUyN",
+                    "showTime": "2024-09-27T00:00",
+                    "closeTime": "2024-09-26T23:50",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "30",
+                            "label": "BALCONY",
+                            "typeCode": "30556__1727395200__934__56093_BALCONY",
+                            "sType": "fixed",
+                            "sAvail": 0,
+                            "sTotal": 22,
+                            "price": 250.0,
+                            "statusColor": "D"
+                        },
+                        {
+                            "code": "40",
+                            "label": "SECOND CLASS",
+                            "typeCode": "30556__1727395200__934__56093_SECOND CLASS",
+                            "sType": "fixed",
+                            "sAvail": 0,
+                            "sTotal": 30,
+                            "price": 150.0,
+                            "statusColor": "D"
+                        },
+                        {
+                            "code": "50",
+                            "label": "LOW CLASS",
+                            "typeCode": "30556__1727395200__934__56093_LOW CLASS",
+                            "sType": "fixed",
+                            "sAvail": 0,
+                            "sTotal": 48,
+                            "price": 50.0,
+                            "statusColor": "D"
+                        }
+                    ],
+                    "total": 100,
+                    "avail": 0,
+                    "audi": "Screen 2",
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "sndFmt": "none",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Thriller"
+                    ],
+                    "statusColor": "D",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "30556__1727405100__933__56087",
+                    "pid": 736,
+                    "pkey": "ticketnew",
+                    "cid": 6033,
+                    "mid": "OAV34I",
+                    "fid": "TtdX_wUyN",
+                    "showTime": "2024-09-27T02:45",
+                    "closeTime": "2024-09-27T02:35",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "25",
+                            "label": "EXECUTIVE",
+                            "typeCode": "30556__1727405100__933__56087_EXECUTIVE",
+                            "sType": "fixed",
+                            "sAvail": 0,
+                            "sTotal": 0,
+                            "price": 250.0,
+                            "statusColor": "D"
+                        },
+                        {
+                            "code": "30",
+                            "label": "BALCONY",
+                            "typeCode": "30556__1727405100__933__56087_BALCONY",
+                            "sType": "fixed",
+                            "sAvail": 0,
+                            "sTotal": 30,
+                            "price": 250.0,
+                            "statusColor": "D"
+                        },
+                        {
+                            "code": "40",
+                            "label": "SECOND CLASS",
+                            "typeCode": "30556__1727405100__933__56087_SECOND CLASS",
+                            "sType": "fixed",
+                            "sAvail": 0,
+                            "sTotal": 32,
+                            "price": 150.0,
+                            "statusColor": "D"
+                        },
+                        {
+                            "code": "50",
+                            "label": "LOW CLASS",
+                            "typeCode": "30556__1727405100__933__56087_LOW CLASS",
+                            "sType": "fixed",
+                            "sAvail": 0,
+                            "sTotal": 54,
+                            "price": 100.0,
+                            "statusColor": "D"
+                        }
+                    ],
+                    "total": 116,
+                    "avail": 0,
+                    "audi": "Screen 1",
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "sndFmt": "none",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Thriller"
+                    ],
+                    "statusColor": "D",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "30556__1727408700__2298__56122",
+                    "pid": 736,
+                    "pkey": "ticketnew",
+                    "cid": 6033,
+                    "mid": "OAV34I",
+                    "fid": "TtdX_wUyN",
+                    "showTime": "2024-09-27T03:45",
+                    "closeTime": "2024-09-27T03:35",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "60",
+                            "label": "RECLINER",
+                            "typeCode": "30556__1727408700__2298__56122_RECLINER",
+                            "sType": "fixed",
+                            "sAvail": 0,
+                            "sTotal": 0,
+                            "price": 350.0,
+                            "statusColor": "D"
+                        },
+                        {
+                            "code": "70",
+                            "label": "FRIST CLASS",
+                            "typeCode": "30556__1727408700__2298__56122_FRIST CLASS",
+                            "sType": "fixed",
+                            "sAvail": 12,
+                            "sTotal": 20,
+                            "price": 250.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "80",
+                            "label": "LOW CLASS",
+                            "typeCode": "30556__1727408700__2298__56122_LOW CLASS",
+                            "sType": "fixed",
+                            "sAvail": 15,
+                            "sTotal": 46,
+                            "price": 100.0,
+                            "statusColor": "Y"
+                        }
+                    ],
+                    "total": 66,
+                    "avail": 27,
+                    "audi": "Screen 3",
+                    "premium": 1,
+                    "premiumLabel": "SCREEN 3",
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "sndFmt": "none",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Thriller"
+                    ],
+                    "statusColor": "G",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "30556__1727393400__933__56086",
+                    "pid": 736,
+                    "pkey": "ticketnew",
+                    "cid": 6033,
+                    "mid": "OAV34I",
+                    "fid": "TtdX_wUyN",
+                    "showTime": "2024-09-26T23:30",
+                    "closeTime": "2024-09-26T23:20",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "25",
+                            "label": "EXECUTIVE",
+                            "typeCode": "30556__1727393400__933__56086_EXECUTIVE",
+                            "sType": "fixed",
+                            "sAvail": 0,
+                            "sTotal": 0,
+                            "price": 250.0,
+                            "statusColor": "D"
+                        },
+                        {
+                            "code": "30",
+                            "label": "BALCONY",
+                            "typeCode": "30556__1727393400__933__56086_BALCONY",
+                            "sType": "fixed",
+                            "sAvail": 0,
+                            "sTotal": 30,
+                            "price": 250.0,
+                            "statusColor": "D"
+                        },
+                        {
+                            "code": "40",
+                            "label": "SECOND CLASS",
+                            "typeCode": "30556__1727393400__933__56086_SECOND CLASS",
+                            "sType": "fixed",
+                            "sAvail": 0,
+                            "sTotal": 32,
+                            "price": 150.0,
+                            "statusColor": "D"
+                        },
+                        {
+                            "code": "50",
+                            "label": "LOW CLASS",
+                            "typeCode": "30556__1727393400__933__56086_LOW CLASS",
+                            "sType": "fixed",
+                            "sAvail": 0,
+                            "sTotal": 54,
+                            "price": 100.0,
+                            "statusColor": "D"
+                        }
+                    ],
+                    "total": 116,
+                    "avail": 0,
+                    "audi": "Screen 1",
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "sndFmt": "none",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Thriller"
+                    ],
+                    "statusColor": "D",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "30556__1727443800__2298__56119",
+                    "pid": 736,
+                    "pkey": "ticketnew",
+                    "cid": 6033,
+                    "mid": "OAV34I",
+                    "fid": "TtdX_wUyN",
+                    "showTime": "2024-09-27T13:30",
+                    "closeTime": "2024-09-27T13:20",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "60",
+                            "label": "RECLINER",
+                            "typeCode": "30556__1727443800__2298__56119_RECLINER",
+                            "sType": "fixed",
+                            "sAvail": 0,
+                            "sTotal": 0,
+                            "price": 350.0,
+                            "statusColor": "D"
+                        },
+                        {
+                            "code": "70",
+                            "label": "FRIST CLASS",
+                            "typeCode": "30556__1727443800__2298__56119_FRIST CLASS",
+                            "sType": "fixed",
+                            "sAvail": 16,
+                            "sTotal": 20,
+                            "price": 250.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "80",
+                            "label": "LOW CLASS",
+                            "typeCode": "30556__1727443800__2298__56119_LOW CLASS",
+                            "sType": "fixed",
+                            "sAvail": 31,
+                            "sTotal": 46,
+                            "price": 100.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 66,
+                    "avail": 47,
+                    "audi": "Screen 3",
+                    "premium": 1,
+                    "premiumLabel": "SCREEN 3",
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "sndFmt": "none",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Thriller"
+                    ],
+                    "statusColor": "G",
+                    "subtitle": ""
+                }
+            ],
+            "1019166": [
+                {
+                    "sid": "30556__1727454600__5812__9018",
+                    "pid": 750,
+                    "pkey": "ticketnew",
+                    "cid": 1019166,
+                    "mid": "OAV34I",
+                    "fid": "TtdX_wUyN",
+                    "showTime": "2024-09-27T16:30",
+                    "closeTime": "2024-09-27T16:25",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "20",
+                            "label": "GOLD",
+                            "typeCode": "30556__1727454600__5812__9018_GOLD",
+                            "sType": "fixed",
+                            "sAvail": 51,
+                            "sTotal": 178,
+                            "price": 312.0,
+                            "statusColor": "Y"
+                        }
+                    ],
+                    "total": 178,
+                    "avail": 51,
+                    "audi": "SCREEN-I",
+                    "premium": 0,
+                    "premiumLabel": "4K DOLBY ATMOS",
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 10,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "sndFmt": "none",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Thriller"
+                    ],
+                    "statusColor": "Y",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "30556__1727417400__5812__9015",
+                    "pid": 750,
+                    "pkey": "ticketnew",
+                    "cid": 1019166,
+                    "mid": "OAV34I",
+                    "fid": "TtdX_wUyN",
+                    "showTime": "2024-09-27T06:10",
+                    "closeTime": "2024-09-27T06:05",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "20",
+                            "label": "GOLD",
+                            "typeCode": "30556__1727417400__5812__9015_GOLD",
+                            "sType": "fixed",
+                            "sAvail": 55,
+                            "sTotal": 178,
+                            "price": 312.0,
+                            "statusColor": "Y"
+                        }
+                    ],
+                    "total": 178,
+                    "avail": 55,
+                    "audi": "SCREEN-I",
+                    "premium": 0,
+                    "premiumLabel": "4K DOLBY ATMOS",
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 10,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "sndFmt": "none",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Thriller"
+                    ],
+                    "statusColor": "Y",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "30556__1727428500__5813__9023",
+                    "pid": 750,
+                    "pkey": "ticketnew",
+                    "cid": 1019166,
+                    "mid": "OAV34I",
+                    "fid": "TtdX_wUyN",
+                    "showTime": "2024-09-27T09:15",
+                    "closeTime": "2024-09-27T09:10",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "10",
+                            "label": "PLATINUM",
+                            "typeCode": "30556__1727428500__5813__9023_PLATINUM",
+                            "sType": "fixed",
+                            "sAvail": 0,
+                            "sTotal": 16,
+                            "price": 430.0,
+                            "statusColor": "D"
+                        },
+                        {
+                            "code": "20",
+                            "label": "GOLD",
+                            "typeCode": "30556__1727428500__5813__9023_GOLD",
+                            "sType": "fixed",
+                            "sAvail": 153,
+                            "sTotal": 247,
+                            "price": 312.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 263,
+                    "avail": 153,
+                    "audi": "SCREEN-II",
+                    "premium": 0,
+                    "premiumLabel": "4K DOLBY ATMOS",
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 10,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "sndFmt": "none",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Thriller"
+                    ],
+                    "statusColor": "G",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "30556__1727415600__5814__9029",
+                    "pid": 750,
+                    "pkey": "ticketnew",
+                    "cid": 1019166,
+                    "mid": "OAV34I",
+                    "fid": "TtdX_wUyN",
+                    "showTime": "2024-09-27T05:40",
+                    "closeTime": "2024-09-27T05:35",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "10",
+                            "label": "PLATINUM",
+                            "typeCode": "30556__1727415600__5814__9029_PLATINUM",
+                            "sType": "fixed",
+                            "sAvail": 0,
+                            "sTotal": 16,
+                            "price": 430.0,
+                            "statusColor": "D"
+                        },
+                        {
+                            "code": "20",
+                            "label": "GOLD",
+                            "typeCode": "30556__1727415600__5814__9029_GOLD",
+                            "sType": "fixed",
+                            "sAvail": 74,
+                            "sTotal": 247,
+                            "price": 312.0,
+                            "statusColor": "Y"
+                        }
+                    ],
+                    "total": 263,
+                    "avail": 74,
+                    "audi": "SCREEN-III",
+                    "premium": 0,
+                    "premiumLabel": "4K DOLBY ATMOS",
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 10,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "sndFmt": "none",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Thriller"
+                    ],
+                    "statusColor": "Y",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "30556__1727391600__5814__9027",
+                    "pid": 750,
+                    "pkey": "ticketnew",
+                    "cid": 1019166,
+                    "mid": "OAV34I",
+                    "fid": "TtdX_wUyN",
+                    "showTime": "2024-09-26T23:00",
+                    "closeTime": "2024-09-26T22:55",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "10",
+                            "label": "PLATINUM",
+                            "typeCode": "30556__1727391600__5814__9027_PLATINUM",
+                            "sType": "fixed",
+                            "sAvail": 0,
+                            "sTotal": 16,
+                            "price": 430.0,
+                            "statusColor": "D"
+                        },
+                        {
+                            "code": "20",
+                            "label": "GOLD",
+                            "typeCode": "30556__1727391600__5814__9027_GOLD",
+                            "sType": "fixed",
+                            "sAvail": 0,
+                            "sTotal": 247,
+                            "price": 312.0,
+                            "statusColor": "D"
+                        }
+                    ],
+                    "total": 263,
+                    "avail": 0,
+                    "audi": "SCREEN-III",
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "sndFmt": "none",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Thriller"
+                    ],
+                    "statusColor": "D",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "30556__1727392800__5812__9013",
+                    "pid": 750,
+                    "pkey": "ticketnew",
+                    "cid": 1019166,
+                    "mid": "OAV34I",
+                    "fid": "TtdX_wUyN",
+                    "showTime": "2024-09-26T23:20",
+                    "closeTime": "2024-09-26T23:15",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "20",
+                            "label": "GOLD",
+                            "typeCode": "30556__1727392800__5812__9013_GOLD",
+                            "sType": "fixed",
+                            "sAvail": 0,
+                            "sTotal": 178,
+                            "price": 312.0,
+                            "statusColor": "D"
+                        }
+                    ],
+                    "total": 178,
+                    "avail": 0,
+                    "audi": "SCREEN-I",
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "sndFmt": "none",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Thriller"
+                    ],
+                    "statusColor": "D",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "30556__1727442600__5812__9017",
+                    "pid": 750,
+                    "pkey": "ticketnew",
+                    "cid": 1019166,
+                    "mid": "OAV34I",
+                    "fid": "TtdX_wUyN",
+                    "showTime": "2024-09-27T13:10",
+                    "closeTime": "2024-09-27T13:05",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "20",
+                            "label": "GOLD",
+                            "typeCode": "30556__1727442600__5812__9017_GOLD",
+                            "sType": "fixed",
+                            "sAvail": 30,
+                            "sTotal": 178,
+                            "price": 312.0,
+                            "statusColor": "Y"
+                        }
+                    ],
+                    "total": 178,
+                    "avail": 30,
+                    "audi": "SCREEN-I",
+                    "premium": 0,
+                    "premiumLabel": "4K DOLBY ATMOS",
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 10,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "sndFmt": "none",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Thriller"
+                    ],
+                    "statusColor": "Y",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "30556__1727406000__5815__9049",
+                    "pid": 750,
+                    "pkey": "ticketnew",
+                    "cid": 1019166,
+                    "mid": "OAV34I",
+                    "fid": "TtdX_wUyN",
+                    "showTime": "2024-09-27T03:00",
+                    "closeTime": "2024-09-27T02:55",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "20",
+                            "label": "GOLD",
+                            "typeCode": "30556__1727406000__5815__9049_GOLD",
+                            "sType": "fixed",
+                            "sAvail": 64,
+                            "sTotal": 178,
+                            "price": 312.0,
+                            "statusColor": "Y"
+                        }
+                    ],
+                    "total": 178,
+                    "avail": 64,
+                    "audi": "SCREEN-IV",
+                    "premium": 0,
+                    "premiumLabel": "4K DOLBY ATMOS",
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 10,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "sndFmt": "none",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Thriller"
+                    ],
+                    "statusColor": "Y",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "30556__1727429400__5812__9016",
+                    "pid": 750,
+                    "pkey": "ticketnew",
+                    "cid": 1019166,
+                    "mid": "OAV34I",
+                    "fid": "TtdX_wUyN",
+                    "showTime": "2024-09-27T09:30",
+                    "closeTime": "2024-09-27T09:25",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "20",
+                            "label": "GOLD",
+                            "typeCode": "30556__1727429400__5812__9016_GOLD",
+                            "sType": "fixed",
+                            "sAvail": 62,
+                            "sTotal": 178,
+                            "price": 312.0,
+                            "statusColor": "Y"
+                        }
+                    ],
+                    "total": 178,
+                    "avail": 62,
+                    "audi": "SCREEN-I",
+                    "premium": 0,
+                    "premiumLabel": "4K DOLBY ATMOS",
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 10,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "sndFmt": "none",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Thriller"
+                    ],
+                    "statusColor": "Y",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "30556__1727443800__5815__9052",
+                    "pid": 750,
+                    "pkey": "ticketnew",
+                    "cid": 1019166,
+                    "mid": "OAV34I",
+                    "fid": "TtdX_wUyN",
+                    "showTime": "2024-09-27T13:30",
+                    "closeTime": "2024-09-27T13:25",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "20",
+                            "label": "GOLD",
+                            "typeCode": "30556__1727443800__5815__9052_GOLD",
+                            "sType": "fixed",
+                            "sAvail": 24,
+                            "sTotal": 178,
+                            "price": 312.0,
+                            "statusColor": "Y"
+                        }
+                    ],
+                    "total": 178,
+                    "avail": 24,
+                    "audi": "SCREEN-IV",
+                    "premium": 0,
+                    "premiumLabel": "4K DOLBY ATMOS",
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 10,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "sndFmt": "none",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Thriller"
+                    ],
+                    "statusColor": "Y",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "30556__1727418600__5815__9050",
+                    "pid": 750,
+                    "pkey": "ticketnew",
+                    "cid": 1019166,
+                    "mid": "OAV34I",
+                    "fid": "TtdX_wUyN",
+                    "showTime": "2024-09-27T06:30",
+                    "closeTime": "2024-09-27T06:25",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "20",
+                            "label": "GOLD",
+                            "typeCode": "30556__1727418600__5815__9050_GOLD",
+                            "sType": "fixed",
+                            "sAvail": 56,
+                            "sTotal": 178,
+                            "price": 312.0,
+                            "statusColor": "Y"
+                        }
+                    ],
+                    "total": 178,
+                    "avail": 56,
+                    "audi": "SCREEN-IV",
+                    "premium": 0,
+                    "premiumLabel": "4K DOLBY ATMOS",
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 10,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "sndFmt": "none",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Thriller"
+                    ],
+                    "statusColor": "Y",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "30556__1727455800__5815__9053",
+                    "pid": 750,
+                    "pkey": "ticketnew",
+                    "cid": 1019166,
+                    "mid": "OAV34I",
+                    "fid": "TtdX_wUyN",
+                    "showTime": "2024-09-27T16:50",
+                    "closeTime": "2024-09-27T16:45",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "20",
+                            "label": "GOLD",
+                            "typeCode": "30556__1727455800__5815__9053_GOLD",
+                            "sType": "fixed",
+                            "sAvail": 45,
+                            "sTotal": 178,
+                            "price": 312.0,
+                            "statusColor": "Y"
+                        }
+                    ],
+                    "total": 178,
+                    "avail": 45,
+                    "audi": "SCREEN-IV",
+                    "premium": 0,
+                    "premiumLabel": "4K DOLBY ATMOS",
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 10,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "sndFmt": "none",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Thriller"
+                    ],
+                    "statusColor": "Y",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "30556__1727452800__5814__9032",
+                    "pid": 750,
+                    "pkey": "ticketnew",
+                    "cid": 1019166,
+                    "mid": "OAV34I",
+                    "fid": "TtdX_wUyN",
+                    "showTime": "2024-09-27T16:00",
+                    "closeTime": "2024-09-27T15:55",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "10",
+                            "label": "PLATINUM",
+                            "typeCode": "30556__1727452800__5814__9032_PLATINUM",
+                            "sType": "fixed",
+                            "sAvail": 1,
+                            "sTotal": 16,
+                            "price": 430.0,
+                            "statusColor": "R"
+                        },
+                        {
+                            "code": "20",
+                            "label": "GOLD",
+                            "typeCode": "30556__1727452800__5814__9032_GOLD",
+                            "sType": "fixed",
+                            "sAvail": 49,
+                            "sTotal": 247,
+                            "price": 312.0,
+                            "statusColor": "Y"
+                        }
+                    ],
+                    "total": 263,
+                    "avail": 50,
+                    "audi": "SCREEN-III",
+                    "premium": 0,
+                    "premiumLabel": "4K DOLBY ATMOS",
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 10,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "sndFmt": "none",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Thriller"
+                    ],
+                    "statusColor": "Y",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "30556__1727405100__5812__9014",
+                    "pid": 750,
+                    "pkey": "ticketnew",
+                    "cid": 1019166,
+                    "mid": "OAV34I",
+                    "fid": "TtdX_wUyN",
+                    "showTime": "2024-09-27T02:45",
+                    "closeTime": "2024-09-27T02:40",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "20",
+                            "label": "GOLD",
+                            "typeCode": "30556__1727405100__5812__9014_GOLD",
+                            "sType": "fixed",
+                            "sAvail": 58,
+                            "sTotal": 178,
+                            "price": 312.0,
+                            "statusColor": "Y"
+                        }
+                    ],
+                    "total": 178,
+                    "avail": 58,
+                    "audi": "SCREEN-I",
+                    "premium": 0,
+                    "premiumLabel": "4K DOLBY ATMOS",
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 10,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "sndFmt": "none",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Thriller"
+                    ],
+                    "statusColor": "Y",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "30556__1727404200__5813__9021",
+                    "pid": 750,
+                    "pkey": "ticketnew",
+                    "cid": 1019166,
+                    "mid": "OAV34I",
+                    "fid": "TtdX_wUyN",
+                    "showTime": "2024-09-27T02:30",
+                    "closeTime": "2024-09-27T02:25",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "10",
+                            "label": "PLATINUM",
+                            "typeCode": "30556__1727404200__5813__9021_PLATINUM",
+                            "sType": "fixed",
+                            "sAvail": 0,
+                            "sTotal": 16,
+                            "price": 430.0,
+                            "statusColor": "D"
+                        },
+                        {
+                            "code": "20",
+                            "label": "GOLD",
+                            "typeCode": "30556__1727404200__5813__9021_GOLD",
+                            "sType": "fixed",
+                            "sAvail": 36,
+                            "sTotal": 247,
+                            "price": 312.0,
+                            "statusColor": "Y"
+                        }
+                    ],
+                    "total": 263,
+                    "avail": 36,
+                    "audi": "SCREEN-II",
+                    "premium": 0,
+                    "premiumLabel": "4K DOLBY ATMOS",
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 10,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "sndFmt": "none",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Thriller"
+                    ],
+                    "statusColor": "Y",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "30556__1727430600__5815__9051",
+                    "pid": 750,
+                    "pkey": "ticketnew",
+                    "cid": 1019166,
+                    "mid": "OAV34I",
+                    "fid": "TtdX_wUyN",
+                    "showTime": "2024-09-27T09:50",
+                    "closeTime": "2024-09-27T09:45",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "20",
+                            "label": "GOLD",
+                            "typeCode": "30556__1727430600__5815__9051_GOLD",
+                            "sType": "fixed",
+                            "sAvail": 69,
+                            "sTotal": 178,
+                            "price": 312.0,
+                            "statusColor": "Y"
+                        }
+                    ],
+                    "total": 178,
+                    "avail": 69,
+                    "audi": "SCREEN-IV",
+                    "premium": 0,
+                    "premiumLabel": "4K DOLBY ATMOS",
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 10,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "sndFmt": "none",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Thriller"
+                    ],
+                    "statusColor": "Y",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "30556__1727403300__5814__9028",
+                    "pid": 750,
+                    "pkey": "ticketnew",
+                    "cid": 1019166,
+                    "mid": "OAV34I",
+                    "fid": "TtdX_wUyN",
+                    "showTime": "2024-09-27T02:15",
+                    "closeTime": "2024-09-27T02:10",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "10",
+                            "label": "PLATINUM",
+                            "typeCode": "30556__1727403300__5814__9028_PLATINUM",
+                            "sType": "fixed",
+                            "sAvail": 0,
+                            "sTotal": 16,
+                            "price": 430.0,
+                            "statusColor": "D"
+                        },
+                        {
+                            "code": "20",
+                            "label": "GOLD",
+                            "typeCode": "30556__1727403300__5814__9028_GOLD",
+                            "sType": "fixed",
+                            "sAvail": 32,
+                            "sTotal": 247,
+                            "price": 312.0,
+                            "statusColor": "Y"
+                        }
+                    ],
+                    "total": 263,
+                    "avail": 32,
+                    "audi": "SCREEN-III",
+                    "premium": 0,
+                    "premiumLabel": "4K DOLBY ATMOS",
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 10,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "sndFmt": "none",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Thriller"
+                    ],
+                    "statusColor": "Y",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "30556__1727416500__5813__9022",
+                    "pid": 750,
+                    "pkey": "ticketnew",
+                    "cid": 1019166,
+                    "mid": "OAV34I",
+                    "fid": "TtdX_wUyN",
+                    "showTime": "2024-09-27T05:55",
+                    "closeTime": "2024-09-27T05:50",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "10",
+                            "label": "PLATINUM",
+                            "typeCode": "30556__1727416500__5813__9022_PLATINUM",
+                            "sType": "fixed",
+                            "sAvail": 0,
+                            "sTotal": 16,
+                            "price": 430.0,
+                            "statusColor": "D"
+                        },
+                        {
+                            "code": "20",
+                            "label": "GOLD",
+                            "typeCode": "30556__1727416500__5813__9022_GOLD",
+                            "sType": "fixed",
+                            "sAvail": 164,
+                            "sTotal": 247,
+                            "price": 312.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 263,
+                    "avail": 164,
+                    "audi": "SCREEN-II",
+                    "premium": 0,
+                    "premiumLabel": "4K DOLBY ATMOS",
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 10,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "sndFmt": "none",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Thriller"
+                    ],
+                    "statusColor": "G",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "30556__1727427600__5814__9030",
+                    "pid": 750,
+                    "pkey": "ticketnew",
+                    "cid": 1019166,
+                    "mid": "OAV34I",
+                    "fid": "TtdX_wUyN",
+                    "showTime": "2024-09-27T09:00",
+                    "closeTime": "2024-09-27T08:55",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "10",
+                            "label": "PLATINUM",
+                            "typeCode": "30556__1727427600__5814__9030_PLATINUM",
+                            "sType": "fixed",
+                            "sAvail": 0,
+                            "sTotal": 16,
+                            "price": 430.0,
+                            "statusColor": "D"
+                        },
+                        {
+                            "code": "20",
+                            "label": "GOLD",
+                            "typeCode": "30556__1727427600__5814__9030_GOLD",
+                            "sType": "fixed",
+                            "sAvail": 72,
+                            "sTotal": 247,
+                            "price": 312.0,
+                            "statusColor": "Y"
+                        }
+                    ],
+                    "total": 263,
+                    "avail": 72,
+                    "audi": "SCREEN-III",
+                    "premium": 0,
+                    "premiumLabel": "4K DOLBY ATMOS",
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 10,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "sndFmt": "none",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Thriller"
+                    ],
+                    "statusColor": "Y",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "30556__1727391600__5813__9020",
+                    "pid": 750,
+                    "pkey": "ticketnew",
+                    "cid": 1019166,
+                    "mid": "OAV34I",
+                    "fid": "TtdX_wUyN",
+                    "showTime": "2024-09-26T23:00",
+                    "closeTime": "2024-09-26T22:55",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "10",
+                            "label": "PLATINUM",
+                            "typeCode": "30556__1727391600__5813__9020_PLATINUM",
+                            "sType": "fixed",
+                            "sAvail": 0,
+                            "sTotal": 16,
+                            "price": 430.0,
+                            "statusColor": "D"
+                        },
+                        {
+                            "code": "20",
+                            "label": "GOLD",
+                            "typeCode": "30556__1727391600__5813__9020_GOLD",
+                            "sType": "fixed",
+                            "sAvail": 0,
+                            "sTotal": 247,
+                            "price": 312.0,
+                            "statusColor": "D"
+                        }
+                    ],
+                    "total": 263,
+                    "avail": 0,
+                    "audi": "SCREEN-II",
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "sndFmt": "none",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Thriller"
+                    ],
+                    "statusColor": "D",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "30556__1727440200__5814__9031",
+                    "pid": 750,
+                    "pkey": "ticketnew",
+                    "cid": 1019166,
+                    "mid": "OAV34I",
+                    "fid": "TtdX_wUyN",
+                    "showTime": "2024-09-27T12:30",
+                    "closeTime": "2024-09-27T12:25",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "10",
+                            "label": "PLATINUM",
+                            "typeCode": "30556__1727440200__5814__9031_PLATINUM",
+                            "sType": "fixed",
+                            "sAvail": 0,
+                            "sTotal": 16,
+                            "price": 430.0,
+                            "statusColor": "D"
+                        },
+                        {
+                            "code": "20",
+                            "label": "GOLD",
+                            "typeCode": "30556__1727440200__5814__9031_GOLD",
+                            "sType": "fixed",
+                            "sAvail": 42,
+                            "sTotal": 247,
+                            "price": 312.0,
+                            "statusColor": "Y"
+                        }
+                    ],
+                    "total": 263,
+                    "avail": 42,
+                    "audi": "SCREEN-III",
+                    "premium": 0,
+                    "premiumLabel": "4K DOLBY ATMOS",
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 10,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "sndFmt": "none",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Thriller"
+                    ],
+                    "statusColor": "Y",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "30556__1727393400__5815__9048",
+                    "pid": 750,
+                    "pkey": "ticketnew",
+                    "cid": 1019166,
+                    "mid": "OAV34I",
+                    "fid": "TtdX_wUyN",
+                    "showTime": "2024-09-26T23:30",
+                    "closeTime": "2024-09-26T23:25",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "20",
+                            "label": "GOLD",
+                            "typeCode": "30556__1727393400__5815__9048_GOLD",
+                            "sType": "fixed",
+                            "sAvail": 0,
+                            "sTotal": 178,
+                            "price": 312.0,
+                            "statusColor": "D"
+                        }
+                    ],
+                    "total": 178,
+                    "avail": 0,
+                    "audi": "SCREEN-IV",
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "sndFmt": "none",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Thriller"
+                    ],
+                    "statusColor": "D",
+                    "subtitle": ""
+                }
+            ]
+        }
+    }
+}
