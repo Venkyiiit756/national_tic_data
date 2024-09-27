@@ -1,0 +1,2609 @@
+{
+    "serverTime": 1727456597,
+    "meta": {
+        "movies": [
+            {
+                "id": "OAV34I",
+                "frmtId": "TtdX_wUyN",
+                "name": "Devara - Part 1",
+                "imgPath": "https://assetscdn1.paytm.com/images/cinema/Devara---Part-1--705x750-ff23a0e0-ccc6-11ee-a6f3-b9b401515283.jpg",
+                "appImgPath": "https://assetscdn1.paytm.com/images/cinema/Devara-608x800-87e29260-7834-11ef-ad27-dfa11df60ee4.jpg",
+                "cvrPath": "https://assetscdn1.paytm.com/images/cinema/we-a407a150-7b23-11ef-84df-ff7d1a67840c.jpg",
+                "appCvrPath": "https://assetscdn1.paytm.com/images/cinema/App-cover-a62c7d20-7b23-11ef-8892-f397183e5623.jpg",
+                "thumbnail": null,
+                "edgeBanner": "https://assetscdn1.paytm.com/images/cinema/Devara---Part-1--1035%E2%80%8A%C3%97%E2%80%8A420-118bd900-ccc7-11ee-a6f3-b9b401515283.jpg",
+                "trailer": "https://youtu.be/5cx7rvMvAWo",
+                "censor": "U/A",
+                "duration": 178,
+                "grn": [
+                    "Action",
+                    "Drama",
+                    "Thriller"
+                ],
+                "scrnFmt": "2D",
+                "sndFmt": "none",
+                "rnr": {
+                    "hasUReview": 1,
+                    "hasContent": 1
+                },
+                "isNew": false,
+                "imxImgUrl": null,
+                "contentId": 159964,
+                "label": "Devara - Part 1",
+                "lang": "Telugu"
+            }
+        ],
+        "filterBuckets": {
+            "timeBuckets": [
+                {
+                    "sTime": "05:00",
+                    "eTime": "11:59",
+                    "desc": "5:00 AM to 11:59 AM",
+                    "dText": "Morning",
+                    "desc1": "Till 12 PM"
+                },
+                {
+                    "sTime": "12:00",
+                    "eTime": "15:59",
+                    "desc": "12:00 PM to 3:59 PM",
+                    "dText": "Afternoon",
+                    "desc1": "Till 4 PM"
+                },
+                {
+                    "sTime": "16:00",
+                    "eTime": "18:59",
+                    "desc": "4:00 PM to 6:59 PM",
+                    "dText": "Evening",
+                    "desc1": "Till 7 PM"
+                },
+                {
+                    "sTime": "19:00",
+                    "eTime": "04:59",
+                    "desc": "7:00 PM to 4:59 AM",
+                    "dText": "Night",
+                    "desc1": "After 7 PM"
+                }
+            ],
+            "priceBuckets": [
+                {
+                    "min": "0",
+                    "max": "99",
+                    "desc": "Below Rs 100"
+                },
+                {
+                    "min": "100",
+                    "max": "199",
+                    "desc": "Rs 100 - Rs 199"
+                },
+                {
+                    "min": "200",
+                    "max": "299",
+                    "desc": "Rs 200 - Rs 299"
+                },
+                {
+                    "min": "300",
+                    "max": "399",
+                    "desc": "Rs 300 - Rs 399"
+                },
+                {
+                    "min": "400",
+                    "max": "NA",
+                    "desc": "Rs 400 or above"
+                }
+            ],
+            "showTimeBuckets": [
+                {
+                    "sTime": "00:00",
+                    "eTime": "08:00",
+                    "desc": "12 AM to 8 AM",
+                    "dText": "Early Morning",
+                    "desc1": "Till 8 AM"
+                },
+                {
+                    "sTime": "08:00",
+                    "eTime": "12:00",
+                    "desc": "8 AM to 12 PM",
+                    "dText": "Morning",
+                    "desc1": "Till 12 PM"
+                },
+                {
+                    "sTime": "12:00",
+                    "eTime": "16:00",
+                    "desc": "12 PM to 4 PM",
+                    "dText": "Afternoon",
+                    "desc1": "Till 4 PM"
+                },
+                {
+                    "sTime": "16:00",
+                    "eTime": "19:00",
+                    "desc": "4 PM to 7 PM",
+                    "dText": "Evening",
+                    "desc1": "Till 7 PM"
+                },
+                {
+                    "sTime": "19:00",
+                    "eTime": "23:59",
+                    "desc": "7 PM to 12 AM",
+                    "dText": "Night",
+                    "desc1": "Till 12 AM"
+                }
+            ]
+        },
+        "amenities": [
+            {
+                "id": 2,
+                "name": "Parking",
+                "rank": 1
+            },
+            {
+                "id": 1,
+                "name": "Mobile Ticket",
+                "rank": 2
+            },
+            {
+                "id": 3,
+                "name": "Online Food",
+                "rank": 3
+            },
+            {
+                "id": 5,
+                "name": "Recliners",
+                "rank": 4
+            },
+            {
+                "id": 6,
+                "name": "Paytm Accepted",
+                "rank": 5
+            },
+            {
+                "id": 4,
+                "name": "Wheelchair Friendly",
+                "rank": 6
+            },
+            {
+                "id": 7,
+                "name": "RGB Laser",
+                "rank": 7
+            },
+            {
+                "id": 8,
+                "name": "Dolby Atmos",
+                "rank": 8
+            },
+            {
+                "id": 9,
+                "name": "IMAX",
+                "rank": 9
+            },
+            {
+                "id": 10,
+                "name": "4K",
+                "rank": 10
+            },
+            {
+                "id": 11,
+                "name": "AC",
+                "rank": 11
+            },
+            {
+                "id": 12,
+                "name": "WIFI",
+                "rank": 12
+            },
+            {
+                "id": 13,
+                "name": "Food Court",
+                "rank": 13
+            },
+            {
+                "id": 14,
+                "name": "Gaming Zone",
+                "rank": 14
+            },
+            {
+                "id": 15,
+                "name": "2K",
+                "rank": 15
+            },
+            {
+                "id": 16,
+                "name": "4D",
+                "rank": 16
+            },
+            {
+                "id": 17,
+                "name": "4DX",
+                "rank": 17
+            },
+            {
+                "id": 18,
+                "name": "Dolby 7.1",
+                "rank": 18
+            },
+            {
+                "id": 19,
+                "name": "Air conditioning",
+                "rank": 19
+            },
+            {
+                "id": 20,
+                "name": "Metro Train",
+                "rank": 20
+            },
+            {
+                "id": 21,
+                "name": "Sofa",
+                "rank": 21
+            },
+            {
+                "id": 22,
+                "name": "Social Seating",
+                "rank": 22
+            },
+            {
+                "id": 23,
+                "name": "Wheelchair Assistance",
+                "rank": 23
+            },
+            {
+                "id": 24,
+                "name": "Silver Screen",
+                "rank": 24
+            },
+            {
+                "id": 25,
+                "name": "Food & Beverages",
+                "rank": 25
+            },
+            {
+                "id": 26,
+                "name": "Paper Less Ticketing",
+                "rank": 26
+            },
+            {
+                "id": 27,
+                "name": "Handicapped Washroom",
+                "rank": 27
+            },
+            {
+                "id": 28,
+                "name": "Free Parking",
+                "rank": 28
+            },
+            {
+                "id": 29,
+                "name": "Baggage Counter",
+                "rank": 29
+            },
+            {
+                "id": 30,
+                "name": "Dolby 4 Way 11.1",
+                "rank": 30
+            },
+            {
+                "id": 31,
+                "name": "Barco 4K Ultra HD",
+                "rank": 31
+            }
+        ],
+        "cinemas": [
+            {
+                "id": 14354,
+                "pid": 1088,
+                "name": "V Mega Triveni Complex, Anantapur",
+                "address": "Old Town, Anantapur, Andhra Pradesh 515005, India",
+                "pincode": "515005",
+                "lat": 16.057232,
+                "lon": 76.915502,
+                "cityId": 918,
+                "appCovrImgUrl": "",
+                "covrImgUrl": "",
+                "fnb": 0,
+                "mTkt": 1,
+                "bCode": "0",
+                "sTop": 0,
+                "isMerchantCancellable": 0,
+                "cinemaLogoUrl": "https://assetscdn1.paytm.com/images/cinema/V-Mega-logo-b5c1a4c0-8509-11ed-9a8d-9b91ffeaf739.png",
+                "cinemaVideoUrl": "",
+                "appCoverVideoUrl": "",
+                "webCoverVideoUrl": "",
+                "amenities": null,
+                "promos": null,
+                "chainKey": "V Mega",
+                "contentId": 150348,
+                "theatreGroupName": "",
+                "amenitiesOrder": null,
+                "carouselAttachments": [],
+                "isPassEnabled": 0,
+                "paytmCinemaId": 14354,
+                "city": "Anantapur",
+                "clientId": "ticketnew",
+                "isMapped": 0,
+                "city_id": null,
+                "is_city_mapped": null,
+                "state": "andhra-pradesh",
+                "label": "V Mega Triveni Complex, Anantapur",
+                "sessionCount": 72
+            },
+            {
+                "id": 9653,
+                "pid": 721,
+                "name": "Gowri Complex, Near Bus Stand",
+                "address": "Surya Road, Old Town, Anantapur, Andhra Pradesh 515001, India",
+                "pincode": "515001",
+                "lat": 14.685014,
+                "lon": 77.596409,
+                "cityId": 918,
+                "appCovrImgUrl": "",
+                "covrImgUrl": "",
+                "fnb": 0,
+                "mTkt": 1,
+                "bCode": "0",
+                "sTop": 0,
+                "isMerchantCancellable": 0,
+                "cinemaLogoUrl": "https://assetscdn1.paytm.com/images/cinema/SP-cinema-logo-bea3e990-8504-11ed-9a8d-9b91ffeaf739.png",
+                "cinemaVideoUrl": "",
+                "appCoverVideoUrl": "",
+                "webCoverVideoUrl": "",
+                "amenities": null,
+                "promos": null,
+                "chainKey": "Suresh Production",
+                "contentId": 149913,
+                "theatreGroupName": "",
+                "amenitiesOrder": null,
+                "carouselAttachments": [],
+                "isPassEnabled": 0,
+                "paytmCinemaId": 9653,
+                "city": "Anantapur",
+                "clientId": "ticketnew",
+                "isMapped": 0,
+                "city_id": null,
+                "is_city_mapped": null,
+                "state": "andhra-pradesh",
+                "label": "Gowri Complex, Near Bus Stand",
+                "sessionCount": 103
+            },
+            {
+                "id": 1027478,
+                "pid": 1814,
+                "name": "SV Cinemax 4K Dolby Atmos",
+                "address": "No.18 - 464, Old Town, Neeruganti Street, Anantapur, Andhra Pradesh 515001, India",
+                "pincode": "515001",
+                "lat": 14.68213,
+                "lon": 77.604833,
+                "cityId": 918,
+                "appCovrImgUrl": "",
+                "covrImgUrl": "",
+                "fnb": 0,
+                "mTkt": 1,
+                "bCode": "0",
+                "sTop": 0,
+                "isMerchantCancellable": 0,
+                "cinemaLogoUrl": "https://assetscdn1.paytm.com/images/cinema/Theatre%403x-a4b1cf60-676c-11ef-8bfd-85c2f3bcaac6.png",
+                "cinemaVideoUrl": "",
+                "appCoverVideoUrl": "",
+                "webCoverVideoUrl": "",
+                "amenities": null,
+                "promos": null,
+                "chainKey": "SV Cinemax",
+                "contentId": 173164,
+                "theatreGroupName": "",
+                "amenitiesOrder": null,
+                "carouselAttachments": [],
+                "isPassEnabled": 0,
+                "paytmCinemaId": 1027478,
+                "city": "Anantapur",
+                "clientId": "ticketnew",
+                "isMapped": 0,
+                "city_id": null,
+                "is_city_mapped": null,
+                "state": "andhra-pradesh",
+                "label": "SV Cinemax 4K Dolby Atmos",
+                "sessionCount": 27
+            },
+            {
+                "id": 1022965,
+                "pid": 1791,
+                "name": "Shanthi - Sudha Complex, Anantapur",
+                "address": "Adimurthy Nagar, Gulzarpet, Anantapur, Andhra Pradesh 515001, India",
+                "pincode": "515001",
+                "lat": 14.6807,
+                "lon": 77.595398,
+                "cityId": 918,
+                "appCovrImgUrl": "",
+                "covrImgUrl": "",
+                "fnb": 0,
+                "mTkt": 1,
+                "bCode": "0",
+                "sTop": 0,
+                "isMerchantCancellable": 0,
+                "cinemaLogoUrl": "https://assetscdn1.paytm.com/images/cinema/Theatre%403x-a4b1cf60-676c-11ef-8bfd-85c2f3bcaac6.png",
+                "cinemaVideoUrl": "",
+                "appCoverVideoUrl": "",
+                "webCoverVideoUrl": "",
+                "amenities": null,
+                "promos": null,
+                "chainKey": "Shanthi -Sudha Complex",
+                "contentId": 170413,
+                "theatreGroupName": "",
+                "amenitiesOrder": null,
+                "carouselAttachments": [],
+                "isPassEnabled": 0,
+                "paytmCinemaId": 1022965,
+                "city": "Anantapur",
+                "clientId": "ticketnew",
+                "isMapped": 0,
+                "city_id": null,
+                "is_city_mapped": null,
+                "state": "andhra-pradesh",
+                "label": "Shanthi - Sudha Complex, Anantapur",
+                "sessionCount": 21
+            },
+            {
+                "id": 1020338,
+                "pid": 1773,
+                "name": "N-Max Neelima 4k Dolby 7.1, Anantapur",
+                "address": "Road No. 1, Rangaswamy Nagar, Anantapur, Andhra Pradesh 515004, India",
+                "pincode": "515004",
+                "lat": 14.691125,
+                "lon": 77.59573,
+                "cityId": 918,
+                "appCovrImgUrl": "",
+                "covrImgUrl": "",
+                "fnb": 0,
+                "mTkt": 1,
+                "bCode": "0",
+                "sTop": 0,
+                "isMerchantCancellable": 0,
+                "cinemaLogoUrl": "https://assetscdn1.paytm.com/images/cinema/Theatre%403x-a4b1cf60-676c-11ef-8bfd-85c2f3bcaac6.png",
+                "cinemaVideoUrl": "",
+                "appCoverVideoUrl": "",
+                "webCoverVideoUrl": "",
+                "amenities": null,
+                "promos": null,
+                "chainKey": "N-Max Neelima 4K Dolby",
+                "contentId": 169332,
+                "theatreGroupName": "",
+                "amenitiesOrder": null,
+                "carouselAttachments": [],
+                "isPassEnabled": 0,
+                "paytmCinemaId": 1020338,
+                "city": "Anantapur",
+                "clientId": "ticketnew",
+                "isMapped": 0,
+                "city_id": null,
+                "is_city_mapped": null,
+                "state": "andhra-pradesh",
+                "label": "N-Max Neelima 4k Dolby 7.1, Anantapur",
+                "sessionCount": 26
+            }
+        ],
+        "filterData": {
+            "minSTime": "01:30",
+            "maxSTime": "16:30",
+            "minPrice": 170.0,
+            "maxPrice": 405.0,
+            "premium": true,
+            "freeSeats": false,
+            "groupSeats": false,
+            "tokenFeeSeats": false,
+            "scnFrmts": [
+                "2D"
+            ],
+            "sndFrmts": [
+                "none"
+            ],
+            "mLangs": [
+                "Telugu"
+            ],
+            "genres": [
+                "Action",
+                "Drama",
+                "Thriller"
+            ]
+        }
+    },
+    "data": {
+        "pageSize": 100,
+        "cinemasOrder": [
+            14354,
+            9653,
+            1027478,
+            1022965,
+            1020338
+        ],
+        "sessionDates": [
+            "2024-09-28",
+            "2024-09-29",
+            "2024-09-30",
+            "2024-10-01",
+            "2024-10-02",
+            "2024-10-03"
+        ]
+    },
+    "pageData": {
+        "sessions": {
+            "14354": [
+                {
+                    "sid": "30556__1727515800__4137__23286",
+                    "pid": 1088,
+                    "pkey": "ticketnew",
+                    "cid": 14354,
+                    "mid": "OAV34I",
+                    "fid": "TtdX_wUyN",
+                    "showTime": "2024-09-28T09:30",
+                    "closeTime": "2024-09-28T09:30",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "20",
+                            "label": "GOLD",
+                            "typeCode": "30556__1727515800__4137__23286_GOLD",
+                            "sType": "fixed",
+                            "sAvail": 145,
+                            "sTotal": 245,
+                            "price": 258.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "30",
+                            "label": "SILVER",
+                            "typeCode": "30556__1727515800__4137__23286_SILVER",
+                            "sType": "fixed",
+                            "sAvail": 79,
+                            "sTotal": 83,
+                            "price": 170.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 328,
+                    "avail": 224,
+                    "audi": "Screen-II",
+                    "premium": 1,
+                    "premiumLabel": "ATMOS",
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "sndFmt": "none",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Thriller"
+                    ],
+                    "statusColor": "G",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "30556__1727541000__4137__23288",
+                    "pid": 1088,
+                    "pkey": "ticketnew",
+                    "cid": 14354,
+                    "mid": "OAV34I",
+                    "fid": "TtdX_wUyN",
+                    "showTime": "2024-09-28T16:30",
+                    "closeTime": "2024-09-28T16:30",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "20",
+                            "label": "GOLD",
+                            "typeCode": "30556__1727541000__4137__23288_GOLD",
+                            "sType": "fixed",
+                            "sAvail": 70,
+                            "sTotal": 245,
+                            "price": 258.0,
+                            "statusColor": "Y"
+                        },
+                        {
+                            "code": "30",
+                            "label": "SILVER",
+                            "typeCode": "30556__1727541000__4137__23288_SILVER",
+                            "sType": "fixed",
+                            "sAvail": 46,
+                            "sTotal": 83,
+                            "price": 170.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 328,
+                    "avail": 116,
+                    "audi": "Screen-II",
+                    "premium": 1,
+                    "premiumLabel": "ATMOS",
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "sndFmt": "none",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Thriller"
+                    ],
+                    "statusColor": "Y",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "30556__1727527500__4136__23239",
+                    "pid": 1088,
+                    "pkey": "ticketnew",
+                    "cid": 14354,
+                    "mid": "OAV34I",
+                    "fid": "TtdX_wUyN",
+                    "showTime": "2024-09-28T12:45",
+                    "closeTime": "2024-09-28T12:45",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "10",
+                            "label": "PLATINUM",
+                            "typeCode": "30556__1727527500__4136__23239_PLATINUM",
+                            "sType": "fixed",
+                            "sAvail": 0,
+                            "sTotal": 22,
+                            "price": 405.0,
+                            "statusColor": "D"
+                        },
+                        {
+                            "code": "20",
+                            "label": "GOLD",
+                            "typeCode": "30556__1727527500__4136__23239_GOLD",
+                            "sType": "fixed",
+                            "sAvail": 11,
+                            "sTotal": 340,
+                            "price": 258.0,
+                            "statusColor": "R"
+                        },
+                        {
+                            "code": "30",
+                            "label": "SILVER",
+                            "typeCode": "30556__1727527500__4136__23239_SILVER",
+                            "sType": "fixed",
+                            "sAvail": 64,
+                            "sTotal": 130,
+                            "price": 170.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 492,
+                    "avail": 75,
+                    "audi": "Screen-I",
+                    "premium": 1,
+                    "premiumLabel": "ATMOS",
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "sndFmt": "none",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Thriller"
+                    ],
+                    "statusColor": "Y",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "30556__1727488800__4136__23236",
+                    "pid": 1088,
+                    "pkey": "ticketnew",
+                    "cid": 14354,
+                    "mid": "OAV34I",
+                    "fid": "TtdX_wUyN",
+                    "showTime": "2024-09-28T02:00",
+                    "closeTime": "2024-09-28T02:00",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "10",
+                            "label": "PLATINUM",
+                            "typeCode": "30556__1727488800__4136__23236_PLATINUM",
+                            "sType": "fixed",
+                            "sAvail": 14,
+                            "sTotal": 22,
+                            "price": 405.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "20",
+                            "label": "GOLD",
+                            "typeCode": "30556__1727488800__4136__23236_GOLD",
+                            "sType": "fixed",
+                            "sAvail": 78,
+                            "sTotal": 340,
+                            "price": 258.0,
+                            "statusColor": "Y"
+                        },
+                        {
+                            "code": "30",
+                            "label": "SILVER",
+                            "typeCode": "30556__1727488800__4136__23236_SILVER",
+                            "sType": "fixed",
+                            "sAvail": 80,
+                            "sTotal": 130,
+                            "price": 170.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 492,
+                    "avail": 172,
+                    "audi": "Screen-I",
+                    "premium": 1,
+                    "premiumLabel": "ATMOS",
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "sndFmt": "none",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Thriller"
+                    ],
+                    "statusColor": "Y",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "30556__1727514600__4136__23238",
+                    "pid": 1088,
+                    "pkey": "ticketnew",
+                    "cid": 14354,
+                    "mid": "OAV34I",
+                    "fid": "TtdX_wUyN",
+                    "showTime": "2024-09-28T09:10",
+                    "closeTime": "2024-09-28T09:10",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "10",
+                            "label": "PLATINUM",
+                            "typeCode": "30556__1727514600__4136__23238_PLATINUM",
+                            "sType": "fixed",
+                            "sAvail": 0,
+                            "sTotal": 22,
+                            "price": 405.0,
+                            "statusColor": "D"
+                        },
+                        {
+                            "code": "20",
+                            "label": "GOLD",
+                            "typeCode": "30556__1727514600__4136__23238_GOLD",
+                            "sType": "fixed",
+                            "sAvail": 26,
+                            "sTotal": 340,
+                            "price": 258.0,
+                            "statusColor": "R"
+                        },
+                        {
+                            "code": "30",
+                            "label": "SILVER",
+                            "typeCode": "30556__1727514600__4136__23238_SILVER",
+                            "sType": "fixed",
+                            "sAvail": 76,
+                            "sTotal": 130,
+                            "price": 170.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 492,
+                    "avail": 102,
+                    "audi": "Screen-I",
+                    "premium": 1,
+                    "premiumLabel": "ATMOS",
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "sndFmt": "none",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Thriller"
+                    ],
+                    "statusColor": "Y",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "30556__1727503200__4137__23285",
+                    "pid": 1088,
+                    "pkey": "ticketnew",
+                    "cid": 14354,
+                    "mid": "OAV34I",
+                    "fid": "TtdX_wUyN",
+                    "showTime": "2024-09-28T06:00",
+                    "closeTime": "2024-09-28T06:00",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "20",
+                            "label": "GOLD",
+                            "typeCode": "30556__1727503200__4137__23285_GOLD",
+                            "sType": "fixed",
+                            "sAvail": 99,
+                            "sTotal": 245,
+                            "price": 258.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "30",
+                            "label": "SILVER",
+                            "typeCode": "30556__1727503200__4137__23285_SILVER",
+                            "sType": "fixed",
+                            "sAvail": 51,
+                            "sTotal": 83,
+                            "price": 170.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 328,
+                    "avail": 150,
+                    "audi": "Screen-II",
+                    "premium": 1,
+                    "premiumLabel": "ATMOS",
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "sndFmt": "none",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Thriller"
+                    ],
+                    "statusColor": "G",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "30556__1727528400__4137__23287",
+                    "pid": 1088,
+                    "pkey": "ticketnew",
+                    "cid": 14354,
+                    "mid": "OAV34I",
+                    "fid": "TtdX_wUyN",
+                    "showTime": "2024-09-28T13:00",
+                    "closeTime": "2024-09-28T13:00",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "20",
+                            "label": "GOLD",
+                            "typeCode": "30556__1727528400__4137__23287_GOLD",
+                            "sType": "fixed",
+                            "sAvail": 60,
+                            "sTotal": 245,
+                            "price": 258.0,
+                            "statusColor": "Y"
+                        },
+                        {
+                            "code": "30",
+                            "label": "SILVER",
+                            "typeCode": "30556__1727528400__4137__23287_SILVER",
+                            "sType": "fixed",
+                            "sAvail": 53,
+                            "sTotal": 83,
+                            "price": 170.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 328,
+                    "avail": 113,
+                    "audi": "Screen-II",
+                    "premium": 1,
+                    "premiumLabel": "ATMOS",
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "sndFmt": "none",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Thriller"
+                    ],
+                    "statusColor": "Y",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "30556__1727539800__4136__23240",
+                    "pid": 1088,
+                    "pkey": "ticketnew",
+                    "cid": 14354,
+                    "mid": "OAV34I",
+                    "fid": "TtdX_wUyN",
+                    "showTime": "2024-09-28T16:10",
+                    "closeTime": "2024-09-28T16:10",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "10",
+                            "label": "PLATINUM",
+                            "typeCode": "30556__1727539800__4136__23240_PLATINUM",
+                            "sType": "fixed",
+                            "sAvail": 0,
+                            "sTotal": 22,
+                            "price": 405.0,
+                            "statusColor": "D"
+                        },
+                        {
+                            "code": "20",
+                            "label": "GOLD",
+                            "typeCode": "30556__1727539800__4136__23240_GOLD",
+                            "sType": "fixed",
+                            "sAvail": 1,
+                            "sTotal": 340,
+                            "price": 258.0,
+                            "statusColor": "R"
+                        },
+                        {
+                            "code": "30",
+                            "label": "SILVER",
+                            "typeCode": "30556__1727539800__4136__23240_SILVER",
+                            "sType": "fixed",
+                            "sAvail": 35,
+                            "sTotal": 130,
+                            "price": 170.0,
+                            "statusColor": "Y"
+                        }
+                    ],
+                    "total": 492,
+                    "avail": 36,
+                    "audi": "Screen-I",
+                    "premium": 1,
+                    "premiumLabel": "ATMOS",
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "sndFmt": "none",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Thriller"
+                    ],
+                    "statusColor": "R",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "30556__1727502300__4136__23237",
+                    "pid": 1088,
+                    "pkey": "ticketnew",
+                    "cid": 14354,
+                    "mid": "OAV34I",
+                    "fid": "TtdX_wUyN",
+                    "showTime": "2024-09-28T05:45",
+                    "closeTime": "2024-09-28T05:45",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "10",
+                            "label": "PLATINUM",
+                            "typeCode": "30556__1727502300__4136__23237_PLATINUM",
+                            "sType": "fixed",
+                            "sAvail": 3,
+                            "sTotal": 22,
+                            "price": 405.0,
+                            "statusColor": "Y"
+                        },
+                        {
+                            "code": "20",
+                            "label": "GOLD",
+                            "typeCode": "30556__1727502300__4136__23237_GOLD",
+                            "sType": "fixed",
+                            "sAvail": 11,
+                            "sTotal": 340,
+                            "price": 258.0,
+                            "statusColor": "R"
+                        },
+                        {
+                            "code": "30",
+                            "label": "SILVER",
+                            "typeCode": "30556__1727502300__4136__23237_SILVER",
+                            "sType": "fixed",
+                            "sAvail": 57,
+                            "sTotal": 130,
+                            "price": 170.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 492,
+                    "avail": 71,
+                    "audi": "Screen-I",
+                    "premium": 1,
+                    "premiumLabel": "ATMOS",
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "sndFmt": "none",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Thriller"
+                    ],
+                    "statusColor": "Y",
+                    "subtitle": ""
+                }
+            ],
+            "9653": [
+                {
+                    "sid": "30556__1727537400__4013__27525",
+                    "pid": 721,
+                    "pkey": "ticketnew",
+                    "cid": 9653,
+                    "mid": "OAV34I",
+                    "fid": "TtdX_wUyN",
+                    "showTime": "2024-09-28T15:30",
+                    "closeTime": "2024-09-28T15:30",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "10",
+                            "label": "PLATINUM",
+                            "typeCode": "30556__1727537400__4013__27525_PLATINUM",
+                            "sType": "fixed",
+                            "sAvail": 1,
+                            "sTotal": 472,
+                            "price": 258.0,
+                            "statusColor": "R"
+                        },
+                        {
+                            "code": "20",
+                            "label": "GOLD",
+                            "typeCode": "30556__1727537400__4013__27525_GOLD",
+                            "sType": "fixed",
+                            "sAvail": 15,
+                            "sTotal": 170,
+                            "price": 170.0,
+                            "statusColor": "R"
+                        }
+                    ],
+                    "total": 642,
+                    "avail": 16,
+                    "audi": "Gowri Theatre",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "sndFmt": "none",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Thriller"
+                    ],
+                    "statusColor": "R",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "30556__1727502300__4014__27540",
+                    "pid": 721,
+                    "pkey": "ticketnew",
+                    "cid": 9653,
+                    "mid": "OAV34I",
+                    "fid": "TtdX_wUyN",
+                    "showTime": "2024-09-28T05:45",
+                    "closeTime": "2024-09-28T05:45",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "10",
+                            "label": "PLATINUM",
+                            "typeCode": "30556__1727502300__4014__27540_PLATINUM",
+                            "sType": "fixed",
+                            "sAvail": 169,
+                            "sTotal": 280,
+                            "price": 258.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "20",
+                            "label": "GOLD",
+                            "typeCode": "30556__1727502300__4014__27540_GOLD",
+                            "sType": "fixed",
+                            "sAvail": 74,
+                            "sTotal": 98,
+                            "price": 170.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 378,
+                    "avail": 243,
+                    "audi": "Ganga Talkies",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "sndFmt": "none",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Thriller"
+                    ],
+                    "statusColor": "G",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "30556__1727512200__4013__27523",
+                    "pid": 721,
+                    "pkey": "ticketnew",
+                    "cid": 9653,
+                    "mid": "OAV34I",
+                    "fid": "TtdX_wUyN",
+                    "showTime": "2024-09-28T08:30",
+                    "closeTime": "2024-09-28T08:30",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "10",
+                            "label": "PLATINUM",
+                            "typeCode": "30556__1727512200__4013__27523_PLATINUM",
+                            "sType": "fixed",
+                            "sAvail": 22,
+                            "sTotal": 472,
+                            "price": 258.0,
+                            "statusColor": "R"
+                        },
+                        {
+                            "code": "20",
+                            "label": "GOLD",
+                            "typeCode": "30556__1727512200__4013__27523_GOLD",
+                            "sType": "fixed",
+                            "sAvail": 92,
+                            "sTotal": 169,
+                            "price": 170.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 641,
+                    "avail": 114,
+                    "audi": "Gowri Theatre",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "sndFmt": "none",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Thriller"
+                    ],
+                    "statusColor": "Y",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "30556__1727487000__4013__27521",
+                    "pid": 721,
+                    "pkey": "ticketnew",
+                    "cid": 9653,
+                    "mid": "OAV34I",
+                    "fid": "TtdX_wUyN",
+                    "showTime": "2024-09-28T01:30",
+                    "closeTime": "2024-09-28T01:30",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "10",
+                            "label": "PLATINUM",
+                            "typeCode": "30556__1727487000__4013__27521_PLATINUM",
+                            "sType": "fixed",
+                            "sAvail": 133,
+                            "sTotal": 472,
+                            "price": 258.0,
+                            "statusColor": "Y"
+                        },
+                        {
+                            "code": "20",
+                            "label": "GOLD",
+                            "typeCode": "30556__1727487000__4013__27521_GOLD",
+                            "sType": "fixed",
+                            "sAvail": 62,
+                            "sTotal": 169,
+                            "price": 170.0,
+                            "statusColor": "Y"
+                        }
+                    ],
+                    "total": 641,
+                    "avail": 195,
+                    "audi": "Gowri Theatre",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "sndFmt": "none",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Thriller"
+                    ],
+                    "statusColor": "Y",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "30556__1727524800__4013__27524",
+                    "pid": 721,
+                    "pkey": "ticketnew",
+                    "cid": 9653,
+                    "mid": "OAV34I",
+                    "fid": "TtdX_wUyN",
+                    "showTime": "2024-09-28T12:00",
+                    "closeTime": "2024-09-28T12:00",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "10",
+                            "label": "PLATINUM",
+                            "typeCode": "30556__1727524800__4013__27524_PLATINUM",
+                            "sType": "fixed",
+                            "sAvail": 1,
+                            "sTotal": 472,
+                            "price": 258.0,
+                            "statusColor": "R"
+                        },
+                        {
+                            "code": "20",
+                            "label": "GOLD",
+                            "typeCode": "30556__1727524800__4013__27524_GOLD",
+                            "sType": "fixed",
+                            "sAvail": 74,
+                            "sTotal": 169,
+                            "price": 170.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 641,
+                    "avail": 75,
+                    "audi": "Gowri Theatre",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "sndFmt": "none",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Thriller"
+                    ],
+                    "statusColor": "Y",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "30556__1727540100__4016__27531",
+                    "pid": 721,
+                    "pkey": "ticketnew",
+                    "cid": 9653,
+                    "mid": "OAV34I",
+                    "fid": "TtdX_wUyN",
+                    "showTime": "2024-09-28T16:15",
+                    "closeTime": "2024-09-28T16:15",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "10",
+                            "label": "PLATINUM",
+                            "typeCode": "30556__1727540100__4016__27531_PLATINUM",
+                            "sType": "fixed",
+                            "sAvail": 93,
+                            "sTotal": 146,
+                            "price": 258.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "20",
+                            "label": "GOLD",
+                            "typeCode": "30556__1727540100__4016__27531_GOLD",
+                            "sType": "fixed",
+                            "sAvail": 59,
+                            "sTotal": 61,
+                            "price": 170.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 207,
+                    "avail": 152,
+                    "audi": "Gowthami Theatre",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "sndFmt": "none",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Thriller"
+                    ],
+                    "statusColor": "G",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "30556__1727514900__4016__27529",
+                    "pid": 721,
+                    "pkey": "ticketnew",
+                    "cid": 9653,
+                    "mid": "OAV34I",
+                    "fid": "TtdX_wUyN",
+                    "showTime": "2024-09-28T09:15",
+                    "closeTime": "2024-09-28T09:15",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "10",
+                            "label": "PLATINUM",
+                            "typeCode": "30556__1727514900__4016__27529_PLATINUM",
+                            "sType": "fixed",
+                            "sAvail": 117,
+                            "sTotal": 146,
+                            "price": 258.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "20",
+                            "label": "GOLD",
+                            "typeCode": "30556__1727514900__4016__27529_GOLD",
+                            "sType": "fixed",
+                            "sAvail": 59,
+                            "sTotal": 61,
+                            "price": 170.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 207,
+                    "avail": 176,
+                    "audi": "Gowthami Theatre",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "sndFmt": "none",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Thriller"
+                    ],
+                    "statusColor": "G",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "30556__1727527500__4014__27542",
+                    "pid": 721,
+                    "pkey": "ticketnew",
+                    "cid": 9653,
+                    "mid": "OAV34I",
+                    "fid": "TtdX_wUyN",
+                    "showTime": "2024-09-28T12:45",
+                    "closeTime": "2024-09-28T12:45",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "10",
+                            "label": "PLATINUM",
+                            "typeCode": "30556__1727527500__4014__27542_PLATINUM",
+                            "sType": "fixed",
+                            "sAvail": 192,
+                            "sTotal": 280,
+                            "price": 258.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "20",
+                            "label": "GOLD",
+                            "typeCode": "30556__1727527500__4014__27542_GOLD",
+                            "sType": "fixed",
+                            "sAvail": 74,
+                            "sTotal": 98,
+                            "price": 170.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 378,
+                    "avail": 266,
+                    "audi": "Ganga Talkies",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "sndFmt": "none",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Thriller"
+                    ],
+                    "statusColor": "G",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "30556__1727528400__4016__27530",
+                    "pid": 721,
+                    "pkey": "ticketnew",
+                    "cid": 9653,
+                    "mid": "OAV34I",
+                    "fid": "TtdX_wUyN",
+                    "showTime": "2024-09-28T13:00",
+                    "closeTime": "2024-09-28T13:00",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "10",
+                            "label": "PLATINUM",
+                            "typeCode": "30556__1727528400__4016__27530_PLATINUM",
+                            "sType": "fixed",
+                            "sAvail": 95,
+                            "sTotal": 146,
+                            "price": 258.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "20",
+                            "label": "GOLD",
+                            "typeCode": "30556__1727528400__4016__27530_GOLD",
+                            "sType": "fixed",
+                            "sAvail": 45,
+                            "sTotal": 61,
+                            "price": 170.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 207,
+                    "avail": 140,
+                    "audi": "Gowthami Theatre",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "sndFmt": "none",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Thriller"
+                    ],
+                    "statusColor": "G",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "30556__1727514000__4014__27541",
+                    "pid": 721,
+                    "pkey": "ticketnew",
+                    "cid": 9653,
+                    "mid": "OAV34I",
+                    "fid": "TtdX_wUyN",
+                    "showTime": "2024-09-28T09:00",
+                    "closeTime": "2024-09-28T09:00",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "10",
+                            "label": "PLATINUM",
+                            "typeCode": "30556__1727514000__4014__27541_PLATINUM",
+                            "sType": "fixed",
+                            "sAvail": 197,
+                            "sTotal": 280,
+                            "price": 258.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "20",
+                            "label": "GOLD",
+                            "typeCode": "30556__1727514000__4014__27541_GOLD",
+                            "sType": "fixed",
+                            "sAvail": 92,
+                            "sTotal": 98,
+                            "price": 170.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 378,
+                    "avail": 289,
+                    "audi": "Ganga Talkies",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "sndFmt": "none",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Thriller"
+                    ],
+                    "statusColor": "G",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "30556__1727539200__4014__27543",
+                    "pid": 721,
+                    "pkey": "ticketnew",
+                    "cid": 9653,
+                    "mid": "OAV34I",
+                    "fid": "TtdX_wUyN",
+                    "showTime": "2024-09-28T16:00",
+                    "closeTime": "2024-09-28T16:00",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "10",
+                            "label": "PLATINUM",
+                            "typeCode": "30556__1727539200__4014__27543_PLATINUM",
+                            "sType": "fixed",
+                            "sAvail": 192,
+                            "sTotal": 280,
+                            "price": 258.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "20",
+                            "label": "GOLD",
+                            "typeCode": "30556__1727539200__4014__27543_GOLD",
+                            "sType": "fixed",
+                            "sAvail": 84,
+                            "sTotal": 98,
+                            "price": 170.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 378,
+                    "avail": 276,
+                    "audi": "Ganga Talkies",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "sndFmt": "none",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Thriller"
+                    ],
+                    "statusColor": "G",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "30556__1727503200__4016__27528",
+                    "pid": 721,
+                    "pkey": "ticketnew",
+                    "cid": 9653,
+                    "mid": "OAV34I",
+                    "fid": "TtdX_wUyN",
+                    "showTime": "2024-09-28T06:00",
+                    "closeTime": "2024-09-28T06:00",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "10",
+                            "label": "PLATINUM",
+                            "typeCode": "30556__1727503200__4016__27528_PLATINUM",
+                            "sType": "fixed",
+                            "sAvail": 92,
+                            "sTotal": 146,
+                            "price": 258.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "20",
+                            "label": "GOLD",
+                            "typeCode": "30556__1727503200__4016__27528_GOLD",
+                            "sType": "fixed",
+                            "sAvail": 49,
+                            "sTotal": 61,
+                            "price": 170.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 207,
+                    "avail": 141,
+                    "audi": "Gowthami Theatre",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "sndFmt": "none",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Thriller"
+                    ],
+                    "statusColor": "G",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "30556__1727499600__4013__27522",
+                    "pid": 721,
+                    "pkey": "ticketnew",
+                    "cid": 9653,
+                    "mid": "OAV34I",
+                    "fid": "TtdX_wUyN",
+                    "showTime": "2024-09-28T05:00",
+                    "closeTime": "2024-09-28T05:00",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "10",
+                            "label": "PLATINUM",
+                            "typeCode": "30556__1727499600__4013__27522_PLATINUM",
+                            "sType": "fixed",
+                            "sAvail": 6,
+                            "sTotal": 472,
+                            "price": 258.0,
+                            "statusColor": "R"
+                        },
+                        {
+                            "code": "20",
+                            "label": "GOLD",
+                            "typeCode": "30556__1727499600__4013__27522_GOLD",
+                            "sType": "fixed",
+                            "sAvail": 23,
+                            "sTotal": 170,
+                            "price": 170.0,
+                            "statusColor": "Y"
+                        }
+                    ],
+                    "total": 642,
+                    "avail": 29,
+                    "audi": "Gowri Theatre",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "sndFmt": "none",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Thriller"
+                    ],
+                    "statusColor": "R",
+                    "subtitle": ""
+                }
+            ],
+            "1027478": [
+                {
+                    "sid": "30556__1727528400__4597__4764",
+                    "pid": 1814,
+                    "pkey": "ticketnew",
+                    "cid": 1027478,
+                    "mid": "OAV34I",
+                    "fid": "TtdX_wUyN",
+                    "showTime": "2024-09-28T13:00",
+                    "closeTime": "2024-09-28T13:00",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "10",
+                            "label": "BOXS",
+                            "typeCode": "30556__1727528400__4597__4764_BOXS",
+                            "sType": "fixed",
+                            "sAvail": 1,
+                            "sTotal": 48,
+                            "price": 258.0,
+                            "statusColor": "R"
+                        },
+                        {
+                            "code": "20",
+                            "label": "DIAMOND",
+                            "typeCode": "30556__1727528400__4597__4764_DIAMOND",
+                            "sType": "fixed",
+                            "sAvail": 3,
+                            "sTotal": 316,
+                            "price": 258.0,
+                            "statusColor": "R"
+                        },
+                        {
+                            "code": "30",
+                            "label": "GOLD",
+                            "typeCode": "30556__1727528400__4597__4764_GOLD",
+                            "sType": "fixed",
+                            "sAvail": 81,
+                            "sTotal": 168,
+                            "price": 258.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "40",
+                            "label": "SILVER",
+                            "typeCode": "30556__1727528400__4597__4764_SILVER",
+                            "sType": "fixed",
+                            "sAvail": 54,
+                            "sTotal": 98,
+                            "price": 170.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 630,
+                    "avail": 139,
+                    "audi": "SV Cinemax",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "sndFmt": "none",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Thriller"
+                    ],
+                    "statusColor": "Y",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "30556__1727488800__4597__4761",
+                    "pid": 1814,
+                    "pkey": "ticketnew",
+                    "cid": 1027478,
+                    "mid": "OAV34I",
+                    "fid": "TtdX_wUyN",
+                    "showTime": "2024-09-28T02:00",
+                    "closeTime": "2024-09-28T02:00",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "10",
+                            "label": "BOXS",
+                            "typeCode": "30556__1727488800__4597__4761_BOXS",
+                            "sType": "fixed",
+                            "sAvail": 16,
+                            "sTotal": 48,
+                            "price": 258.0,
+                            "statusColor": "Y"
+                        },
+                        {
+                            "code": "20",
+                            "label": "DIAMOND",
+                            "typeCode": "30556__1727488800__4597__4761_DIAMOND",
+                            "sType": "fixed",
+                            "sAvail": 135,
+                            "sTotal": 316,
+                            "price": 258.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "30",
+                            "label": "GOLD",
+                            "typeCode": "30556__1727488800__4597__4761_GOLD",
+                            "sType": "fixed",
+                            "sAvail": 153,
+                            "sTotal": 168,
+                            "price": 258.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "40",
+                            "label": "SILVER",
+                            "typeCode": "30556__1727488800__4597__4761_SILVER",
+                            "sType": "fixed",
+                            "sAvail": 85,
+                            "sTotal": 98,
+                            "price": 170.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 630,
+                    "avail": 389,
+                    "audi": "SV Cinemax",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "sndFmt": "none",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Thriller"
+                    ],
+                    "statusColor": "G",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "30556__1727503200__4597__4762",
+                    "pid": 1814,
+                    "pkey": "ticketnew",
+                    "cid": 1027478,
+                    "mid": "OAV34I",
+                    "fid": "TtdX_wUyN",
+                    "showTime": "2024-09-28T06:00",
+                    "closeTime": "2024-09-28T06:00",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "10",
+                            "label": "BOXS",
+                            "typeCode": "30556__1727503200__4597__4762_BOXS",
+                            "sType": "fixed",
+                            "sAvail": 0,
+                            "sTotal": 48,
+                            "price": 258.0,
+                            "statusColor": "D"
+                        },
+                        {
+                            "code": "20",
+                            "label": "DIAMOND",
+                            "typeCode": "30556__1727503200__4597__4762_DIAMOND",
+                            "sType": "fixed",
+                            "sAvail": 19,
+                            "sTotal": 316,
+                            "price": 258.0,
+                            "statusColor": "R"
+                        },
+                        {
+                            "code": "30",
+                            "label": "GOLD",
+                            "typeCode": "30556__1727503200__4597__4762_GOLD",
+                            "sType": "fixed",
+                            "sAvail": 139,
+                            "sTotal": 168,
+                            "price": 258.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "40",
+                            "label": "SILVER",
+                            "typeCode": "30556__1727503200__4597__4762_SILVER",
+                            "sType": "fixed",
+                            "sAvail": 54,
+                            "sTotal": 98,
+                            "price": 170.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 630,
+                    "avail": 212,
+                    "audi": "SV Cinemax",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "sndFmt": "none",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Thriller"
+                    ],
+                    "statusColor": "Y",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "30556__1727541000__4597__4765",
+                    "pid": 1814,
+                    "pkey": "ticketnew",
+                    "cid": 1027478,
+                    "mid": "OAV34I",
+                    "fid": "TtdX_wUyN",
+                    "showTime": "2024-09-28T16:30",
+                    "closeTime": "2024-09-28T16:30",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "10",
+                            "label": "BOXS",
+                            "typeCode": "30556__1727541000__4597__4765_BOXS",
+                            "sType": "fixed",
+                            "sAvail": 0,
+                            "sTotal": 48,
+                            "price": 258.0,
+                            "statusColor": "D"
+                        },
+                        {
+                            "code": "20",
+                            "label": "DIAMOND",
+                            "typeCode": "30556__1727541000__4597__4765_DIAMOND",
+                            "sType": "fixed",
+                            "sAvail": 3,
+                            "sTotal": 316,
+                            "price": 258.0,
+                            "statusColor": "R"
+                        },
+                        {
+                            "code": "30",
+                            "label": "GOLD",
+                            "typeCode": "30556__1727541000__4597__4765_GOLD",
+                            "sType": "fixed",
+                            "sAvail": 58,
+                            "sTotal": 168,
+                            "price": 258.0,
+                            "statusColor": "Y"
+                        },
+                        {
+                            "code": "40",
+                            "label": "SILVER",
+                            "typeCode": "30556__1727541000__4597__4765_SILVER",
+                            "sType": "fixed",
+                            "sAvail": 45,
+                            "sTotal": 98,
+                            "price": 170.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 630,
+                    "avail": 106,
+                    "audi": "SV Cinemax",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "sndFmt": "none",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Thriller"
+                    ],
+                    "statusColor": "Y",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "30556__1727514900__4597__4763",
+                    "pid": 1814,
+                    "pkey": "ticketnew",
+                    "cid": 1027478,
+                    "mid": "OAV34I",
+                    "fid": "TtdX_wUyN",
+                    "showTime": "2024-09-28T09:15",
+                    "closeTime": "2024-09-28T09:15",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "10",
+                            "label": "BOXS",
+                            "typeCode": "30556__1727514900__4597__4763_BOXS",
+                            "sType": "fixed",
+                            "sAvail": 1,
+                            "sTotal": 48,
+                            "price": 258.0,
+                            "statusColor": "R"
+                        },
+                        {
+                            "code": "20",
+                            "label": "DIAMOND",
+                            "typeCode": "30556__1727514900__4597__4763_DIAMOND",
+                            "sType": "fixed",
+                            "sAvail": 14,
+                            "sTotal": 316,
+                            "price": 258.0,
+                            "statusColor": "R"
+                        },
+                        {
+                            "code": "30",
+                            "label": "GOLD",
+                            "typeCode": "30556__1727514900__4597__4763_GOLD",
+                            "sType": "fixed",
+                            "sAvail": 155,
+                            "sTotal": 168,
+                            "price": 258.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "40",
+                            "label": "SILVER",
+                            "typeCode": "30556__1727514900__4597__4763_SILVER",
+                            "sType": "fixed",
+                            "sAvail": 75,
+                            "sTotal": 98,
+                            "price": 170.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 630,
+                    "avail": 245,
+                    "audi": "SV Cinemax",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "sndFmt": "none",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Thriller"
+                    ],
+                    "statusColor": "Y",
+                    "subtitle": ""
+                }
+            ],
+            "1022965": [
+                {
+                    "sid": "30556__1727514900__4993__11189",
+                    "pid": 1791,
+                    "pkey": "ticketnew",
+                    "cid": 1022965,
+                    "mid": "OAV34I",
+                    "fid": "TtdX_wUyN",
+                    "showTime": "2024-09-28T09:15",
+                    "closeTime": "2024-09-28T09:15",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "5",
+                            "label": "DAIMOND",
+                            "typeCode": "30556__1727514900__4993__11189_DAIMOND",
+                            "sType": "fixed",
+                            "sAvail": 108,
+                            "sTotal": 128,
+                            "price": 258.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "6",
+                            "label": "GOLD",
+                            "typeCode": "30556__1727514900__4993__11189_GOLD",
+                            "sType": "fixed",
+                            "sAvail": 140,
+                            "sTotal": 140,
+                            "price": 258.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "7",
+                            "label": "SILVER",
+                            "typeCode": "30556__1727514900__4993__11189_SILVER",
+                            "sType": "fixed",
+                            "sAvail": 137,
+                            "sTotal": 146,
+                            "price": 170.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 414,
+                    "avail": 385,
+                    "audi": "Sudha",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "sndFmt": "none",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Thriller"
+                    ],
+                    "statusColor": "G",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "30556__1727528400__4993__11190",
+                    "pid": 1791,
+                    "pkey": "ticketnew",
+                    "cid": 1022965,
+                    "mid": "OAV34I",
+                    "fid": "TtdX_wUyN",
+                    "showTime": "2024-09-28T13:00",
+                    "closeTime": "2024-09-28T13:00",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "5",
+                            "label": "DAIMOND",
+                            "typeCode": "30556__1727528400__4993__11190_DAIMOND",
+                            "sType": "fixed",
+                            "sAvail": 101,
+                            "sTotal": 128,
+                            "price": 258.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "6",
+                            "label": "GOLD",
+                            "typeCode": "30556__1727528400__4993__11190_GOLD",
+                            "sType": "fixed",
+                            "sAvail": 130,
+                            "sTotal": 140,
+                            "price": 258.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "7",
+                            "label": "SILVER",
+                            "typeCode": "30556__1727528400__4993__11190_SILVER",
+                            "sType": "fixed",
+                            "sAvail": 139,
+                            "sTotal": 146,
+                            "price": 170.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 414,
+                    "avail": 370,
+                    "audi": "Sudha",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "sndFmt": "none",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Thriller"
+                    ],
+                    "statusColor": "G",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "30556__1727541000__4993__11191",
+                    "pid": 1791,
+                    "pkey": "ticketnew",
+                    "cid": 1022965,
+                    "mid": "OAV34I",
+                    "fid": "TtdX_wUyN",
+                    "showTime": "2024-09-28T16:30",
+                    "closeTime": "2024-09-28T16:30",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "5",
+                            "label": "DAIMOND",
+                            "typeCode": "30556__1727541000__4993__11191_DAIMOND",
+                            "sType": "fixed",
+                            "sAvail": 84,
+                            "sTotal": 128,
+                            "price": 258.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "6",
+                            "label": "GOLD",
+                            "typeCode": "30556__1727541000__4993__11191_GOLD",
+                            "sType": "fixed",
+                            "sAvail": 140,
+                            "sTotal": 140,
+                            "price": 258.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "7",
+                            "label": "SILVER",
+                            "typeCode": "30556__1727541000__4993__11191_SILVER",
+                            "sType": "fixed",
+                            "sAvail": 139,
+                            "sTotal": 146,
+                            "price": 170.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 414,
+                    "avail": 363,
+                    "audi": "Sudha",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "sndFmt": "none",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Thriller"
+                    ],
+                    "statusColor": "G",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "30556__1727503200__4993__11188",
+                    "pid": 1791,
+                    "pkey": "ticketnew",
+                    "cid": 1022965,
+                    "mid": "OAV34I",
+                    "fid": "TtdX_wUyN",
+                    "showTime": "2024-09-28T06:00",
+                    "closeTime": "2024-09-28T06:00",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "5",
+                            "label": "DAIMOND",
+                            "typeCode": "30556__1727503200__4993__11188_DAIMOND",
+                            "sType": "fixed",
+                            "sAvail": 110,
+                            "sTotal": 128,
+                            "price": 258.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "6",
+                            "label": "GOLD",
+                            "typeCode": "30556__1727503200__4993__11188_GOLD",
+                            "sType": "fixed",
+                            "sAvail": 140,
+                            "sTotal": 140,
+                            "price": 258.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "7",
+                            "label": "SILVER",
+                            "typeCode": "30556__1727503200__4993__11188_SILVER",
+                            "sType": "fixed",
+                            "sAvail": 140,
+                            "sTotal": 146,
+                            "price": 170.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 414,
+                    "avail": 390,
+                    "audi": "Sudha",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "sndFmt": "none",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Thriller"
+                    ],
+                    "statusColor": "G",
+                    "subtitle": ""
+                }
+            ],
+            "1020338": [
+                {
+                    "sid": "30556__1727527500__4952__7420",
+                    "pid": 1773,
+                    "pkey": "ticketnew",
+                    "cid": 1020338,
+                    "mid": "OAV34I",
+                    "fid": "TtdX_wUyN",
+                    "showTime": "2024-09-28T12:45",
+                    "closeTime": "2024-09-28T12:45",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "10",
+                            "label": "GOLD",
+                            "typeCode": "30556__1727527500__4952__7420_GOLD",
+                            "sType": "fixed",
+                            "sAvail": 9,
+                            "sTotal": 360,
+                            "price": 258.0,
+                            "statusColor": "R"
+                        },
+                        {
+                            "code": "20",
+                            "label": "SILVER",
+                            "typeCode": "30556__1727527500__4952__7420_SILVER",
+                            "sType": "fixed",
+                            "sAvail": 43,
+                            "sTotal": 92,
+                            "price": 170.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 452,
+                    "avail": 52,
+                    "audi": "Neelima Theatre",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "sndFmt": "none",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Thriller"
+                    ],
+                    "statusColor": "Y",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "30556__1727514600__4952__7419",
+                    "pid": 1773,
+                    "pkey": "ticketnew",
+                    "cid": 1020338,
+                    "mid": "OAV34I",
+                    "fid": "TtdX_wUyN",
+                    "showTime": "2024-09-28T09:10",
+                    "closeTime": "2024-09-28T09:10",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "10",
+                            "label": "GOLD",
+                            "typeCode": "30556__1727514600__4952__7419_GOLD",
+                            "sType": "fixed",
+                            "sAvail": 52,
+                            "sTotal": 360,
+                            "price": 258.0,
+                            "statusColor": "Y"
+                        },
+                        {
+                            "code": "20",
+                            "label": "SILVER",
+                            "typeCode": "30556__1727514600__4952__7419_SILVER",
+                            "sType": "fixed",
+                            "sAvail": 60,
+                            "sTotal": 92,
+                            "price": 170.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 452,
+                    "avail": 112,
+                    "audi": "Neelima Theatre",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "sndFmt": "none",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Thriller"
+                    ],
+                    "statusColor": "Y",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "30556__1727502300__4952__7418",
+                    "pid": 1773,
+                    "pkey": "ticketnew",
+                    "cid": 1020338,
+                    "mid": "OAV34I",
+                    "fid": "TtdX_wUyN",
+                    "showTime": "2024-09-28T05:45",
+                    "closeTime": "2024-09-28T05:45",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "10",
+                            "label": "GOLD",
+                            "typeCode": "30556__1727502300__4952__7418_GOLD",
+                            "sType": "fixed",
+                            "sAvail": 81,
+                            "sTotal": 360,
+                            "price": 258.0,
+                            "statusColor": "Y"
+                        },
+                        {
+                            "code": "20",
+                            "label": "SILVER",
+                            "typeCode": "30556__1727502300__4952__7418_SILVER",
+                            "sType": "fixed",
+                            "sAvail": 31,
+                            "sTotal": 92,
+                            "price": 170.0,
+                            "statusColor": "Y"
+                        }
+                    ],
+                    "total": 452,
+                    "avail": 112,
+                    "audi": "Neelima Theatre",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "sndFmt": "none",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Thriller"
+                    ],
+                    "statusColor": "Y",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "30556__1727488800__4952__7417",
+                    "pid": 1773,
+                    "pkey": "ticketnew",
+                    "cid": 1020338,
+                    "mid": "OAV34I",
+                    "fid": "TtdX_wUyN",
+                    "showTime": "2024-09-28T02:00",
+                    "closeTime": "2024-09-28T02:00",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "10",
+                            "label": "GOLD",
+                            "typeCode": "30556__1727488800__4952__7417_GOLD",
+                            "sType": "fixed",
+                            "sAvail": 112,
+                            "sTotal": 360,
+                            "price": 258.0,
+                            "statusColor": "Y"
+                        },
+                        {
+                            "code": "20",
+                            "label": "SILVER",
+                            "typeCode": "30556__1727488800__4952__7417_SILVER",
+                            "sType": "fixed",
+                            "sAvail": 59,
+                            "sTotal": 92,
+                            "price": 170.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 452,
+                    "avail": 171,
+                    "audi": "Neelima Theatre",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "sndFmt": "none",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Thriller"
+                    ],
+                    "statusColor": "Y",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "30556__1727539800__4952__7421",
+                    "pid": 1773,
+                    "pkey": "ticketnew",
+                    "cid": 1020338,
+                    "mid": "OAV34I",
+                    "fid": "TtdX_wUyN",
+                    "showTime": "2024-09-28T16:10",
+                    "closeTime": "2024-09-28T16:10",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "10",
+                            "label": "GOLD",
+                            "typeCode": "30556__1727539800__4952__7421_GOLD",
+                            "sType": "fixed",
+                            "sAvail": 4,
+                            "sTotal": 360,
+                            "price": 258.0,
+                            "statusColor": "R"
+                        },
+                        {
+                            "code": "20",
+                            "label": "SILVER",
+                            "typeCode": "30556__1727539800__4952__7421_SILVER",
+                            "sType": "fixed",
+                            "sAvail": 34,
+                            "sTotal": 92,
+                            "price": 170.0,
+                            "statusColor": "Y"
+                        }
+                    ],
+                    "total": 452,
+                    "avail": 38,
+                    "audi": "Neelima Theatre",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "sndFmt": "none",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Thriller"
+                    ],
+                    "statusColor": "R",
+                    "subtitle": ""
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,1420 @@
+{
+    "serverTime": 1727456452,
+    "meta": {
+        "movies": [
+            {
+                "id": "OAV34I",
+                "frmtId": "TtdX_wUyN",
+                "name": "Devara - Part 1",
+                "imgPath": "https://assetscdn1.paytm.com/images/cinema/Devara---Part-1--705x750-ff23a0e0-ccc6-11ee-a6f3-b9b401515283.jpg",
+                "appImgPath": "https://assetscdn1.paytm.com/images/cinema/Devara-608x800-87e29260-7834-11ef-ad27-dfa11df60ee4.jpg",
+                "cvrPath": "https://assetscdn1.paytm.com/images/cinema/we-a407a150-7b23-11ef-84df-ff7d1a67840c.jpg",
+                "appCvrPath": "https://assetscdn1.paytm.com/images/cinema/App-cover-a62c7d20-7b23-11ef-8892-f397183e5623.jpg",
+                "thumbnail": null,
+                "edgeBanner": "https://assetscdn1.paytm.com/images/cinema/Devara---Part-1--1035%E2%80%8A%C3%97%E2%80%8A420-118bd900-ccc7-11ee-a6f3-b9b401515283.jpg",
+                "trailer": "https://youtu.be/5cx7rvMvAWo",
+                "censor": "U/A",
+                "duration": 178,
+                "grn": [
+                    "Action",
+                    "Drama",
+                    "Thriller"
+                ],
+                "scrnFmt": "2D",
+                "sndFmt": "none",
+                "rnr": {
+                    "hasUReview": 1,
+                    "hasContent": 1
+                },
+                "isNew": false,
+                "imxImgUrl": null,
+                "contentId": 159964,
+                "label": "Devara - Part 1",
+                "lang": "Telugu"
+            }
+        ],
+        "filterBuckets": {
+            "timeBuckets": [
+                {
+                    "sTime": "05:00",
+                    "eTime": "11:59",
+                    "desc": "5:00 AM to 11:59 AM",
+                    "dText": "Morning",
+                    "desc1": "Till 12 PM"
+                },
+                {
+                    "sTime": "12:00",
+                    "eTime": "15:59",
+                    "desc": "12:00 PM to 3:59 PM",
+                    "dText": "Afternoon",
+                    "desc1": "Till 4 PM"
+                },
+                {
+                    "sTime": "16:00",
+                    "eTime": "18:59",
+                    "desc": "4:00 PM to 6:59 PM",
+                    "dText": "Evening",
+                    "desc1": "Till 7 PM"
+                },
+                {
+                    "sTime": "19:00",
+                    "eTime": "04:59",
+                    "desc": "7:00 PM to 4:59 AM",
+                    "dText": "Night",
+                    "desc1": "After 7 PM"
+                }
+            ],
+            "priceBuckets": [
+                {
+                    "min": "0",
+                    "max": "99",
+                    "desc": "Below Rs 100"
+                },
+                {
+                    "min": "100",
+                    "max": "199",
+                    "desc": "Rs 100 - Rs 199"
+                },
+                {
+                    "min": "200",
+                    "max": "299",
+                    "desc": "Rs 200 - Rs 299"
+                },
+                {
+                    "min": "300",
+                    "max": "399",
+                    "desc": "Rs 300 - Rs 399"
+                },
+                {
+                    "min": "400",
+                    "max": "NA",
+                    "desc": "Rs 400 or above"
+                }
+            ],
+            "showTimeBuckets": [
+                {
+                    "sTime": "00:00",
+                    "eTime": "08:00",
+                    "desc": "12 AM to 8 AM",
+                    "dText": "Early Morning",
+                    "desc1": "Till 8 AM"
+                },
+                {
+                    "sTime": "08:00",
+                    "eTime": "12:00",
+                    "desc": "8 AM to 12 PM",
+                    "dText": "Morning",
+                    "desc1": "Till 12 PM"
+                },
+                {
+                    "sTime": "12:00",
+                    "eTime": "16:00",
+                    "desc": "12 PM to 4 PM",
+                    "dText": "Afternoon",
+                    "desc1": "Till 4 PM"
+                },
+                {
+                    "sTime": "16:00",
+                    "eTime": "19:00",
+                    "desc": "4 PM to 7 PM",
+                    "dText": "Evening",
+                    "desc1": "Till 7 PM"
+                },
+                {
+                    "sTime": "19:00",
+                    "eTime": "23:59",
+                    "desc": "7 PM to 12 AM",
+                    "dText": "Night",
+                    "desc1": "Till 12 AM"
+                }
+            ]
+        },
+        "amenities": [
+            {
+                "id": 2,
+                "name": "Parking",
+                "rank": 1
+            },
+            {
+                "id": 1,
+                "name": "Mobile Ticket",
+                "rank": 2
+            },
+            {
+                "id": 3,
+                "name": "Online Food",
+                "rank": 3
+            },
+            {
+                "id": 5,
+                "name": "Recliners",
+                "rank": 4
+            },
+            {
+                "id": 6,
+                "name": "Paytm Accepted",
+                "rank": 5
+            },
+            {
+                "id": 4,
+                "name": "Wheelchair Friendly",
+                "rank": 6
+            },
+            {
+                "id": 7,
+                "name": "RGB Laser",
+                "rank": 7
+            },
+            {
+                "id": 8,
+                "name": "Dolby Atmos",
+                "rank": 8
+            },
+            {
+                "id": 9,
+                "name": "IMAX",
+                "rank": 9
+            },
+            {
+                "id": 10,
+                "name": "4K",
+                "rank": 10
+            },
+            {
+                "id": 11,
+                "name": "AC",
+                "rank": 11
+            },
+            {
+                "id": 12,
+                "name": "WIFI",
+                "rank": 12
+            },
+            {
+                "id": 13,
+                "name": "Food Court",
+                "rank": 13
+            },
+            {
+                "id": 14,
+                "name": "Gaming Zone",
+                "rank": 14
+            },
+            {
+                "id": 15,
+                "name": "2K",
+                "rank": 15
+            },
+            {
+                "id": 16,
+                "name": "4D",
+                "rank": 16
+            },
+            {
+                "id": 17,
+                "name": "4DX",
+                "rank": 17
+            },
+            {
+                "id": 18,
+                "name": "Dolby 7.1",
+                "rank": 18
+            },
+            {
+                "id": 19,
+                "name": "Air conditioning",
+                "rank": 19
+            },
+            {
+                "id": 20,
+                "name": "Metro Train",
+                "rank": 20
+            },
+            {
+                "id": 21,
+                "name": "Sofa",
+                "rank": 21
+            },
+            {
+                "id": 22,
+                "name": "Social Seating",
+                "rank": 22
+            },
+            {
+                "id": 23,
+                "name": "Wheelchair Assistance",
+                "rank": 23
+            },
+            {
+                "id": 24,
+                "name": "Silver Screen",
+                "rank": 24
+            },
+            {
+                "id": 25,
+                "name": "Food & Beverages",
+                "rank": 25
+            },
+            {
+                "id": 26,
+                "name": "Paper Less Ticketing",
+                "rank": 26
+            },
+            {
+                "id": 27,
+                "name": "Handicapped Washroom",
+                "rank": 27
+            },
+            {
+                "id": 28,
+                "name": "Free Parking",
+                "rank": 28
+            },
+            {
+                "id": 29,
+                "name": "Baggage Counter",
+                "rank": 29
+            },
+            {
+                "id": 30,
+                "name": "Dolby 4 Way 11.1",
+                "rank": 30
+            },
+            {
+                "id": 31,
+                "name": "Barco 4K Ultra HD",
+                "rank": 31
+            }
+        ],
+        "cinemas": [
+            {
+                "id": 1025117,
+                "pid": 1707,
+                "name": "PVR INOX Nexus Mall, Pandeshwar, Mangalore",
+                "address": "PVR Cinemas, Nexus Mall, 2nd Floor, Opp. Corporation Bank, Cantonment Ward, Pandeshwar Road, Attawar, Mangalore, Karnataka 575001, India",
+                "pincode": "575001",
+                "lat": 12.858153,
+                "lon": 74.838347,
+                "cityId": 19,
+                "appCovrImgUrl": "",
+                "covrImgUrl": "",
+                "fnb": 0,
+                "mTkt": 1,
+                "bCode": "0",
+                "sTop": 0,
+                "isMerchantCancellable": 0,
+                "cinemaLogoUrl": "https://assetscdn1.paytm.com/images/cinema/PVR%20(1)-2e1d7f00-eb9a-11ee-be5f-7b4a82c5f7e3.png",
+                "cinemaVideoUrl": "",
+                "appCoverVideoUrl": "",
+                "webCoverVideoUrl": "",
+                "amenities": null,
+                "promos": null,
+                "chainKey": "PVR",
+                "contentId": 171871,
+                "theatreGroupName": "",
+                "amenitiesOrder": null,
+                "carouselAttachments": [],
+                "isPassEnabled": 1,
+                "paytmCinemaId": 1025117,
+                "city": "Mangalore",
+                "clientId": "ticketnew",
+                "isMapped": 0,
+                "city_id": null,
+                "is_city_mapped": null,
+                "state": "karnataka",
+                "label": "PVR INOX Nexus Mall, Pandeshwar, Mangalore",
+                "sessionCount": 64
+            },
+            {
+                "id": 120,
+                "pid": 335,
+                "name": "Cinepolis City Centre Mall, Mangaluru",
+                "address": "City Center Mall, 4th Floor, KSR Road, Hampankatta, Mangaluru, Karnataka 575001, India",
+                "pincode": "575001",
+                "lat": 12.871288,
+                "lon": 74.842376,
+                "cityId": 19,
+                "appCovrImgUrl": "",
+                "covrImgUrl": "",
+                "fnb": 0,
+                "mTkt": 1,
+                "bCode": "478",
+                "sTop": 0,
+                "isMerchantCancellable": 0,
+                "cinemaLogoUrl": "https://assetscdn1.paytm.com/images/cinema/Cinepolis-855bb200-b387-11ee-8a1f-bfa09bf4348a.png",
+                "cinemaVideoUrl": "",
+                "appCoverVideoUrl": "",
+                "webCoverVideoUrl": "",
+                "amenities": {
+                    "1": 1,
+                    "2": 1,
+                    "3": 1,
+                    "4": -1,
+                    "5": -1,
+                    "6": 1
+                },
+                "promos": null,
+                "chainKey": "Cinepolis",
+                "contentId": 147583,
+                "theatreGroupName": "",
+                "amenitiesOrder": [
+                    {
+                        "id": 1,
+                        "rank": 2,
+                        "status": 1
+                    },
+                    {
+                        "id": 2,
+                        "rank": 1,
+                        "status": 1
+                    },
+                    {
+                        "id": 3,
+                        "rank": 3,
+                        "status": 1
+                    },
+                    {
+                        "id": 4,
+                        "rank": 6,
+                        "status": -1
+                    },
+                    {
+                        "id": 5,
+                        "rank": 4,
+                        "status": -1
+                    },
+                    {
+                        "id": 6,
+                        "rank": 5,
+                        "status": 1
+                    }
+                ],
+                "carouselAttachments": [],
+                "isPassEnabled": 0,
+                "paytmCinemaId": 120,
+                "city": "Mangalore",
+                "clientId": "ticketnew",
+                "isMapped": 0,
+                "city_id": null,
+                "is_city_mapped": null,
+                "state": "karnataka",
+                "label": "Cinepolis City Centre Mall, Mangaluru",
+                "sessionCount": 77
+            }
+        ],
+        "filterData": {
+            "minSTime": "02:20",
+            "maxSTime": "17:00",
+            "minPrice": 230.0,
+            "maxPrice": 400.0,
+            "premium": false,
+            "freeSeats": false,
+            "groupSeats": false,
+            "tokenFeeSeats": false,
+            "scnFrmts": [
+                "2D"
+            ],
+            "sndFrmts": [
+                "none"
+            ],
+            "mLangs": [
+                "Telugu"
+            ],
+            "genres": [
+                "Action",
+                "Drama",
+                "Thriller"
+            ]
+        }
+    },
+    "data": {
+        "pageSize": 100,
+        "cinemasOrder": [
+            1025117,
+            120
+        ],
+        "sessionDates": [
+            "2024-09-27",
+            "2024-09-28",
+            "2024-09-29"
+        ]
+    },
+    "pageData": {
+        "sessions": {
+            "1025117": [
+                {
+                    "sid": "5539",
+                    "pid": 1707,
+                    "pkey": "showbizz",
+                    "cid": 1025117,
+                    "mid": "OAV34I",
+                    "fid": "TtdX_wUyN",
+                    "showTime": "2024-09-28T05:00",
+                    "closeTime": "2024-09-28T04:59",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "CL",
+                            "label": "CLASSIC",
+                            "typeCode": "5539_CL",
+                            "sType": "fixed",
+                            "sAvail": 140,
+                            "sTotal": 140,
+                            "price": 250.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "PR",
+                            "label": "PRIME",
+                            "typeCode": "5539_PR",
+                            "sType": "fixed",
+                            "sAvail": 88,
+                            "sTotal": 100,
+                            "price": 250.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "RE",
+                            "label": "RECLINER",
+                            "typeCode": "5539_RE",
+                            "sType": "fixed",
+                            "sAvail": 12,
+                            "sTotal": 14,
+                            "price": 400.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 254,
+                    "avail": 240,
+                    "audi": "AUDI 02",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 10,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "sndFmt": "none",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Thriller"
+                    ],
+                    "statusColor": "G"
+                },
+                {
+                    "sid": "5542",
+                    "pid": 1707,
+                    "pkey": "showbizz",
+                    "cid": 1025117,
+                    "mid": "OAV34I",
+                    "fid": "TtdX_wUyN",
+                    "showTime": "2024-09-28T16:00",
+                    "closeTime": "2024-09-28T15:59",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "CL",
+                            "label": "CLASSIC",
+                            "typeCode": "5542_CL",
+                            "sType": "fixed",
+                            "sAvail": 140,
+                            "sTotal": 140,
+                            "price": 250.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "PR",
+                            "label": "PRIME",
+                            "typeCode": "5542_PR",
+                            "sType": "fixed",
+                            "sAvail": 98,
+                            "sTotal": 100,
+                            "price": 250.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "RE",
+                            "label": "RECLINER",
+                            "typeCode": "5542_RE",
+                            "sType": "fixed",
+                            "sAvail": 10,
+                            "sTotal": 14,
+                            "price": 400.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 254,
+                    "avail": 248,
+                    "audi": "AUDI 02",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 10,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "sndFmt": "none",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Thriller"
+                    ],
+                    "statusColor": "G"
+                },
+                {
+                    "sid": "5541",
+                    "pid": 1707,
+                    "pkey": "showbizz",
+                    "cid": 1025117,
+                    "mid": "OAV34I",
+                    "fid": "TtdX_wUyN",
+                    "showTime": "2024-09-28T12:20",
+                    "closeTime": "2024-09-28T12:19",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "CL",
+                            "label": "CLASSIC",
+                            "typeCode": "5541_CL",
+                            "sType": "fixed",
+                            "sAvail": 140,
+                            "sTotal": 140,
+                            "price": 250.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "PR",
+                            "label": "PRIME",
+                            "typeCode": "5541_PR",
+                            "sType": "fixed",
+                            "sAvail": 100,
+                            "sTotal": 100,
+                            "price": 250.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "RE",
+                            "label": "RECLINER",
+                            "typeCode": "5541_RE",
+                            "sType": "fixed",
+                            "sAvail": 10,
+                            "sTotal": 14,
+                            "price": 400.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 254,
+                    "avail": 250,
+                    "audi": "AUDI 02",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 10,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "sndFmt": "none",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Thriller"
+                    ],
+                    "statusColor": "G"
+                },
+                {
+                    "sid": "5540",
+                    "pid": 1707,
+                    "pkey": "showbizz",
+                    "cid": 1025117,
+                    "mid": "OAV34I",
+                    "fid": "TtdX_wUyN",
+                    "showTime": "2024-09-28T08:40",
+                    "closeTime": "2024-09-28T08:39",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "CL",
+                            "label": "CLASSIC",
+                            "typeCode": "5540_CL",
+                            "sType": "fixed",
+                            "sAvail": 140,
+                            "sTotal": 140,
+                            "price": 250.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "PR",
+                            "label": "PRIME",
+                            "typeCode": "5540_PR",
+                            "sType": "fixed",
+                            "sAvail": 90,
+                            "sTotal": 100,
+                            "price": 250.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "RE",
+                            "label": "RECLINER",
+                            "typeCode": "5540_RE",
+                            "sType": "fixed",
+                            "sAvail": 11,
+                            "sTotal": 14,
+                            "price": 400.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 254,
+                    "avail": 241,
+                    "audi": "AUDI 02",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 10,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "sndFmt": "none",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Thriller"
+                    ],
+                    "statusColor": "G"
+                },
+                {
+                    "sid": "5569",
+                    "pid": 1707,
+                    "pkey": "showbizz",
+                    "cid": 1025117,
+                    "mid": "OAV34I",
+                    "fid": "TtdX_wUyN",
+                    "showTime": "2024-09-28T17:00",
+                    "closeTime": "2024-09-28T16:59",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "CL",
+                            "label": "CLASSIC",
+                            "typeCode": "5569_CL",
+                            "sType": "fixed",
+                            "sAvail": 140,
+                            "sTotal": 140,
+                            "price": 250.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "PR",
+                            "label": "PRIME",
+                            "typeCode": "5569_PR",
+                            "sType": "fixed",
+                            "sAvail": 99,
+                            "sTotal": 99,
+                            "price": 250.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "RE",
+                            "label": "RECLINER",
+                            "typeCode": "5569_RE",
+                            "sType": "fixed",
+                            "sAvail": 12,
+                            "sTotal": 14,
+                            "price": 400.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 253,
+                    "avail": 251,
+                    "audi": "AUDI 01",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 10,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "sndFmt": "none",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Thriller"
+                    ],
+                    "statusColor": "G"
+                },
+                {
+                    "sid": "5568",
+                    "pid": 1707,
+                    "pkey": "showbizz",
+                    "cid": 1025117,
+                    "mid": "OAV34I",
+                    "fid": "TtdX_wUyN",
+                    "showTime": "2024-09-28T13:20",
+                    "closeTime": "2024-09-28T13:19",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "CL",
+                            "label": "CLASSIC",
+                            "typeCode": "5568_CL",
+                            "sType": "fixed",
+                            "sAvail": 139,
+                            "sTotal": 140,
+                            "price": 250.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "PR",
+                            "label": "PRIME",
+                            "typeCode": "5568_PR",
+                            "sType": "fixed",
+                            "sAvail": 95,
+                            "sTotal": 99,
+                            "price": 250.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "RE",
+                            "label": "RECLINER",
+                            "typeCode": "5568_RE",
+                            "sType": "fixed",
+                            "sAvail": 1,
+                            "sTotal": 14,
+                            "price": 400.0,
+                            "statusColor": "R"
+                        }
+                    ],
+                    "total": 253,
+                    "avail": 235,
+                    "audi": "AUDI 01",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 10,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "sndFmt": "none",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Thriller"
+                    ],
+                    "statusColor": "G"
+                },
+                {
+                    "sid": "5567",
+                    "pid": 1707,
+                    "pkey": "showbizz",
+                    "cid": 1025117,
+                    "mid": "OAV34I",
+                    "fid": "TtdX_wUyN",
+                    "showTime": "2024-09-28T09:40",
+                    "closeTime": "2024-09-28T09:39",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "CL",
+                            "label": "CLASSIC",
+                            "typeCode": "5567_CL",
+                            "sType": "fixed",
+                            "sAvail": 136,
+                            "sTotal": 140,
+                            "price": 250.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "PR",
+                            "label": "PRIME",
+                            "typeCode": "5567_PR",
+                            "sType": "fixed",
+                            "sAvail": 87,
+                            "sTotal": 99,
+                            "price": 250.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "RE",
+                            "label": "RECLINER",
+                            "typeCode": "5567_RE",
+                            "sType": "fixed",
+                            "sAvail": 14,
+                            "sTotal": 14,
+                            "price": 400.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 253,
+                    "avail": 237,
+                    "audi": "AUDI 01",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 10,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "sndFmt": "none",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Thriller"
+                    ],
+                    "statusColor": "G"
+                },
+                {
+                    "sid": "5566",
+                    "pid": 1707,
+                    "pkey": "showbizz",
+                    "cid": 1025117,
+                    "mid": "OAV34I",
+                    "fid": "TtdX_wUyN",
+                    "showTime": "2024-09-28T06:00",
+                    "closeTime": "2024-09-28T05:59",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "CL",
+                            "label": "CLASSIC",
+                            "typeCode": "5566_CL",
+                            "sType": "fixed",
+                            "sAvail": 140,
+                            "sTotal": 140,
+                            "price": 250.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "PR",
+                            "label": "PRIME",
+                            "typeCode": "5566_PR",
+                            "sType": "fixed",
+                            "sAvail": 85,
+                            "sTotal": 99,
+                            "price": 250.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "RE",
+                            "label": "RECLINER",
+                            "typeCode": "5566_RE",
+                            "sType": "fixed",
+                            "sAvail": 14,
+                            "sTotal": 14,
+                            "price": 400.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 253,
+                    "avail": 239,
+                    "audi": "AUDI 01",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 10,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "sndFmt": "none",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Thriller"
+                    ],
+                    "statusColor": "G"
+                },
+                {
+                    "sid": "5565",
+                    "pid": 1707,
+                    "pkey": "showbizz",
+                    "cid": 1025117,
+                    "mid": "OAV34I",
+                    "fid": "TtdX_wUyN",
+                    "showTime": "2024-09-28T02:20",
+                    "closeTime": "2024-09-28T02:19",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "CL",
+                            "label": "CLASSIC",
+                            "typeCode": "5565_CL",
+                            "sType": "fixed",
+                            "sAvail": 140,
+                            "sTotal": 140,
+                            "price": 250.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "PR",
+                            "label": "PRIME",
+                            "typeCode": "5565_PR",
+                            "sType": "fixed",
+                            "sAvail": 97,
+                            "sTotal": 99,
+                            "price": 250.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "RE",
+                            "label": "RECLINER",
+                            "typeCode": "5565_RE",
+                            "sType": "fixed",
+                            "sAvail": 14,
+                            "sTotal": 14,
+                            "price": 400.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 253,
+                    "avail": 251,
+                    "audi": "AUDI 01",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 10,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "sndFmt": "none",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Thriller"
+                    ],
+                    "statusColor": "G"
+                }
+            ],
+            "120": [
+                {
+                    "sid": "92156",
+                    "pid": 335,
+                    "pkey": "vista_common_food",
+                    "cid": 120,
+                    "mid": "OAV34I",
+                    "fid": "TtdX_wUyN",
+                    "showTime": "2024-09-28T08:05",
+                    "closeTime": "2024-09-28T08:04",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "0000000000",
+                            "label": "NORMAL",
+                            "typeCode": "0011",
+                            "sType": "fixed",
+                            "sAvail": 44,
+                            "sTotal": 44,
+                            "price": 230.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "0000000002",
+                            "label": "EXECUTIVE",
+                            "typeCode": "0022",
+                            "sType": "fixed",
+                            "sAvail": 198,
+                            "sTotal": 207,
+                            "price": 250.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "0000000001",
+                            "label": "PREMIUM",
+                            "typeCode": "0001",
+                            "sType": "fixed",
+                            "sAvail": 80,
+                            "sTotal": 83,
+                            "price": 270.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 334,
+                    "avail": 322,
+                    "audi": "AUDI 03",
+                    "premium": 0,
+                    "premiumLabel": "4K LASER DOLBY 7.1",
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 10,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "sndFmt": "none",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Thriller"
+                    ],
+                    "statusColor": "G",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "92152",
+                    "pid": 335,
+                    "pkey": "vista_common_food",
+                    "cid": 120,
+                    "mid": "OAV34I",
+                    "fid": "TtdX_wUyN",
+                    "showTime": "2024-09-28T10:40",
+                    "closeTime": "2024-09-28T10:39",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "0000000000",
+                            "label": "NORMAL",
+                            "typeCode": "0011",
+                            "sType": "fixed",
+                            "sAvail": 46,
+                            "sTotal": 46,
+                            "price": 230.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "0000000002",
+                            "label": "EXECUTIVE",
+                            "typeCode": "0022",
+                            "sType": "fixed",
+                            "sAvail": 215,
+                            "sTotal": 215,
+                            "price": 250.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "0000000001",
+                            "label": "PREMIUM",
+                            "typeCode": "0001",
+                            "sType": "fixed",
+                            "sAvail": 75,
+                            "sTotal": 87,
+                            "price": 270.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 348,
+                    "avail": 336,
+                    "audi": "AUDI 02",
+                    "premium": 0,
+                    "premiumLabel": "DOLBY 7.1",
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 10,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "sndFmt": "none",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Thriller"
+                    ],
+                    "statusColor": "G",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "92150",
+                    "pid": 335,
+                    "pkey": "vista_common_food",
+                    "cid": 120,
+                    "mid": "OAV34I",
+                    "fid": "TtdX_wUyN",
+                    "showTime": "2024-09-28T04:30",
+                    "closeTime": "2024-09-28T04:29",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "0000000000",
+                            "label": "NORMAL",
+                            "typeCode": "0011",
+                            "sType": "fixed",
+                            "sAvail": 46,
+                            "sTotal": 46,
+                            "price": 230.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "0000000002",
+                            "label": "EXECUTIVE",
+                            "typeCode": "0022",
+                            "sType": "fixed",
+                            "sAvail": 215,
+                            "sTotal": 215,
+                            "price": 250.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "0000000001",
+                            "label": "PREMIUM",
+                            "typeCode": "0001",
+                            "sType": "fixed",
+                            "sAvail": 83,
+                            "sTotal": 87,
+                            "price": 270.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 348,
+                    "avail": 344,
+                    "audi": "AUDI 02",
+                    "premium": 0,
+                    "premiumLabel": "DOLBY 7.1",
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 10,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "sndFmt": "none",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Thriller"
+                    ],
+                    "statusColor": "G",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "92159",
+                    "pid": 335,
+                    "pkey": "vista_common_food",
+                    "cid": 120,
+                    "mid": "OAV34I",
+                    "fid": "TtdX_wUyN",
+                    "showTime": "2024-09-28T17:00",
+                    "closeTime": "2024-09-28T16:59",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "0000000000",
+                            "label": "NORMAL",
+                            "typeCode": "0011",
+                            "sType": "fixed",
+                            "sAvail": 44,
+                            "sTotal": 44,
+                            "price": 230.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "0000000002",
+                            "label": "EXECUTIVE",
+                            "typeCode": "0022",
+                            "sType": "fixed",
+                            "sAvail": 203,
+                            "sTotal": 207,
+                            "price": 250.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "0000000001",
+                            "label": "PREMIUM",
+                            "typeCode": "0001",
+                            "sType": "fixed",
+                            "sAvail": 77,
+                            "sTotal": 83,
+                            "price": 270.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 334,
+                    "avail": 324,
+                    "audi": "AUDI 03",
+                    "premium": 0,
+                    "premiumLabel": "4K LASER DOLBY 7.1",
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 10,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "sndFmt": "none",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Thriller"
+                    ],
+                    "statusColor": "G",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "92146",
+                    "pid": 335,
+                    "pkey": "vista_common_food",
+                    "cid": 120,
+                    "mid": "OAV34I",
+                    "fid": "TtdX_wUyN",
+                    "showTime": "2024-09-28T05:30",
+                    "closeTime": "2024-09-28T05:29",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "0000000004",
+                            "label": "PLATINUM",
+                            "typeCode": "0004",
+                            "sType": "fixed",
+                            "sAvail": 48,
+                            "sTotal": 50,
+                            "price": 250.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "0000000003",
+                            "label": "VIP",
+                            "typeCode": "0016",
+                            "sType": "fixed",
+                            "sAvail": 13,
+                            "sTotal": 15,
+                            "price": 350.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 65,
+                    "avail": 61,
+                    "audi": "AUDI 01",
+                    "premium": 0,
+                    "premiumLabel": "DOLBY 7.1",
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 10,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "sndFmt": "none",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Thriller"
+                    ],
+                    "statusColor": "G",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "92149",
+                    "pid": 335,
+                    "pkey": "vista_common_food",
+                    "cid": 120,
+                    "mid": "OAV34I",
+                    "fid": "TtdX_wUyN",
+                    "showTime": "2024-09-28T15:20",
+                    "closeTime": "2024-09-28T15:19",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "0000000004",
+                            "label": "PLATINUM",
+                            "typeCode": "0004",
+                            "sType": "fixed",
+                            "sAvail": 50,
+                            "sTotal": 50,
+                            "price": 250.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "0000000003",
+                            "label": "VIP",
+                            "typeCode": "0016",
+                            "sType": "fixed",
+                            "sAvail": 13,
+                            "sTotal": 15,
+                            "price": 350.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 65,
+                    "avail": 63,
+                    "audi": "AUDI 01",
+                    "premium": 0,
+                    "premiumLabel": "DOLBY 7.1",
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 10,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "sndFmt": "none",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Thriller"
+                    ],
+                    "statusColor": "G",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "92167",
+                    "pid": 335,
+                    "pkey": "vista_common_food",
+                    "cid": 120,
+                    "mid": "OAV34I",
+                    "fid": "TtdX_wUyN",
+                    "showTime": "2024-09-28T13:30",
+                    "closeTime": "2024-09-28T13:29",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "0000000000",
+                            "label": "NORMAL",
+                            "typeCode": "0011",
+                            "sType": "fixed",
+                            "sAvail": 28,
+                            "sTotal": 28,
+                            "price": 230.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "0000000002",
+                            "label": "EXECUTIVE",
+                            "typeCode": "0022",
+                            "sType": "fixed",
+                            "sAvail": 123,
+                            "sTotal": 123,
+                            "price": 250.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "0000000001",
+                            "label": "PREMIUM",
+                            "typeCode": "0001",
+                            "sType": "fixed",
+                            "sAvail": 54,
+                            "sTotal": 58,
+                            "price": 270.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 209,
+                    "avail": 205,
+                    "audi": "AUDI 05",
+                    "premium": 0,
+                    "premiumLabel": "DOLBY 7.1",
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 10,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "sndFmt": "none",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Thriller"
+                    ],
+                    "statusColor": "G",
+                    "subtitle": ""
+                }
+            ]
+        }
+    }
+}

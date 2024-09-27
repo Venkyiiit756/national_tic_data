@@ -1,0 +1,1411 @@
+{
+    "serverTime": 1727456493,
+    "meta": {
+        "movies": [
+            {
+                "id": "OAV34I",
+                "frmtId": "TtdX_wUyN",
+                "name": "Devara - Part 1",
+                "imgPath": "https://assetscdn1.paytm.com/images/cinema/Devara---Part-1--705x750-ff23a0e0-ccc6-11ee-a6f3-b9b401515283.jpg",
+                "appImgPath": "https://assetscdn1.paytm.com/images/cinema/Devara-608x800-87e29260-7834-11ef-ad27-dfa11df60ee4.jpg",
+                "cvrPath": "https://assetscdn1.paytm.com/images/cinema/we-a407a150-7b23-11ef-84df-ff7d1a67840c.jpg",
+                "appCvrPath": "https://assetscdn1.paytm.com/images/cinema/App-cover-a62c7d20-7b23-11ef-8892-f397183e5623.jpg",
+                "thumbnail": null,
+                "edgeBanner": "https://assetscdn1.paytm.com/images/cinema/Devara---Part-1--1035%E2%80%8A%C3%97%E2%80%8A420-118bd900-ccc7-11ee-a6f3-b9b401515283.jpg",
+                "trailer": "https://youtu.be/5cx7rvMvAWo",
+                "censor": "U/A",
+                "duration": 178,
+                "grn": [
+                    "Action",
+                    "Drama",
+                    "Thriller"
+                ],
+                "scrnFmt": "2D",
+                "sndFmt": "none",
+                "rnr": {
+                    "hasUReview": 1,
+                    "hasContent": 1
+                },
+                "isNew": false,
+                "imxImgUrl": null,
+                "contentId": 159964,
+                "label": "Devara - Part 1",
+                "lang": "Telugu"
+            }
+        ],
+        "filterBuckets": {
+            "timeBuckets": [
+                {
+                    "sTime": "05:00",
+                    "eTime": "11:59",
+                    "desc": "5:00 AM to 11:59 AM",
+                    "dText": "Morning",
+                    "desc1": "Till 12 PM"
+                },
+                {
+                    "sTime": "12:00",
+                    "eTime": "15:59",
+                    "desc": "12:00 PM to 3:59 PM",
+                    "dText": "Afternoon",
+                    "desc1": "Till 4 PM"
+                },
+                {
+                    "sTime": "16:00",
+                    "eTime": "18:59",
+                    "desc": "4:00 PM to 6:59 PM",
+                    "dText": "Evening",
+                    "desc1": "Till 7 PM"
+                },
+                {
+                    "sTime": "19:00",
+                    "eTime": "04:59",
+                    "desc": "7:00 PM to 4:59 AM",
+                    "dText": "Night",
+                    "desc1": "After 7 PM"
+                }
+            ],
+            "priceBuckets": [
+                {
+                    "min": "0",
+                    "max": "99",
+                    "desc": "Below Rs 100"
+                },
+                {
+                    "min": "100",
+                    "max": "199",
+                    "desc": "Rs 100 - Rs 199"
+                },
+                {
+                    "min": "200",
+                    "max": "299",
+                    "desc": "Rs 200 - Rs 299"
+                },
+                {
+                    "min": "300",
+                    "max": "399",
+                    "desc": "Rs 300 - Rs 399"
+                },
+                {
+                    "min": "400",
+                    "max": "NA",
+                    "desc": "Rs 400 or above"
+                }
+            ],
+            "showTimeBuckets": [
+                {
+                    "sTime": "00:00",
+                    "eTime": "08:00",
+                    "desc": "12 AM to 8 AM",
+                    "dText": "Early Morning",
+                    "desc1": "Till 8 AM"
+                },
+                {
+                    "sTime": "08:00",
+                    "eTime": "12:00",
+                    "desc": "8 AM to 12 PM",
+                    "dText": "Morning",
+                    "desc1": "Till 12 PM"
+                },
+                {
+                    "sTime": "12:00",
+                    "eTime": "16:00",
+                    "desc": "12 PM to 4 PM",
+                    "dText": "Afternoon",
+                    "desc1": "Till 4 PM"
+                },
+                {
+                    "sTime": "16:00",
+                    "eTime": "19:00",
+                    "desc": "4 PM to 7 PM",
+                    "dText": "Evening",
+                    "desc1": "Till 7 PM"
+                },
+                {
+                    "sTime": "19:00",
+                    "eTime": "23:59",
+                    "desc": "7 PM to 12 AM",
+                    "dText": "Night",
+                    "desc1": "Till 12 AM"
+                }
+            ]
+        },
+        "amenities": [
+            {
+                "id": 2,
+                "name": "Parking",
+                "rank": 1
+            },
+            {
+                "id": 1,
+                "name": "Mobile Ticket",
+                "rank": 2
+            },
+            {
+                "id": 3,
+                "name": "Online Food",
+                "rank": 3
+            },
+            {
+                "id": 5,
+                "name": "Recliners",
+                "rank": 4
+            },
+            {
+                "id": 6,
+                "name": "Paytm Accepted",
+                "rank": 5
+            },
+            {
+                "id": 4,
+                "name": "Wheelchair Friendly",
+                "rank": 6
+            },
+            {
+                "id": 7,
+                "name": "RGB Laser",
+                "rank": 7
+            },
+            {
+                "id": 8,
+                "name": "Dolby Atmos",
+                "rank": 8
+            },
+            {
+                "id": 9,
+                "name": "IMAX",
+                "rank": 9
+            },
+            {
+                "id": 10,
+                "name": "4K",
+                "rank": 10
+            },
+            {
+                "id": 11,
+                "name": "AC",
+                "rank": 11
+            },
+            {
+                "id": 12,
+                "name": "WIFI",
+                "rank": 12
+            },
+            {
+                "id": 13,
+                "name": "Food Court",
+                "rank": 13
+            },
+            {
+                "id": 14,
+                "name": "Gaming Zone",
+                "rank": 14
+            },
+            {
+                "id": 15,
+                "name": "2K",
+                "rank": 15
+            },
+            {
+                "id": 16,
+                "name": "4D",
+                "rank": 16
+            },
+            {
+                "id": 17,
+                "name": "4DX",
+                "rank": 17
+            },
+            {
+                "id": 18,
+                "name": "Dolby 7.1",
+                "rank": 18
+            },
+            {
+                "id": 19,
+                "name": "Air conditioning",
+                "rank": 19
+            },
+            {
+                "id": 20,
+                "name": "Metro Train",
+                "rank": 20
+            },
+            {
+                "id": 21,
+                "name": "Sofa",
+                "rank": 21
+            },
+            {
+                "id": 22,
+                "name": "Social Seating",
+                "rank": 22
+            },
+            {
+                "id": 23,
+                "name": "Wheelchair Assistance",
+                "rank": 23
+            },
+            {
+                "id": 24,
+                "name": "Silver Screen",
+                "rank": 24
+            },
+            {
+                "id": 25,
+                "name": "Food & Beverages",
+                "rank": 25
+            },
+            {
+                "id": 26,
+                "name": "Paper Less Ticketing",
+                "rank": 26
+            },
+            {
+                "id": 27,
+                "name": "Handicapped Washroom",
+                "rank": 27
+            },
+            {
+                "id": 28,
+                "name": "Free Parking",
+                "rank": 28
+            },
+            {
+                "id": 29,
+                "name": "Baggage Counter",
+                "rank": 29
+            },
+            {
+                "id": 30,
+                "name": "Dolby 4 Way 11.1",
+                "rank": 30
+            },
+            {
+                "id": 31,
+                "name": "Barco 4K Ultra HD",
+                "rank": 31
+            }
+        ],
+        "cinemas": [
+            {
+                "id": 1028778,
+                "pid": 1707,
+                "name": "PVR INOX Varam Central, Machilipatnam",
+                "address": "PVR INOX LTD, 1st Floor, VARAM CENTRAL, Jaldu Avenue, Machavaram, Machilipatnam, Andhra Pradesh 521002, India",
+                "pincode": "521002",
+                "lat": 16.197177,
+                "lon": 81.138616,
+                "cityId": 125,
+                "appCovrImgUrl": "",
+                "covrImgUrl": "",
+                "fnb": 0,
+                "mTkt": 1,
+                "bCode": "",
+                "sTop": 0,
+                "isMerchantCancellable": 0,
+                "cinemaLogoUrl": "https://assetscdn1.paytm.com/images/cinema/PVR%20(1)-7b809a60-1cec-11ef-a683-415c57eca68d.png",
+                "cinemaVideoUrl": "",
+                "appCoverVideoUrl": "",
+                "webCoverVideoUrl": "",
+                "amenities": null,
+                "promos": null,
+                "chainKey": "PVR",
+                "contentId": 173982,
+                "theatreGroupName": "",
+                "amenitiesOrder": null,
+                "carouselAttachments": [],
+                "isPassEnabled": 1,
+                "paytmCinemaId": 1028778,
+                "city": "Machilipatnam",
+                "clientId": "ticketnew",
+                "isMapped": 0,
+                "city_id": null,
+                "is_city_mapped": null,
+                "state": "andhra-pradesh",
+                "label": "PVR INOX Varam Central, Machilipatnam",
+                "sessionCount": 27
+            },
+            {
+                "id": 4332,
+                "pid": 721,
+                "name": "Revathi Picture Palace: Machilipatnam",
+                "address": "Near Naidus Petrol Pump, Ramanaidupet, Machilipatnam, Andhra Pradesh 521001",
+                "pincode": "521001",
+                "lat": 16.185514,
+                "lon": 81.135654,
+                "cityId": 125,
+                "appCovrImgUrl": "",
+                "covrImgUrl": "",
+                "fnb": 0,
+                "mTkt": 1,
+                "bCode": "0",
+                "sTop": 0,
+                "isMerchantCancellable": 0,
+                "cinemaLogoUrl": "https://assetscdn1.paytm.com/images/cinema/SP-cinema-logo-bea3e990-8504-11ed-9a8d-9b91ffeaf739.png",
+                "cinemaVideoUrl": "",
+                "appCoverVideoUrl": "",
+                "webCoverVideoUrl": "",
+                "amenities": {
+                    "1": -1,
+                    "2": 1,
+                    "3": -1,
+                    "4": -1,
+                    "5": -1,
+                    "6": -1
+                },
+                "promos": null,
+                "chainKey": "Suresh Production",
+                "contentId": 148691,
+                "theatreGroupName": "",
+                "amenitiesOrder": [
+                    {
+                        "id": 1,
+                        "rank": 2,
+                        "status": -1
+                    },
+                    {
+                        "id": 2,
+                        "rank": 1,
+                        "status": 1
+                    },
+                    {
+                        "id": 3,
+                        "rank": 3,
+                        "status": -1
+                    },
+                    {
+                        "id": 4,
+                        "rank": 6,
+                        "status": -1
+                    },
+                    {
+                        "id": 5,
+                        "rank": 4,
+                        "status": -1
+                    },
+                    {
+                        "id": 6,
+                        "rank": 5,
+                        "status": -1
+                    }
+                ],
+                "carouselAttachments": [],
+                "isPassEnabled": 0,
+                "paytmCinemaId": 4332,
+                "city": "Machilipatnam",
+                "clientId": "ticketnew",
+                "isMapped": 0,
+                "city_id": null,
+                "is_city_mapped": null,
+                "state": "andhra-pradesh",
+                "label": "Revathi Picture Palace: Machilipatnam",
+                "sessionCount": 16
+            }
+        ],
+        "filterData": {
+            "minSTime": "02:50",
+            "maxSTime": "17:00",
+            "minPrice": 110.0,
+            "maxPrice": 430.0,
+            "premium": false,
+            "freeSeats": false,
+            "groupSeats": false,
+            "tokenFeeSeats": false,
+            "scnFrmts": [
+                "2D"
+            ],
+            "sndFrmts": [
+                "none"
+            ],
+            "mLangs": [
+                "Telugu"
+            ],
+            "genres": [
+                "Action",
+                "Drama",
+                "Thriller"
+            ]
+        }
+    },
+    "data": {
+        "pageSize": 100,
+        "cinemasOrder": [
+            1028778,
+            4332
+        ],
+        "sessionDates": [
+            "2024-09-28",
+            "2024-09-29"
+        ]
+    },
+    "pageData": {
+        "sessions": {
+            "1028778": [
+                {
+                    "sid": "1524",
+                    "pid": 1707,
+                    "pkey": "showbizz",
+                    "cid": 1028778,
+                    "mid": "OAV34I",
+                    "fid": "TtdX_wUyN",
+                    "showTime": "2024-09-28T17:00",
+                    "closeTime": "2024-09-28T16:59",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "CL",
+                            "label": "CLASSIC",
+                            "typeCode": "1524_CL",
+                            "sType": "fixed",
+                            "sAvail": 36,
+                            "sTotal": 36,
+                            "price": 253.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "CP",
+                            "label": "CLASSIC PLUS",
+                            "typeCode": "1524_CP",
+                            "sType": "fixed",
+                            "sAvail": 51,
+                            "sTotal": 54,
+                            "price": 279.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "PR",
+                            "label": "PREMIUM",
+                            "typeCode": "1524_PR",
+                            "sType": "fixed",
+                            "sAvail": 57,
+                            "sTotal": 168,
+                            "price": 312.0,
+                            "statusColor": "Y"
+                        },
+                        {
+                            "code": "RE",
+                            "label": "RECLINER",
+                            "typeCode": "1524_RE",
+                            "sType": "fixed",
+                            "sAvail": 0,
+                            "sTotal": 11,
+                            "price": 430.0,
+                            "statusColor": "D"
+                        }
+                    ],
+                    "total": 269,
+                    "avail": 144,
+                    "audi": "SCREEN 1",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 10,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "sndFmt": "none",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Thriller"
+                    ],
+                    "statusColor": "G"
+                },
+                {
+                    "sid": "1527",
+                    "pid": 1707,
+                    "pkey": "showbizz",
+                    "cid": 1028778,
+                    "mid": "OAV34I",
+                    "fid": "TtdX_wUyN",
+                    "showTime": "2024-09-28T12:25",
+                    "closeTime": "2024-09-28T12:24",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "CL",
+                            "label": "CLASSIC",
+                            "typeCode": "1527_CL",
+                            "sType": "fixed",
+                            "sAvail": 39,
+                            "sTotal": 39,
+                            "price": 253.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "CP",
+                            "label": "CLASSIC PLUS",
+                            "typeCode": "1527_CP",
+                            "sType": "fixed",
+                            "sAvail": 60,
+                            "sTotal": 60,
+                            "price": 279.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "PR",
+                            "label": "PREMIUM",
+                            "typeCode": "1527_PR",
+                            "sType": "fixed",
+                            "sAvail": 32,
+                            "sTotal": 176,
+                            "price": 312.0,
+                            "statusColor": "Y"
+                        },
+                        {
+                            "code": "RE",
+                            "label": "RECLINER",
+                            "typeCode": "1527_RE",
+                            "sType": "fixed",
+                            "sAvail": 0,
+                            "sTotal": 14,
+                            "price": 430.0,
+                            "statusColor": "D"
+                        }
+                    ],
+                    "total": 289,
+                    "avail": 131,
+                    "audi": "SCREEN 2",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 10,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "sndFmt": "none",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Thriller"
+                    ],
+                    "statusColor": "G"
+                },
+                {
+                    "sid": "1528",
+                    "pid": 1707,
+                    "pkey": "showbizz",
+                    "cid": 1028778,
+                    "mid": "OAV34I",
+                    "fid": "TtdX_wUyN",
+                    "showTime": "2024-09-28T16:00",
+                    "closeTime": "2024-09-28T15:59",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "CL",
+                            "label": "CLASSIC",
+                            "typeCode": "1528_CL",
+                            "sType": "fixed",
+                            "sAvail": 39,
+                            "sTotal": 39,
+                            "price": 253.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "CP",
+                            "label": "CLASSIC PLUS",
+                            "typeCode": "1528_CP",
+                            "sType": "fixed",
+                            "sAvail": 54,
+                            "sTotal": 60,
+                            "price": 279.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "PR",
+                            "label": "PREMIUM",
+                            "typeCode": "1528_PR",
+                            "sType": "fixed",
+                            "sAvail": 11,
+                            "sTotal": 176,
+                            "price": 312.0,
+                            "statusColor": "R"
+                        },
+                        {
+                            "code": "RE",
+                            "label": "RECLINER",
+                            "typeCode": "1528_RE",
+                            "sType": "fixed",
+                            "sAvail": 0,
+                            "sTotal": 14,
+                            "price": 430.0,
+                            "statusColor": "D"
+                        }
+                    ],
+                    "total": 289,
+                    "avail": 104,
+                    "audi": "SCREEN 2",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 10,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "sndFmt": "none",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Thriller"
+                    ],
+                    "statusColor": "Y"
+                },
+                {
+                    "sid": "1525",
+                    "pid": 1707,
+                    "pkey": "showbizz",
+                    "cid": 1028778,
+                    "mid": "OAV34I",
+                    "fid": "TtdX_wUyN",
+                    "showTime": "2024-09-28T05:15",
+                    "closeTime": "2024-09-28T05:14",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "CL",
+                            "label": "CLASSIC",
+                            "typeCode": "1525_CL",
+                            "sType": "fixed",
+                            "sAvail": 39,
+                            "sTotal": 39,
+                            "price": 253.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "CP",
+                            "label": "CLASSIC PLUS",
+                            "typeCode": "1525_CP",
+                            "sType": "fixed",
+                            "sAvail": 60,
+                            "sTotal": 60,
+                            "price": 279.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "PR",
+                            "label": "PREMIUM",
+                            "typeCode": "1525_PR",
+                            "sType": "fixed",
+                            "sAvail": 127,
+                            "sTotal": 176,
+                            "price": 312.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "RE",
+                            "label": "RECLINER",
+                            "typeCode": "1525_RE",
+                            "sType": "fixed",
+                            "sAvail": 0,
+                            "sTotal": 14,
+                            "price": 430.0,
+                            "statusColor": "D"
+                        }
+                    ],
+                    "total": 289,
+                    "avail": 226,
+                    "audi": "SCREEN 2",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 10,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "sndFmt": "none",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Thriller"
+                    ],
+                    "statusColor": "G"
+                },
+                {
+                    "sid": "1526",
+                    "pid": 1707,
+                    "pkey": "showbizz",
+                    "cid": 1028778,
+                    "mid": "OAV34I",
+                    "fid": "TtdX_wUyN",
+                    "showTime": "2024-09-28T08:50",
+                    "closeTime": "2024-09-28T08:49",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "CL",
+                            "label": "CLASSIC",
+                            "typeCode": "1526_CL",
+                            "sType": "fixed",
+                            "sAvail": 39,
+                            "sTotal": 39,
+                            "price": 253.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "CP",
+                            "label": "CLASSIC PLUS",
+                            "typeCode": "1526_CP",
+                            "sType": "fixed",
+                            "sAvail": 56,
+                            "sTotal": 60,
+                            "price": 279.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "PR",
+                            "label": "PREMIUM",
+                            "typeCode": "1526_PR",
+                            "sType": "fixed",
+                            "sAvail": 82,
+                            "sTotal": 176,
+                            "price": 312.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "RE",
+                            "label": "RECLINER",
+                            "typeCode": "1526_RE",
+                            "sType": "fixed",
+                            "sAvail": 0,
+                            "sTotal": 14,
+                            "price": 430.0,
+                            "statusColor": "D"
+                        }
+                    ],
+                    "total": 289,
+                    "avail": 177,
+                    "audi": "SCREEN 2",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 10,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "sndFmt": "none",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Thriller"
+                    ],
+                    "statusColor": "G"
+                },
+                {
+                    "sid": "1520",
+                    "pid": 1707,
+                    "pkey": "showbizz",
+                    "cid": 1028778,
+                    "mid": "OAV34I",
+                    "fid": "TtdX_wUyN",
+                    "showTime": "2024-09-28T02:50",
+                    "closeTime": "2024-09-28T02:49",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "CL",
+                            "label": "CLASSIC",
+                            "typeCode": "1520_CL",
+                            "sType": "fixed",
+                            "sAvail": 36,
+                            "sTotal": 36,
+                            "price": 253.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "CP",
+                            "label": "CLASSIC PLUS",
+                            "typeCode": "1520_CP",
+                            "sType": "fixed",
+                            "sAvail": 54,
+                            "sTotal": 54,
+                            "price": 279.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "PR",
+                            "label": "PREMIUM",
+                            "typeCode": "1520_PR",
+                            "sType": "fixed",
+                            "sAvail": 150,
+                            "sTotal": 168,
+                            "price": 312.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "RE",
+                            "label": "RECLINER",
+                            "typeCode": "1520_RE",
+                            "sType": "fixed",
+                            "sAvail": 9,
+                            "sTotal": 11,
+                            "price": 430.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 269,
+                    "avail": 249,
+                    "audi": "SCREEN 1",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 10,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "sndFmt": "none",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Thriller"
+                    ],
+                    "statusColor": "G"
+                },
+                {
+                    "sid": "1518",
+                    "pid": 1707,
+                    "pkey": "showbizz",
+                    "cid": 1028778,
+                    "mid": "OAV34I",
+                    "fid": "TtdX_wUyN",
+                    "showTime": "2024-09-28T05:45",
+                    "closeTime": "2024-09-28T05:44",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "CL",
+                            "label": "CLASSIC",
+                            "typeCode": "1518_CL",
+                            "sType": "fixed",
+                            "sAvail": 37,
+                            "sTotal": 37,
+                            "price": 253.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "CP",
+                            "label": "CLASSIC PLUS",
+                            "typeCode": "1518_CP",
+                            "sType": "fixed",
+                            "sAvail": 57,
+                            "sTotal": 57,
+                            "price": 279.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "PR",
+                            "label": "PREMIUM",
+                            "typeCode": "1518_PR",
+                            "sType": "fixed",
+                            "sAvail": 111,
+                            "sTotal": 168,
+                            "price": 312.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "RE",
+                            "label": "RECLINER",
+                            "typeCode": "1518_RE",
+                            "sType": "fixed",
+                            "sAvail": 0,
+                            "sTotal": 14,
+                            "price": 430.0,
+                            "statusColor": "D"
+                        }
+                    ],
+                    "total": 276,
+                    "avail": 205,
+                    "audi": "SCREEN 3",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 10,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "sndFmt": "none",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Thriller"
+                    ],
+                    "statusColor": "G"
+                },
+                {
+                    "sid": "1519",
+                    "pid": 1707,
+                    "pkey": "showbizz",
+                    "cid": 1028778,
+                    "mid": "OAV34I",
+                    "fid": "TtdX_wUyN",
+                    "showTime": "2024-09-28T09:20",
+                    "closeTime": "2024-09-28T09:19",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "CL",
+                            "label": "CLASSIC",
+                            "typeCode": "1519_CL",
+                            "sType": "fixed",
+                            "sAvail": 37,
+                            "sTotal": 37,
+                            "price": 253.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "CP",
+                            "label": "CLASSIC PLUS",
+                            "typeCode": "1519_CP",
+                            "sType": "fixed",
+                            "sAvail": 57,
+                            "sTotal": 57,
+                            "price": 279.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "PR",
+                            "label": "PREMIUM",
+                            "typeCode": "1519_PR",
+                            "sType": "fixed",
+                            "sAvail": 79,
+                            "sTotal": 168,
+                            "price": 312.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "RE",
+                            "label": "RECLINER",
+                            "typeCode": "1519_RE",
+                            "sType": "fixed",
+                            "sAvail": 0,
+                            "sTotal": 14,
+                            "price": 430.0,
+                            "statusColor": "D"
+                        }
+                    ],
+                    "total": 276,
+                    "avail": 173,
+                    "audi": "SCREEN 3",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 10,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "sndFmt": "none",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Thriller"
+                    ],
+                    "statusColor": "G"
+                },
+                {
+                    "sid": "1516",
+                    "pid": 1707,
+                    "pkey": "showbizz",
+                    "cid": 1028778,
+                    "mid": "OAV34I",
+                    "fid": "TtdX_wUyN",
+                    "showTime": "2024-09-28T12:55",
+                    "closeTime": "2024-09-28T12:54",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "CL",
+                            "label": "CLASSIC",
+                            "typeCode": "1516_CL",
+                            "sType": "fixed",
+                            "sAvail": 37,
+                            "sTotal": 37,
+                            "price": 253.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "CP",
+                            "label": "CLASSIC PLUS",
+                            "typeCode": "1516_CP",
+                            "sType": "fixed",
+                            "sAvail": 44,
+                            "sTotal": 57,
+                            "price": 279.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "PR",
+                            "label": "PREMIUM",
+                            "typeCode": "1516_PR",
+                            "sType": "fixed",
+                            "sAvail": 30,
+                            "sTotal": 168,
+                            "price": 312.0,
+                            "statusColor": "Y"
+                        },
+                        {
+                            "code": "RE",
+                            "label": "RECLINER",
+                            "typeCode": "1516_RE",
+                            "sType": "fixed",
+                            "sAvail": 0,
+                            "sTotal": 14,
+                            "price": 430.0,
+                            "statusColor": "D"
+                        }
+                    ],
+                    "total": 276,
+                    "avail": 111,
+                    "audi": "SCREEN 3",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 10,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "sndFmt": "none",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Thriller"
+                    ],
+                    "statusColor": "G"
+                },
+                {
+                    "sid": "1517",
+                    "pid": 1707,
+                    "pkey": "showbizz",
+                    "cid": 1028778,
+                    "mid": "OAV34I",
+                    "fid": "TtdX_wUyN",
+                    "showTime": "2024-09-28T16:30",
+                    "closeTime": "2024-09-28T16:29",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "CL",
+                            "label": "CLASSIC",
+                            "typeCode": "1517_CL",
+                            "sType": "fixed",
+                            "sAvail": 37,
+                            "sTotal": 37,
+                            "price": 253.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "CP",
+                            "label": "CLASSIC PLUS",
+                            "typeCode": "1517_CP",
+                            "sType": "fixed",
+                            "sAvail": 57,
+                            "sTotal": 57,
+                            "price": 279.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "PR",
+                            "label": "PREMIUM",
+                            "typeCode": "1517_PR",
+                            "sType": "fixed",
+                            "sAvail": 36,
+                            "sTotal": 168,
+                            "price": 312.0,
+                            "statusColor": "Y"
+                        },
+                        {
+                            "code": "RE",
+                            "label": "RECLINER",
+                            "typeCode": "1517_RE",
+                            "sType": "fixed",
+                            "sAvail": 0,
+                            "sTotal": 14,
+                            "price": 430.0,
+                            "statusColor": "D"
+                        }
+                    ],
+                    "total": 276,
+                    "avail": 130,
+                    "audi": "SCREEN 3",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 10,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "sndFmt": "none",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Thriller"
+                    ],
+                    "statusColor": "G"
+                }
+            ],
+            "4332": [
+                {
+                    "sid": "30556__1727514000__1559__21101",
+                    "pid": 721,
+                    "pkey": "ticketnew",
+                    "cid": 4332,
+                    "mid": "OAV34I",
+                    "fid": "TtdX_wUyN",
+                    "showTime": "2024-09-28T09:00",
+                    "closeTime": "2024-09-28T09:00",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "20",
+                            "label": "CLASSIC",
+                            "typeCode": "30556__1727514000__1559__21101_CLASSIC",
+                            "sType": "fixed",
+                            "sAvail": 257,
+                            "sTotal": 367,
+                            "price": 225.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "30",
+                            "label": "PREMIUM",
+                            "typeCode": "30556__1727514000__1559__21101_PREMIUM",
+                            "sType": "fixed",
+                            "sAvail": 70,
+                            "sTotal": 135,
+                            "price": 130.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "40",
+                            "label": "NON-PREMIUM",
+                            "typeCode": "30556__1727514000__1559__21101_NON-PREMIUM",
+                            "sType": "fixed",
+                            "sAvail": 54,
+                            "sTotal": 54,
+                            "price": 110.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 556,
+                    "avail": 381,
+                    "audi": "SCREEN 1",
+                    "premium": 0,
+                    "premiumLabel": "SCREEN 1",
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "sndFmt": "none",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Thriller"
+                    ],
+                    "statusColor": "G",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "30556__1727501400__1559__21100",
+                    "pid": 721,
+                    "pkey": "ticketnew",
+                    "cid": 4332,
+                    "mid": "OAV34I",
+                    "fid": "TtdX_wUyN",
+                    "showTime": "2024-09-28T05:30",
+                    "closeTime": "2024-09-28T05:30",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "20",
+                            "label": "CLASSIC",
+                            "typeCode": "30556__1727501400__1559__21100_CLASSIC",
+                            "sType": "fixed",
+                            "sAvail": 254,
+                            "sTotal": 367,
+                            "price": 225.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "30",
+                            "label": "PREMIUM",
+                            "typeCode": "30556__1727501400__1559__21100_PREMIUM",
+                            "sType": "fixed",
+                            "sAvail": 49,
+                            "sTotal": 135,
+                            "price": 130.0,
+                            "statusColor": "Y"
+                        },
+                        {
+                            "code": "40",
+                            "label": "NON-PREMIUM",
+                            "typeCode": "30556__1727501400__1559__21100_NON-PREMIUM",
+                            "sType": "fixed",
+                            "sAvail": 54,
+                            "sTotal": 54,
+                            "price": 110.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 556,
+                    "avail": 357,
+                    "audi": "SCREEN 1",
+                    "premium": 0,
+                    "premiumLabel": "SCREEN 1",
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "sndFmt": "none",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Thriller"
+                    ],
+                    "statusColor": "G",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "30556__1727526900__1559__21102",
+                    "pid": 721,
+                    "pkey": "ticketnew",
+                    "cid": 4332,
+                    "mid": "OAV34I",
+                    "fid": "TtdX_wUyN",
+                    "showTime": "2024-09-28T12:35",
+                    "closeTime": "2024-09-28T12:35",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "20",
+                            "label": "CLASSIC",
+                            "typeCode": "30556__1727526900__1559__21102_CLASSIC",
+                            "sType": "fixed",
+                            "sAvail": 160,
+                            "sTotal": 367,
+                            "price": 225.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "30",
+                            "label": "PREMIUM",
+                            "typeCode": "30556__1727526900__1559__21102_PREMIUM",
+                            "sType": "fixed",
+                            "sAvail": 56,
+                            "sTotal": 135,
+                            "price": 130.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "40",
+                            "label": "NON-PREMIUM",
+                            "typeCode": "30556__1727526900__1559__21102_NON-PREMIUM",
+                            "sType": "fixed",
+                            "sAvail": 54,
+                            "sTotal": 54,
+                            "price": 110.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 556,
+                    "avail": 270,
+                    "audi": "SCREEN 1",
+                    "premium": 0,
+                    "premiumLabel": "SCREEN 1",
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "sndFmt": "none",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Thriller"
+                    ],
+                    "statusColor": "G",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "30556__1727539200__1559__21103",
+                    "pid": 721,
+                    "pkey": "ticketnew",
+                    "cid": 4332,
+                    "mid": "OAV34I",
+                    "fid": "TtdX_wUyN",
+                    "showTime": "2024-09-28T16:00",
+                    "closeTime": "2024-09-28T16:00",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "20",
+                            "label": "CLASSIC",
+                            "typeCode": "30556__1727539200__1559__21103_CLASSIC",
+                            "sType": "fixed",
+                            "sAvail": 134,
+                            "sTotal": 367,
+                            "price": 225.0,
+                            "statusColor": "Y"
+                        },
+                        {
+                            "code": "30",
+                            "label": "PREMIUM",
+                            "typeCode": "30556__1727539200__1559__21103_PREMIUM",
+                            "sType": "fixed",
+                            "sAvail": 55,
+                            "sTotal": 135,
+                            "price": 130.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "40",
+                            "label": "NON-PREMIUM",
+                            "typeCode": "30556__1727539200__1559__21103_NON-PREMIUM",
+                            "sType": "fixed",
+                            "sAvail": 54,
+                            "sTotal": 54,
+                            "price": 110.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 556,
+                    "avail": 243,
+                    "audi": "SCREEN 1",
+                    "premium": 0,
+                    "premiumLabel": "SCREEN 1",
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "sndFmt": "none",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Thriller"
+                    ],
+                    "statusColor": "G",
+                    "subtitle": ""
+                }
+            ]
+        }
+    }
+}
