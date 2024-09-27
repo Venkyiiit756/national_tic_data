@@ -1,0 +1,913 @@
+{
+    "serverTime": 1727421856,
+    "meta": {
+        "movies": [
+            {
+                "id": "OAV34I",
+                "frmtId": "TtdX_wUyN",
+                "name": "Devara - Part 1",
+                "imgPath": "https://assetscdn1.paytm.com/images/cinema/Devara---Part-1--705x750-ff23a0e0-ccc6-11ee-a6f3-b9b401515283.jpg",
+                "appImgPath": "https://assetscdn1.paytm.com/images/cinema/Devara-608x800-87e29260-7834-11ef-ad27-dfa11df60ee4.jpg",
+                "cvrPath": "https://assetscdn1.paytm.com/images/cinema/we-a407a150-7b23-11ef-84df-ff7d1a67840c.jpg",
+                "appCvrPath": "https://assetscdn1.paytm.com/images/cinema/App-cover-a62c7d20-7b23-11ef-8892-f397183e5623.jpg",
+                "thumbnail": null,
+                "edgeBanner": "https://assetscdn1.paytm.com/images/cinema/Devara---Part-1--1035%E2%80%8A%C3%97%E2%80%8A420-118bd900-ccc7-11ee-a6f3-b9b401515283.jpg",
+                "trailer": "https://youtu.be/5cx7rvMvAWo",
+                "censor": "U/A",
+                "duration": 178,
+                "grn": [
+                    "Action",
+                    "Drama",
+                    "Thriller"
+                ],
+                "scrnFmt": "2D",
+                "sndFmt": "none",
+                "rnr": {
+                    "hasUReview": 0,
+                    "hasContent": 1
+                },
+                "isNew": false,
+                "imxImgUrl": null,
+                "contentId": 159964,
+                "label": "Devara - Part 1",
+                "lang": "Telugu"
+            }
+        ],
+        "filterBuckets": {
+            "timeBuckets": [
+                {
+                    "sTime": "05:00",
+                    "eTime": "11:59",
+                    "desc": "5:00 AM to 11:59 AM",
+                    "dText": "Morning",
+                    "desc1": "Till 12 PM"
+                },
+                {
+                    "sTime": "12:00",
+                    "eTime": "15:59",
+                    "desc": "12:00 PM to 3:59 PM",
+                    "dText": "Afternoon",
+                    "desc1": "Till 4 PM"
+                },
+                {
+                    "sTime": "16:00",
+                    "eTime": "18:59",
+                    "desc": "4:00 PM to 6:59 PM",
+                    "dText": "Evening",
+                    "desc1": "Till 7 PM"
+                },
+                {
+                    "sTime": "19:00",
+                    "eTime": "04:59",
+                    "desc": "7:00 PM to 4:59 AM",
+                    "dText": "Night",
+                    "desc1": "After 7 PM"
+                }
+            ],
+            "priceBuckets": [
+                {
+                    "min": "0",
+                    "max": "99",
+                    "desc": "Below Rs 100"
+                },
+                {
+                    "min": "100",
+                    "max": "199",
+                    "desc": "Rs 100 - Rs 199"
+                },
+                {
+                    "min": "200",
+                    "max": "299",
+                    "desc": "Rs 200 - Rs 299"
+                },
+                {
+                    "min": "300",
+                    "max": "399",
+                    "desc": "Rs 300 - Rs 399"
+                },
+                {
+                    "min": "400",
+                    "max": "NA",
+                    "desc": "Rs 400 or above"
+                }
+            ],
+            "showTimeBuckets": [
+                {
+                    "sTime": "00:00",
+                    "eTime": "08:00",
+                    "desc": "12 AM to 8 AM",
+                    "dText": "Early Morning",
+                    "desc1": "Till 8 AM"
+                },
+                {
+                    "sTime": "08:00",
+                    "eTime": "12:00",
+                    "desc": "8 AM to 12 PM",
+                    "dText": "Morning",
+                    "desc1": "Till 12 PM"
+                },
+                {
+                    "sTime": "12:00",
+                    "eTime": "16:00",
+                    "desc": "12 PM to 4 PM",
+                    "dText": "Afternoon",
+                    "desc1": "Till 4 PM"
+                },
+                {
+                    "sTime": "16:00",
+                    "eTime": "19:00",
+                    "desc": "4 PM to 7 PM",
+                    "dText": "Evening",
+                    "desc1": "Till 7 PM"
+                },
+                {
+                    "sTime": "19:00",
+                    "eTime": "23:59",
+                    "desc": "7 PM to 12 AM",
+                    "dText": "Night",
+                    "desc1": "Till 12 AM"
+                }
+            ]
+        },
+        "amenities": [
+            {
+                "id": 2,
+                "name": "Parking",
+                "rank": 1
+            },
+            {
+                "id": 1,
+                "name": "Mobile Ticket",
+                "rank": 2
+            },
+            {
+                "id": 3,
+                "name": "Online Food",
+                "rank": 3
+            },
+            {
+                "id": 5,
+                "name": "Recliners",
+                "rank": 4
+            },
+            {
+                "id": 6,
+                "name": "Paytm Accepted",
+                "rank": 5
+            },
+            {
+                "id": 4,
+                "name": "Wheelchair Friendly",
+                "rank": 6
+            },
+            {
+                "id": 7,
+                "name": "RGB Laser",
+                "rank": 7
+            },
+            {
+                "id": 8,
+                "name": "Dolby Atmos",
+                "rank": 8
+            },
+            {
+                "id": 9,
+                "name": "IMAX",
+                "rank": 9
+            },
+            {
+                "id": 10,
+                "name": "4K",
+                "rank": 10
+            },
+            {
+                "id": 11,
+                "name": "AC",
+                "rank": 11
+            },
+            {
+                "id": 12,
+                "name": "WIFI",
+                "rank": 12
+            },
+            {
+                "id": 13,
+                "name": "Food Court",
+                "rank": 13
+            },
+            {
+                "id": 14,
+                "name": "Gaming Zone",
+                "rank": 14
+            },
+            {
+                "id": 15,
+                "name": "2K",
+                "rank": 15
+            },
+            {
+                "id": 16,
+                "name": "4D",
+                "rank": 16
+            },
+            {
+                "id": 17,
+                "name": "4DX",
+                "rank": 17
+            },
+            {
+                "id": 18,
+                "name": "Dolby 7.1",
+                "rank": 18
+            },
+            {
+                "id": 19,
+                "name": "Air conditioning",
+                "rank": 19
+            },
+            {
+                "id": 20,
+                "name": "Metro Train",
+                "rank": 20
+            },
+            {
+                "id": 21,
+                "name": "Sofa",
+                "rank": 21
+            },
+            {
+                "id": 22,
+                "name": "Social Seating",
+                "rank": 22
+            },
+            {
+                "id": 23,
+                "name": "Wheelchair Assistance",
+                "rank": 23
+            },
+            {
+                "id": 24,
+                "name": "Silver Screen",
+                "rank": 24
+            },
+            {
+                "id": 25,
+                "name": "Food & Beverages",
+                "rank": 25
+            },
+            {
+                "id": 26,
+                "name": "Paper Less Ticketing",
+                "rank": 26
+            },
+            {
+                "id": 27,
+                "name": "Handicapped Washroom",
+                "rank": 27
+            },
+            {
+                "id": 28,
+                "name": "Free Parking",
+                "rank": 28
+            },
+            {
+                "id": 29,
+                "name": "Baggage Counter",
+                "rank": 29
+            },
+            {
+                "id": 30,
+                "name": "Dolby 4 Way 11.1",
+                "rank": 30
+            },
+            {
+                "id": 31,
+                "name": "Barco 4K Ultra HD",
+                "rank": 31
+            }
+        ],
+        "cinemas": [
+            {
+                "id": 1072,
+                "pid": 69,
+                "name": "Z Square Multiplex, Vasco",
+                "address": "Goa & Vasco Da gama, F.L.Gomes Road, Mormugoa,South Goa, 403802.",
+                "pincode": "403802",
+                "lat": 15.399973,
+                "lon": 73.814272,
+                "cityId": 40,
+                "appCovrImgUrl": "",
+                "covrImgUrl": "",
+                "fnb": 0,
+                "mTkt": 1,
+                "bCode": "",
+                "sTop": 0,
+                "isMerchantCancellable": 0,
+                "cinemaLogoUrl": "https://assetscdn1.paytm.com/images/cinema/Z_square-16a54cc0-869e-11ed-babd-1b40982c99df.png",
+                "cinemaVideoUrl": "",
+                "appCoverVideoUrl": "",
+                "webCoverVideoUrl": "",
+                "amenities": {
+                    "1": -1,
+                    "2": 1,
+                    "3": -1,
+                    "4": -1,
+                    "5": -1,
+                    "6": -1
+                },
+                "promos": null,
+                "chainKey": "HIRA",
+                "contentId": 147946,
+                "theatreGroupName": "",
+                "amenitiesOrder": [
+                    {
+                        "id": 1,
+                        "rank": 2,
+                        "status": -1
+                    },
+                    {
+                        "id": 2,
+                        "rank": 1,
+                        "status": 1
+                    },
+                    {
+                        "id": 3,
+                        "rank": 3,
+                        "status": -1
+                    },
+                    {
+                        "id": 4,
+                        "rank": 6,
+                        "status": -1
+                    },
+                    {
+                        "id": 5,
+                        "rank": 4,
+                        "status": -1
+                    },
+                    {
+                        "id": 6,
+                        "rank": 5,
+                        "status": -1
+                    }
+                ],
+                "carouselAttachments": [],
+                "isPassEnabled": 0,
+                "paytmCinemaId": 1072,
+                "city": "Goa",
+                "clientId": "ticketnew",
+                "isMapped": 0,
+                "city_id": null,
+                "is_city_mapped": null,
+                "state": "goa",
+                "label": "Z Square Multiplex, Vasco",
+                "sessionCount": 54
+            },
+            {
+                "id": 1029278,
+                "pid": 1707,
+                "name": "PVR INOX Osia G Wing, Margao",
+                "address": "G Wing,  Osia Commercial Arcade, SGPDA Market complex, Margao, Goa 403601, India",
+                "pincode": "403601",
+                "lat": 15.286225,
+                "lon": 73.957188,
+                "cityId": 40,
+                "appCovrImgUrl": "",
+                "covrImgUrl": "",
+                "fnb": 0,
+                "mTkt": 1,
+                "bCode": "0",
+                "sTop": 0,
+                "isMerchantCancellable": 0,
+                "cinemaLogoUrl": "https://assetscdn1.paytm.com/images/cinema/Inox%20(1)-c14c8740-2401-11ef-a342-13ea6c7d9d31.png",
+                "cinemaVideoUrl": "",
+                "appCoverVideoUrl": "",
+                "webCoverVideoUrl": "",
+                "amenities": null,
+                "promos": null,
+                "chainKey": "PVR",
+                "contentId": 174399,
+                "theatreGroupName": "",
+                "amenitiesOrder": null,
+                "carouselAttachments": [],
+                "isPassEnabled": 1,
+                "paytmCinemaId": 1029278,
+                "city": "Goa",
+                "clientId": "ticketnew",
+                "isMapped": 0,
+                "city_id": null,
+                "is_city_mapped": null,
+                "state": "goa",
+                "label": "PVR INOX Osia G Wing, Margao",
+                "sessionCount": 77
+            },
+            {
+                "id": 1029277,
+                "pid": 1707,
+                "name": "PVR INOX Old GMC, DB Road",
+                "address": "Old GMC Heritage Precinct, D.B. Road, Campal, Panjim, Goa 403001, India",
+                "pincode": "403001",
+                "lat": 15.498727,
+                "lon": 73.821097,
+                "cityId": 40,
+                "appCovrImgUrl": "",
+                "covrImgUrl": "",
+                "fnb": 0,
+                "mTkt": 1,
+                "bCode": "0",
+                "sTop": 0,
+                "isMerchantCancellable": 0,
+                "cinemaLogoUrl": "https://assetscdn1.paytm.com/images/cinema/Inox%20(1)-ebfd5180-23fd-11ef-a342-13ea6c7d9d31.png",
+                "cinemaVideoUrl": "",
+                "appCoverVideoUrl": "",
+                "webCoverVideoUrl": "",
+                "amenities": null,
+                "promos": null,
+                "chainKey": "PVR",
+                "contentId": 174397,
+                "theatreGroupName": "",
+                "amenitiesOrder": null,
+                "carouselAttachments": [],
+                "isPassEnabled": 1,
+                "paytmCinemaId": 1029277,
+                "city": "Goa",
+                "clientId": "ticketnew",
+                "isMapped": 0,
+                "city_id": null,
+                "is_city_mapped": null,
+                "state": "goa",
+                "label": "PVR INOX Old GMC, DB Road",
+                "sessionCount": 73
+            },
+            {
+                "id": 1016130,
+                "pid": 69,
+                "name": "Z Square Cine Samrat Ashok, Panaji",
+                "address": "Hotel Ashok Plaza, 18th June Road, Near Vijaya Bank, Panaji, Goa 403001, India",
+                "pincode": "403001",
+                "lat": 15.497075,
+                "lon": 73.823962,
+                "cityId": 40,
+                "appCovrImgUrl": "",
+                "covrImgUrl": "",
+                "fnb": 0,
+                "mTkt": 1,
+                "bCode": "",
+                "sTop": 0,
+                "isMerchantCancellable": 0,
+                "cinemaLogoUrl": "https://assetscdn1.paytm.com/images/cinema/Z_square-16a54cc0-869e-11ed-babd-1b40982c99df%5B1%5D-c9cd1540-83a4-11ee-931a-230dd0f33fac.png",
+                "cinemaVideoUrl": "",
+                "appCoverVideoUrl": "",
+                "webCoverVideoUrl": "",
+                "amenities": null,
+                "promos": null,
+                "chainKey": "HIRA",
+                "contentId": 167518,
+                "theatreGroupName": "",
+                "amenitiesOrder": null,
+                "carouselAttachments": [],
+                "isPassEnabled": 0,
+                "paytmCinemaId": 1016130,
+                "city": "Goa",
+                "clientId": "ticketnew",
+                "isMapped": 0,
+                "city_id": null,
+                "is_city_mapped": null,
+                "state": "goa",
+                "label": "Z Square Cine Samrat Ashok, Panaji",
+                "sessionCount": 47
+            }
+        ],
+        "filterData": {
+            "minSTime": "09:30",
+            "maxSTime": "16:15",
+            "minPrice": 125.0,
+            "maxPrice": 310.0,
+            "premium": false,
+            "freeSeats": false,
+            "groupSeats": false,
+            "tokenFeeSeats": false,
+            "scnFrmts": [
+                "2D"
+            ],
+            "sndFrmts": [
+                "none"
+            ],
+            "mLangs": [
+                "Telugu"
+            ],
+            "genres": [
+                "Action",
+                "Drama",
+                "Thriller"
+            ]
+        }
+    },
+    "data": {
+        "pageSize": 100,
+        "cinemasOrder": [
+            1072,
+            1029278,
+            1029277,
+            1016130
+        ],
+        "sessionDates": [
+            "2024-09-27",
+            "2024-09-28",
+            "2024-09-29",
+            "2024-09-30",
+            "2024-10-01",
+            "2024-10-02",
+            "2024-10-03"
+        ]
+    },
+    "pageData": {
+        "sessions": {
+            "1072": [
+                {
+                    "sid": "41844",
+                    "pid": 69,
+                    "pkey": "impact",
+                    "cid": 1072,
+                    "mid": "OAV34I",
+                    "fid": "TtdX_wUyN",
+                    "showTime": "2024-09-27T12:45",
+                    "closeTime": "2024-09-27T12:30",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "821_Box1",
+                            "label": "Box1",
+                            "typeCode": "821_Box1",
+                            "sType": "fixed",
+                            "sAvail": 3,
+                            "sTotal": 16,
+                            "price": 170.0,
+                            "statusColor": "Y"
+                        },
+                        {
+                            "code": "2057_Box2",
+                            "label": "Box2",
+                            "typeCode": "2057_Box2",
+                            "sType": "fixed",
+                            "sAvail": 2,
+                            "sTotal": 14,
+                            "price": 170.0,
+                            "statusColor": "Y"
+                        },
+                        {
+                            "code": "822_Golden",
+                            "label": "Golden",
+                            "typeCode": "822_Golden",
+                            "sType": "fixed",
+                            "sAvail": 85,
+                            "sTotal": 219,
+                            "price": 150.0,
+                            "statusColor": "Y"
+                        },
+                        {
+                            "code": "823_Silver",
+                            "label": "Silver",
+                            "typeCode": "823_Silver",
+                            "sType": "fixed",
+                            "sAvail": 52,
+                            "sTotal": 52,
+                            "price": 135.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 301,
+                    "avail": 142,
+                    "audi": "Screen 1",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 10,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "sndFmt": "none",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Thriller"
+                    ],
+                    "statusColor": "G"
+                },
+                {
+                    "sid": "41865",
+                    "pid": 69,
+                    "pkey": "impact",
+                    "cid": 1072,
+                    "mid": "OAV34I",
+                    "fid": "TtdX_wUyN",
+                    "showTime": "2024-09-27T09:30",
+                    "closeTime": "2024-09-27T09:15",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "822_Golden",
+                            "label": "Golden",
+                            "typeCode": "822_Golden",
+                            "sType": "fixed",
+                            "sAvail": 28,
+                            "sTotal": 63,
+                            "price": 125.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 63,
+                    "avail": 28,
+                    "audi": "Screen 2",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 10,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "sndFmt": "none",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Thriller"
+                    ],
+                    "statusColor": "G"
+                },
+                {
+                    "sid": "41872",
+                    "pid": 69,
+                    "pkey": "impact",
+                    "cid": 1072,
+                    "mid": "OAV34I",
+                    "fid": "TtdX_wUyN",
+                    "showTime": "2024-09-27T16:15",
+                    "closeTime": "2024-09-27T16:00",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "822_Golden",
+                            "label": "Golden",
+                            "typeCode": "822_Golden",
+                            "sType": "fixed",
+                            "sAvail": 63,
+                            "sTotal": 63,
+                            "price": 125.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 63,
+                    "avail": 63,
+                    "audi": "Screen 2",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 10,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "sndFmt": "none",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Thriller"
+                    ],
+                    "statusColor": "G"
+                }
+            ],
+            "1029278": [
+                {
+                    "sid": "67585",
+                    "pid": 1707,
+                    "pkey": "showbizz",
+                    "cid": 1029278,
+                    "mid": "OAV34I",
+                    "fid": "TtdX_wUyN",
+                    "showTime": "2024-09-27T11:55",
+                    "closeTime": "2024-09-27T11:54",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "CS",
+                            "label": "CLASSIC",
+                            "typeCode": "67585_CS",
+                            "sType": "fixed",
+                            "sAvail": 12,
+                            "sTotal": 28,
+                            "price": 220.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "PP",
+                            "label": "PRIME PLUS",
+                            "typeCode": "67585_PP",
+                            "sType": "fixed",
+                            "sAvail": 0,
+                            "sTotal": 92,
+                            "price": 270.0,
+                            "statusColor": "D"
+                        },
+                        {
+                            "code": "PR",
+                            "label": "PRIME",
+                            "typeCode": "67585_PR",
+                            "sType": "fixed",
+                            "sAvail": 7,
+                            "sTotal": 96,
+                            "price": 250.0,
+                            "statusColor": "R"
+                        }
+                    ],
+                    "total": 216,
+                    "avail": 19,
+                    "audi": "SCREEN 4",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 10,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "sndFmt": "none",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Thriller"
+                    ],
+                    "statusColor": "R"
+                }
+            ],
+            "1029277": [
+                {
+                    "sid": "79681",
+                    "pid": 1707,
+                    "pkey": "showbizz",
+                    "cid": 1029277,
+                    "mid": "OAV34I",
+                    "fid": "TtdX_wUyN",
+                    "showTime": "2024-09-27T12:10",
+                    "closeTime": "2024-09-27T12:09",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "CS",
+                            "label": "CLASSIC",
+                            "typeCode": "79681_CS",
+                            "sType": "fixed",
+                            "sAvail": 9,
+                            "sTotal": 36,
+                            "price": 260.0,
+                            "statusColor": "Y"
+                        },
+                        {
+                            "code": "PP",
+                            "label": "PRIME PLUS",
+                            "typeCode": "79681_PP",
+                            "sType": "fixed",
+                            "sAvail": 0,
+                            "sTotal": 75,
+                            "price": 310.0,
+                            "statusColor": "D"
+                        },
+                        {
+                            "code": "PR",
+                            "label": "PRIME",
+                            "typeCode": "79681_PR",
+                            "sType": "fixed",
+                            "sAvail": 1,
+                            "sTotal": 90,
+                            "price": 280.0,
+                            "statusColor": "R"
+                        }
+                    ],
+                    "total": 201,
+                    "avail": 10,
+                    "audi": "Screen 4",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 10,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "sndFmt": "none",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Thriller"
+                    ],
+                    "statusColor": "R"
+                }
+            ],
+            "1016130": [
+                {
+                    "sid": "12129",
+                    "pid": 69,
+                    "pkey": "impact",
+                    "cid": 1016130,
+                    "mid": "OAV34I",
+                    "fid": "TtdX_wUyN",
+                    "showTime": "2024-09-27T16:15",
+                    "closeTime": "2024-09-27T16:00",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "808_Diamond",
+                            "label": "Diamond",
+                            "typeCode": "808_Diamond",
+                            "sType": "fixed",
+                            "sAvail": 17,
+                            "sTotal": 17,
+                            "price": 180.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "809_Gold",
+                            "label": "Gold",
+                            "typeCode": "809_Gold",
+                            "sType": "fixed",
+                            "sAvail": 75,
+                            "sTotal": 75,
+                            "price": 170.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 92,
+                    "avail": 92,
+                    "audi": "ASHOK",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 10,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "sndFmt": "none",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Thriller"
+                    ],
+                    "statusColor": "G"
+                },
+                {
+                    "sid": "12122",
+                    "pid": 69,
+                    "pkey": "impact",
+                    "cid": 1016130,
+                    "mid": "OAV34I",
+                    "fid": "TtdX_wUyN",
+                    "showTime": "2024-09-27T13:00",
+                    "closeTime": "2024-09-27T12:45",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "808_Diamond",
+                            "label": "Diamond",
+                            "typeCode": "808_Diamond",
+                            "sType": "fixed",
+                            "sAvail": 17,
+                            "sTotal": 17,
+                            "price": 180.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "809_Gold",
+                            "label": "Gold",
+                            "typeCode": "809_Gold",
+                            "sType": "fixed",
+                            "sAvail": 75,
+                            "sTotal": 75,
+                            "price": 170.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 92,
+                    "avail": 92,
+                    "audi": "ASHOK",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 10,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "sndFmt": "none",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Thriller"
+                    ],
+                    "statusColor": "G"
+                }
+            ]
+        }
+    }
+}

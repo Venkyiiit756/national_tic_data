@@ -1,0 +1,1356 @@
+{
+    "serverTime": 1727421873,
+    "meta": {
+        "movies": [
+            {
+                "id": "OAV34I",
+                "frmtId": "TtdX_wUyN",
+                "name": "Devara - Part 1",
+                "imgPath": "https://assetscdn1.paytm.com/images/cinema/Devara---Part-1--705x750-ff23a0e0-ccc6-11ee-a6f3-b9b401515283.jpg",
+                "appImgPath": "https://assetscdn1.paytm.com/images/cinema/Devara-608x800-87e29260-7834-11ef-ad27-dfa11df60ee4.jpg",
+                "cvrPath": "https://assetscdn1.paytm.com/images/cinema/we-a407a150-7b23-11ef-84df-ff7d1a67840c.jpg",
+                "appCvrPath": "https://assetscdn1.paytm.com/images/cinema/App-cover-a62c7d20-7b23-11ef-8892-f397183e5623.jpg",
+                "thumbnail": null,
+                "edgeBanner": "https://assetscdn1.paytm.com/images/cinema/Devara---Part-1--1035%E2%80%8A%C3%97%E2%80%8A420-118bd900-ccc7-11ee-a6f3-b9b401515283.jpg",
+                "trailer": "https://youtu.be/5cx7rvMvAWo",
+                "censor": "U/A",
+                "duration": 178,
+                "grn": [
+                    "Action",
+                    "Drama",
+                    "Thriller"
+                ],
+                "scrnFmt": "2D",
+                "sndFmt": "none",
+                "rnr": {
+                    "hasUReview": 0,
+                    "hasContent": 1
+                },
+                "isNew": false,
+                "imxImgUrl": null,
+                "contentId": 159964,
+                "label": "Devara - Part 1",
+                "lang": "Telugu"
+            }
+        ],
+        "filterBuckets": {
+            "timeBuckets": [
+                {
+                    "sTime": "05:00",
+                    "eTime": "11:59",
+                    "desc": "5:00 AM to 11:59 AM",
+                    "dText": "Morning",
+                    "desc1": "Till 12 PM"
+                },
+                {
+                    "sTime": "12:00",
+                    "eTime": "15:59",
+                    "desc": "12:00 PM to 3:59 PM",
+                    "dText": "Afternoon",
+                    "desc1": "Till 4 PM"
+                },
+                {
+                    "sTime": "16:00",
+                    "eTime": "18:59",
+                    "desc": "4:00 PM to 6:59 PM",
+                    "dText": "Evening",
+                    "desc1": "Till 7 PM"
+                },
+                {
+                    "sTime": "19:00",
+                    "eTime": "04:59",
+                    "desc": "7:00 PM to 4:59 AM",
+                    "dText": "Night",
+                    "desc1": "After 7 PM"
+                }
+            ],
+            "priceBuckets": [
+                {
+                    "min": "0",
+                    "max": "99",
+                    "desc": "Below Rs 100"
+                },
+                {
+                    "min": "100",
+                    "max": "199",
+                    "desc": "Rs 100 - Rs 199"
+                },
+                {
+                    "min": "200",
+                    "max": "299",
+                    "desc": "Rs 200 - Rs 299"
+                },
+                {
+                    "min": "300",
+                    "max": "399",
+                    "desc": "Rs 300 - Rs 399"
+                },
+                {
+                    "min": "400",
+                    "max": "NA",
+                    "desc": "Rs 400 or above"
+                }
+            ],
+            "showTimeBuckets": [
+                {
+                    "sTime": "00:00",
+                    "eTime": "08:00",
+                    "desc": "12 AM to 8 AM",
+                    "dText": "Early Morning",
+                    "desc1": "Till 8 AM"
+                },
+                {
+                    "sTime": "08:00",
+                    "eTime": "12:00",
+                    "desc": "8 AM to 12 PM",
+                    "dText": "Morning",
+                    "desc1": "Till 12 PM"
+                },
+                {
+                    "sTime": "12:00",
+                    "eTime": "16:00",
+                    "desc": "12 PM to 4 PM",
+                    "dText": "Afternoon",
+                    "desc1": "Till 4 PM"
+                },
+                {
+                    "sTime": "16:00",
+                    "eTime": "19:00",
+                    "desc": "4 PM to 7 PM",
+                    "dText": "Evening",
+                    "desc1": "Till 7 PM"
+                },
+                {
+                    "sTime": "19:00",
+                    "eTime": "23:59",
+                    "desc": "7 PM to 12 AM",
+                    "dText": "Night",
+                    "desc1": "Till 12 AM"
+                }
+            ]
+        },
+        "amenities": [
+            {
+                "id": 2,
+                "name": "Parking",
+                "rank": 1
+            },
+            {
+                "id": 1,
+                "name": "Mobile Ticket",
+                "rank": 2
+            },
+            {
+                "id": 3,
+                "name": "Online Food",
+                "rank": 3
+            },
+            {
+                "id": 5,
+                "name": "Recliners",
+                "rank": 4
+            },
+            {
+                "id": 6,
+                "name": "Paytm Accepted",
+                "rank": 5
+            },
+            {
+                "id": 4,
+                "name": "Wheelchair Friendly",
+                "rank": 6
+            },
+            {
+                "id": 7,
+                "name": "RGB Laser",
+                "rank": 7
+            },
+            {
+                "id": 8,
+                "name": "Dolby Atmos",
+                "rank": 8
+            },
+            {
+                "id": 9,
+                "name": "IMAX",
+                "rank": 9
+            },
+            {
+                "id": 10,
+                "name": "4K",
+                "rank": 10
+            },
+            {
+                "id": 11,
+                "name": "AC",
+                "rank": 11
+            },
+            {
+                "id": 12,
+                "name": "WIFI",
+                "rank": 12
+            },
+            {
+                "id": 13,
+                "name": "Food Court",
+                "rank": 13
+            },
+            {
+                "id": 14,
+                "name": "Gaming Zone",
+                "rank": 14
+            },
+            {
+                "id": 15,
+                "name": "2K",
+                "rank": 15
+            },
+            {
+                "id": 16,
+                "name": "4D",
+                "rank": 16
+            },
+            {
+                "id": 17,
+                "name": "4DX",
+                "rank": 17
+            },
+            {
+                "id": 18,
+                "name": "Dolby 7.1",
+                "rank": 18
+            },
+            {
+                "id": 19,
+                "name": "Air conditioning",
+                "rank": 19
+            },
+            {
+                "id": 20,
+                "name": "Metro Train",
+                "rank": 20
+            },
+            {
+                "id": 21,
+                "name": "Sofa",
+                "rank": 21
+            },
+            {
+                "id": 22,
+                "name": "Social Seating",
+                "rank": 22
+            },
+            {
+                "id": 23,
+                "name": "Wheelchair Assistance",
+                "rank": 23
+            },
+            {
+                "id": 24,
+                "name": "Silver Screen",
+                "rank": 24
+            },
+            {
+                "id": 25,
+                "name": "Food & Beverages",
+                "rank": 25
+            },
+            {
+                "id": 26,
+                "name": "Paper Less Ticketing",
+                "rank": 26
+            },
+            {
+                "id": 27,
+                "name": "Handicapped Washroom",
+                "rank": 27
+            },
+            {
+                "id": 28,
+                "name": "Free Parking",
+                "rank": 28
+            },
+            {
+                "id": 29,
+                "name": "Baggage Counter",
+                "rank": 29
+            },
+            {
+                "id": 30,
+                "name": "Dolby 4 Way 11.1",
+                "rank": 30
+            },
+            {
+                "id": 31,
+                "name": "Barco 4K Ultra HD",
+                "rank": 31
+            }
+        ],
+        "cinemas": [
+            {
+                "id": 6034,
+                "pid": 736,
+                "name": "Sri Padmalaya Cine Complex, Balusumoodi",
+                "address": "Komarada Road, Balusumoodi, Bhimavaram, Andhra Pradesh 534202, India",
+                "pincode": "534202",
+                "lat": 16.54209,
+                "lon": 81.5122,
+                "cityId": 98,
+                "appCovrImgUrl": "",
+                "covrImgUrl": "",
+                "fnb": 0,
+                "mTkt": 1,
+                "bCode": "0",
+                "sTop": 0,
+                "isMerchantCancellable": 0,
+                "cinemaLogoUrl": "https://assetscdn1.paytm.com/images/cinema/Theatre%403x-a4b1cf60-676c-11ef-8bfd-85c2f3bcaac6.png",
+                "cinemaVideoUrl": "",
+                "appCoverVideoUrl": "",
+                "webCoverVideoUrl": "",
+                "amenities": null,
+                "promos": null,
+                "chainKey": "TicketNew",
+                "contentId": 156804,
+                "theatreGroupName": "",
+                "amenitiesOrder": null,
+                "carouselAttachments": [],
+                "isPassEnabled": 0,
+                "paytmCinemaId": 6034,
+                "city": "Bhimavaram",
+                "clientId": "ticketnew",
+                "isMapped": 0,
+                "city_id": null,
+                "is_city_mapped": null,
+                "state": "andhra-pradesh",
+                "label": "Sri Padmalaya Cine Complex, Balusumoodi",
+                "sessionCount": 38
+            },
+            {
+                "id": 41754,
+                "pid": 1614,
+                "name": "Sri Vijaylakshmi Cine Complex, Bhimavaram",
+                "address": " Vijayalakshmi Mahalakshmi Theatres, West Godavari District, Narasimhapuram, Bhimavaram, Andhra Pradesh 534202, India",
+                "pincode": "534202",
+                "lat": 16.547501,
+                "lon": 81.522301,
+                "cityId": 98,
+                "appCovrImgUrl": "",
+                "covrImgUrl": "",
+                "fnb": 0,
+                "mTkt": 1,
+                "bCode": "0",
+                "sTop": 0,
+                "isMerchantCancellable": 0,
+                "cinemaLogoUrl": "https://assetscdn1.paytm.com/images/cinema/Theatre%403x-a4b1cf60-676c-11ef-8bfd-85c2f3bcaac6.png",
+                "cinemaVideoUrl": "",
+                "appCoverVideoUrl": "",
+                "webCoverVideoUrl": "",
+                "amenities": null,
+                "promos": null,
+                "chainKey": "Sri Vijaya Lakshmi",
+                "contentId": 156679,
+                "theatreGroupName": "",
+                "amenitiesOrder": null,
+                "carouselAttachments": [],
+                "isPassEnabled": 0,
+                "paytmCinemaId": 41754,
+                "city": "Bhimavaram",
+                "clientId": "ticketnew",
+                "isMapped": 0,
+                "city_id": null,
+                "is_city_mapped": null,
+                "state": "andhra-pradesh",
+                "label": "Sri Vijaylakshmi Cine Complex, Bhimavaram",
+                "sessionCount": 3
+            },
+            {
+                "id": 9227,
+                "pid": 1101,
+                "name": "Kishore Cine Hub, Panuganti Rayappa Bazar",
+                "address": "Panuganti Rayappa Bazar, Bhimavaram, Andhra Pradesh 534202, India",
+                "pincode": "534202",
+                "lat": 16.545679,
+                "lon": 81.517554,
+                "cityId": 98,
+                "appCovrImgUrl": "",
+                "covrImgUrl": "",
+                "fnb": 0,
+                "mTkt": 1,
+                "bCode": "0",
+                "sTop": 0,
+                "isMerchantCancellable": 0,
+                "cinemaLogoUrl": "https://assetscdn1.paytm.com/images/cinema/Theatre%403x-a4b1cf60-676c-11ef-8bfd-85c2f3bcaac6.png",
+                "cinemaVideoUrl": "",
+                "appCoverVideoUrl": "",
+                "webCoverVideoUrl": "",
+                "amenities": null,
+                "promos": null,
+                "chainKey": "Kishore Cine Hub",
+                "contentId": 149676,
+                "theatreGroupName": "",
+                "amenitiesOrder": null,
+                "carouselAttachments": [],
+                "isPassEnabled": 0,
+                "paytmCinemaId": 9227,
+                "city": "Bhimavaram",
+                "clientId": "ticketnew",
+                "isMapped": 0,
+                "city_id": null,
+                "is_city_mapped": null,
+                "state": "andhra-pradesh",
+                "label": "Kishore Cine Hub, Panuganti Rayappa Bazar",
+                "sessionCount": 3
+            }
+        ],
+        "filterData": {
+            "minSTime": "08:45",
+            "maxSTime": "16:30",
+            "minPrice": 100.0,
+            "maxPrice": 250.0,
+            "premium": false,
+            "freeSeats": false,
+            "groupSeats": false,
+            "tokenFeeSeats": false,
+            "scnFrmts": [
+                "2D"
+            ],
+            "sndFrmts": [
+                "none"
+            ],
+            "mLangs": [
+                "Telugu"
+            ],
+            "genres": [
+                "Action",
+                "Drama",
+                "Thriller"
+            ]
+        }
+    },
+    "data": {
+        "pageSize": 100,
+        "cinemasOrder": [
+            6034,
+            41754,
+            9227
+        ],
+        "sessionDates": [
+            "2024-09-27",
+            "2024-09-28",
+            "2024-09-29"
+        ]
+    },
+    "pageData": {
+        "sessions": {
+            "6034": [
+                {
+                    "sid": "30556__1727442000__1723__25234",
+                    "pid": 736,
+                    "pkey": "ticketnew",
+                    "cid": 6034,
+                    "mid": "OAV34I",
+                    "fid": "TtdX_wUyN",
+                    "showTime": "2024-09-27T13:00",
+                    "closeTime": "2024-09-27T13:00",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "10",
+                            "label": "SOFA",
+                            "typeCode": "30556__1727442000__1723__25234_SOFA",
+                            "sType": "fixed",
+                            "sAvail": 0,
+                            "sTotal": 66,
+                            "price": 250.0,
+                            "statusColor": "D"
+                        },
+                        {
+                            "code": "20",
+                            "label": "FIRST CLASS",
+                            "typeCode": "30556__1727442000__1723__25234_FIRST CLASS",
+                            "sType": "fixed",
+                            "sAvail": 0,
+                            "sTotal": 221,
+                            "price": 250.0,
+                            "statusColor": "D"
+                        },
+                        {
+                            "code": "30",
+                            "label": "SECOND CLASS",
+                            "typeCode": "30556__1727442000__1723__25234_SECOND CLASS",
+                            "sType": "fixed",
+                            "sAvail": 1,
+                            "sTotal": 91,
+                            "price": 150.0,
+                            "statusColor": "R"
+                        },
+                        {
+                            "code": "40",
+                            "label": "THIRD CLASS",
+                            "typeCode": "30556__1727442000__1723__25234_THIRD CLASS",
+                            "sType": "fixed",
+                            "sAvail": 3,
+                            "sTotal": 56,
+                            "price": 100.0,
+                            "statusColor": "R"
+                        }
+                    ],
+                    "total": 434,
+                    "avail": 4,
+                    "audi": "SCREEN1",
+                    "premium": 0,
+                    "premiumLabel": "SCREEN1",
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "sndFmt": "none",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Thriller"
+                    ],
+                    "statusColor": "R",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "30556__1727429400__1723__25233",
+                    "pid": 736,
+                    "pkey": "ticketnew",
+                    "cid": 6034,
+                    "mid": "OAV34I",
+                    "fid": "TtdX_wUyN",
+                    "showTime": "2024-09-27T09:30",
+                    "closeTime": "2024-09-27T09:30",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "10",
+                            "label": "SOFA",
+                            "typeCode": "30556__1727429400__1723__25233_SOFA",
+                            "sType": "fixed",
+                            "sAvail": 0,
+                            "sTotal": 66,
+                            "price": 250.0,
+                            "statusColor": "D"
+                        },
+                        {
+                            "code": "20",
+                            "label": "FIRST CLASS",
+                            "typeCode": "30556__1727429400__1723__25233_FIRST CLASS",
+                            "sType": "fixed",
+                            "sAvail": 0,
+                            "sTotal": 221,
+                            "price": 250.0,
+                            "statusColor": "D"
+                        },
+                        {
+                            "code": "30",
+                            "label": "SECOND CLASS",
+                            "typeCode": "30556__1727429400__1723__25233_SECOND CLASS",
+                            "sType": "fixed",
+                            "sAvail": 0,
+                            "sTotal": 91,
+                            "price": 150.0,
+                            "statusColor": "D"
+                        },
+                        {
+                            "code": "40",
+                            "label": "THIRD CLASS",
+                            "typeCode": "30556__1727429400__1723__25233_THIRD CLASS",
+                            "sType": "fixed",
+                            "sAvail": 31,
+                            "sTotal": 56,
+                            "price": 100.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 434,
+                    "avail": 31,
+                    "audi": "SCREEN1",
+                    "premium": 0,
+                    "premiumLabel": "SCREEN1",
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "sndFmt": "none",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Thriller"
+                    ],
+                    "statusColor": "R",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "30556__1727442000__1724__25192",
+                    "pid": 736,
+                    "pkey": "ticketnew",
+                    "cid": 6034,
+                    "mid": "OAV34I",
+                    "fid": "TtdX_wUyN",
+                    "showTime": "2024-09-27T13:00",
+                    "closeTime": "2024-09-27T13:00",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "50",
+                            "label": "BALCONY",
+                            "typeCode": "30556__1727442000__1724__25192_BALCONY",
+                            "sType": "fixed",
+                            "sAvail": 4,
+                            "sTotal": 73,
+                            "price": 250.0,
+                            "statusColor": "R"
+                        },
+                        {
+                            "code": "60",
+                            "label": "SOFA",
+                            "typeCode": "30556__1727442000__1724__25192_SOFA",
+                            "sType": "fixed",
+                            "sAvail": 3,
+                            "sTotal": 50,
+                            "price": 250.0,
+                            "statusColor": "R"
+                        },
+                        {
+                            "code": "70",
+                            "label": "FIRST CLASS",
+                            "typeCode": "30556__1727442000__1724__25192_FIRST CLASS",
+                            "sType": "fixed",
+                            "sAvail": 55,
+                            "sTotal": 79,
+                            "price": 250.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "80",
+                            "label": "SECOND CLASS",
+                            "typeCode": "30556__1727442000__1724__25192_SECOND CLASS",
+                            "sType": "fixed",
+                            "sAvail": 34,
+                            "sTotal": 65,
+                            "price": 150.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "90",
+                            "label": "THIRD CLASS",
+                            "typeCode": "30556__1727442000__1724__25192_THIRD CLASS",
+                            "sType": "fixed",
+                            "sAvail": 20,
+                            "sTotal": 41,
+                            "price": 100.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 308,
+                    "avail": 116,
+                    "audi": "SCREEN2",
+                    "premium": 0,
+                    "premiumLabel": "SCREEN2",
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "sndFmt": "none",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Thriller"
+                    ],
+                    "statusColor": "Y",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "30556__1727429400__1724__25191",
+                    "pid": 736,
+                    "pkey": "ticketnew",
+                    "cid": 6034,
+                    "mid": "OAV34I",
+                    "fid": "TtdX_wUyN",
+                    "showTime": "2024-09-27T09:30",
+                    "closeTime": "2024-09-27T09:30",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "50",
+                            "label": "BALCONY",
+                            "typeCode": "30556__1727429400__1724__25191_BALCONY",
+                            "sType": "fixed",
+                            "sAvail": 23,
+                            "sTotal": 73,
+                            "price": 250.0,
+                            "statusColor": "Y"
+                        },
+                        {
+                            "code": "60",
+                            "label": "SOFA",
+                            "typeCode": "30556__1727429400__1724__25191_SOFA",
+                            "sType": "fixed",
+                            "sAvail": 12,
+                            "sTotal": 50,
+                            "price": 250.0,
+                            "statusColor": "Y"
+                        },
+                        {
+                            "code": "70",
+                            "label": "FIRST CLASS",
+                            "typeCode": "30556__1727429400__1724__25191_FIRST CLASS",
+                            "sType": "fixed",
+                            "sAvail": 59,
+                            "sTotal": 79,
+                            "price": 250.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "80",
+                            "label": "SECOND CLASS",
+                            "typeCode": "30556__1727429400__1724__25191_SECOND CLASS",
+                            "sType": "fixed",
+                            "sAvail": 24,
+                            "sTotal": 65,
+                            "price": 150.0,
+                            "statusColor": "Y"
+                        },
+                        {
+                            "code": "90",
+                            "label": "THIRD CLASS",
+                            "typeCode": "30556__1727429400__1724__25191_THIRD CLASS",
+                            "sType": "fixed",
+                            "sAvail": 20,
+                            "sTotal": 41,
+                            "price": 100.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 308,
+                    "avail": 138,
+                    "audi": "SCREEN2",
+                    "premium": 0,
+                    "premiumLabel": "SCREEN2",
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "sndFmt": "none",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Thriller"
+                    ],
+                    "statusColor": "G",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "30556__1727454600__1724__25193",
+                    "pid": 736,
+                    "pkey": "ticketnew",
+                    "cid": 6034,
+                    "mid": "OAV34I",
+                    "fid": "TtdX_wUyN",
+                    "showTime": "2024-09-27T16:30",
+                    "closeTime": "2024-09-27T16:30",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "50",
+                            "label": "BALCONY",
+                            "typeCode": "30556__1727454600__1724__25193_BALCONY",
+                            "sType": "fixed",
+                            "sAvail": 36,
+                            "sTotal": 73,
+                            "price": 250.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "60",
+                            "label": "SOFA",
+                            "typeCode": "30556__1727454600__1724__25193_SOFA",
+                            "sType": "fixed",
+                            "sAvail": 0,
+                            "sTotal": 50,
+                            "price": 250.0,
+                            "statusColor": "D"
+                        },
+                        {
+                            "code": "70",
+                            "label": "FIRST CLASS",
+                            "typeCode": "30556__1727454600__1724__25193_FIRST CLASS",
+                            "sType": "fixed",
+                            "sAvail": 50,
+                            "sTotal": 79,
+                            "price": 250.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "80",
+                            "label": "SECOND CLASS",
+                            "typeCode": "30556__1727454600__1724__25193_SECOND CLASS",
+                            "sType": "fixed",
+                            "sAvail": 37,
+                            "sTotal": 65,
+                            "price": 150.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "90",
+                            "label": "THIRD CLASS",
+                            "typeCode": "30556__1727454600__1724__25193_THIRD CLASS",
+                            "sType": "fixed",
+                            "sAvail": 20,
+                            "sTotal": 41,
+                            "price": 100.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 308,
+                    "avail": 143,
+                    "audi": "SCREEN2",
+                    "premium": 0,
+                    "premiumLabel": "SCREEN2",
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "sndFmt": "none",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Thriller"
+                    ],
+                    "statusColor": "G",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "30556__1727454600__1723__25235",
+                    "pid": 736,
+                    "pkey": "ticketnew",
+                    "cid": 6034,
+                    "mid": "OAV34I",
+                    "fid": "TtdX_wUyN",
+                    "showTime": "2024-09-27T16:30",
+                    "closeTime": "2024-09-27T16:30",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "10",
+                            "label": "SOFA",
+                            "typeCode": "30556__1727454600__1723__25235_SOFA",
+                            "sType": "fixed",
+                            "sAvail": 0,
+                            "sTotal": 66,
+                            "price": 250.0,
+                            "statusColor": "D"
+                        },
+                        {
+                            "code": "20",
+                            "label": "FIRST CLASS",
+                            "typeCode": "30556__1727454600__1723__25235_FIRST CLASS",
+                            "sType": "fixed",
+                            "sAvail": 17,
+                            "sTotal": 221,
+                            "price": 250.0,
+                            "statusColor": "R"
+                        },
+                        {
+                            "code": "30",
+                            "label": "SECOND CLASS",
+                            "typeCode": "30556__1727454600__1723__25235_SECOND CLASS",
+                            "sType": "fixed",
+                            "sAvail": 11,
+                            "sTotal": 91,
+                            "price": 150.0,
+                            "statusColor": "Y"
+                        },
+                        {
+                            "code": "40",
+                            "label": "THIRD CLASS",
+                            "typeCode": "30556__1727454600__1723__25235_THIRD CLASS",
+                            "sType": "fixed",
+                            "sAvail": 10,
+                            "sTotal": 56,
+                            "price": 100.0,
+                            "statusColor": "Y"
+                        }
+                    ],
+                    "total": 434,
+                    "avail": 38,
+                    "audi": "SCREEN1",
+                    "premium": 0,
+                    "premiumLabel": "SCREEN1",
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "sndFmt": "none",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Thriller"
+                    ],
+                    "statusColor": "R",
+                    "subtitle": ""
+                }
+            ],
+            "41754": [
+                {
+                    "sid": "30556__1727426700__1860__21878",
+                    "pid": 1614,
+                    "pkey": "ticketnew",
+                    "cid": 41754,
+                    "mid": "OAV34I",
+                    "fid": "TtdX_wUyN",
+                    "showTime": "2024-09-27T08:45",
+                    "closeTime": "2024-09-27T08:45",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "10",
+                            "label": "SOFA",
+                            "typeCode": "30556__1727426700__1860__21878_SOFA",
+                            "sType": "fixed",
+                            "sAvail": 0,
+                            "sTotal": 39,
+                            "price": 250.0,
+                            "statusColor": "D"
+                        },
+                        {
+                            "code": "30",
+                            "label": "PLATINUM",
+                            "typeCode": "30556__1727426700__1860__21878_PLATINUM",
+                            "sType": "fixed",
+                            "sAvail": 49,
+                            "sTotal": 117,
+                            "price": 250.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "40",
+                            "label": "GOLD",
+                            "typeCode": "30556__1727426700__1860__21878_GOLD",
+                            "sType": "fixed",
+                            "sAvail": 10,
+                            "sTotal": 50,
+                            "price": 150.0,
+                            "statusColor": "Y"
+                        },
+                        {
+                            "code": "50",
+                            "label": "SILVER",
+                            "typeCode": "30556__1727426700__1860__21878_SILVER",
+                            "sType": "fixed",
+                            "sAvail": 6,
+                            "sTotal": 40,
+                            "price": 100.0,
+                            "statusColor": "Y"
+                        }
+                    ],
+                    "total": 246,
+                    "avail": 65,
+                    "audi": "SCREEN 1",
+                    "premium": 0,
+                    "premiumLabel": "SCREEN 1",
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "sndFmt": "none",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Thriller"
+                    ],
+                    "statusColor": "Y",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "30556__1727451900__1860__21880",
+                    "pid": 1614,
+                    "pkey": "ticketnew",
+                    "cid": 41754,
+                    "mid": "OAV34I",
+                    "fid": "TtdX_wUyN",
+                    "showTime": "2024-09-27T15:45",
+                    "closeTime": "2024-09-27T15:45",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "10",
+                            "label": "SOFA",
+                            "typeCode": "30556__1727451900__1860__21880_SOFA",
+                            "sType": "fixed",
+                            "sAvail": 0,
+                            "sTotal": 39,
+                            "price": 250.0,
+                            "statusColor": "D"
+                        },
+                        {
+                            "code": "30",
+                            "label": "PLATINUM",
+                            "typeCode": "30556__1727451900__1860__21880_PLATINUM",
+                            "sType": "fixed",
+                            "sAvail": 34,
+                            "sTotal": 117,
+                            "price": 250.0,
+                            "statusColor": "Y"
+                        },
+                        {
+                            "code": "40",
+                            "label": "GOLD",
+                            "typeCode": "30556__1727451900__1860__21880_GOLD",
+                            "sType": "fixed",
+                            "sAvail": 26,
+                            "sTotal": 50,
+                            "price": 150.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "50",
+                            "label": "SILVER",
+                            "typeCode": "30556__1727451900__1860__21880_SILVER",
+                            "sType": "fixed",
+                            "sAvail": 37,
+                            "sTotal": 40,
+                            "price": 100.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 246,
+                    "avail": 97,
+                    "audi": "SCREEN 1",
+                    "premium": 0,
+                    "premiumLabel": "SCREEN 1",
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "sndFmt": "none",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Thriller"
+                    ],
+                    "statusColor": "Y",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "30556__1727440200__1860__21879",
+                    "pid": 1614,
+                    "pkey": "ticketnew",
+                    "cid": 41754,
+                    "mid": "OAV34I",
+                    "fid": "TtdX_wUyN",
+                    "showTime": "2024-09-27T12:30",
+                    "closeTime": "2024-09-27T12:30",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "10",
+                            "label": "SOFA",
+                            "typeCode": "30556__1727440200__1860__21879_SOFA",
+                            "sType": "fixed",
+                            "sAvail": 0,
+                            "sTotal": 39,
+                            "price": 250.0,
+                            "statusColor": "D"
+                        },
+                        {
+                            "code": "30",
+                            "label": "PLATINUM",
+                            "typeCode": "30556__1727440200__1860__21879_PLATINUM",
+                            "sType": "fixed",
+                            "sAvail": 47,
+                            "sTotal": 117,
+                            "price": 250.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "40",
+                            "label": "GOLD",
+                            "typeCode": "30556__1727440200__1860__21879_GOLD",
+                            "sType": "fixed",
+                            "sAvail": 12,
+                            "sTotal": 50,
+                            "price": 150.0,
+                            "statusColor": "Y"
+                        },
+                        {
+                            "code": "50",
+                            "label": "SILVER",
+                            "typeCode": "30556__1727440200__1860__21879_SILVER",
+                            "sType": "fixed",
+                            "sAvail": 29,
+                            "sTotal": 40,
+                            "price": 100.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 246,
+                    "avail": 88,
+                    "audi": "SCREEN 1",
+                    "premium": 0,
+                    "premiumLabel": "SCREEN 1",
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "sndFmt": "none",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Thriller"
+                    ],
+                    "statusColor": "Y",
+                    "subtitle": ""
+                }
+            ],
+            "9227": [
+                {
+                    "sid": "30556__1727427600__1901__14628",
+                    "pid": 1101,
+                    "pkey": "ticketnew",
+                    "cid": 9227,
+                    "mid": "OAV34I",
+                    "fid": "TtdX_wUyN",
+                    "showTime": "2024-09-27T09:00",
+                    "closeTime": "2024-09-27T09:00",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "10",
+                            "label": "SOFA",
+                            "typeCode": "30556__1727427600__1901__14628_SOFA",
+                            "sType": "fixed",
+                            "sAvail": 2,
+                            "sTotal": 70,
+                            "price": 250.0,
+                            "statusColor": "R"
+                        },
+                        {
+                            "code": "20",
+                            "label": "FIRST CLASS",
+                            "typeCode": "30556__1727427600__1901__14628_FIRST CLASS",
+                            "sType": "fixed",
+                            "sAvail": 132,
+                            "sTotal": 154,
+                            "price": 250.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "30",
+                            "label": "SECOND CLASS",
+                            "typeCode": "30556__1727427600__1901__14628_SECOND CLASS",
+                            "sType": "fixed",
+                            "sAvail": 31,
+                            "sTotal": 90,
+                            "price": 150.0,
+                            "statusColor": "Y"
+                        },
+                        {
+                            "code": "31",
+                            "label": "THIRD CLASS",
+                            "typeCode": "30556__1727427600__1901__14628_THIRD CLASS",
+                            "sType": "fixed",
+                            "sAvail": 66,
+                            "sTotal": 89,
+                            "price": 100.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 403,
+                    "avail": 231,
+                    "audi": "KISHORE 70MM",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "sndFmt": "none",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Thriller"
+                    ],
+                    "statusColor": "G",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "30556__1727440200__1901__14629",
+                    "pid": 1101,
+                    "pkey": "ticketnew",
+                    "cid": 9227,
+                    "mid": "OAV34I",
+                    "fid": "TtdX_wUyN",
+                    "showTime": "2024-09-27T12:30",
+                    "closeTime": "2024-09-27T12:30",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "10",
+                            "label": "SOFA",
+                            "typeCode": "30556__1727440200__1901__14629_SOFA",
+                            "sType": "fixed",
+                            "sAvail": 3,
+                            "sTotal": 70,
+                            "price": 250.0,
+                            "statusColor": "R"
+                        },
+                        {
+                            "code": "20",
+                            "label": "FIRST CLASS",
+                            "typeCode": "30556__1727440200__1901__14629_FIRST CLASS",
+                            "sType": "fixed",
+                            "sAvail": 142,
+                            "sTotal": 154,
+                            "price": 250.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "30",
+                            "label": "SECOND CLASS",
+                            "typeCode": "30556__1727440200__1901__14629_SECOND CLASS",
+                            "sType": "fixed",
+                            "sAvail": 39,
+                            "sTotal": 90,
+                            "price": 150.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "31",
+                            "label": "THIRD CLASS",
+                            "typeCode": "30556__1727440200__1901__14629_THIRD CLASS",
+                            "sType": "fixed",
+                            "sAvail": 74,
+                            "sTotal": 89,
+                            "price": 100.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 403,
+                    "avail": 258,
+                    "audi": "KISHORE 70MM",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "sndFmt": "none",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Thriller"
+                    ],
+                    "statusColor": "G",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "30556__1727452800__1901__14630",
+                    "pid": 1101,
+                    "pkey": "ticketnew",
+                    "cid": 9227,
+                    "mid": "OAV34I",
+                    "fid": "TtdX_wUyN",
+                    "showTime": "2024-09-27T16:00",
+                    "closeTime": "2024-09-27T16:00",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "10",
+                            "label": "SOFA",
+                            "typeCode": "30556__1727452800__1901__14630_SOFA",
+                            "sType": "fixed",
+                            "sAvail": 0,
+                            "sTotal": 70,
+                            "price": 250.0,
+                            "statusColor": "D"
+                        },
+                        {
+                            "code": "20",
+                            "label": "FIRST CLASS",
+                            "typeCode": "30556__1727452800__1901__14630_FIRST CLASS",
+                            "sType": "fixed",
+                            "sAvail": 141,
+                            "sTotal": 154,
+                            "price": 250.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "30",
+                            "label": "SECOND CLASS",
+                            "typeCode": "30556__1727452800__1901__14630_SECOND CLASS",
+                            "sType": "fixed",
+                            "sAvail": 44,
+                            "sTotal": 90,
+                            "price": 150.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "31",
+                            "label": "THIRD CLASS",
+                            "typeCode": "30556__1727452800__1901__14630_THIRD CLASS",
+                            "sType": "fixed",
+                            "sAvail": 88,
+                            "sTotal": 89,
+                            "price": 100.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 403,
+                    "avail": 273,
+                    "audi": "KISHORE 70MM",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "sndFmt": "none",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Thriller"
+                    ],
+                    "statusColor": "G",
+                    "subtitle": ""
+                }
+            ]
+        }
+    }
+}
