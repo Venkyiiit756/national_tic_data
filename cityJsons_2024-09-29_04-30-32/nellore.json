@@ -1,0 +1,1616 @@
+{
+    "serverTime": 1727584272,
+    "meta": {
+        "movies": [
+            {
+                "id": "OAV34I",
+                "frmtId": "TtdX_wUyN",
+                "name": "Devara - Part 1",
+                "imgPath": "https://assetscdn1.paytm.com/images/cinema/Devara---Part-1--705x750-ff23a0e0-ccc6-11ee-a6f3-b9b401515283.jpg",
+                "appImgPath": "https://assetscdn1.paytm.com/images/cinema/Devara-608x800-87e29260-7834-11ef-ad27-dfa11df60ee4.jpg",
+                "cvrPath": "https://assetscdn1.paytm.com/images/cinema/we-a407a150-7b23-11ef-84df-ff7d1a67840c.jpg",
+                "appCvrPath": "https://assetscdn1.paytm.com/images/cinema/App-cover-a62c7d20-7b23-11ef-8892-f397183e5623.jpg",
+                "thumbnail": null,
+                "edgeBanner": "https://assetscdn1.paytm.com/images/cinema/Devara---Part-1--1035%E2%80%8A%C3%97%E2%80%8A420-118bd900-ccc7-11ee-a6f3-b9b401515283.jpg",
+                "trailer": "https://youtu.be/5cx7rvMvAWo",
+                "censor": "U/A",
+                "duration": 178,
+                "grn": [
+                    "Action",
+                    "Drama",
+                    "Thriller"
+                ],
+                "scrnFmt": "2D",
+                "sndFmt": "none",
+                "rnr": {
+                    "hasUReview": 1,
+                    "hasContent": 1
+                },
+                "isNew": false,
+                "imxImgUrl": null,
+                "contentId": 159964,
+                "label": "Devara - Part 1",
+                "lang": "Telugu"
+            }
+        ],
+        "filterBuckets": {
+            "timeBuckets": [
+                {
+                    "sTime": "05:00",
+                    "eTime": "11:59",
+                    "desc": "5:00 AM to 11:59 AM",
+                    "dText": "Morning",
+                    "desc1": "Till 12 PM"
+                },
+                {
+                    "sTime": "12:00",
+                    "eTime": "15:59",
+                    "desc": "12:00 PM to 3:59 PM",
+                    "dText": "Afternoon",
+                    "desc1": "Till 4 PM"
+                },
+                {
+                    "sTime": "16:00",
+                    "eTime": "18:59",
+                    "desc": "4:00 PM to 6:59 PM",
+                    "dText": "Evening",
+                    "desc1": "Till 7 PM"
+                },
+                {
+                    "sTime": "19:00",
+                    "eTime": "04:59",
+                    "desc": "7:00 PM to 4:59 AM",
+                    "dText": "Night",
+                    "desc1": "After 7 PM"
+                }
+            ],
+            "priceBuckets": [
+                {
+                    "min": "0",
+                    "max": "99",
+                    "desc": "Below Rs 100"
+                },
+                {
+                    "min": "100",
+                    "max": "199",
+                    "desc": "Rs 100 - Rs 199"
+                },
+                {
+                    "min": "200",
+                    "max": "299",
+                    "desc": "Rs 200 - Rs 299"
+                },
+                {
+                    "min": "300",
+                    "max": "399",
+                    "desc": "Rs 300 - Rs 399"
+                },
+                {
+                    "min": "400",
+                    "max": "NA",
+                    "desc": "Rs 400 or above"
+                }
+            ],
+            "showTimeBuckets": [
+                {
+                    "sTime": "00:00",
+                    "eTime": "08:00",
+                    "desc": "12 AM to 8 AM",
+                    "dText": "Early Morning",
+                    "desc1": "Till 8 AM"
+                },
+                {
+                    "sTime": "08:00",
+                    "eTime": "12:00",
+                    "desc": "8 AM to 12 PM",
+                    "dText": "Morning",
+                    "desc1": "Till 12 PM"
+                },
+                {
+                    "sTime": "12:00",
+                    "eTime": "16:00",
+                    "desc": "12 PM to 4 PM",
+                    "dText": "Afternoon",
+                    "desc1": "Till 4 PM"
+                },
+                {
+                    "sTime": "16:00",
+                    "eTime": "19:00",
+                    "desc": "4 PM to 7 PM",
+                    "dText": "Evening",
+                    "desc1": "Till 7 PM"
+                },
+                {
+                    "sTime": "19:00",
+                    "eTime": "23:59",
+                    "desc": "7 PM to 12 AM",
+                    "dText": "Night",
+                    "desc1": "Till 12 AM"
+                }
+            ]
+        },
+        "amenities": [
+            {
+                "id": 2,
+                "name": "Parking",
+                "rank": 1
+            },
+            {
+                "id": 1,
+                "name": "Mobile Ticket",
+                "rank": 2
+            },
+            {
+                "id": 3,
+                "name": "Online Food",
+                "rank": 3
+            },
+            {
+                "id": 5,
+                "name": "Recliners",
+                "rank": 4
+            },
+            {
+                "id": 6,
+                "name": "Paytm Accepted",
+                "rank": 5
+            },
+            {
+                "id": 4,
+                "name": "Wheelchair Friendly",
+                "rank": 6
+            },
+            {
+                "id": 7,
+                "name": "RGB Laser",
+                "rank": 7
+            },
+            {
+                "id": 8,
+                "name": "Dolby Atmos",
+                "rank": 8
+            },
+            {
+                "id": 9,
+                "name": "IMAX",
+                "rank": 9
+            },
+            {
+                "id": 10,
+                "name": "4K",
+                "rank": 10
+            },
+            {
+                "id": 11,
+                "name": "AC",
+                "rank": 11
+            },
+            {
+                "id": 12,
+                "name": "WIFI",
+                "rank": 12
+            },
+            {
+                "id": 13,
+                "name": "Food Court",
+                "rank": 13
+            },
+            {
+                "id": 14,
+                "name": "Gaming Zone",
+                "rank": 14
+            },
+            {
+                "id": 15,
+                "name": "2K",
+                "rank": 15
+            },
+            {
+                "id": 16,
+                "name": "4D",
+                "rank": 16
+            },
+            {
+                "id": 17,
+                "name": "4DX",
+                "rank": 17
+            },
+            {
+                "id": 18,
+                "name": "Dolby 7.1",
+                "rank": 18
+            },
+            {
+                "id": 19,
+                "name": "Air conditioning",
+                "rank": 19
+            },
+            {
+                "id": 20,
+                "name": "Metro Train",
+                "rank": 20
+            },
+            {
+                "id": 21,
+                "name": "Sofa",
+                "rank": 21
+            },
+            {
+                "id": 22,
+                "name": "Social Seating",
+                "rank": 22
+            },
+            {
+                "id": 23,
+                "name": "Wheelchair Assistance",
+                "rank": 23
+            },
+            {
+                "id": 24,
+                "name": "Silver Screen",
+                "rank": 24
+            },
+            {
+                "id": 25,
+                "name": "Food & Beverages",
+                "rank": 25
+            },
+            {
+                "id": 26,
+                "name": "Paper Less Ticketing",
+                "rank": 26
+            },
+            {
+                "id": 27,
+                "name": "Handicapped Washroom",
+                "rank": 27
+            },
+            {
+                "id": 28,
+                "name": "Free Parking",
+                "rank": 28
+            },
+            {
+                "id": 29,
+                "name": "Baggage Counter",
+                "rank": 29
+            },
+            {
+                "id": 30,
+                "name": "Dolby 4 Way 11.1",
+                "rank": 30
+            },
+            {
+                "id": 31,
+                "name": "Barco 4K Ultra HD",
+                "rank": 31
+            }
+        ],
+        "cinemas": [
+            {
+                "id": 9411,
+                "pid": 1126,
+                "name": "M1 Cinemas (Earlier S2), Pogathota",
+                "address": "S2 Multiplex Road, Pogathota, Nellore, Andhra Pradesh 524001, India",
+                "pincode": "524001",
+                "lat": 14.447964,
+                "lon": 79.984618,
+                "cityId": 133,
+                "appCovrImgUrl": "",
+                "covrImgUrl": "",
+                "fnb": 0,
+                "mTkt": 1,
+                "bCode": "0",
+                "sTop": 0,
+                "isMerchantCancellable": 0,
+                "cinemaLogoUrl": "https://assetscdn1.paytm.com/images/cinema/M1-Cinemas-657a1120-85ca-11ed-be6e-a3c16d070160.png",
+                "cinemaVideoUrl": "",
+                "appCoverVideoUrl": "",
+                "webCoverVideoUrl": "",
+                "amenities": null,
+                "promos": null,
+                "chainKey": "Krishnaveni Multiplex",
+                "contentId": 149754,
+                "theatreGroupName": "",
+                "amenitiesOrder": null,
+                "carouselAttachments": [],
+                "isPassEnabled": 0,
+                "paytmCinemaId": 9411,
+                "city": "Nellore",
+                "clientId": "ticketnew",
+                "isMapped": 0,
+                "city_id": null,
+                "is_city_mapped": null,
+                "state": "andhra-pradesh",
+                "label": "M1 Cinemas (Earlier S2), Pogathota",
+                "sessionCount": 43
+            },
+            {
+                "id": 9413,
+                "pid": 1126,
+                "name": "SPICE Cinemas (Earlier The Cinema MG), MGB Felicity Mall",
+                "address": "24 -383-A2 MGB Felicity Mall, Obul Reddy Naga, Nellore, Andhra Pradesh 524003, India",
+                "pincode": "524003",
+                "lat": 14.432184,
+                "lon": 79.966698,
+                "cityId": 133,
+                "appCovrImgUrl": "",
+                "covrImgUrl": "",
+                "fnb": 0,
+                "mTkt": 1,
+                "bCode": "0",
+                "sTop": 0,
+                "isMerchantCancellable": 0,
+                "cinemaLogoUrl": "https://assetscdn1.paytm.com/images/cinema/Spice-Cinemas_Colour-33820380-85ca-11ed-be6e-a3c16d070160.png",
+                "cinemaVideoUrl": "",
+                "appCoverVideoUrl": "",
+                "webCoverVideoUrl": "",
+                "amenities": null,
+                "promos": null,
+                "chainKey": "Krishnaveni Multiplex",
+                "contentId": 149755,
+                "theatreGroupName": "",
+                "amenitiesOrder": null,
+                "carouselAttachments": [],
+                "isPassEnabled": 0,
+                "paytmCinemaId": 9413,
+                "city": "Nellore",
+                "clientId": "ticketnew",
+                "isMapped": 0,
+                "city_id": null,
+                "is_city_mapped": null,
+                "state": "andhra-pradesh",
+                "label": "SPICE Cinemas (Earlier The Cinema MG), MGB Felicity Mall",
+                "sessionCount": 67
+            }
+        ],
+        "filterData": {
+            "minSTime": "05:00",
+            "maxSTime": "17:20",
+            "minPrice": 312.0,
+            "maxPrice": 430.0,
+            "premium": false,
+            "freeSeats": false,
+            "groupSeats": false,
+            "tokenFeeSeats": false,
+            "scnFrmts": [
+                "2D"
+            ],
+            "sndFrmts": [
+                "none"
+            ],
+            "mLangs": [
+                "Telugu"
+            ],
+            "genres": [
+                "Action",
+                "Drama",
+                "Thriller"
+            ]
+        }
+    },
+    "data": {
+        "pageSize": 100,
+        "cinemasOrder": [
+            9411,
+            9413
+        ],
+        "sessionDates": [
+            "2024-09-29",
+            "2024-09-30",
+            "2024-10-01",
+            "2024-10-02",
+            "2024-10-03"
+        ]
+    },
+    "pageData": {
+        "sessions": {
+            "9411": [
+                {
+                    "sid": "30556__1727615700__1__55882",
+                    "pid": 1126,
+                    "pkey": "ticketnew",
+                    "cid": 9411,
+                    "mid": "OAV34I",
+                    "fid": "TtdX_wUyN",
+                    "showTime": "2024-09-29T13:15",
+                    "closeTime": "2024-09-29T12:45",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "122",
+                            "label": "430 GOLD",
+                            "typeCode": "30556__1727615700__1__55882_430 GOLD",
+                            "sType": "fixed",
+                            "sAvail": 0,
+                            "sTotal": 12,
+                            "price": 430.0,
+                            "statusColor": "D"
+                        },
+                        {
+                            "code": "123",
+                            "label": "312 ELITE",
+                            "typeCode": "30556__1727615700__1__55882_312 ELITE",
+                            "sType": "fixed",
+                            "sAvail": 58,
+                            "sTotal": 550,
+                            "price": 312.0,
+                            "statusColor": "Y"
+                        }
+                    ],
+                    "total": 562,
+                    "avail": 58,
+                    "audi": "SCREEN1",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "sndFmt": "none",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Thriller"
+                    ],
+                    "statusColor": "Y",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "30556__1727627400__2__55888",
+                    "pid": 1126,
+                    "pkey": "ticketnew",
+                    "cid": 9411,
+                    "mid": "OAV34I",
+                    "fid": "TtdX_wUyN",
+                    "showTime": "2024-09-29T16:30",
+                    "closeTime": "2024-09-29T16:00",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "122",
+                            "label": "430 GOLD",
+                            "typeCode": "30556__1727627400__2__55888_430 GOLD",
+                            "sType": "fixed",
+                            "sAvail": 0,
+                            "sTotal": 16,
+                            "price": 430.0,
+                            "statusColor": "D"
+                        },
+                        {
+                            "code": "123",
+                            "label": "312 ELITE",
+                            "typeCode": "30556__1727627400__2__55888_312 ELITE",
+                            "sType": "fixed",
+                            "sAvail": 155,
+                            "sTotal": 610,
+                            "price": 312.0,
+                            "statusColor": "Y"
+                        }
+                    ],
+                    "total": 626,
+                    "avail": 155,
+                    "audi": "SCREEN2",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "sndFmt": "none",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Thriller"
+                    ],
+                    "statusColor": "Y",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "30556__1727630400__3__55893",
+                    "pid": 1126,
+                    "pkey": "ticketnew",
+                    "cid": 9411,
+                    "mid": "OAV34I",
+                    "fid": "TtdX_wUyN",
+                    "showTime": "2024-09-29T17:20",
+                    "closeTime": "2024-09-29T16:50",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "122",
+                            "label": "430 GOLD",
+                            "typeCode": "30556__1727630400__3__55893_430 GOLD",
+                            "sType": "fixed",
+                            "sAvail": 0,
+                            "sTotal": 14,
+                            "price": 430.0,
+                            "statusColor": "D"
+                        },
+                        {
+                            "code": "123",
+                            "label": "312 ELITE",
+                            "typeCode": "30556__1727630400__3__55893_312 ELITE",
+                            "sType": "fixed",
+                            "sAvail": 128,
+                            "sTotal": 319,
+                            "price": 312.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 333,
+                    "avail": 128,
+                    "audi": "SCREEN3",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "sndFmt": "none",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Thriller"
+                    ],
+                    "statusColor": "Y",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "30556__1727628900__1__55883",
+                    "pid": 1126,
+                    "pkey": "ticketnew",
+                    "cid": 9411,
+                    "mid": "OAV34I",
+                    "fid": "TtdX_wUyN",
+                    "showTime": "2024-09-29T16:55",
+                    "closeTime": "2024-09-29T16:25",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "122",
+                            "label": "430 GOLD",
+                            "typeCode": "30556__1727628900__1__55883_430 GOLD",
+                            "sType": "fixed",
+                            "sAvail": 0,
+                            "sTotal": 12,
+                            "price": 430.0,
+                            "statusColor": "D"
+                        },
+                        {
+                            "code": "123",
+                            "label": "312 ELITE",
+                            "typeCode": "30556__1727628900__1__55883_312 ELITE",
+                            "sType": "fixed",
+                            "sAvail": 178,
+                            "sTotal": 550,
+                            "price": 312.0,
+                            "statusColor": "Y"
+                        }
+                    ],
+                    "total": 562,
+                    "avail": 178,
+                    "audi": "SCREEN1",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "sndFmt": "none",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Thriller"
+                    ],
+                    "statusColor": "Y",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "30556__1727601900__1__55881",
+                    "pid": 1126,
+                    "pkey": "ticketnew",
+                    "cid": 9411,
+                    "mid": "OAV34I",
+                    "fid": "TtdX_wUyN",
+                    "showTime": "2024-09-29T09:25",
+                    "closeTime": "2024-09-29T08:55",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "122",
+                            "label": "430 GOLD",
+                            "typeCode": "30556__1727601900__1__55881_430 GOLD",
+                            "sType": "fixed",
+                            "sAvail": 1,
+                            "sTotal": 12,
+                            "price": 430.0,
+                            "statusColor": "R"
+                        },
+                        {
+                            "code": "123",
+                            "label": "312 ELITE",
+                            "typeCode": "30556__1727601900__1__55881_312 ELITE",
+                            "sType": "fixed",
+                            "sAvail": 48,
+                            "sTotal": 550,
+                            "price": 312.0,
+                            "statusColor": "R"
+                        }
+                    ],
+                    "total": 562,
+                    "avail": 49,
+                    "audi": "SCREEN1",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "sndFmt": "none",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Thriller"
+                    ],
+                    "statusColor": "R",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "30556__1727603400__3__55891",
+                    "pid": 1126,
+                    "pkey": "ticketnew",
+                    "cid": 9411,
+                    "mid": "OAV34I",
+                    "fid": "TtdX_wUyN",
+                    "showTime": "2024-09-29T09:50",
+                    "closeTime": "2024-09-29T09:20",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "122",
+                            "label": "430 GOLD",
+                            "typeCode": "30556__1727603400__3__55891_430 GOLD",
+                            "sType": "fixed",
+                            "sAvail": 1,
+                            "sTotal": 14,
+                            "price": 430.0,
+                            "statusColor": "R"
+                        },
+                        {
+                            "code": "123",
+                            "label": "312 ELITE",
+                            "typeCode": "30556__1727603400__3__55891_312 ELITE",
+                            "sType": "fixed",
+                            "sAvail": 33,
+                            "sTotal": 319,
+                            "price": 312.0,
+                            "statusColor": "Y"
+                        }
+                    ],
+                    "total": 333,
+                    "avail": 34,
+                    "audi": "SCREEN3",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "sndFmt": "none",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Thriller"
+                    ],
+                    "statusColor": "Y",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "30556__1727588100__1__55880",
+                    "pid": 1126,
+                    "pkey": "ticketnew",
+                    "cid": 9411,
+                    "mid": "OAV34I",
+                    "fid": "TtdX_wUyN",
+                    "showTime": "2024-09-29T05:35",
+                    "closeTime": "2024-09-29T05:05",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "122",
+                            "label": "430 GOLD",
+                            "typeCode": "30556__1727588100__1__55880_430 GOLD",
+                            "sType": "fixed",
+                            "sAvail": 1,
+                            "sTotal": 12,
+                            "price": 430.0,
+                            "statusColor": "R"
+                        },
+                        {
+                            "code": "123",
+                            "label": "312 ELITE",
+                            "typeCode": "30556__1727588100__1__55880_312 ELITE",
+                            "sType": "fixed",
+                            "sAvail": 46,
+                            "sTotal": 550,
+                            "price": 312.0,
+                            "statusColor": "R"
+                        }
+                    ],
+                    "total": 562,
+                    "avail": 47,
+                    "audi": "SCREEN1",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "sndFmt": "none",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Thriller"
+                    ],
+                    "statusColor": "R",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "30556__1727586600__2__55885",
+                    "pid": 1126,
+                    "pkey": "ticketnew",
+                    "cid": 9411,
+                    "mid": "OAV34I",
+                    "fid": "TtdX_wUyN",
+                    "showTime": "2024-09-29T05:10",
+                    "closeTime": "2024-09-29T04:40",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "122",
+                            "label": "430 GOLD",
+                            "typeCode": "30556__1727586600__2__55885_430 GOLD",
+                            "sType": "fixed",
+                            "sAvail": 2,
+                            "sTotal": 16,
+                            "price": 430.0,
+                            "statusColor": "Y"
+                        },
+                        {
+                            "code": "123",
+                            "label": "312 ELITE",
+                            "typeCode": "30556__1727586600__2__55885_312 ELITE",
+                            "sType": "fixed",
+                            "sAvail": 44,
+                            "sTotal": 610,
+                            "price": 312.0,
+                            "statusColor": "R"
+                        }
+                    ],
+                    "total": 626,
+                    "avail": 46,
+                    "audi": "SCREEN2",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "sndFmt": "none",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Thriller"
+                    ],
+                    "statusColor": "R",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "30556__1727589600__3__55940",
+                    "pid": 1126,
+                    "pkey": "ticketnew",
+                    "cid": 9411,
+                    "mid": "OAV34I",
+                    "fid": "TtdX_wUyN",
+                    "showTime": "2024-09-29T06:00",
+                    "closeTime": "2024-09-29T05:30",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "122",
+                            "label": "430 GOLD",
+                            "typeCode": "30556__1727589600__3__55940_430 GOLD",
+                            "sType": "fixed",
+                            "sAvail": 2,
+                            "sTotal": 14,
+                            "price": 430.0,
+                            "statusColor": "Y"
+                        },
+                        {
+                            "code": "123",
+                            "label": "312 ELITE",
+                            "typeCode": "30556__1727589600__3__55940_312 ELITE",
+                            "sType": "fixed",
+                            "sAvail": 27,
+                            "sTotal": 319,
+                            "price": 312.0,
+                            "statusColor": "R"
+                        }
+                    ],
+                    "total": 333,
+                    "avail": 29,
+                    "audi": "SCREEN3",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "sndFmt": "none",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Thriller"
+                    ],
+                    "statusColor": "R",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "30556__1727600400__2__55886",
+                    "pid": 1126,
+                    "pkey": "ticketnew",
+                    "cid": 9411,
+                    "mid": "OAV34I",
+                    "fid": "TtdX_wUyN",
+                    "showTime": "2024-09-29T09:00",
+                    "closeTime": "2024-09-29T08:30",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "122",
+                            "label": "430 GOLD",
+                            "typeCode": "30556__1727600400__2__55886_430 GOLD",
+                            "sType": "fixed",
+                            "sAvail": 1,
+                            "sTotal": 16,
+                            "price": 430.0,
+                            "statusColor": "R"
+                        },
+                        {
+                            "code": "123",
+                            "label": "312 ELITE",
+                            "typeCode": "30556__1727600400__2__55886_312 ELITE",
+                            "sType": "fixed",
+                            "sAvail": 42,
+                            "sTotal": 610,
+                            "price": 312.0,
+                            "statusColor": "R"
+                        }
+                    ],
+                    "total": 626,
+                    "avail": 43,
+                    "audi": "SCREEN2",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "sndFmt": "none",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Thriller"
+                    ],
+                    "statusColor": "R",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "30556__1727614200__2__55887",
+                    "pid": 1126,
+                    "pkey": "ticketnew",
+                    "cid": 9411,
+                    "mid": "OAV34I",
+                    "fid": "TtdX_wUyN",
+                    "showTime": "2024-09-29T12:50",
+                    "closeTime": "2024-09-29T12:20",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "122",
+                            "label": "430 GOLD",
+                            "typeCode": "30556__1727614200__2__55887_430 GOLD",
+                            "sType": "fixed",
+                            "sAvail": 1,
+                            "sTotal": 16,
+                            "price": 430.0,
+                            "statusColor": "R"
+                        },
+                        {
+                            "code": "123",
+                            "label": "312 ELITE",
+                            "typeCode": "30556__1727614200__2__55887_312 ELITE",
+                            "sType": "fixed",
+                            "sAvail": 40,
+                            "sTotal": 610,
+                            "price": 312.0,
+                            "statusColor": "R"
+                        }
+                    ],
+                    "total": 626,
+                    "avail": 41,
+                    "audi": "SCREEN2",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "sndFmt": "none",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Thriller"
+                    ],
+                    "statusColor": "R",
+                    "subtitle": ""
+                }
+            ],
+            "9413": [
+                {
+                    "sid": "30556__1727616600__5__51194",
+                    "pid": 1126,
+                    "pkey": "ticketnew",
+                    "cid": 9413,
+                    "mid": "OAV34I",
+                    "fid": "TtdX_wUyN",
+                    "showTime": "2024-09-29T13:30",
+                    "closeTime": "2024-09-29T13:00",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "46",
+                            "label": "312 ELITE",
+                            "typeCode": "30556__1727616600__5__51194_312 ELITE",
+                            "sType": "fixed",
+                            "sAvail": 18,
+                            "sTotal": 277,
+                            "price": 312.0,
+                            "statusColor": "R"
+                        }
+                    ],
+                    "total": 277,
+                    "avail": 18,
+                    "audi": "SCREEN-5",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "sndFmt": "none",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Thriller"
+                    ],
+                    "statusColor": "R",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "30556__1727600400__1__51177",
+                    "pid": 1126,
+                    "pkey": "ticketnew",
+                    "cid": 9413,
+                    "mid": "OAV34I",
+                    "fid": "TtdX_wUyN",
+                    "showTime": "2024-09-29T09:00",
+                    "closeTime": "2024-09-29T08:30",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "46",
+                            "label": "312 ELITE",
+                            "typeCode": "30556__1727600400__1__51177_312 ELITE",
+                            "sType": "fixed",
+                            "sAvail": 15,
+                            "sTotal": 226,
+                            "price": 312.0,
+                            "statusColor": "R"
+                        }
+                    ],
+                    "total": 226,
+                    "avail": 15,
+                    "audi": "SCREEN-1",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "sndFmt": "none",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Thriller"
+                    ],
+                    "statusColor": "R",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "30556__1727627400__3__51185",
+                    "pid": 1126,
+                    "pkey": "ticketnew",
+                    "cid": 9413,
+                    "mid": "OAV34I",
+                    "fid": "TtdX_wUyN",
+                    "showTime": "2024-09-29T16:30",
+                    "closeTime": "2024-09-29T16:00",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "46",
+                            "label": "312 ELITE",
+                            "typeCode": "30556__1727627400__3__51185_312 ELITE",
+                            "sType": "fixed",
+                            "sAvail": 43,
+                            "sTotal": 132,
+                            "price": 312.0,
+                            "statusColor": "Y"
+                        }
+                    ],
+                    "total": 132,
+                    "avail": 43,
+                    "audi": "SCREEN-3",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "sndFmt": "none",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Thriller"
+                    ],
+                    "statusColor": "Y",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "30556__1727602800__5__51193",
+                    "pid": 1126,
+                    "pkey": "ticketnew",
+                    "cid": 9413,
+                    "mid": "OAV34I",
+                    "fid": "TtdX_wUyN",
+                    "showTime": "2024-09-29T09:40",
+                    "closeTime": "2024-09-29T09:10",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "46",
+                            "label": "312 ELITE",
+                            "typeCode": "30556__1727602800__5__51193_312 ELITE",
+                            "sType": "fixed",
+                            "sAvail": 19,
+                            "sTotal": 277,
+                            "price": 312.0,
+                            "statusColor": "R"
+                        }
+                    ],
+                    "total": 277,
+                    "avail": 19,
+                    "audi": "SCREEN-5",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "sndFmt": "none",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Thriller"
+                    ],
+                    "statusColor": "R",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "30556__1727587800__4__51187",
+                    "pid": 1126,
+                    "pkey": "ticketnew",
+                    "cid": 9413,
+                    "mid": "OAV34I",
+                    "fid": "TtdX_wUyN",
+                    "showTime": "2024-09-29T05:30",
+                    "closeTime": "2024-09-29T05:00",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "46",
+                            "label": "312 ELITE",
+                            "typeCode": "30556__1727587800__4__51187_312 ELITE",
+                            "sType": "fixed",
+                            "sAvail": 15,
+                            "sTotal": 248,
+                            "price": 312.0,
+                            "statusColor": "R"
+                        }
+                    ],
+                    "total": 248,
+                    "avail": 15,
+                    "audi": "SCREEN-4",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "sndFmt": "none",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Thriller"
+                    ],
+                    "statusColor": "R",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "30556__1727629200__4__51190",
+                    "pid": 1126,
+                    "pkey": "ticketnew",
+                    "cid": 9413,
+                    "mid": "OAV34I",
+                    "fid": "TtdX_wUyN",
+                    "showTime": "2024-09-29T17:00",
+                    "closeTime": "2024-09-29T16:30",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "46",
+                            "label": "312 ELITE",
+                            "typeCode": "30556__1727629200__4__51190_312 ELITE",
+                            "sType": "fixed",
+                            "sAvail": 75,
+                            "sTotal": 248,
+                            "price": 312.0,
+                            "statusColor": "Y"
+                        }
+                    ],
+                    "total": 248,
+                    "avail": 75,
+                    "audi": "SCREEN-4",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "sndFmt": "none",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Thriller"
+                    ],
+                    "statusColor": "Y",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "30556__1727615400__4__51189",
+                    "pid": 1126,
+                    "pkey": "ticketnew",
+                    "cid": 9413,
+                    "mid": "OAV34I",
+                    "fid": "TtdX_wUyN",
+                    "showTime": "2024-09-29T13:10",
+                    "closeTime": "2024-09-29T12:40",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "46",
+                            "label": "312 ELITE",
+                            "typeCode": "30556__1727615400__4__51189_312 ELITE",
+                            "sType": "fixed",
+                            "sAvail": 19,
+                            "sTotal": 248,
+                            "price": 312.0,
+                            "statusColor": "R"
+                        }
+                    ],
+                    "total": 248,
+                    "avail": 19,
+                    "audi": "SCREEN-4",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "sndFmt": "none",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Thriller"
+                    ],
+                    "statusColor": "R",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "30556__1727613600__3__51184",
+                    "pid": 1126,
+                    "pkey": "ticketnew",
+                    "cid": 9413,
+                    "mid": "OAV34I",
+                    "fid": "TtdX_wUyN",
+                    "showTime": "2024-09-29T12:40",
+                    "closeTime": "2024-09-29T12:10",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "46",
+                            "label": "312 ELITE",
+                            "typeCode": "30556__1727613600__3__51184_312 ELITE",
+                            "sType": "fixed",
+                            "sAvail": 6,
+                            "sTotal": 132,
+                            "price": 312.0,
+                            "statusColor": "R"
+                        }
+                    ],
+                    "total": 132,
+                    "avail": 6,
+                    "audi": "SCREEN-3",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "sndFmt": "none",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Thriller"
+                    ],
+                    "statusColor": "R",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "30556__1727630400__5__51195",
+                    "pid": 1126,
+                    "pkey": "ticketnew",
+                    "cid": 9413,
+                    "mid": "OAV34I",
+                    "fid": "TtdX_wUyN",
+                    "showTime": "2024-09-29T17:20",
+                    "closeTime": "2024-09-29T16:50",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "46",
+                            "label": "312 ELITE",
+                            "typeCode": "30556__1727630400__5__51195_312 ELITE",
+                            "sType": "fixed",
+                            "sAvail": 104,
+                            "sTotal": 277,
+                            "price": 312.0,
+                            "statusColor": "Y"
+                        }
+                    ],
+                    "total": 277,
+                    "avail": 104,
+                    "audi": "SCREEN-5",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "sndFmt": "none",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Thriller"
+                    ],
+                    "statusColor": "Y",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "30556__1727628000__1__51179",
+                    "pid": 1126,
+                    "pkey": "ticketnew",
+                    "cid": 9413,
+                    "mid": "OAV34I",
+                    "fid": "TtdX_wUyN",
+                    "showTime": "2024-09-29T16:40",
+                    "closeTime": "2024-09-29T16:10",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "46",
+                            "label": "312 ELITE",
+                            "typeCode": "30556__1727628000__1__51179_312 ELITE",
+                            "sType": "fixed",
+                            "sAvail": 79,
+                            "sTotal": 226,
+                            "price": 312.0,
+                            "statusColor": "Y"
+                        }
+                    ],
+                    "total": 226,
+                    "avail": 79,
+                    "audi": "SCREEN-1",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "sndFmt": "none",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Thriller"
+                    ],
+                    "statusColor": "Y",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "30556__1727599800__3__51183",
+                    "pid": 1126,
+                    "pkey": "ticketnew",
+                    "cid": 9413,
+                    "mid": "OAV34I",
+                    "fid": "TtdX_wUyN",
+                    "showTime": "2024-09-29T08:50",
+                    "closeTime": "2024-09-29T08:20",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "46",
+                            "label": "312 ELITE",
+                            "typeCode": "30556__1727599800__3__51183_312 ELITE",
+                            "sType": "fixed",
+                            "sAvail": 6,
+                            "sTotal": 132,
+                            "price": 312.0,
+                            "statusColor": "R"
+                        }
+                    ],
+                    "total": 132,
+                    "avail": 6,
+                    "audi": "SCREEN-3",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "sndFmt": "none",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Thriller"
+                    ],
+                    "statusColor": "R",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "30556__1727614200__1__51178",
+                    "pid": 1126,
+                    "pkey": "ticketnew",
+                    "cid": 9413,
+                    "mid": "OAV34I",
+                    "fid": "TtdX_wUyN",
+                    "showTime": "2024-09-29T12:50",
+                    "closeTime": "2024-09-29T12:20",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "46",
+                            "label": "312 ELITE",
+                            "typeCode": "30556__1727614200__1__51178_312 ELITE",
+                            "sType": "fixed",
+                            "sAvail": 13,
+                            "sTotal": 226,
+                            "price": 312.0,
+                            "statusColor": "R"
+                        }
+                    ],
+                    "total": 226,
+                    "avail": 13,
+                    "audi": "SCREEN-1",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "sndFmt": "none",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Thriller"
+                    ],
+                    "statusColor": "R",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "30556__1727589000__5__51192",
+                    "pid": 1126,
+                    "pkey": "ticketnew",
+                    "cid": 9413,
+                    "mid": "OAV34I",
+                    "fid": "TtdX_wUyN",
+                    "showTime": "2024-09-29T05:50",
+                    "closeTime": "2024-09-29T05:20",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "46",
+                            "label": "312 ELITE",
+                            "typeCode": "30556__1727589000__5__51192_312 ELITE",
+                            "sType": "fixed",
+                            "sAvail": 22,
+                            "sTotal": 277,
+                            "price": 312.0,
+                            "statusColor": "R"
+                        }
+                    ],
+                    "total": 277,
+                    "avail": 22,
+                    "audi": "SCREEN-5",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "sndFmt": "none",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Thriller"
+                    ],
+                    "statusColor": "R",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "30556__1727586600__1__51176",
+                    "pid": 1126,
+                    "pkey": "ticketnew",
+                    "cid": 9413,
+                    "mid": "OAV34I",
+                    "fid": "TtdX_wUyN",
+                    "showTime": "2024-09-29T05:10",
+                    "closeTime": "2024-09-29T04:40",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "46",
+                            "label": "312 ELITE",
+                            "typeCode": "30556__1727586600__1__51176_312 ELITE",
+                            "sType": "fixed",
+                            "sAvail": 16,
+                            "sTotal": 226,
+                            "price": 312.0,
+                            "statusColor": "R"
+                        }
+                    ],
+                    "total": 226,
+                    "avail": 16,
+                    "audi": "SCREEN-1",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "sndFmt": "none",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Thriller"
+                    ],
+                    "statusColor": "R",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "30556__1727601600__4__51188",
+                    "pid": 1126,
+                    "pkey": "ticketnew",
+                    "cid": 9413,
+                    "mid": "OAV34I",
+                    "fid": "TtdX_wUyN",
+                    "showTime": "2024-09-29T09:20",
+                    "closeTime": "2024-09-29T08:50",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "46",
+                            "label": "312 ELITE",
+                            "typeCode": "30556__1727601600__4__51188_312 ELITE",
+                            "sType": "fixed",
+                            "sAvail": 10,
+                            "sTotal": 248,
+                            "price": 312.0,
+                            "statusColor": "R"
+                        }
+                    ],
+                    "total": 248,
+                    "avail": 10,
+                    "audi": "SCREEN-4",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "sndFmt": "none",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Thriller"
+                    ],
+                    "statusColor": "R",
+                    "subtitle": ""
+                }
+            ]
+        }
+    }
+}
