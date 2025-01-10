@@ -1,0 +1,1837 @@
+{
+    "serverTime": 1736446240,
+    "meta": {
+        "movies": [
+            {
+                "id": "OB1H21",
+                "frmtId": "URJofQgl6U",
+                "name": "Game Changer",
+                "imgPath": null,
+                "appImgPath": "https://assetscdn1.paytm.com/images/cinema/Game%20Changer-3cf95ad0-cce0-11ef-a9e2-63c420e5944f.jpeg",
+                "cvrPath": "https://assetscdn1.paytm.com/images/cinema/web-cover-3dd26890-893b-11ef-b30d-5d8b2ded08e1.jpg",
+                "appCvrPath": "https://assetscdn1.paytm.com/images/cinema/app-cover-3dd0e1f0-893b-11ef-80ee-5d6ff5e29b7e.jpg",
+                "thumbnail": null,
+                "edgeBanner": null,
+                "trailer": "https://youtu.be/zHiKFSBO_JE",
+                "censor": "UA13+",
+                "duration": 165,
+                "grn": [
+                    "Action",
+                    "Drama",
+                    "Political"
+                ],
+                "scrnFmt": "2D",
+                "sndFmt": null,
+                "rnr": {
+                    "hasUReview": 0,
+                    "hasContent": 1
+                },
+                "isNew": false,
+                "imxImgUrl": null,
+                "contentId": 161066,
+                "label": "Game Changer",
+                "lang": "Telugu"
+            },
+            {
+                "id": "OB2DEG",
+                "frmtId": "URJofQgl6U",
+                "name": "Game Changer",
+                "imgPath": "assetscdn.paytm.com/HO00016460.jpg",
+                "appImgPath": "https://assetscdn1.paytm.com/images/cinema/Game%20Changer-54815f40-cce0-11ef-9d5d-039fb0afc1eb.jpeg",
+                "cvrPath": null,
+                "appCvrPath": null,
+                "thumbnail": null,
+                "edgeBanner": null,
+                "trailer": "https://youtu.be/zHiKFSBO_JE",
+                "censor": "UA13+",
+                "duration": 165,
+                "grn": [
+                    "Action",
+                    "Drama",
+                    "Political"
+                ],
+                "scrnFmt": "IMAX 2D",
+                "sndFmt": null,
+                "rnr": {
+                    "hasUReview": 0,
+                    "hasContent": 1
+                },
+                "isNew": false,
+                "imxImgUrl": "https://assetscdn1.paytm.com/images/cinema/game-changer-IMAX-7c48aef0-ce6d-11ef-a96a-c578998c2414.jpg",
+                "contentId": 161066,
+                "label": "Game Changer",
+                "lang": "Telugu"
+            }
+        ],
+        "filterBuckets": {
+            "timeBuckets": [
+                {
+                    "sTime": "05:00",
+                    "eTime": "11:59",
+                    "desc": "5:00 AM to 11:59 AM",
+                    "dText": "Morning",
+                    "desc1": "Till 12 PM"
+                },
+                {
+                    "sTime": "12:00",
+                    "eTime": "15:59",
+                    "desc": "12:00 PM to 3:59 PM",
+                    "dText": "Afternoon",
+                    "desc1": "Till 4 PM"
+                },
+                {
+                    "sTime": "16:00",
+                    "eTime": "18:59",
+                    "desc": "4:00 PM to 6:59 PM",
+                    "dText": "Evening",
+                    "desc1": "Till 7 PM"
+                },
+                {
+                    "sTime": "19:00",
+                    "eTime": "04:59",
+                    "desc": "7:00 PM to 4:59 AM",
+                    "dText": "Night",
+                    "desc1": "After 7 PM"
+                }
+            ],
+            "priceBuckets": [
+                {
+                    "min": "100",
+                    "max": "200",
+                    "desc": "\u20b9 100 - \u20b9 200"
+                },
+                {
+                    "min": "200",
+                    "max": "300",
+                    "desc": "\u20b9 200 - \u20b9 300"
+                },
+                {
+                    "min": "300",
+                    "max": "400",
+                    "desc": "\u20b9 300 - \u20b9 400"
+                },
+                {
+                    "min": "400",
+                    "max": "500",
+                    "desc": "\u20b9 400 - \u20b9 500"
+                },
+                {
+                    "min": "500",
+                    "max": "600",
+                    "desc": "\u20b9 500 - \u20b9 600"
+                }
+            ],
+            "showTimeBuckets": [
+                {
+                    "sTime": "00:00",
+                    "eTime": "08:00",
+                    "desc": "12 AM to 8 AM",
+                    "dText": "Early Morning",
+                    "desc1": "Till 8 AM",
+                    "isEnabled": false
+                },
+                {
+                    "sTime": "08:00",
+                    "eTime": "12:00",
+                    "desc": "8 AM to 12 PM",
+                    "dText": "Morning",
+                    "desc1": "Till 12 PM",
+                    "isEnabled": false
+                },
+                {
+                    "sTime": "12:00",
+                    "eTime": "16:00",
+                    "desc": "12 PM to 4 PM",
+                    "dText": "Afternoon",
+                    "desc1": "Till 4 PM",
+                    "isEnabled": false
+                },
+                {
+                    "sTime": "16:00",
+                    "eTime": "19:00",
+                    "desc": "4 PM to 7 PM",
+                    "dText": "Evening",
+                    "desc1": "Till 7 PM",
+                    "isEnabled": false
+                },
+                {
+                    "sTime": "19:00",
+                    "eTime": "23:59",
+                    "desc": "7 PM to 12 AM",
+                    "dText": "Night",
+                    "desc1": "Till 12 AM",
+                    "isEnabled": true
+                }
+            ]
+        },
+        "amenities": [
+            {
+                "id": 2,
+                "name": "Parking",
+                "rank": 1,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Parking-c79a3400-95f6-11ef-a253-33f238ee5f34.png"
+            },
+            {
+                "id": 1,
+                "name": "Mobile Ticket",
+                "rank": 2,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Mobile%20Ticket-bc527a30-95f6-11ef-b954-a1c7e1e4be25.png"
+            },
+            {
+                "id": 3,
+                "name": "Food & Beverages",
+                "rank": 3,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/F%26B-938587f0-95f6-11ef-b954-a1c7e1e4be25.png"
+            },
+            {
+                "id": 5,
+                "name": "Recliners",
+                "rank": 4,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Seat-13023560-95f6-11ef-b954-a1c7e1e4be25.png"
+            },
+            {
+                "id": 6,
+                "name": "Digital Payments",
+                "rank": 5,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Payment-eab8cb00-95f5-11ef-a253-33f238ee5f34.png"
+            },
+            {
+                "id": 4,
+                "name": "Wheelchair Friendly",
+                "rank": 6,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Wheelchair-73f627a0-95f6-11ef-a253-33f238ee5f34.png"
+            },
+            {
+                "id": 7,
+                "name": "RGB Laser",
+                "rank": 7,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Screen-fef54df0-95f5-11ef-b954-a1c7e1e4be25.png"
+            },
+            {
+                "id": 8,
+                "name": "Dolby Atmos",
+                "rank": 8,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Audio-4acee060-95f6-11ef-b954-a1c7e1e4be25.png"
+            },
+            {
+                "id": 9,
+                "name": "IMAX",
+                "rank": 9,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Screen-fef54df0-95f5-11ef-b954-a1c7e1e4be25.png"
+            },
+            {
+                "id": 10,
+                "name": "4K",
+                "rank": 10,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Screen-fef54df0-95f5-11ef-b954-a1c7e1e4be25.png"
+            },
+            {
+                "id": 12,
+                "name": "WIFI",
+                "rank": 12,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Wifi-5646f900-95f6-11ef-b954-a1c7e1e4be25.png"
+            },
+            {
+                "id": 14,
+                "name": "Gaming Zone",
+                "rank": 14,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Gaming-d3353df0-95f6-11ef-a253-33f238ee5f34.png"
+            },
+            {
+                "id": 15,
+                "name": "2K",
+                "rank": 15,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Screen-fef54df0-95f5-11ef-b954-a1c7e1e4be25.png"
+            },
+            {
+                "id": 17,
+                "name": "4DX",
+                "rank": 17,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Screen-fef54df0-95f5-11ef-b954-a1c7e1e4be25.png"
+            },
+            {
+                "id": 18,
+                "name": "Dolby 7.1",
+                "rank": 18,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Audio-4acee060-95f6-11ef-b954-a1c7e1e4be25.png"
+            },
+            {
+                "id": 19,
+                "name": "Air Conditioning",
+                "rank": 19,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/AC-d92791f0-95f5-11ef-b954-a1c7e1e4be25.png"
+            },
+            {
+                "id": 20,
+                "name": "Metro Nearby",
+                "rank": 20,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Metro-08856cb0-95f6-11ef-b954-a1c7e1e4be25.png"
+            },
+            {
+                "id": 21,
+                "name": "Sofa",
+                "rank": 21,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Seat-13023560-95f6-11ef-b954-a1c7e1e4be25.png"
+            },
+            {
+                "id": 24,
+                "name": "Silver Screen",
+                "rank": 24,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Screen-fef54df0-95f5-11ef-b954-a1c7e1e4be25.png"
+            },
+            {
+                "id": 28,
+                "name": "Free Parking",
+                "rank": 28,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Parking-c79a3400-95f6-11ef-a253-33f238ee5f34.png"
+            },
+            {
+                "id": 29,
+                "name": "Baggage Counter",
+                "rank": 29,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Baggage%20counter-f4cbae50-95f5-11ef-a253-33f238ee5f34.png"
+            },
+            {
+                "id": 30,
+                "name": "Dolby 4 Way 11.1",
+                "rank": 30,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Audio-4acee060-95f6-11ef-b954-a1c7e1e4be25.png"
+            },
+            {
+                "id": 31,
+                "name": "Barco 4K Ultra HD",
+                "rank": 31,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Screen-fef54df0-95f5-11ef-b954-a1c7e1e4be25.png"
+            }
+        ],
+        "cinemas": [
+            {
+                "id": 1037499,
+                "pid": 722,
+                "name": "Sri Padmalaya Cine Complex, Balusumoodi, Bhimavaram",
+                "address": "Komarada Road, Balusumoodi, Bhimavaram, Andhra Pradesh 534202, India",
+                "pincode": "534202",
+                "lat": 16.54209,
+                "lon": 81.5122,
+                "cityId": 98,
+                "appCovrImgUrl": "",
+                "covrImgUrl": "",
+                "fnb": 0,
+                "mTkt": 1,
+                "bCode": "",
+                "sTop": 0,
+                "isMerchantCancellable": 0,
+                "cinemaLogoUrl": "https://assetscdn1.paytm.com/images/cinema/Akarsh-Cinemas-Logo-500X500-9ec73690-b61c-11ef-9da2-6140c117941c.png",
+                "cinemaVideoUrl": "",
+                "appCoverVideoUrl": "",
+                "webCoverVideoUrl": "",
+                "amenities": null,
+                "promos": null,
+                "chainKey": "AkarshCinemas",
+                "contentId": 180886,
+                "theatreGroupName": "",
+                "amenitiesOrder": null,
+                "carouselAttachments": [],
+                "isPassEnabled": 0,
+                "paytmCinemaId": 1037499,
+                "city": "Bhimavaram",
+                "clientId": "ticketnew",
+                "isMapped": 0,
+                "city_id": null,
+                "is_city_mapped": null,
+                "state": "andhra-pradesh",
+                "city_key": null,
+                "label": "Sri Padmalaya Cine Complex, Balusumoodi, Bhimavaram",
+                "sessionCount": 8
+            },
+            {
+                "id": 41754,
+                "pid": 1614,
+                "name": "Sri Vijaylakshmi Cine Complex, Narasimhapuram, Bhimavaram",
+                "address": " Vijayalakshmi Mahalakshmi Theatres, West Godavari District, Narasimhapuram, Bhimavaram, Andhra Pradesh 534202, India",
+                "pincode": "534202",
+                "lat": 16.547501,
+                "lon": 81.522301,
+                "cityId": 98,
+                "appCovrImgUrl": "",
+                "covrImgUrl": "",
+                "fnb": 0,
+                "mTkt": 1,
+                "bCode": "0",
+                "sTop": 0,
+                "isMerchantCancellable": 0,
+                "cinemaLogoUrl": "https://assetscdn1.paytm.com/images/cinema/Theatre%403x-a4b1cf60-676c-11ef-8bfd-85c2f3bcaac6.png",
+                "cinemaVideoUrl": "",
+                "appCoverVideoUrl": "",
+                "webCoverVideoUrl": "",
+                "amenities": null,
+                "promos": null,
+                "chainKey": "Sri Vijaya Lakshmi",
+                "contentId": 156679,
+                "theatreGroupName": "",
+                "amenitiesOrder": null,
+                "carouselAttachments": [],
+                "isPassEnabled": 0,
+                "paytmCinemaId": 41754,
+                "city": "Bhimavaram",
+                "clientId": "ticketnew",
+                "isMapped": 0,
+                "city_id": null,
+                "is_city_mapped": null,
+                "state": "andhra-pradesh",
+                "city_key": null,
+                "label": "Sri Vijaylakshmi Cine Complex, Narasimhapuram, Bhimavaram",
+                "sessionCount": 5
+            },
+            {
+                "id": 9227,
+                "pid": 1101,
+                "name": "Kishore Cine Hub, Panuganti Rayappa Bazar, Bhimavaram",
+                "address": "Panuganti Rayappa Bazar, Bhimavaram, Andhra Pradesh 534202, India",
+                "pincode": "534202",
+                "lat": 16.545679,
+                "lon": 81.517554,
+                "cityId": 98,
+                "appCovrImgUrl": "",
+                "covrImgUrl": "",
+                "fnb": 0,
+                "mTkt": 1,
+                "bCode": "0",
+                "sTop": 0,
+                "isMerchantCancellable": 0,
+                "cinemaLogoUrl": "https://assetscdn1.paytm.com/images/cinema/Theatre%403x-a4b1cf60-676c-11ef-8bfd-85c2f3bcaac6.png",
+                "cinemaVideoUrl": "",
+                "appCoverVideoUrl": "",
+                "webCoverVideoUrl": "",
+                "amenities": null,
+                "promos": null,
+                "chainKey": "Kishore Cine Hub",
+                "contentId": 149676,
+                "theatreGroupName": "",
+                "amenitiesOrder": null,
+                "carouselAttachments": [],
+                "isPassEnabled": 0,
+                "paytmCinemaId": 9227,
+                "city": "Bhimavaram",
+                "clientId": "ticketnew",
+                "isMapped": 0,
+                "city_id": null,
+                "is_city_mapped": null,
+                "state": "andhra-pradesh",
+                "city_key": null,
+                "label": "Kishore Cine Hub, Panuganti Rayappa Bazar, Bhimavaram",
+                "sessionCount": 1
+            }
+        ],
+        "filterData": {
+            "minSTime": "19:30",
+            "maxSTime": "16:15",
+            "minPrice": 100.0,
+            "maxPrice": 600.0,
+            "premium": false,
+            "freeSeats": false,
+            "groupSeats": false,
+            "tokenFeeSeats": false,
+            "scnFrmts": [
+                "2D",
+                "IMAX 2D"
+            ],
+            "sndFrmts": [],
+            "mLangs": [
+                "Telugu"
+            ],
+            "genres": [
+                "Action",
+                "Drama",
+                "Political"
+            ],
+            "premiumSessionCount": 0,
+            "totalSessionCount": 18,
+            "showTimeList": [
+                "01:00",
+                "01:00",
+                "21:30",
+                "11:00",
+                "14:30",
+                "18:15",
+                "21:45",
+                "07:45",
+                "11:15",
+                "11:30",
+                "21:30",
+                "04:30",
+                "14:30",
+                "18:00",
+                "18:15",
+                "01:00",
+                "14:45",
+                "01:00"
+            ],
+            "quickFilterScnFrmts": [
+                "IMAX 2D"
+            ],
+            "quickFilterLanguages": [
+                "Telugu"
+            ],
+            "priceRangeSet": [
+                "price_600_to_700",
+                "price_400_to_500",
+                "price_300_to_400",
+                "price_100_to_200",
+                "price_500_to_600",
+                "price_200_to_300"
+            ]
+        },
+        "quickFilterData": {
+            "scnFrmts": [
+                "IMAX 2D"
+            ],
+            "premium": false,
+            "showTimeBuckets": [
+                {
+                    "sTime": "08:00",
+                    "eTime": "12:00",
+                    "desc": "8 AM to 12 PM",
+                    "dText": "Morning",
+                    "desc1": "Till 12 PM"
+                },
+                {
+                    "sTime": "17:00",
+                    "eTime": "23:59",
+                    "desc": "5 PM to 11:59 PM",
+                    "dText": "After 5 PM",
+                    "desc1": "Till 11:59 PM"
+                }
+            ]
+        }
+    },
+    "data": {
+        "pageSize": 100,
+        "cinemasOrder": [
+            1037499,
+            41754,
+            9227
+        ],
+        "sessionDates": [
+            "2025-01-10"
+        ]
+    },
+    "pageData": {
+        "sessions": {
+            "1037499": [
+                {
+                    "sid": "31249__1736525700__1724__26418",
+                    "pid": 722,
+                    "pkey": "ticketnew",
+                    "cid": 1037499,
+                    "mid": "OB1H21",
+                    "fid": "URJofQgl6U",
+                    "showTime": "2025-01-10T16:15",
+                    "closeTime": "2025-01-10T16:15",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "50",
+                            "label": "BALCONY",
+                            "typeCode": "31249__1736525700__1724__26418_BALCONY",
+                            "sType": "fixed",
+                            "sAvail": 51,
+                            "sTotal": 73,
+                            "price": 250.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "60",
+                            "label": "SOFA",
+                            "typeCode": "31249__1736525700__1724__26418_SOFA",
+                            "sType": "fixed",
+                            "sAvail": 0,
+                            "sTotal": 50,
+                            "price": 300.0,
+                            "statusColor": "D"
+                        },
+                        {
+                            "code": "70",
+                            "label": "FIRST CLASS",
+                            "typeCode": "31249__1736525700__1724__26418_FIRST CLASS",
+                            "sType": "fixed",
+                            "sAvail": 59,
+                            "sTotal": 79,
+                            "price": 250.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "80",
+                            "label": "SECOND CLASS",
+                            "typeCode": "31249__1736525700__1724__26418_SECOND CLASS",
+                            "sType": "fixed",
+                            "sAvail": 42,
+                            "sTotal": 65,
+                            "price": 200.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "90",
+                            "label": "THIRD CLASS",
+                            "typeCode": "31249__1736525700__1724__26418_THIRD CLASS",
+                            "sType": "fixed",
+                            "sAvail": 20,
+                            "sTotal": 41,
+                            "price": 100.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 308,
+                    "avail": 172,
+                    "audi": "SCREEN2",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Political"
+                    ],
+                    "statusColor": "G",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "31249__1736475300__1723__26402",
+                    "pid": 722,
+                    "pkey": "ticketnew",
+                    "cid": 1037499,
+                    "mid": "OB1H21",
+                    "fid": "URJofQgl6U",
+                    "showTime": "2025-01-10T02:15",
+                    "closeTime": "2025-01-10T02:15",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "10",
+                            "label": "SOFA",
+                            "typeCode": "31249__1736475300__1723__26402_SOFA",
+                            "sType": "fixed",
+                            "sAvail": 24,
+                            "sTotal": 66,
+                            "price": 300.0,
+                            "statusColor": "Y"
+                        },
+                        {
+                            "code": "20",
+                            "label": "FIRST CLASS",
+                            "typeCode": "31249__1736475300__1723__26402_FIRST CLASS",
+                            "sType": "fixed",
+                            "sAvail": 66,
+                            "sTotal": 221,
+                            "price": 250.0,
+                            "statusColor": "Y"
+                        },
+                        {
+                            "code": "30",
+                            "label": "SECOND CLASS",
+                            "typeCode": "31249__1736475300__1723__26402_SECOND CLASS",
+                            "sType": "fixed",
+                            "sAvail": 68,
+                            "sTotal": 91,
+                            "price": 200.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "40",
+                            "label": "THIRD CLASS",
+                            "typeCode": "31249__1736475300__1723__26402_THIRD CLASS",
+                            "sType": "fixed",
+                            "sAvail": 41,
+                            "sTotal": 56,
+                            "price": 100.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 434,
+                    "avail": 199,
+                    "audi": "SCREEN1",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Political"
+                    ],
+                    "statusColor": "G",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "31249__1736487900__1723__26403",
+                    "pid": 722,
+                    "pkey": "ticketnew",
+                    "cid": 1037499,
+                    "mid": "OB1H21",
+                    "fid": "URJofQgl6U",
+                    "showTime": "2025-01-10T05:45",
+                    "closeTime": "2025-01-10T05:45",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "10",
+                            "label": "SOFA",
+                            "typeCode": "31249__1736487900__1723__26403_SOFA",
+                            "sType": "fixed",
+                            "sAvail": 0,
+                            "sTotal": 66,
+                            "price": 300.0,
+                            "statusColor": "D"
+                        },
+                        {
+                            "code": "20",
+                            "label": "FIRST CLASS",
+                            "typeCode": "31249__1736487900__1723__26403_FIRST CLASS",
+                            "sType": "fixed",
+                            "sAvail": 29,
+                            "sTotal": 221,
+                            "price": 250.0,
+                            "statusColor": "Y"
+                        },
+                        {
+                            "code": "30",
+                            "label": "SECOND CLASS",
+                            "typeCode": "31249__1736487900__1723__26403_SECOND CLASS",
+                            "sType": "fixed",
+                            "sAvail": 73,
+                            "sTotal": 91,
+                            "price": 200.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "40",
+                            "label": "THIRD CLASS",
+                            "typeCode": "31249__1736487900__1723__26403_THIRD CLASS",
+                            "sType": "fixed",
+                            "sAvail": 49,
+                            "sTotal": 56,
+                            "price": 100.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 434,
+                    "avail": 151,
+                    "audi": "SCREEN1",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Political"
+                    ],
+                    "statusColor": "Y",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "31249__1736488800__1724__26415",
+                    "pid": 722,
+                    "pkey": "ticketnew",
+                    "cid": 1037499,
+                    "mid": "OB1H21",
+                    "fid": "URJofQgl6U",
+                    "showTime": "2025-01-10T06:00",
+                    "closeTime": "2025-01-10T06:00",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "50",
+                            "label": "BALCONY",
+                            "typeCode": "31249__1736488800__1724__26415_BALCONY",
+                            "sType": "fixed",
+                            "sAvail": 53,
+                            "sTotal": 73,
+                            "price": 250.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "60",
+                            "label": "SOFA",
+                            "typeCode": "31249__1736488800__1724__26415_SOFA",
+                            "sType": "fixed",
+                            "sAvail": 0,
+                            "sTotal": 50,
+                            "price": 300.0,
+                            "statusColor": "D"
+                        },
+                        {
+                            "code": "70",
+                            "label": "FIRST CLASS",
+                            "typeCode": "31249__1736488800__1724__26415_FIRST CLASS",
+                            "sType": "fixed",
+                            "sAvail": 59,
+                            "sTotal": 79,
+                            "price": 250.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "80",
+                            "label": "SECOND CLASS",
+                            "typeCode": "31249__1736488800__1724__26415_SECOND CLASS",
+                            "sType": "fixed",
+                            "sAvail": 42,
+                            "sTotal": 65,
+                            "price": 200.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "90",
+                            "label": "THIRD CLASS",
+                            "typeCode": "31249__1736488800__1724__26415_THIRD CLASS",
+                            "sType": "fixed",
+                            "sAvail": 20,
+                            "sTotal": 41,
+                            "price": 100.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 308,
+                    "avail": 174,
+                    "audi": "SCREEN2",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Political"
+                    ],
+                    "statusColor": "G",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "31249__1736524800__1723__26406",
+                    "pid": 722,
+                    "pkey": "ticketnew",
+                    "cid": 1037499,
+                    "mid": "OB1H21",
+                    "fid": "URJofQgl6U",
+                    "showTime": "2025-01-10T16:00",
+                    "closeTime": "2025-01-10T16:00",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "10",
+                            "label": "SOFA",
+                            "typeCode": "31249__1736524800__1723__26406_SOFA",
+                            "sType": "fixed",
+                            "sAvail": 0,
+                            "sTotal": 66,
+                            "price": 300.0,
+                            "statusColor": "D"
+                        },
+                        {
+                            "code": "20",
+                            "label": "FIRST CLASS",
+                            "typeCode": "31249__1736524800__1723__26406_FIRST CLASS",
+                            "sType": "fixed",
+                            "sAvail": 74,
+                            "sTotal": 221,
+                            "price": 250.0,
+                            "statusColor": "Y"
+                        },
+                        {
+                            "code": "30",
+                            "label": "SECOND CLASS",
+                            "typeCode": "31249__1736524800__1723__26406_SECOND CLASS",
+                            "sType": "fixed",
+                            "sAvail": 79,
+                            "sTotal": 91,
+                            "price": 200.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "40",
+                            "label": "THIRD CLASS",
+                            "typeCode": "31249__1736524800__1723__26406_THIRD CLASS",
+                            "sType": "fixed",
+                            "sAvail": 50,
+                            "sTotal": 56,
+                            "price": 100.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 434,
+                    "avail": 203,
+                    "audi": "SCREEN1",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Political"
+                    ],
+                    "statusColor": "G",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "31249__1736463600__1723__26420",
+                    "pid": 722,
+                    "pkey": "ticketnew",
+                    "cid": 1037499,
+                    "mid": "OB1H21",
+                    "fid": "URJofQgl6U",
+                    "showTime": "2025-01-09T23:00",
+                    "closeTime": "2025-01-09T23:00",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "10",
+                            "label": "SOFA",
+                            "typeCode": "31249__1736463600__1723__26420_SOFA",
+                            "sType": "fixed",
+                            "sAvail": 0,
+                            "sTotal": 66,
+                            "price": 300.0,
+                            "statusColor": "D"
+                        },
+                        {
+                            "code": "20",
+                            "label": "FIRST CLASS",
+                            "typeCode": "31249__1736463600__1723__26420_FIRST CLASS",
+                            "sType": "fixed",
+                            "sAvail": 0,
+                            "sTotal": 221,
+                            "price": 250.0,
+                            "statusColor": "D"
+                        },
+                        {
+                            "code": "30",
+                            "label": "SECOND CLASS",
+                            "typeCode": "31249__1736463600__1723__26420_SECOND CLASS",
+                            "sType": "fixed",
+                            "sAvail": 0,
+                            "sTotal": 91,
+                            "price": 200.0,
+                            "statusColor": "D"
+                        },
+                        {
+                            "code": "40",
+                            "label": "THIRD CLASS",
+                            "typeCode": "31249__1736463600__1723__26420_THIRD CLASS",
+                            "sType": "fixed",
+                            "sAvail": 0,
+                            "sTotal": 56,
+                            "price": 100.0,
+                            "statusColor": "D"
+                        }
+                    ],
+                    "total": 434,
+                    "avail": 0,
+                    "audi": "SCREEN1",
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Political"
+                    ],
+                    "statusColor": "D",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "31249__1736499600__1723__26404",
+                    "pid": 722,
+                    "pkey": "ticketnew",
+                    "cid": 1037499,
+                    "mid": "OB1H21",
+                    "fid": "URJofQgl6U",
+                    "showTime": "2025-01-10T09:00",
+                    "closeTime": "2025-01-10T09:00",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "10",
+                            "label": "SOFA",
+                            "typeCode": "31249__1736499600__1723__26404_SOFA",
+                            "sType": "fixed",
+                            "sAvail": 0,
+                            "sTotal": 66,
+                            "price": 300.0,
+                            "statusColor": "D"
+                        },
+                        {
+                            "code": "20",
+                            "label": "FIRST CLASS",
+                            "typeCode": "31249__1736499600__1723__26404_FIRST CLASS",
+                            "sType": "fixed",
+                            "sAvail": 54,
+                            "sTotal": 221,
+                            "price": 250.0,
+                            "statusColor": "Y"
+                        },
+                        {
+                            "code": "30",
+                            "label": "SECOND CLASS",
+                            "typeCode": "31249__1736499600__1723__26404_SECOND CLASS",
+                            "sType": "fixed",
+                            "sAvail": 73,
+                            "sTotal": 91,
+                            "price": 200.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "40",
+                            "label": "THIRD CLASS",
+                            "typeCode": "31249__1736499600__1723__26404_THIRD CLASS",
+                            "sType": "fixed",
+                            "sAvail": 45,
+                            "sTotal": 56,
+                            "price": 100.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 434,
+                    "avail": 172,
+                    "audi": "SCREEN1",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Political"
+                    ],
+                    "statusColor": "Y",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "31249__1736512200__1723__26405",
+                    "pid": 722,
+                    "pkey": "ticketnew",
+                    "cid": 1037499,
+                    "mid": "OB1H21",
+                    "fid": "URJofQgl6U",
+                    "showTime": "2025-01-10T12:30",
+                    "closeTime": "2025-01-10T12:30",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "10",
+                            "label": "SOFA",
+                            "typeCode": "31249__1736512200__1723__26405_SOFA",
+                            "sType": "fixed",
+                            "sAvail": 0,
+                            "sTotal": 66,
+                            "price": 300.0,
+                            "statusColor": "D"
+                        },
+                        {
+                            "code": "20",
+                            "label": "FIRST CLASS",
+                            "typeCode": "31249__1736512200__1723__26405_FIRST CLASS",
+                            "sType": "fixed",
+                            "sAvail": 55,
+                            "sTotal": 221,
+                            "price": 250.0,
+                            "statusColor": "Y"
+                        },
+                        {
+                            "code": "30",
+                            "label": "SECOND CLASS",
+                            "typeCode": "31249__1736512200__1723__26405_SECOND CLASS",
+                            "sType": "fixed",
+                            "sAvail": 74,
+                            "sTotal": 91,
+                            "price": 200.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "40",
+                            "label": "THIRD CLASS",
+                            "typeCode": "31249__1736512200__1723__26405_THIRD CLASS",
+                            "sType": "fixed",
+                            "sAvail": 47,
+                            "sTotal": 56,
+                            "price": 100.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 434,
+                    "avail": 176,
+                    "audi": "SCREEN1",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Political"
+                    ],
+                    "statusColor": "G",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "31249__1736513100__1724__26417",
+                    "pid": 722,
+                    "pkey": "ticketnew",
+                    "cid": 1037499,
+                    "mid": "OB1H21",
+                    "fid": "URJofQgl6U",
+                    "showTime": "2025-01-10T12:45",
+                    "closeTime": "2025-01-10T12:45",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "50",
+                            "label": "BALCONY",
+                            "typeCode": "31249__1736513100__1724__26417_BALCONY",
+                            "sType": "fixed",
+                            "sAvail": 45,
+                            "sTotal": 73,
+                            "price": 250.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "60",
+                            "label": "SOFA",
+                            "typeCode": "31249__1736513100__1724__26417_SOFA",
+                            "sType": "fixed",
+                            "sAvail": 0,
+                            "sTotal": 50,
+                            "price": 300.0,
+                            "statusColor": "D"
+                        },
+                        {
+                            "code": "70",
+                            "label": "FIRST CLASS",
+                            "typeCode": "31249__1736513100__1724__26417_FIRST CLASS",
+                            "sType": "fixed",
+                            "sAvail": 55,
+                            "sTotal": 79,
+                            "price": 250.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "80",
+                            "label": "SECOND CLASS",
+                            "typeCode": "31249__1736513100__1724__26417_SECOND CLASS",
+                            "sType": "fixed",
+                            "sAvail": 42,
+                            "sTotal": 65,
+                            "price": 200.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "90",
+                            "label": "THIRD CLASS",
+                            "typeCode": "31249__1736513100__1724__26417_THIRD CLASS",
+                            "sType": "fixed",
+                            "sAvail": 20,
+                            "sTotal": 41,
+                            "price": 100.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 308,
+                    "avail": 162,
+                    "audi": "SCREEN2",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Political"
+                    ],
+                    "statusColor": "G",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "31249__1736451000__1724__26419",
+                    "pid": 722,
+                    "pkey": "ticketnew",
+                    "cid": 1037499,
+                    "mid": "OB1H21",
+                    "fid": "URJofQgl6U",
+                    "showTime": "2025-01-09T19:30",
+                    "closeTime": "2025-01-09T19:30",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "50",
+                            "label": "BALCONY",
+                            "typeCode": "31249__1736451000__1724__26419_BALCONY",
+                            "sType": "fixed",
+                            "sAvail": 0,
+                            "sTotal": 73,
+                            "price": 600.0,
+                            "statusColor": "D"
+                        },
+                        {
+                            "code": "60",
+                            "label": "SOFA",
+                            "typeCode": "31249__1736451000__1724__26419_SOFA",
+                            "sType": "fixed",
+                            "sAvail": 0,
+                            "sTotal": 50,
+                            "price": 600.0,
+                            "statusColor": "D"
+                        },
+                        {
+                            "code": "70",
+                            "label": "FIRST CLASS",
+                            "typeCode": "31249__1736451000__1724__26419_FIRST CLASS",
+                            "sType": "fixed",
+                            "sAvail": 0,
+                            "sTotal": 79,
+                            "price": 600.0,
+                            "statusColor": "D"
+                        },
+                        {
+                            "code": "80",
+                            "label": "SECOND CLASS",
+                            "typeCode": "31249__1736451000__1724__26419_SECOND CLASS",
+                            "sType": "fixed",
+                            "sAvail": 0,
+                            "sTotal": 65,
+                            "price": 400.0,
+                            "statusColor": "D"
+                        },
+                        {
+                            "code": "90",
+                            "label": "THIRD CLASS",
+                            "typeCode": "31249__1736451000__1724__26419_THIRD CLASS",
+                            "sType": "fixed",
+                            "sAvail": 0,
+                            "sTotal": 41,
+                            "price": 400.0,
+                            "statusColor": "D"
+                        }
+                    ],
+                    "total": 308,
+                    "avail": 0,
+                    "audi": "SCREEN2",
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Political"
+                    ],
+                    "statusColor": "D",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "31249__1736500500__1724__26416",
+                    "pid": 722,
+                    "pkey": "ticketnew",
+                    "cid": 1037499,
+                    "mid": "OB1H21",
+                    "fid": "URJofQgl6U",
+                    "showTime": "2025-01-10T09:15",
+                    "closeTime": "2025-01-10T09:15",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "50",
+                            "label": "BALCONY",
+                            "typeCode": "31249__1736500500__1724__26416_BALCONY",
+                            "sType": "fixed",
+                            "sAvail": 51,
+                            "sTotal": 73,
+                            "price": 250.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "60",
+                            "label": "SOFA",
+                            "typeCode": "31249__1736500500__1724__26416_SOFA",
+                            "sType": "fixed",
+                            "sAvail": 0,
+                            "sTotal": 50,
+                            "price": 300.0,
+                            "statusColor": "D"
+                        },
+                        {
+                            "code": "70",
+                            "label": "FIRST CLASS",
+                            "typeCode": "31249__1736500500__1724__26416_FIRST CLASS",
+                            "sType": "fixed",
+                            "sAvail": 59,
+                            "sTotal": 79,
+                            "price": 250.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "80",
+                            "label": "SECOND CLASS",
+                            "typeCode": "31249__1736500500__1724__26416_SECOND CLASS",
+                            "sType": "fixed",
+                            "sAvail": 42,
+                            "sTotal": 65,
+                            "price": 200.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "90",
+                            "label": "THIRD CLASS",
+                            "typeCode": "31249__1736500500__1724__26416_THIRD CLASS",
+                            "sType": "fixed",
+                            "sAvail": 20,
+                            "sTotal": 41,
+                            "price": 100.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 308,
+                    "avail": 172,
+                    "audi": "SCREEN2",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Political"
+                    ],
+                    "statusColor": "G",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "31249__1736451000__1723__26407",
+                    "pid": 722,
+                    "pkey": "ticketnew",
+                    "cid": 1037499,
+                    "mid": "OB1H21",
+                    "fid": "URJofQgl6U",
+                    "showTime": "2025-01-09T19:30",
+                    "closeTime": "2025-01-09T19:30",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "10",
+                            "label": "SOFA",
+                            "typeCode": "31249__1736451000__1723__26407_SOFA",
+                            "sType": "fixed",
+                            "sAvail": 0,
+                            "sTotal": 66,
+                            "price": 600.0,
+                            "statusColor": "D"
+                        },
+                        {
+                            "code": "20",
+                            "label": "FIRST CLASS",
+                            "typeCode": "31249__1736451000__1723__26407_FIRST CLASS",
+                            "sType": "fixed",
+                            "sAvail": 0,
+                            "sTotal": 221,
+                            "price": 600.0,
+                            "statusColor": "D"
+                        },
+                        {
+                            "code": "30",
+                            "label": "SECOND CLASS",
+                            "typeCode": "31249__1736451000__1723__26407_SECOND CLASS",
+                            "sType": "fixed",
+                            "sAvail": 0,
+                            "sTotal": 91,
+                            "price": 400.0,
+                            "statusColor": "D"
+                        },
+                        {
+                            "code": "40",
+                            "label": "THIRD CLASS",
+                            "typeCode": "31249__1736451000__1723__26407_THIRD CLASS",
+                            "sType": "fixed",
+                            "sAvail": 0,
+                            "sTotal": 56,
+                            "price": 400.0,
+                            "statusColor": "D"
+                        }
+                    ],
+                    "total": 434,
+                    "avail": 0,
+                    "audi": "SCREEN1",
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Political"
+                    ],
+                    "statusColor": "D",
+                    "subtitle": ""
+                }
+            ],
+            "41754": [
+                {
+                    "sid": "31249__1736451000__1860__23262",
+                    "pid": 1614,
+                    "pkey": "ticketnew",
+                    "cid": 41754,
+                    "mid": "OB1H21",
+                    "fid": "URJofQgl6U",
+                    "showTime": "2025-01-09T19:30",
+                    "closeTime": "2025-01-09T19:30",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "10",
+                            "label": "SOFA",
+                            "typeCode": "31249__1736451000__1860__23262_SOFA",
+                            "sType": "fixed",
+                            "sAvail": 0,
+                            "sTotal": 39,
+                            "price": 600.0,
+                            "statusColor": "D"
+                        },
+                        {
+                            "code": "30",
+                            "label": "PLATINUM",
+                            "typeCode": "31249__1736451000__1860__23262_PLATINUM",
+                            "sType": "fixed",
+                            "sAvail": 0,
+                            "sTotal": 117,
+                            "price": 600.0,
+                            "statusColor": "D"
+                        },
+                        {
+                            "code": "40",
+                            "label": "GOLD",
+                            "typeCode": "31249__1736451000__1860__23262_GOLD",
+                            "sType": "fixed",
+                            "sAvail": 0,
+                            "sTotal": 50,
+                            "price": 400.0,
+                            "statusColor": "D"
+                        },
+                        {
+                            "code": "50",
+                            "label": "SILVER",
+                            "typeCode": "31249__1736451000__1860__23262_SILVER",
+                            "sType": "fixed",
+                            "sAvail": 0,
+                            "sTotal": 40,
+                            "price": 400.0,
+                            "statusColor": "D"
+                        }
+                    ],
+                    "total": 246,
+                    "avail": 0,
+                    "audi": "SCREEN 1",
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Political"
+                    ],
+                    "statusColor": "D",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "31249__1736524800__1860__23266",
+                    "pid": 1614,
+                    "pkey": "ticketnew",
+                    "cid": 41754,
+                    "mid": "OB1H21",
+                    "fid": "URJofQgl6U",
+                    "showTime": "2025-01-10T16:00",
+                    "closeTime": "2025-01-10T16:00",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "10",
+                            "label": "SOFA",
+                            "typeCode": "31249__1736524800__1860__23266_SOFA",
+                            "sType": "fixed",
+                            "sAvail": 25,
+                            "sTotal": 39,
+                            "price": 300.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "30",
+                            "label": "PLATINUM",
+                            "typeCode": "31249__1736524800__1860__23266_PLATINUM",
+                            "sType": "fixed",
+                            "sAvail": 78,
+                            "sTotal": 117,
+                            "price": 250.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "40",
+                            "label": "GOLD",
+                            "typeCode": "31249__1736524800__1860__23266_GOLD",
+                            "sType": "fixed",
+                            "sAvail": 23,
+                            "sTotal": 50,
+                            "price": 200.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "50",
+                            "label": "SILVER",
+                            "typeCode": "31249__1736524800__1860__23266_SILVER",
+                            "sType": "fixed",
+                            "sAvail": 15,
+                            "sTotal": 40,
+                            "price": 100.0,
+                            "statusColor": "Y"
+                        }
+                    ],
+                    "total": 246,
+                    "avail": 141,
+                    "audi": "SCREEN 1",
+                    "premium": 0,
+                    "premiumLabel": "SCREEN 1",
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Political"
+                    ],
+                    "statusColor": "G",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "31249__1736487000__1860__23263",
+                    "pid": 1614,
+                    "pkey": "ticketnew",
+                    "cid": 41754,
+                    "mid": "OB1H21",
+                    "fid": "URJofQgl6U",
+                    "showTime": "2025-01-10T05:30",
+                    "closeTime": "2025-01-10T05:30",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "10",
+                            "label": "SOFA",
+                            "typeCode": "31249__1736487000__1860__23263_SOFA",
+                            "sType": "fixed",
+                            "sAvail": 46,
+                            "sTotal": 39,
+                            "price": 300.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "30",
+                            "label": "PLATINUM",
+                            "typeCode": "31249__1736487000__1860__23263_PLATINUM",
+                            "sType": "fixed",
+                            "sAvail": 78,
+                            "sTotal": 117,
+                            "price": 250.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "40",
+                            "label": "GOLD",
+                            "typeCode": "31249__1736487000__1860__23263_GOLD",
+                            "sType": "fixed",
+                            "sAvail": 50,
+                            "sTotal": 50,
+                            "price": 200.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "50",
+                            "label": "SILVER",
+                            "typeCode": "31249__1736487000__1860__23263_SILVER",
+                            "sType": "fixed",
+                            "sAvail": 15,
+                            "sTotal": 40,
+                            "price": 100.0,
+                            "statusColor": "Y"
+                        }
+                    ],
+                    "total": 246,
+                    "avail": 189,
+                    "audi": "SCREEN 1",
+                    "premium": 0,
+                    "premiumLabel": "SCREEN 1",
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Political"
+                    ],
+                    "statusColor": "G",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "31249__1736499600__1860__23264",
+                    "pid": 1614,
+                    "pkey": "ticketnew",
+                    "cid": 41754,
+                    "mid": "OB1H21",
+                    "fid": "URJofQgl6U",
+                    "showTime": "2025-01-10T09:00",
+                    "closeTime": "2025-01-10T09:00",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "10",
+                            "label": "SOFA",
+                            "typeCode": "31249__1736499600__1860__23264_SOFA",
+                            "sType": "fixed",
+                            "sAvail": 46,
+                            "sTotal": 39,
+                            "price": 300.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "30",
+                            "label": "PLATINUM",
+                            "typeCode": "31249__1736499600__1860__23264_PLATINUM",
+                            "sType": "fixed",
+                            "sAvail": 79,
+                            "sTotal": 117,
+                            "price": 250.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "40",
+                            "label": "GOLD",
+                            "typeCode": "31249__1736499600__1860__23264_GOLD",
+                            "sType": "fixed",
+                            "sAvail": 25,
+                            "sTotal": 50,
+                            "price": 200.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "50",
+                            "label": "SILVER",
+                            "typeCode": "31249__1736499600__1860__23264_SILVER",
+                            "sType": "fixed",
+                            "sAvail": 15,
+                            "sTotal": 40,
+                            "price": 100.0,
+                            "statusColor": "Y"
+                        }
+                    ],
+                    "total": 246,
+                    "avail": 165,
+                    "audi": "SCREEN 1",
+                    "premium": 0,
+                    "premiumLabel": "SCREEN 1",
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Political"
+                    ],
+                    "statusColor": "G",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "31249__1736513100__1860__23265",
+                    "pid": 1614,
+                    "pkey": "ticketnew",
+                    "cid": 41754,
+                    "mid": "OB1H21",
+                    "fid": "URJofQgl6U",
+                    "showTime": "2025-01-10T12:45",
+                    "closeTime": "2025-01-10T12:45",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "10",
+                            "label": "SOFA",
+                            "typeCode": "31249__1736513100__1860__23265_SOFA",
+                            "sType": "fixed",
+                            "sAvail": 35,
+                            "sTotal": 39,
+                            "price": 300.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "30",
+                            "label": "PLATINUM",
+                            "typeCode": "31249__1736513100__1860__23265_PLATINUM",
+                            "sType": "fixed",
+                            "sAvail": 64,
+                            "sTotal": 117,
+                            "price": 250.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "40",
+                            "label": "GOLD",
+                            "typeCode": "31249__1736513100__1860__23265_GOLD",
+                            "sType": "fixed",
+                            "sAvail": 25,
+                            "sTotal": 50,
+                            "price": 200.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "50",
+                            "label": "SILVER",
+                            "typeCode": "31249__1736513100__1860__23265_SILVER",
+                            "sType": "fixed",
+                            "sAvail": 15,
+                            "sTotal": 40,
+                            "price": 100.0,
+                            "statusColor": "Y"
+                        }
+                    ],
+                    "total": 246,
+                    "avail": 139,
+                    "audi": "SCREEN 1",
+                    "premium": 0,
+                    "premiumLabel": "SCREEN 1",
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Political"
+                    ],
+                    "statusColor": "G",
+                    "subtitle": ""
+                }
+            ],
+            "9227": [
+                {
+                    "sid": "31338__1736451000__1901__15753",
+                    "pid": 1101,
+                    "pkey": "ticketnew",
+                    "cid": 9227,
+                    "mid": "OB2DEG",
+                    "fid": "URJofQgl6U",
+                    "showTime": "2025-01-09T19:30",
+                    "closeTime": "2025-01-09T19:30",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "10",
+                            "label": "SOFA",
+                            "typeCode": "31338__1736451000__1901__15753_SOFA",
+                            "sType": "fixed",
+                            "sAvail": 0,
+                            "sTotal": 70,
+                            "price": 600.0,
+                            "statusColor": "D"
+                        },
+                        {
+                            "code": "20",
+                            "label": "FIRST CLASS",
+                            "typeCode": "31338__1736451000__1901__15753_FIRST CLASS",
+                            "sType": "fixed",
+                            "sAvail": 0,
+                            "sTotal": 154,
+                            "price": 600.0,
+                            "statusColor": "D"
+                        },
+                        {
+                            "code": "30",
+                            "label": "SECOND CLASS",
+                            "typeCode": "31338__1736451000__1901__15753_SECOND CLASS",
+                            "sType": "fixed",
+                            "sAvail": 0,
+                            "sTotal": 90,
+                            "price": 400.0,
+                            "statusColor": "D"
+                        },
+                        {
+                            "code": "31",
+                            "label": "THIRD CLASS",
+                            "typeCode": "31338__1736451000__1901__15753_THIRD CLASS",
+                            "sType": "fixed",
+                            "sAvail": 57,
+                            "sTotal": 89,
+                            "price": 400.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 403,
+                    "avail": 57,
+                    "audi": "KISHORE 70MM",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "IMAX 2D",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Political"
+                    ],
+                    "statusColor": "Y",
+                    "subtitle": ""
+                }
+            ]
+        }
+    }
+}

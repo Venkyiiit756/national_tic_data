@@ -1,0 +1,769 @@
+{
+    "serverTime": 1736446325,
+    "meta": {
+        "movies": [
+            {
+                "id": "OB1H21",
+                "frmtId": "URJofQgl6U",
+                "name": "Game Changer",
+                "imgPath": null,
+                "appImgPath": "https://assetscdn1.paytm.com/images/cinema/Game%20Changer-3cf95ad0-cce0-11ef-a9e2-63c420e5944f.jpeg",
+                "cvrPath": "https://assetscdn1.paytm.com/images/cinema/web-cover-3dd26890-893b-11ef-b30d-5d8b2ded08e1.jpg",
+                "appCvrPath": "https://assetscdn1.paytm.com/images/cinema/app-cover-3dd0e1f0-893b-11ef-80ee-5d6ff5e29b7e.jpg",
+                "thumbnail": null,
+                "edgeBanner": null,
+                "trailer": "https://youtu.be/zHiKFSBO_JE",
+                "censor": "UA13+",
+                "duration": 165,
+                "grn": [
+                    "Action",
+                    "Drama",
+                    "Political"
+                ],
+                "scrnFmt": "2D",
+                "sndFmt": null,
+                "rnr": {
+                    "hasUReview": 0,
+                    "hasContent": 1
+                },
+                "isNew": false,
+                "imxImgUrl": null,
+                "contentId": 161066,
+                "label": "Game Changer",
+                "lang": "Telugu"
+            }
+        ],
+        "filterBuckets": {
+            "timeBuckets": [
+                {
+                    "sTime": "05:00",
+                    "eTime": "11:59",
+                    "desc": "5:00 AM to 11:59 AM",
+                    "dText": "Morning",
+                    "desc1": "Till 12 PM"
+                },
+                {
+                    "sTime": "12:00",
+                    "eTime": "15:59",
+                    "desc": "12:00 PM to 3:59 PM",
+                    "dText": "Afternoon",
+                    "desc1": "Till 4 PM"
+                },
+                {
+                    "sTime": "16:00",
+                    "eTime": "18:59",
+                    "desc": "4:00 PM to 6:59 PM",
+                    "dText": "Evening",
+                    "desc1": "Till 7 PM"
+                },
+                {
+                    "sTime": "19:00",
+                    "eTime": "04:59",
+                    "desc": "7:00 PM to 4:59 AM",
+                    "dText": "Night",
+                    "desc1": "After 7 PM"
+                }
+            ],
+            "priceBuckets": [
+                {
+                    "min": "200",
+                    "max": "300",
+                    "desc": "\u20b9 200 - \u20b9 300"
+                }
+            ],
+            "showTimeBuckets": [
+                {
+                    "sTime": "00:00",
+                    "eTime": "08:00",
+                    "desc": "12 AM to 8 AM",
+                    "dText": "Early Morning",
+                    "desc1": "Till 8 AM",
+                    "isEnabled": true
+                },
+                {
+                    "sTime": "08:00",
+                    "eTime": "12:00",
+                    "desc": "8 AM to 12 PM",
+                    "dText": "Morning",
+                    "desc1": "Till 12 PM",
+                    "isEnabled": true
+                },
+                {
+                    "sTime": "12:00",
+                    "eTime": "16:00",
+                    "desc": "12 PM to 4 PM",
+                    "dText": "Afternoon",
+                    "desc1": "Till 4 PM",
+                    "isEnabled": true
+                },
+                {
+                    "sTime": "16:00",
+                    "eTime": "19:00",
+                    "desc": "4 PM to 7 PM",
+                    "dText": "Evening",
+                    "desc1": "Till 7 PM",
+                    "isEnabled": true
+                },
+                {
+                    "sTime": "19:00",
+                    "eTime": "23:59",
+                    "desc": "7 PM to 12 AM",
+                    "dText": "Night",
+                    "desc1": "Till 12 AM",
+                    "isEnabled": true
+                }
+            ]
+        },
+        "amenities": [
+            {
+                "id": 2,
+                "name": "Parking",
+                "rank": 1,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Parking-c79a3400-95f6-11ef-a253-33f238ee5f34.png"
+            },
+            {
+                "id": 1,
+                "name": "Mobile Ticket",
+                "rank": 2,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Mobile%20Ticket-bc527a30-95f6-11ef-b954-a1c7e1e4be25.png"
+            },
+            {
+                "id": 3,
+                "name": "Food & Beverages",
+                "rank": 3,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/F%26B-938587f0-95f6-11ef-b954-a1c7e1e4be25.png"
+            },
+            {
+                "id": 5,
+                "name": "Recliners",
+                "rank": 4,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Seat-13023560-95f6-11ef-b954-a1c7e1e4be25.png"
+            },
+            {
+                "id": 6,
+                "name": "Digital Payments",
+                "rank": 5,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Payment-eab8cb00-95f5-11ef-a253-33f238ee5f34.png"
+            },
+            {
+                "id": 4,
+                "name": "Wheelchair Friendly",
+                "rank": 6,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Wheelchair-73f627a0-95f6-11ef-a253-33f238ee5f34.png"
+            },
+            {
+                "id": 7,
+                "name": "RGB Laser",
+                "rank": 7,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Screen-fef54df0-95f5-11ef-b954-a1c7e1e4be25.png"
+            },
+            {
+                "id": 8,
+                "name": "Dolby Atmos",
+                "rank": 8,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Audio-4acee060-95f6-11ef-b954-a1c7e1e4be25.png"
+            },
+            {
+                "id": 9,
+                "name": "IMAX",
+                "rank": 9,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Screen-fef54df0-95f5-11ef-b954-a1c7e1e4be25.png"
+            },
+            {
+                "id": 10,
+                "name": "4K",
+                "rank": 10,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Screen-fef54df0-95f5-11ef-b954-a1c7e1e4be25.png"
+            },
+            {
+                "id": 12,
+                "name": "WIFI",
+                "rank": 12,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Wifi-5646f900-95f6-11ef-b954-a1c7e1e4be25.png"
+            },
+            {
+                "id": 14,
+                "name": "Gaming Zone",
+                "rank": 14,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Gaming-d3353df0-95f6-11ef-a253-33f238ee5f34.png"
+            },
+            {
+                "id": 15,
+                "name": "2K",
+                "rank": 15,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Screen-fef54df0-95f5-11ef-b954-a1c7e1e4be25.png"
+            },
+            {
+                "id": 17,
+                "name": "4DX",
+                "rank": 17,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Screen-fef54df0-95f5-11ef-b954-a1c7e1e4be25.png"
+            },
+            {
+                "id": 18,
+                "name": "Dolby 7.1",
+                "rank": 18,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Audio-4acee060-95f6-11ef-b954-a1c7e1e4be25.png"
+            },
+            {
+                "id": 19,
+                "name": "Air Conditioning",
+                "rank": 19,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/AC-d92791f0-95f5-11ef-b954-a1c7e1e4be25.png"
+            },
+            {
+                "id": 20,
+                "name": "Metro Nearby",
+                "rank": 20,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Metro-08856cb0-95f6-11ef-b954-a1c7e1e4be25.png"
+            },
+            {
+                "id": 21,
+                "name": "Sofa",
+                "rank": 21,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Seat-13023560-95f6-11ef-b954-a1c7e1e4be25.png"
+            },
+            {
+                "id": 24,
+                "name": "Silver Screen",
+                "rank": 24,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Screen-fef54df0-95f5-11ef-b954-a1c7e1e4be25.png"
+            },
+            {
+                "id": 28,
+                "name": "Free Parking",
+                "rank": 28,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Parking-c79a3400-95f6-11ef-a253-33f238ee5f34.png"
+            },
+            {
+                "id": 29,
+                "name": "Baggage Counter",
+                "rank": 29,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Baggage%20counter-f4cbae50-95f5-11ef-a253-33f238ee5f34.png"
+            },
+            {
+                "id": 30,
+                "name": "Dolby 4 Way 11.1",
+                "rank": 30,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Audio-4acee060-95f6-11ef-b954-a1c7e1e4be25.png"
+            },
+            {
+                "id": 31,
+                "name": "Barco 4K Ultra HD",
+                "rank": 31,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Screen-fef54df0-95f5-11ef-b954-a1c7e1e4be25.png"
+            }
+        ],
+        "cinemas": [
+            {
+                "id": 1035570,
+                "pid": 1845,
+                "name": "ABR Cinemas The Next, Loyaada, Gudivada",
+                "address": "Gudivada-Kankipadu Road, Loyaada, Gudivada, Andhra Pradesh 521301, India",
+                "pincode": "521301",
+                "lat": 16.432173,
+                "lon": 80.991933,
+                "cityId": 734,
+                "appCovrImgUrl": "",
+                "covrImgUrl": "",
+                "fnb": 0,
+                "mTkt": 1,
+                "bCode": "0",
+                "sTop": 0,
+                "isMerchantCancellable": 0,
+                "cinemaLogoUrl": "https://assetscdn1.paytm.com/images/cinema/_ABR-Cinemas-500X500-ac45f390-b209-11ef-b13f-957784cd628f.png",
+                "cinemaVideoUrl": "",
+                "appCoverVideoUrl": "",
+                "webCoverVideoUrl": "",
+                "amenities": null,
+                "promos": null,
+                "chainKey": "ABR Cinema",
+                "contentId": 178328,
+                "theatreGroupName": "",
+                "amenitiesOrder": null,
+                "carouselAttachments": [
+                    {
+                        "type": "IMAGE",
+                        "assetPosition": 1.0,
+                        "appImageUrl": "https://assetscdn1.paytm.com/images/cinema/1-app-8f043630-5e2a-11ef-905d-2787d4ac61b5%5B1%5D-9ff44590-7a6b-11ef-9021-a5fad7b94b6e.jpg",
+                        "webImageUrl": "https://assetscdn1.paytm.com/images/cinema/1-91d7c890-5e2a-11ef-9f9d-4f719a5c0ab9%5B1%5D-a9d0af90-7a6b-11ef-9021-a5fad7b94b6e.jpg"
+                    },
+                    {
+                        "type": "IMAGE",
+                        "assetPosition": 2.0,
+                        "appImageUrl": "https://assetscdn1.paytm.com/images/cinema/2-ap-995a8b20-5e2a-11ef-905d-2787d4ac61b5%5B1%5D-b4d17550-7a6b-11ef-a3ad-8798a17282d3.jpg",
+                        "webImageUrl": "https://assetscdn1.paytm.com/images/cinema/2-9edb1510-5e2a-11ef-905d-2787d4ac61b5%5B1%5D-be196780-7a6b-11ef-a3ad-8798a17282d3.jpg"
+                    },
+                    {
+                        "type": "IMAGE",
+                        "assetPosition": 3.0,
+                        "appImageUrl": "https://assetscdn1.paytm.com/images/cinema/3-ppa-ae600360-5e2a-11ef-905d-2787d4ac61b5%5B1%5D-c8b32e10-7a6b-11ef-a3ad-8798a17282d3.jpg",
+                        "webImageUrl": "https://assetscdn1.paytm.com/images/cinema/3-b1216d50-5e2a-11ef-905d-2787d4ac61b5%5B1%5D-d148e740-7a6b-11ef-9021-a5fad7b94b6e.jpg"
+                    },
+                    {
+                        "type": "IMAGE",
+                        "assetPosition": 4.0,
+                        "appImageUrl": "https://assetscdn1.paytm.com/images/cinema/4AP-b7482250-5e2a-11ef-9f9d-4f719a5c0ab9%5B1%5D-dbb81b60-7a6b-11ef-9021-a5fad7b94b6e.jpg",
+                        "webImageUrl": "https://assetscdn1.paytm.com/images/cinema/4-ba33a980-5e2a-11ef-905d-2787d4ac61b5%5B1%5D-e37b6960-7a6b-11ef-9021-a5fad7b94b6e.jpg"
+                    },
+                    {
+                        "type": "IMAGE",
+                        "assetPosition": 5.0,
+                        "appImageUrl": "https://assetscdn1.paytm.com/images/cinema/5-QPP-c258eda0-5e2a-11ef-905d-2787d4ac61b5%5B1%5D-ecf78af0-7a6b-11ef-a3ad-8798a17282d3.jpg",
+                        "webImageUrl": "https://assetscdn1.paytm.com/images/cinema/5-cab98d10-5e2a-11ef-9f9d-4f719a5c0ab9%5B1%5D-f3ef4b90-7a6b-11ef-a3ad-8798a17282d3.jpg"
+                    },
+                    {
+                        "type": "IMAGE",
+                        "assetPosition": 6.0,
+                        "appImageUrl": "https://assetscdn1.paytm.com/images/cinema/_6-AOP-d08a59e0-5e2a-11ef-905d-2787d4ac61b5%5B1%5D-ffcd03d0-7a6b-11ef-9021-a5fad7b94b6e.jpg",
+                        "webImageUrl": "https://assetscdn1.paytm.com/images/cinema/6-d4de4ab0-5e2a-11ef-905d-2787d4ac61b5%5B1%5D-0943f540-7a6c-11ef-a3ad-8798a17282d3.jpg"
+                    }
+                ],
+                "isPassEnabled": 0,
+                "paytmCinemaId": 1035570,
+                "city": "Gudivada",
+                "clientId": "ticketnew",
+                "isMapped": 0,
+                "city_id": null,
+                "is_city_mapped": null,
+                "state": "andhra-pradesh",
+                "city_key": null,
+                "label": "ABR Cinemas The Next, Loyaada, Gudivada",
+                "sessionCount": 5
+            }
+        ],
+        "filterData": {
+            "minSTime": "02:30",
+            "maxSTime": "16:15",
+            "minPrice": 250.0,
+            "maxPrice": 250.0,
+            "premium": false,
+            "freeSeats": false,
+            "groupSeats": false,
+            "tokenFeeSeats": false,
+            "scnFrmts": [
+                "2D"
+            ],
+            "sndFrmts": [],
+            "mLangs": [
+                "Telugu"
+            ],
+            "genres": [
+                "Action",
+                "Drama",
+                "Political"
+            ],
+            "premiumSessionCount": 0,
+            "totalSessionCount": 5,
+            "showTimeList": [
+                "11:15",
+                "18:15",
+                "08:00",
+                "21:45",
+                "14:35"
+            ],
+            "quickFilterScnFrmts": [],
+            "quickFilterLanguages": [
+                "Telugu"
+            ],
+            "priceRangeSet": [
+                "price_200_to_300"
+            ]
+        },
+        "quickFilterData": {
+            "scnFrmts": [],
+            "premium": false,
+            "showTimeBuckets": [
+                {
+                    "sTime": "08:00",
+                    "eTime": "12:00",
+                    "desc": "8 AM to 12 PM",
+                    "dText": "Morning",
+                    "desc1": "Till 12 PM"
+                },
+                {
+                    "sTime": "17:00",
+                    "eTime": "23:59",
+                    "desc": "5 PM to 11:59 PM",
+                    "dText": "After 5 PM",
+                    "desc1": "Till 11:59 PM"
+                }
+            ]
+        }
+    },
+    "data": {
+        "pageSize": 100,
+        "cinemasOrder": [
+            1035570
+        ],
+        "sessionDates": [
+            "2025-01-10"
+        ]
+    },
+    "pageData": {
+        "sessions": {
+            "1035570": [
+                {
+                    "sid": "31249__1736487900__5974__3846",
+                    "pid": 1845,
+                    "pkey": "ticketnew",
+                    "cid": 1035570,
+                    "mid": "OB1H21",
+                    "fid": "URJofQgl6U",
+                    "showTime": "2025-01-10T05:45",
+                    "closeTime": "2025-01-10T05:45",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "10",
+                            "label": "DIAMOND",
+                            "typeCode": "31249__1736487900__5974__3846_DIAMOND",
+                            "sType": "fixed",
+                            "sAvail": 114,
+                            "sTotal": 164,
+                            "price": 250.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "20",
+                            "label": "PLATINUM",
+                            "typeCode": "31249__1736487900__5974__3846_PLATINUM",
+                            "sType": "fixed",
+                            "sAvail": 35,
+                            "sTotal": 35,
+                            "price": 250.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "30",
+                            "label": "EXECUTIVE",
+                            "typeCode": "31249__1736487900__5974__3846_EXECUTIVE",
+                            "sType": "fixed",
+                            "sAvail": 14,
+                            "sTotal": 14,
+                            "price": 250.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "40",
+                            "label": "LOUNGERS",
+                            "typeCode": "31249__1736487900__5974__3846_LOUNGERS",
+                            "sType": "fixed",
+                            "sAvail": 8,
+                            "sTotal": 8,
+                            "price": 250.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 221,
+                    "avail": 171,
+                    "audi": "Screen-1",
+                    "premium": 0,
+                    "premiumLabel": "DOLBY ATMOS RDX SONY 4K",
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 10,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Political"
+                    ],
+                    "statusColor": "G",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "31249__1736513100__5974__3849",
+                    "pid": 1845,
+                    "pkey": "ticketnew",
+                    "cid": 1035570,
+                    "mid": "OB1H21",
+                    "fid": "URJofQgl6U",
+                    "showTime": "2025-01-10T12:45",
+                    "closeTime": "2025-01-10T12:45",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "10",
+                            "label": "DIAMOND",
+                            "typeCode": "31249__1736513100__5974__3849_DIAMOND",
+                            "sType": "fixed",
+                            "sAvail": 102,
+                            "sTotal": 164,
+                            "price": 250.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "20",
+                            "label": "PLATINUM",
+                            "typeCode": "31249__1736513100__5974__3849_PLATINUM",
+                            "sType": "fixed",
+                            "sAvail": 35,
+                            "sTotal": 35,
+                            "price": 250.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "30",
+                            "label": "EXECUTIVE",
+                            "typeCode": "31249__1736513100__5974__3849_EXECUTIVE",
+                            "sType": "fixed",
+                            "sAvail": 14,
+                            "sTotal": 14,
+                            "price": 250.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "40",
+                            "label": "LOUNGERS",
+                            "typeCode": "31249__1736513100__5974__3849_LOUNGERS",
+                            "sType": "fixed",
+                            "sAvail": 8,
+                            "sTotal": 8,
+                            "price": 250.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 221,
+                    "avail": 159,
+                    "audi": "Screen-1",
+                    "premium": 0,
+                    "premiumLabel": "DOLBY ATMOS RDX SONY 4K",
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 10,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Political"
+                    ],
+                    "statusColor": "G",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "31249__1736476200__5974__3845",
+                    "pid": 1845,
+                    "pkey": "ticketnew",
+                    "cid": 1035570,
+                    "mid": "OB1H21",
+                    "fid": "URJofQgl6U",
+                    "showTime": "2025-01-10T02:30",
+                    "closeTime": "2025-01-10T02:30",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "10",
+                            "label": "DIAMOND",
+                            "typeCode": "31249__1736476200__5974__3845_DIAMOND",
+                            "sType": "fixed",
+                            "sAvail": 110,
+                            "sTotal": 164,
+                            "price": 250.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "20",
+                            "label": "PLATINUM",
+                            "typeCode": "31249__1736476200__5974__3845_PLATINUM",
+                            "sType": "fixed",
+                            "sAvail": 35,
+                            "sTotal": 35,
+                            "price": 250.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "30",
+                            "label": "EXECUTIVE",
+                            "typeCode": "31249__1736476200__5974__3845_EXECUTIVE",
+                            "sType": "fixed",
+                            "sAvail": 14,
+                            "sTotal": 14,
+                            "price": 250.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "40",
+                            "label": "LOUNGERS",
+                            "typeCode": "31249__1736476200__5974__3845_LOUNGERS",
+                            "sType": "fixed",
+                            "sAvail": 4,
+                            "sTotal": 8,
+                            "price": 250.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 221,
+                    "avail": 163,
+                    "audi": "Screen-1",
+                    "premium": 0,
+                    "premiumLabel": "DOLBY ATMOS RDX SONY 4K",
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 10,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Political"
+                    ],
+                    "statusColor": "G",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "31249__1736525700__5974__3850",
+                    "pid": 1845,
+                    "pkey": "ticketnew",
+                    "cid": 1035570,
+                    "mid": "OB1H21",
+                    "fid": "URJofQgl6U",
+                    "showTime": "2025-01-10T16:15",
+                    "closeTime": "2025-01-10T16:15",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "10",
+                            "label": "DIAMOND",
+                            "typeCode": "31249__1736525700__5974__3850_DIAMOND",
+                            "sType": "fixed",
+                            "sAvail": 109,
+                            "sTotal": 164,
+                            "price": 250.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "20",
+                            "label": "PLATINUM",
+                            "typeCode": "31249__1736525700__5974__3850_PLATINUM",
+                            "sType": "fixed",
+                            "sAvail": 35,
+                            "sTotal": 35,
+                            "price": 250.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "30",
+                            "label": "EXECUTIVE",
+                            "typeCode": "31249__1736525700__5974__3850_EXECUTIVE",
+                            "sType": "fixed",
+                            "sAvail": 14,
+                            "sTotal": 14,
+                            "price": 250.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "40",
+                            "label": "LOUNGERS",
+                            "typeCode": "31249__1736525700__5974__3850_LOUNGERS",
+                            "sType": "fixed",
+                            "sAvail": 8,
+                            "sTotal": 8,
+                            "price": 250.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 221,
+                    "avail": 166,
+                    "audi": "Screen-1",
+                    "premium": 0,
+                    "premiumLabel": "DOLBY ATMOS RDX SONY 4K",
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 10,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Political"
+                    ],
+                    "statusColor": "G",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "31249__1736499900__5974__3847",
+                    "pid": 1845,
+                    "pkey": "ticketnew",
+                    "cid": 1035570,
+                    "mid": "OB1H21",
+                    "fid": "URJofQgl6U",
+                    "showTime": "2025-01-10T09:05",
+                    "closeTime": "2025-01-10T09:05",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "10",
+                            "label": "DIAMOND",
+                            "typeCode": "31249__1736499900__5974__3847_DIAMOND",
+                            "sType": "fixed",
+                            "sAvail": 138,
+                            "sTotal": 164,
+                            "price": 250.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "20",
+                            "label": "PLATINUM",
+                            "typeCode": "31249__1736499900__5974__3847_PLATINUM",
+                            "sType": "fixed",
+                            "sAvail": 35,
+                            "sTotal": 35,
+                            "price": 250.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "30",
+                            "label": "EXECUTIVE",
+                            "typeCode": "31249__1736499900__5974__3847_EXECUTIVE",
+                            "sType": "fixed",
+                            "sAvail": 14,
+                            "sTotal": 14,
+                            "price": 250.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "40",
+                            "label": "LOUNGERS",
+                            "typeCode": "31249__1736499900__5974__3847_LOUNGERS",
+                            "sType": "fixed",
+                            "sAvail": 5,
+                            "sTotal": 8,
+                            "price": 250.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 221,
+                    "avail": 192,
+                    "audi": "Screen-1",
+                    "premium": 0,
+                    "premiumLabel": "DOLBY ATMOS RDX SONY 4K",
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 10,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Political"
+                    ],
+                    "statusColor": "G",
+                    "subtitle": ""
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,888 @@
+{
+    "serverTime": 1736446252,
+    "meta": {
+        "movies": [
+            {
+                "id": "OB1H21",
+                "frmtId": "URJofQgl6U",
+                "name": "Game Changer",
+                "imgPath": null,
+                "appImgPath": "https://assetscdn1.paytm.com/images/cinema/Game%20Changer-3cf95ad0-cce0-11ef-a9e2-63c420e5944f.jpeg",
+                "cvrPath": "https://assetscdn1.paytm.com/images/cinema/web-cover-3dd26890-893b-11ef-b30d-5d8b2ded08e1.jpg",
+                "appCvrPath": "https://assetscdn1.paytm.com/images/cinema/app-cover-3dd0e1f0-893b-11ef-80ee-5d6ff5e29b7e.jpg",
+                "thumbnail": null,
+                "edgeBanner": null,
+                "trailer": "https://youtu.be/zHiKFSBO_JE",
+                "censor": "UA13+",
+                "duration": 165,
+                "grn": [
+                    "Action",
+                    "Drama",
+                    "Political"
+                ],
+                "scrnFmt": "2D",
+                "sndFmt": null,
+                "rnr": {
+                    "hasUReview": 0,
+                    "hasContent": 1
+                },
+                "isNew": false,
+                "imxImgUrl": null,
+                "contentId": 161066,
+                "label": "Game Changer",
+                "lang": "Telugu"
+            }
+        ],
+        "filterBuckets": {
+            "timeBuckets": [
+                {
+                    "sTime": "05:00",
+                    "eTime": "11:59",
+                    "desc": "5:00 AM to 11:59 AM",
+                    "dText": "Morning",
+                    "desc1": "Till 12 PM"
+                },
+                {
+                    "sTime": "12:00",
+                    "eTime": "15:59",
+                    "desc": "12:00 PM to 3:59 PM",
+                    "dText": "Afternoon",
+                    "desc1": "Till 4 PM"
+                },
+                {
+                    "sTime": "16:00",
+                    "eTime": "18:59",
+                    "desc": "4:00 PM to 6:59 PM",
+                    "dText": "Evening",
+                    "desc1": "Till 7 PM"
+                },
+                {
+                    "sTime": "19:00",
+                    "eTime": "04:59",
+                    "desc": "7:00 PM to 4:59 AM",
+                    "dText": "Night",
+                    "desc1": "After 7 PM"
+                }
+            ],
+            "priceBuckets": [
+                {
+                    "min": "200",
+                    "max": "300",
+                    "desc": "\u20b9 200 - \u20b9 300"
+                }
+            ],
+            "showTimeBuckets": [
+                {
+                    "sTime": "00:00",
+                    "eTime": "08:00",
+                    "desc": "12 AM to 8 AM",
+                    "dText": "Early Morning",
+                    "desc1": "Till 8 AM",
+                    "isEnabled": false
+                },
+                {
+                    "sTime": "08:00",
+                    "eTime": "12:00",
+                    "desc": "8 AM to 12 PM",
+                    "dText": "Morning",
+                    "desc1": "Till 12 PM",
+                    "isEnabled": false
+                },
+                {
+                    "sTime": "12:00",
+                    "eTime": "16:00",
+                    "desc": "12 PM to 4 PM",
+                    "dText": "Afternoon",
+                    "desc1": "Till 4 PM",
+                    "isEnabled": false
+                },
+                {
+                    "sTime": "16:00",
+                    "eTime": "19:00",
+                    "desc": "4 PM to 7 PM",
+                    "dText": "Evening",
+                    "desc1": "Till 7 PM",
+                    "isEnabled": false
+                },
+                {
+                    "sTime": "19:00",
+                    "eTime": "23:59",
+                    "desc": "7 PM to 12 AM",
+                    "dText": "Night",
+                    "desc1": "Till 12 AM",
+                    "isEnabled": true
+                }
+            ]
+        },
+        "amenities": [
+            {
+                "id": 2,
+                "name": "Parking",
+                "rank": 1,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Parking-c79a3400-95f6-11ef-a253-33f238ee5f34.png"
+            },
+            {
+                "id": 1,
+                "name": "Mobile Ticket",
+                "rank": 2,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Mobile%20Ticket-bc527a30-95f6-11ef-b954-a1c7e1e4be25.png"
+            },
+            {
+                "id": 3,
+                "name": "Food & Beverages",
+                "rank": 3,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/F%26B-938587f0-95f6-11ef-b954-a1c7e1e4be25.png"
+            },
+            {
+                "id": 5,
+                "name": "Recliners",
+                "rank": 4,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Seat-13023560-95f6-11ef-b954-a1c7e1e4be25.png"
+            },
+            {
+                "id": 6,
+                "name": "Digital Payments",
+                "rank": 5,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Payment-eab8cb00-95f5-11ef-a253-33f238ee5f34.png"
+            },
+            {
+                "id": 4,
+                "name": "Wheelchair Friendly",
+                "rank": 6,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Wheelchair-73f627a0-95f6-11ef-a253-33f238ee5f34.png"
+            },
+            {
+                "id": 7,
+                "name": "RGB Laser",
+                "rank": 7,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Screen-fef54df0-95f5-11ef-b954-a1c7e1e4be25.png"
+            },
+            {
+                "id": 8,
+                "name": "Dolby Atmos",
+                "rank": 8,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Audio-4acee060-95f6-11ef-b954-a1c7e1e4be25.png"
+            },
+            {
+                "id": 9,
+                "name": "IMAX",
+                "rank": 9,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Screen-fef54df0-95f5-11ef-b954-a1c7e1e4be25.png"
+            },
+            {
+                "id": 10,
+                "name": "4K",
+                "rank": 10,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Screen-fef54df0-95f5-11ef-b954-a1c7e1e4be25.png"
+            },
+            {
+                "id": 12,
+                "name": "WIFI",
+                "rank": 12,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Wifi-5646f900-95f6-11ef-b954-a1c7e1e4be25.png"
+            },
+            {
+                "id": 14,
+                "name": "Gaming Zone",
+                "rank": 14,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Gaming-d3353df0-95f6-11ef-a253-33f238ee5f34.png"
+            },
+            {
+                "id": 15,
+                "name": "2K",
+                "rank": 15,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Screen-fef54df0-95f5-11ef-b954-a1c7e1e4be25.png"
+            },
+            {
+                "id": 17,
+                "name": "4DX",
+                "rank": 17,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Screen-fef54df0-95f5-11ef-b954-a1c7e1e4be25.png"
+            },
+            {
+                "id": 18,
+                "name": "Dolby 7.1",
+                "rank": 18,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Audio-4acee060-95f6-11ef-b954-a1c7e1e4be25.png"
+            },
+            {
+                "id": 19,
+                "name": "Air Conditioning",
+                "rank": 19,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/AC-d92791f0-95f5-11ef-b954-a1c7e1e4be25.png"
+            },
+            {
+                "id": 20,
+                "name": "Metro Nearby",
+                "rank": 20,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Metro-08856cb0-95f6-11ef-b954-a1c7e1e4be25.png"
+            },
+            {
+                "id": 21,
+                "name": "Sofa",
+                "rank": 21,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Seat-13023560-95f6-11ef-b954-a1c7e1e4be25.png"
+            },
+            {
+                "id": 24,
+                "name": "Silver Screen",
+                "rank": 24,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Screen-fef54df0-95f5-11ef-b954-a1c7e1e4be25.png"
+            },
+            {
+                "id": 28,
+                "name": "Free Parking",
+                "rank": 28,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Parking-c79a3400-95f6-11ef-a253-33f238ee5f34.png"
+            },
+            {
+                "id": 29,
+                "name": "Baggage Counter",
+                "rank": 29,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Baggage%20counter-f4cbae50-95f5-11ef-a253-33f238ee5f34.png"
+            },
+            {
+                "id": 30,
+                "name": "Dolby 4 Way 11.1",
+                "rank": 30,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Audio-4acee060-95f6-11ef-b954-a1c7e1e4be25.png"
+            },
+            {
+                "id": 31,
+                "name": "Barco 4K Ultra HD",
+                "rank": 31,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Screen-fef54df0-95f5-11ef-b954-a1c7e1e4be25.png"
+            }
+        ],
+        "cinemas": [
+            {
+                "id": 9132,
+                "pid": 736,
+                "name": "Akshara Cinemas Dolby Atmos, NH 16, Ravulapalem",
+                "address": "NH 16, Near Gayatri Mobiles, Ravulapalem, Andhra Pradesh 533238, India",
+                "pincode": "533238",
+                "lat": 16.759726,
+                "lon": 81.8413,
+                "cityId": 144,
+                "appCovrImgUrl": "",
+                "covrImgUrl": "",
+                "fnb": 0,
+                "mTkt": 1,
+                "bCode": "0",
+                "sTop": 0,
+                "isMerchantCancellable": 0,
+                "cinemaLogoUrl": "https://assetscdn1.paytm.com/images/cinema/Theatre%403x-a4b1cf60-676c-11ef-8bfd-85c2f3bcaac6.png",
+                "cinemaVideoUrl": "",
+                "appCoverVideoUrl": "",
+                "webCoverVideoUrl": "",
+                "amenities": null,
+                "promos": null,
+                "chainKey": "TicketNew",
+                "contentId": 149624,
+                "theatreGroupName": "",
+                "amenitiesOrder": null,
+                "carouselAttachments": [],
+                "isPassEnabled": 0,
+                "paytmCinemaId": 9132,
+                "city": "Ravulapalem",
+                "clientId": "ticketnew",
+                "isMapped": 0,
+                "city_id": null,
+                "is_city_mapped": null,
+                "state": "andhra-pradesh",
+                "city_key": null,
+                "label": "Akshara Cinemas Dolby Atmos, NH 16, Ravulapalem",
+                "sessionCount": 10
+            }
+        ],
+        "filterData": {
+            "minSTime": "23:30",
+            "maxSTime": "16:10",
+            "minPrice": 300.0,
+            "maxPrice": 300.0,
+            "premium": false,
+            "freeSeats": false,
+            "groupSeats": false,
+            "tokenFeeSeats": false,
+            "scnFrmts": [
+                "2D"
+            ],
+            "sndFrmts": [],
+            "mLangs": [
+                "Telugu"
+            ],
+            "genres": [
+                "Action",
+                "Drama",
+                "Political"
+            ],
+            "premiumSessionCount": 0,
+            "totalSessionCount": 10,
+            "showTimeList": [
+                "11:00",
+                "18:00",
+                "14:40",
+                "21:30",
+                "21:40",
+                "18:10",
+                "11:10",
+                "05:00",
+                "14:30",
+                "05:10"
+            ],
+            "quickFilterScnFrmts": [],
+            "quickFilterLanguages": [
+                "Telugu"
+            ],
+            "priceRangeSet": [
+                "price_300_to_400",
+                "price_200_to_300"
+            ]
+        },
+        "quickFilterData": {
+            "scnFrmts": [],
+            "premium": false,
+            "showTimeBuckets": [
+                {
+                    "sTime": "08:00",
+                    "eTime": "12:00",
+                    "desc": "8 AM to 12 PM",
+                    "dText": "Morning",
+                    "desc1": "Till 12 PM"
+                },
+                {
+                    "sTime": "17:00",
+                    "eTime": "23:59",
+                    "desc": "5 PM to 11:59 PM",
+                    "dText": "After 5 PM",
+                    "desc1": "Till 11:59 PM"
+                }
+            ]
+        }
+    },
+    "data": {
+        "pageSize": 100,
+        "cinemasOrder": [
+            9132
+        ],
+        "sessionDates": [
+            "2025-01-10"
+        ]
+    },
+    "pageData": {
+        "sessions": {
+            "9132": [
+                {
+                    "sid": "31249__1736487000__3678__15037",
+                    "pid": 736,
+                    "pkey": "ticketnew",
+                    "cid": 9132,
+                    "mid": "OB1H21",
+                    "fid": "URJofQgl6U",
+                    "showTime": "2025-01-10T05:30",
+                    "closeTime": "2025-01-10T05:30",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "20",
+                            "label": "FIRST CLASS",
+                            "typeCode": "31249__1736487000__3678__15037_FIRST CLASS",
+                            "sType": "fixed",
+                            "sAvail": 90,
+                            "sTotal": 261,
+                            "price": 300.0,
+                            "statusColor": "Y"
+                        },
+                        {
+                            "code": "30",
+                            "label": "SECOND CLASS",
+                            "typeCode": "31249__1736487000__3678__15037_SECOND CLASS",
+                            "sType": "fixed",
+                            "sAvail": 42,
+                            "sTotal": 84,
+                            "price": 300.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 345,
+                    "avail": 132,
+                    "audi": "SCREEN 1",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Political"
+                    ],
+                    "statusColor": "Y",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "31249__1736512200__3678__15039",
+                    "pid": 736,
+                    "pkey": "ticketnew",
+                    "cid": 9132,
+                    "mid": "OB1H21",
+                    "fid": "URJofQgl6U",
+                    "showTime": "2025-01-10T12:30",
+                    "closeTime": "2025-01-10T12:30",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "20",
+                            "label": "FIRST CLASS",
+                            "typeCode": "31249__1736512200__3678__15039_FIRST CLASS",
+                            "sType": "fixed",
+                            "sAvail": 77,
+                            "sTotal": 261,
+                            "price": 300.0,
+                            "statusColor": "Y"
+                        },
+                        {
+                            "code": "30",
+                            "label": "SECOND CLASS",
+                            "typeCode": "31249__1736512200__3678__15039_SECOND CLASS",
+                            "sType": "fixed",
+                            "sAvail": 42,
+                            "sTotal": 84,
+                            "price": 300.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 345,
+                    "avail": 119,
+                    "audi": "SCREEN 1",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Political"
+                    ],
+                    "statusColor": "Y",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "31249__1736500200__3679__15043",
+                    "pid": 736,
+                    "pkey": "ticketnew",
+                    "cid": 9132,
+                    "mid": "OB1H21",
+                    "fid": "URJofQgl6U",
+                    "showTime": "2025-01-10T09:10",
+                    "closeTime": "2025-01-10T09:10",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "33",
+                            "label": "FIRST CLASS",
+                            "typeCode": "31249__1736500200__3679__15043_FIRST CLASS",
+                            "sType": "fixed",
+                            "sAvail": 119,
+                            "sTotal": 182,
+                            "price": 300.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "34",
+                            "label": "SECOND CLASS",
+                            "typeCode": "31249__1736500200__3679__15043_SECOND CLASS",
+                            "sType": "fixed",
+                            "sAvail": 0,
+                            "sTotal": 64,
+                            "price": 300.0,
+                            "statusColor": "D"
+                        }
+                    ],
+                    "total": 246,
+                    "avail": 119,
+                    "audi": "SCREEN 2",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Political"
+                    ],
+                    "statusColor": "G",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "31249__1736524800__3678__15040",
+                    "pid": 736,
+                    "pkey": "ticketnew",
+                    "cid": 9132,
+                    "mid": "OB1H21",
+                    "fid": "URJofQgl6U",
+                    "showTime": "2025-01-10T16:00",
+                    "closeTime": "2025-01-10T16:00",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "20",
+                            "label": "FIRST CLASS",
+                            "typeCode": "31249__1736524800__3678__15040_FIRST CLASS",
+                            "sType": "fixed",
+                            "sAvail": 54,
+                            "sTotal": 261,
+                            "price": 300.0,
+                            "statusColor": "Y"
+                        },
+                        {
+                            "code": "30",
+                            "label": "SECOND CLASS",
+                            "typeCode": "31249__1736524800__3678__15040_SECOND CLASS",
+                            "sType": "fixed",
+                            "sAvail": 42,
+                            "sTotal": 84,
+                            "price": 300.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 345,
+                    "avail": 96,
+                    "audi": "SCREEN 1",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Political"
+                    ],
+                    "statusColor": "Y",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "31249__1736525400__3679__15045",
+                    "pid": 736,
+                    "pkey": "ticketnew",
+                    "cid": 9132,
+                    "mid": "OB1H21",
+                    "fid": "URJofQgl6U",
+                    "showTime": "2025-01-10T16:10",
+                    "closeTime": "2025-01-10T16:10",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "33",
+                            "label": "FIRST CLASS",
+                            "typeCode": "31249__1736525400__3679__15045_FIRST CLASS",
+                            "sType": "fixed",
+                            "sAvail": 85,
+                            "sTotal": 182,
+                            "price": 300.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "34",
+                            "label": "SECOND CLASS",
+                            "typeCode": "31249__1736525400__3679__15045_SECOND CLASS",
+                            "sType": "fixed",
+                            "sAvail": 0,
+                            "sTotal": 64,
+                            "price": 300.0,
+                            "statusColor": "D"
+                        }
+                    ],
+                    "total": 246,
+                    "avail": 85,
+                    "audi": "SCREEN 2",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Political"
+                    ],
+                    "statusColor": "Y",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "31249__1736512800__3679__15044",
+                    "pid": 736,
+                    "pkey": "ticketnew",
+                    "cid": 9132,
+                    "mid": "OB1H21",
+                    "fid": "URJofQgl6U",
+                    "showTime": "2025-01-10T12:40",
+                    "closeTime": "2025-01-10T12:40",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "33",
+                            "label": "FIRST CLASS",
+                            "typeCode": "31249__1736512800__3679__15044_FIRST CLASS",
+                            "sType": "fixed",
+                            "sAvail": 95,
+                            "sTotal": 182,
+                            "price": 300.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "34",
+                            "label": "SECOND CLASS",
+                            "typeCode": "31249__1736512800__3679__15044_SECOND CLASS",
+                            "sType": "fixed",
+                            "sAvail": 0,
+                            "sTotal": 64,
+                            "price": 300.0,
+                            "statusColor": "D"
+                        }
+                    ],
+                    "total": 246,
+                    "avail": 95,
+                    "audi": "SCREEN 2",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Political"
+                    ],
+                    "statusColor": "Y",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "31249__1736487600__3679__15042",
+                    "pid": 736,
+                    "pkey": "ticketnew",
+                    "cid": 9132,
+                    "mid": "OB1H21",
+                    "fid": "URJofQgl6U",
+                    "showTime": "2025-01-10T05:40",
+                    "closeTime": "2025-01-10T05:40",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "33",
+                            "label": "FIRST CLASS",
+                            "typeCode": "31249__1736487600__3679__15042_FIRST CLASS",
+                            "sType": "fixed",
+                            "sAvail": 111,
+                            "sTotal": 182,
+                            "price": 300.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "34",
+                            "label": "SECOND CLASS",
+                            "typeCode": "31249__1736487600__3679__15042_SECOND CLASS",
+                            "sType": "fixed",
+                            "sAvail": 0,
+                            "sTotal": 64,
+                            "price": 300.0,
+                            "statusColor": "D"
+                        }
+                    ],
+                    "total": 246,
+                    "avail": 111,
+                    "audi": "SCREEN 2",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Political"
+                    ],
+                    "statusColor": "G",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "31249__1736465400__3678__15036",
+                    "pid": 736,
+                    "pkey": "ticketnew",
+                    "cid": 9132,
+                    "mid": "OB1H21",
+                    "fid": "URJofQgl6U",
+                    "showTime": "2025-01-09T23:30",
+                    "closeTime": "2025-01-09T23:30",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "20",
+                            "label": "FIRST CLASS",
+                            "typeCode": "31249__1736465400__3678__15036_FIRST CLASS",
+                            "sType": "fixed",
+                            "sAvail": 34,
+                            "sTotal": 261,
+                            "price": 300.0,
+                            "statusColor": "Y"
+                        },
+                        {
+                            "code": "30",
+                            "label": "SECOND CLASS",
+                            "typeCode": "31249__1736465400__3678__15036_SECOND CLASS",
+                            "sType": "fixed",
+                            "sAvail": 42,
+                            "sTotal": 84,
+                            "price": 300.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 345,
+                    "avail": 76,
+                    "audi": "SCREEN 1",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Political"
+                    ],
+                    "statusColor": "Y",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "31249__1736499600__3678__15038",
+                    "pid": 736,
+                    "pkey": "ticketnew",
+                    "cid": 9132,
+                    "mid": "OB1H21",
+                    "fid": "URJofQgl6U",
+                    "showTime": "2025-01-10T09:00",
+                    "closeTime": "2025-01-10T09:00",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "20",
+                            "label": "FIRST CLASS",
+                            "typeCode": "31249__1736499600__3678__15038_FIRST CLASS",
+                            "sType": "fixed",
+                            "sAvail": 88,
+                            "sTotal": 261,
+                            "price": 300.0,
+                            "statusColor": "Y"
+                        },
+                        {
+                            "code": "30",
+                            "label": "SECOND CLASS",
+                            "typeCode": "31249__1736499600__3678__15038_SECOND CLASS",
+                            "sType": "fixed",
+                            "sAvail": 42,
+                            "sTotal": 84,
+                            "price": 300.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 345,
+                    "avail": 130,
+                    "audi": "SCREEN 1",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Political"
+                    ],
+                    "statusColor": "Y",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "31249__1736466000__3679__15041",
+                    "pid": 736,
+                    "pkey": "ticketnew",
+                    "cid": 9132,
+                    "mid": "OB1H21",
+                    "fid": "URJofQgl6U",
+                    "showTime": "2025-01-09T23:40",
+                    "closeTime": "2025-01-09T23:40",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "33",
+                            "label": "FIRST CLASS",
+                            "typeCode": "31249__1736466000__3679__15041_FIRST CLASS",
+                            "sType": "fixed",
+                            "sAvail": 66,
+                            "sTotal": 182,
+                            "price": 300.0,
+                            "statusColor": "Y"
+                        },
+                        {
+                            "code": "34",
+                            "label": "SECOND CLASS",
+                            "typeCode": "31249__1736466000__3679__15041_SECOND CLASS",
+                            "sType": "fixed",
+                            "sAvail": 32,
+                            "sTotal": 64,
+                            "price": 300.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 246,
+                    "avail": 98,
+                    "audi": "SCREEN 2",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Political"
+                    ],
+                    "statusColor": "Y",
+                    "subtitle": ""
+                }
+            ]
+        }
+    }
+}

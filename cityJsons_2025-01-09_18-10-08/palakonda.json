@@ -1,0 +1,1545 @@
+{
+    "serverTime": 1736446324,
+    "meta": {
+        "movies": [
+            {
+                "id": "OB1H21",
+                "frmtId": "URJofQgl6U",
+                "name": "Game Changer",
+                "imgPath": null,
+                "appImgPath": "https://assetscdn1.paytm.com/images/cinema/Game%20Changer-3cf95ad0-cce0-11ef-a9e2-63c420e5944f.jpeg",
+                "cvrPath": "https://assetscdn1.paytm.com/images/cinema/web-cover-3dd26890-893b-11ef-b30d-5d8b2ded08e1.jpg",
+                "appCvrPath": "https://assetscdn1.paytm.com/images/cinema/app-cover-3dd0e1f0-893b-11ef-80ee-5d6ff5e29b7e.jpg",
+                "thumbnail": null,
+                "edgeBanner": null,
+                "trailer": "https://youtu.be/zHiKFSBO_JE",
+                "censor": "UA13+",
+                "duration": 165,
+                "grn": [
+                    "Action",
+                    "Drama",
+                    "Political"
+                ],
+                "scrnFmt": "2D",
+                "sndFmt": null,
+                "rnr": {
+                    "hasUReview": 0,
+                    "hasContent": 1
+                },
+                "isNew": false,
+                "imxImgUrl": null,
+                "contentId": 161066,
+                "label": "Game Changer",
+                "lang": "Telugu"
+            },
+            {
+                "id": "OB2DEG",
+                "frmtId": "URJofQgl6U",
+                "name": "Game Changer",
+                "imgPath": "assetscdn.paytm.com/HO00016460.jpg",
+                "appImgPath": "https://assetscdn1.paytm.com/images/cinema/Game%20Changer-54815f40-cce0-11ef-9d5d-039fb0afc1eb.jpeg",
+                "cvrPath": null,
+                "appCvrPath": null,
+                "thumbnail": null,
+                "edgeBanner": null,
+                "trailer": "https://youtu.be/zHiKFSBO_JE",
+                "censor": "UA13+",
+                "duration": 165,
+                "grn": [
+                    "Action",
+                    "Drama",
+                    "Political"
+                ],
+                "scrnFmt": "IMAX 2D",
+                "sndFmt": null,
+                "rnr": {
+                    "hasUReview": 0,
+                    "hasContent": 1
+                },
+                "isNew": false,
+                "imxImgUrl": "https://assetscdn1.paytm.com/images/cinema/game-changer-IMAX-7c48aef0-ce6d-11ef-a96a-c578998c2414.jpg",
+                "contentId": 161066,
+                "label": "Game Changer",
+                "lang": "Telugu"
+            }
+        ],
+        "filterBuckets": {
+            "timeBuckets": [
+                {
+                    "sTime": "05:00",
+                    "eTime": "11:59",
+                    "desc": "5:00 AM to 11:59 AM",
+                    "dText": "Morning",
+                    "desc1": "Till 12 PM"
+                },
+                {
+                    "sTime": "12:00",
+                    "eTime": "15:59",
+                    "desc": "12:00 PM to 3:59 PM",
+                    "dText": "Afternoon",
+                    "desc1": "Till 4 PM"
+                },
+                {
+                    "sTime": "16:00",
+                    "eTime": "18:59",
+                    "desc": "4:00 PM to 6:59 PM",
+                    "dText": "Evening",
+                    "desc1": "Till 7 PM"
+                },
+                {
+                    "sTime": "19:00",
+                    "eTime": "04:59",
+                    "desc": "7:00 PM to 4:59 AM",
+                    "dText": "Night",
+                    "desc1": "After 7 PM"
+                }
+            ],
+            "priceBuckets": [
+                {
+                    "min": "200",
+                    "max": "300",
+                    "desc": "\u20b9 200 - \u20b9 300"
+                },
+                {
+                    "min": "300",
+                    "max": "600",
+                    "desc": "\u20b9 300 - \u20b9 600"
+                }
+            ],
+            "showTimeBuckets": [
+                {
+                    "sTime": "00:00",
+                    "eTime": "08:00",
+                    "desc": "12 AM to 8 AM",
+                    "dText": "Early Morning",
+                    "desc1": "Till 8 AM",
+                    "isEnabled": false
+                },
+                {
+                    "sTime": "08:00",
+                    "eTime": "12:00",
+                    "desc": "8 AM to 12 PM",
+                    "dText": "Morning",
+                    "desc1": "Till 12 PM",
+                    "isEnabled": false
+                },
+                {
+                    "sTime": "12:00",
+                    "eTime": "16:00",
+                    "desc": "12 PM to 4 PM",
+                    "dText": "Afternoon",
+                    "desc1": "Till 4 PM",
+                    "isEnabled": false
+                },
+                {
+                    "sTime": "16:00",
+                    "eTime": "19:00",
+                    "desc": "4 PM to 7 PM",
+                    "dText": "Evening",
+                    "desc1": "Till 7 PM",
+                    "isEnabled": false
+                },
+                {
+                    "sTime": "19:00",
+                    "eTime": "23:59",
+                    "desc": "7 PM to 12 AM",
+                    "dText": "Night",
+                    "desc1": "Till 12 AM",
+                    "isEnabled": true
+                }
+            ]
+        },
+        "amenities": [
+            {
+                "id": 2,
+                "name": "Parking",
+                "rank": 1,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Parking-c79a3400-95f6-11ef-a253-33f238ee5f34.png"
+            },
+            {
+                "id": 1,
+                "name": "Mobile Ticket",
+                "rank": 2,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Mobile%20Ticket-bc527a30-95f6-11ef-b954-a1c7e1e4be25.png"
+            },
+            {
+                "id": 3,
+                "name": "Food & Beverages",
+                "rank": 3,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/F%26B-938587f0-95f6-11ef-b954-a1c7e1e4be25.png"
+            },
+            {
+                "id": 5,
+                "name": "Recliners",
+                "rank": 4,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Seat-13023560-95f6-11ef-b954-a1c7e1e4be25.png"
+            },
+            {
+                "id": 6,
+                "name": "Digital Payments",
+                "rank": 5,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Payment-eab8cb00-95f5-11ef-a253-33f238ee5f34.png"
+            },
+            {
+                "id": 4,
+                "name": "Wheelchair Friendly",
+                "rank": 6,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Wheelchair-73f627a0-95f6-11ef-a253-33f238ee5f34.png"
+            },
+            {
+                "id": 7,
+                "name": "RGB Laser",
+                "rank": 7,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Screen-fef54df0-95f5-11ef-b954-a1c7e1e4be25.png"
+            },
+            {
+                "id": 8,
+                "name": "Dolby Atmos",
+                "rank": 8,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Audio-4acee060-95f6-11ef-b954-a1c7e1e4be25.png"
+            },
+            {
+                "id": 9,
+                "name": "IMAX",
+                "rank": 9,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Screen-fef54df0-95f5-11ef-b954-a1c7e1e4be25.png"
+            },
+            {
+                "id": 10,
+                "name": "4K",
+                "rank": 10,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Screen-fef54df0-95f5-11ef-b954-a1c7e1e4be25.png"
+            },
+            {
+                "id": 12,
+                "name": "WIFI",
+                "rank": 12,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Wifi-5646f900-95f6-11ef-b954-a1c7e1e4be25.png"
+            },
+            {
+                "id": 14,
+                "name": "Gaming Zone",
+                "rank": 14,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Gaming-d3353df0-95f6-11ef-a253-33f238ee5f34.png"
+            },
+            {
+                "id": 15,
+                "name": "2K",
+                "rank": 15,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Screen-fef54df0-95f5-11ef-b954-a1c7e1e4be25.png"
+            },
+            {
+                "id": 17,
+                "name": "4DX",
+                "rank": 17,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Screen-fef54df0-95f5-11ef-b954-a1c7e1e4be25.png"
+            },
+            {
+                "id": 18,
+                "name": "Dolby 7.1",
+                "rank": 18,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Audio-4acee060-95f6-11ef-b954-a1c7e1e4be25.png"
+            },
+            {
+                "id": 19,
+                "name": "Air Conditioning",
+                "rank": 19,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/AC-d92791f0-95f5-11ef-b954-a1c7e1e4be25.png"
+            },
+            {
+                "id": 20,
+                "name": "Metro Nearby",
+                "rank": 20,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Metro-08856cb0-95f6-11ef-b954-a1c7e1e4be25.png"
+            },
+            {
+                "id": 21,
+                "name": "Sofa",
+                "rank": 21,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Seat-13023560-95f6-11ef-b954-a1c7e1e4be25.png"
+            },
+            {
+                "id": 24,
+                "name": "Silver Screen",
+                "rank": 24,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Screen-fef54df0-95f5-11ef-b954-a1c7e1e4be25.png"
+            },
+            {
+                "id": 28,
+                "name": "Free Parking",
+                "rank": 28,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Parking-c79a3400-95f6-11ef-a253-33f238ee5f34.png"
+            },
+            {
+                "id": 29,
+                "name": "Baggage Counter",
+                "rank": 29,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Baggage%20counter-f4cbae50-95f5-11ef-a253-33f238ee5f34.png"
+            },
+            {
+                "id": 30,
+                "name": "Dolby 4 Way 11.1",
+                "rank": 30,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Audio-4acee060-95f6-11ef-b954-a1c7e1e4be25.png"
+            },
+            {
+                "id": 31,
+                "name": "Barco 4K Ultra HD",
+                "rank": 31,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Screen-fef54df0-95f5-11ef-b954-a1c7e1e4be25.png"
+            }
+        ],
+        "cinemas": [
+            {
+                "id": 62512,
+                "pid": 736,
+                "name": "Sri Rama Kalamandir And Sri Sai Kalamandir, Palakonda",
+                "address": "JQ35 694, Palakonda, Palakonda Mandal, Srikakulam District Palakonda, Andhra Pradesh 532440, India",
+                "pincode": "532440",
+                "lat": 18.603019,
+                "lon": 83.758463,
+                "cityId": 727,
+                "appCovrImgUrl": "",
+                "covrImgUrl": "",
+                "fnb": 0,
+                "mTkt": 0,
+                "bCode": "0",
+                "sTop": 0,
+                "isMerchantCancellable": 0,
+                "cinemaLogoUrl": "https://assetscdn1.paytm.com/images/cinema/Theatre%403x-a4b1cf60-676c-11ef-8bfd-85c2f3bcaac6.png",
+                "cinemaVideoUrl": "",
+                "appCoverVideoUrl": "",
+                "webCoverVideoUrl": "",
+                "amenities": null,
+                "promos": null,
+                "chainKey": "TicketNew",
+                "contentId": 160873,
+                "theatreGroupName": "",
+                "amenitiesOrder": null,
+                "carouselAttachments": [],
+                "isPassEnabled": 0,
+                "paytmCinemaId": 62512,
+                "city": "Palakonda",
+                "clientId": "ticketnew",
+                "isMapped": 0,
+                "city_id": null,
+                "is_city_mapped": null,
+                "state": "andhra-pradesh",
+                "city_key": null,
+                "label": "Sri Rama Kalamandir And Sri Sai Kalamandir, Palakonda",
+                "sessionCount": 10
+            },
+            {
+                "id": 25178,
+                "pid": 1494,
+                "name": "Sun Cinemax AC DTS, Venkata Gouri, Palakonda",
+                "address": "Rajam-Palkonda Road, Near Siva Temple, Palakonda, Andhra Pradesh 532440, India",
+                "pincode": "532440",
+                "lat": 18.60024,
+                "lon": 83.75204,
+                "cityId": 727,
+                "appCovrImgUrl": "",
+                "covrImgUrl": "",
+                "fnb": 0,
+                "mTkt": 1,
+                "bCode": "0",
+                "sTop": 0,
+                "isMerchantCancellable": 0,
+                "cinemaLogoUrl": "https://assetscdn1.paytm.com/images/cinema/Theatre%403x-a4b1cf60-676c-11ef-8bfd-85c2f3bcaac6.png",
+                "cinemaVideoUrl": "",
+                "appCoverVideoUrl": "",
+                "webCoverVideoUrl": "",
+                "amenities": null,
+                "promos": null,
+                "chainKey": "Sun Cinemax",
+                "contentId": 153389,
+                "theatreGroupName": "",
+                "amenitiesOrder": null,
+                "carouselAttachments": [],
+                "isPassEnabled": 0,
+                "paytmCinemaId": 25178,
+                "city": "Palakonda",
+                "clientId": "ticketnew",
+                "isMapped": 0,
+                "city_id": null,
+                "is_city_mapped": null,
+                "state": "andhra-pradesh",
+                "city_key": null,
+                "label": "Sun Cinemax AC DTS, Venkata Gouri, Palakonda",
+                "sessionCount": 19
+            }
+        ],
+        "filterData": {
+            "minSTime": "19:45",
+            "maxSTime": "16:30",
+            "minPrice": 235.0,
+            "maxPrice": 600.0,
+            "premium": false,
+            "freeSeats": false,
+            "groupSeats": false,
+            "tokenFeeSeats": false,
+            "scnFrmts": [
+                "2D",
+                "IMAX 2D"
+            ],
+            "sndFrmts": [],
+            "mLangs": [
+                "Telugu"
+            ],
+            "genres": [
+                "Action",
+                "Drama",
+                "Political"
+            ],
+            "premiumSessionCount": 0,
+            "totalSessionCount": 21,
+            "showTimeList": [
+                "10:15",
+                "14:15",
+                "18:00",
+                "21:30",
+                "06:00",
+                "14:30",
+                "21:30",
+                "06:15",
+                "18:15",
+                "10:30",
+                "14:10",
+                "14:00",
+                "10:00",
+                "18:10",
+                "06:00",
+                "18:00",
+                "21:45",
+                "06:10",
+                "01:15",
+                "10:10",
+                "22:00"
+            ],
+            "quickFilterScnFrmts": [
+                "IMAX 2D"
+            ],
+            "quickFilterLanguages": [
+                "Telugu"
+            ],
+            "priceRangeSet": [
+                "price_600_to_700",
+                "price_500_to_600",
+                "price_200_to_300"
+            ]
+        },
+        "quickFilterData": {
+            "scnFrmts": [
+                "IMAX 2D"
+            ],
+            "premium": false,
+            "showTimeBuckets": [
+                {
+                    "sTime": "08:00",
+                    "eTime": "12:00",
+                    "desc": "8 AM to 12 PM",
+                    "dText": "Morning",
+                    "desc1": "Till 12 PM"
+                },
+                {
+                    "sTime": "17:00",
+                    "eTime": "23:59",
+                    "desc": "5 PM to 11:59 PM",
+                    "dText": "After 5 PM",
+                    "desc1": "Till 11:59 PM"
+                }
+            ]
+        }
+    },
+    "data": {
+        "pageSize": 100,
+        "cinemasOrder": [
+            62512,
+            25178
+        ],
+        "sessionDates": [
+            "2025-01-10",
+            "2025-01-11",
+            "2025-01-12"
+        ]
+    },
+    "pageData": {
+        "sessions": {
+            "62512": [
+                {
+                    "sid": "31249__1736484300__5516__13187",
+                    "pid": 736,
+                    "pkey": "ticketnew",
+                    "cid": 62512,
+                    "mid": "OB1H21",
+                    "fid": "URJofQgl6U",
+                    "showTime": "2025-01-10T04:45",
+                    "closeTime": "2025-01-10T04:45",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "61",
+                            "label": "PREMIUM",
+                            "typeCode": "31249__1736484300__5516__13187_PREMIUM",
+                            "sType": "fixed",
+                            "sAvail": 25,
+                            "sTotal": 166,
+                            "price": 235.0,
+                            "statusColor": "Y"
+                        },
+                        {
+                            "code": "62",
+                            "label": "NON PREMIUM",
+                            "typeCode": "31249__1736484300__5516__13187_NON PREMIUM",
+                            "sType": "fixed",
+                            "sAvail": 78,
+                            "sTotal": 78,
+                            "price": 235.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 244,
+                    "avail": 103,
+                    "audi": "Sri Sai Kalamandir",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Political"
+                    ],
+                    "statusColor": "G",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "31249__1736498700__5516__13188",
+                    "pid": 736,
+                    "pkey": "ticketnew",
+                    "cid": 62512,
+                    "mid": "OB1H21",
+                    "fid": "URJofQgl6U",
+                    "showTime": "2025-01-10T08:45",
+                    "closeTime": "2025-01-10T08:45",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "61",
+                            "label": "PREMIUM",
+                            "typeCode": "31249__1736498700__5516__13188_PREMIUM",
+                            "sType": "fixed",
+                            "sAvail": 53,
+                            "sTotal": 166,
+                            "price": 235.0,
+                            "statusColor": "Y"
+                        },
+                        {
+                            "code": "62",
+                            "label": "NON PREMIUM",
+                            "typeCode": "31249__1736498700__5516__13188_NON PREMIUM",
+                            "sType": "fixed",
+                            "sAvail": 78,
+                            "sTotal": 78,
+                            "price": 235.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 244,
+                    "avail": 131,
+                    "audi": "Sri Sai Kalamandir",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Political"
+                    ],
+                    "statusColor": "G",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "31249__1736512200__5516__13189",
+                    "pid": 736,
+                    "pkey": "ticketnew",
+                    "cid": 62512,
+                    "mid": "OB1H21",
+                    "fid": "URJofQgl6U",
+                    "showTime": "2025-01-10T12:30",
+                    "closeTime": "2025-01-10T12:30",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "61",
+                            "label": "PREMIUM",
+                            "typeCode": "31249__1736512200__5516__13189_PREMIUM",
+                            "sType": "fixed",
+                            "sAvail": 49,
+                            "sTotal": 166,
+                            "price": 235.0,
+                            "statusColor": "Y"
+                        },
+                        {
+                            "code": "62",
+                            "label": "NON PREMIUM",
+                            "typeCode": "31249__1736512200__5516__13189_NON PREMIUM",
+                            "sType": "fixed",
+                            "sAvail": 78,
+                            "sTotal": 78,
+                            "price": 235.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 244,
+                    "avail": 127,
+                    "audi": "Sri Sai Kalamandir",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Political"
+                    ],
+                    "statusColor": "G",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "31249__1736524800__5516__13190",
+                    "pid": 736,
+                    "pkey": "ticketnew",
+                    "cid": 62512,
+                    "mid": "OB1H21",
+                    "fid": "URJofQgl6U",
+                    "showTime": "2025-01-10T16:00",
+                    "closeTime": "2025-01-10T16:00",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "61",
+                            "label": "PREMIUM",
+                            "typeCode": "31249__1736524800__5516__13190_PREMIUM",
+                            "sType": "fixed",
+                            "sAvail": 59,
+                            "sTotal": 166,
+                            "price": 235.0,
+                            "statusColor": "Y"
+                        },
+                        {
+                            "code": "62",
+                            "label": "NON PREMIUM",
+                            "typeCode": "31249__1736524800__5516__13190_NON PREMIUM",
+                            "sType": "fixed",
+                            "sAvail": 78,
+                            "sTotal": 78,
+                            "price": 235.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 244,
+                    "avail": 137,
+                    "audi": "Sri Sai Kalamandir",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Political"
+                    ],
+                    "statusColor": "G",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "31249__1736469000__5516__13186",
+                    "pid": 736,
+                    "pkey": "ticketnew",
+                    "cid": 62512,
+                    "mid": "OB1H21",
+                    "fid": "URJofQgl6U",
+                    "showTime": "2025-01-10T00:30",
+                    "closeTime": "2025-01-10T00:30",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "61",
+                            "label": "PREMIUM",
+                            "typeCode": "31249__1736469000__5516__13186_PREMIUM",
+                            "sType": "fixed",
+                            "sAvail": 0,
+                            "sTotal": 166,
+                            "price": 235.0,
+                            "statusColor": "D"
+                        },
+                        {
+                            "code": "62",
+                            "label": "NON PREMIUM",
+                            "typeCode": "31249__1736469000__5516__13186_NON PREMIUM",
+                            "sType": "fixed",
+                            "sAvail": 78,
+                            "sTotal": 78,
+                            "price": 235.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 244,
+                    "avail": 78,
+                    "audi": "Sri Sai Kalamandir",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Political"
+                    ],
+                    "statusColor": "Y",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "31249__1736499600__5515__13173",
+                    "pid": 736,
+                    "pkey": "ticketnew",
+                    "cid": 62512,
+                    "mid": "OB1H21",
+                    "fid": "URJofQgl6U",
+                    "showTime": "2025-01-10T09:00",
+                    "closeTime": "2025-01-10T09:00",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "61",
+                            "label": "PREMIUM",
+                            "typeCode": "31249__1736499600__5515__13173_PREMIUM",
+                            "sType": "fixed",
+                            "sAvail": 184,
+                            "sTotal": 298,
+                            "price": 235.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "62",
+                            "label": "NON PREMIUM",
+                            "typeCode": "31249__1736499600__5515__13173_NON PREMIUM",
+                            "sType": "fixed",
+                            "sAvail": 107,
+                            "sTotal": 107,
+                            "price": 235.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 405,
+                    "avail": 291,
+                    "audi": "Sri Rama Kalamandir",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Political"
+                    ],
+                    "statusColor": "G",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "31249__1736524800__5515__13175",
+                    "pid": 736,
+                    "pkey": "ticketnew",
+                    "cid": 62512,
+                    "mid": "OB1H21",
+                    "fid": "URJofQgl6U",
+                    "showTime": "2025-01-10T16:00",
+                    "closeTime": "2025-01-10T16:00",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "61",
+                            "label": "PREMIUM",
+                            "typeCode": "31249__1736524800__5515__13175_PREMIUM",
+                            "sType": "fixed",
+                            "sAvail": 162,
+                            "sTotal": 298,
+                            "price": 235.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "62",
+                            "label": "NON PREMIUM",
+                            "typeCode": "31249__1736524800__5515__13175_NON PREMIUM",
+                            "sType": "fixed",
+                            "sAvail": 107,
+                            "sTotal": 107,
+                            "price": 235.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 405,
+                    "avail": 269,
+                    "audi": "Sri Rama Kalamandir",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Political"
+                    ],
+                    "statusColor": "G",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "31249__1736469900__5515__13171",
+                    "pid": 736,
+                    "pkey": "ticketnew",
+                    "cid": 62512,
+                    "mid": "OB1H21",
+                    "fid": "URJofQgl6U",
+                    "showTime": "2025-01-10T00:45",
+                    "closeTime": "2025-01-10T00:45",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "61",
+                            "label": "PREMIUM",
+                            "typeCode": "31249__1736469900__5515__13171_PREMIUM",
+                            "sType": "fixed",
+                            "sAvail": 12,
+                            "sTotal": 298,
+                            "price": 235.0,
+                            "statusColor": "R"
+                        },
+                        {
+                            "code": "62",
+                            "label": "NON PREMIUM",
+                            "typeCode": "31249__1736469900__5515__13171_NON PREMIUM",
+                            "sType": "fixed",
+                            "sAvail": 106,
+                            "sTotal": 107,
+                            "price": 235.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 405,
+                    "avail": 118,
+                    "audi": "Sri Rama Kalamandir",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Political"
+                    ],
+                    "statusColor": "Y",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "31249__1736513100__5515__13174",
+                    "pid": 736,
+                    "pkey": "ticketnew",
+                    "cid": 62512,
+                    "mid": "OB1H21",
+                    "fid": "URJofQgl6U",
+                    "showTime": "2025-01-10T12:45",
+                    "closeTime": "2025-01-10T12:45",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "61",
+                            "label": "PREMIUM",
+                            "typeCode": "31249__1736513100__5515__13174_PREMIUM",
+                            "sType": "fixed",
+                            "sAvail": 139,
+                            "sTotal": 298,
+                            "price": 235.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "62",
+                            "label": "NON PREMIUM",
+                            "typeCode": "31249__1736513100__5515__13174_NON PREMIUM",
+                            "sType": "fixed",
+                            "sAvail": 107,
+                            "sTotal": 107,
+                            "price": 235.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 405,
+                    "avail": 246,
+                    "audi": "Sri Rama Kalamandir",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Political"
+                    ],
+                    "statusColor": "G",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "31249__1736485200__5515__13172",
+                    "pid": 736,
+                    "pkey": "ticketnew",
+                    "cid": 62512,
+                    "mid": "OB1H21",
+                    "fid": "URJofQgl6U",
+                    "showTime": "2025-01-10T05:00",
+                    "closeTime": "2025-01-10T05:00",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "61",
+                            "label": "PREMIUM",
+                            "typeCode": "31249__1736485200__5515__13172_PREMIUM",
+                            "sType": "fixed",
+                            "sAvail": 96,
+                            "sTotal": 298,
+                            "price": 235.0,
+                            "statusColor": "Y"
+                        },
+                        {
+                            "code": "62",
+                            "label": "NON PREMIUM",
+                            "typeCode": "31249__1736485200__5515__13172_NON PREMIUM",
+                            "sType": "fixed",
+                            "sAvail": 107,
+                            "sTotal": 107,
+                            "price": 235.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 405,
+                    "avail": 203,
+                    "audi": "Sri Rama Kalamandir",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Political"
+                    ],
+                    "statusColor": "G",
+                    "subtitle": ""
+                }
+            ],
+            "25178": [
+                {
+                    "sid": "31338__1736498400__4977__9693",
+                    "pid": 1494,
+                    "pkey": "ticketnew",
+                    "cid": 25178,
+                    "mid": "OB2DEG",
+                    "fid": "URJofQgl6U",
+                    "showTime": "2025-01-10T08:40",
+                    "closeTime": "2025-01-10T08:40",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "74",
+                            "label": "PREMIUM",
+                            "typeCode": "31338__1736498400__4977__9693_PREMIUM",
+                            "sType": "fixed",
+                            "sAvail": 92,
+                            "sTotal": 122,
+                            "price": 235.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "75",
+                            "label": "NON PREMIUM",
+                            "typeCode": "31338__1736498400__4977__9693_NON PREMIUM",
+                            "sType": "fixed",
+                            "sAvail": 46,
+                            "sTotal": 46,
+                            "price": 235.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 168,
+                    "avail": 138,
+                    "audi": "SCREEN2",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "IMAX 2D",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Political"
+                    ],
+                    "statusColor": "G",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "31338__1736497800__4974__9668",
+                    "pid": 1494,
+                    "pkey": "ticketnew",
+                    "cid": 25178,
+                    "mid": "OB2DEG",
+                    "fid": "URJofQgl6U",
+                    "showTime": "2025-01-10T08:30",
+                    "closeTime": "2025-01-10T08:30",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "71",
+                            "label": "PREMIUM",
+                            "typeCode": "31338__1736497800__4974__9668_PREMIUM",
+                            "sType": "fixed",
+                            "sAvail": 180,
+                            "sTotal": 247,
+                            "price": 235.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "72",
+                            "label": "NON PREMIUM",
+                            "typeCode": "31338__1736497800__4974__9668_NON PREMIUM",
+                            "sType": "fixed",
+                            "sAvail": 63,
+                            "sTotal": 63,
+                            "price": 235.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 310,
+                    "avail": 243,
+                    "audi": "SCREEN1",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "IMAX 2D",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Political"
+                    ],
+                    "statusColor": "G",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "31338__1736483400__4974__9667",
+                    "pid": 1494,
+                    "pkey": "ticketnew",
+                    "cid": 25178,
+                    "mid": "OB2DEG",
+                    "fid": "URJofQgl6U",
+                    "showTime": "2025-01-10T04:30",
+                    "closeTime": "2025-01-10T04:30",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "71",
+                            "label": "PREMIUM",
+                            "typeCode": "31338__1736483400__4974__9667_PREMIUM",
+                            "sType": "fixed",
+                            "sAvail": 79,
+                            "sTotal": 247,
+                            "price": 235.0,
+                            "statusColor": "Y"
+                        },
+                        {
+                            "code": "72",
+                            "label": "NON PREMIUM",
+                            "typeCode": "31338__1736483400__4974__9667_NON PREMIUM",
+                            "sType": "fixed",
+                            "sAvail": 63,
+                            "sTotal": 63,
+                            "price": 235.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 310,
+                    "avail": 142,
+                    "audi": "SCREEN1",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "IMAX 2D",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Political"
+                    ],
+                    "statusColor": "G",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "31338__1736512800__4977__9694",
+                    "pid": 1494,
+                    "pkey": "ticketnew",
+                    "cid": 25178,
+                    "mid": "OB2DEG",
+                    "fid": "URJofQgl6U",
+                    "showTime": "2025-01-10T12:40",
+                    "closeTime": "2025-01-10T12:40",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "74",
+                            "label": "PREMIUM",
+                            "typeCode": "31338__1736512800__4977__9694_PREMIUM",
+                            "sType": "fixed",
+                            "sAvail": 86,
+                            "sTotal": 122,
+                            "price": 235.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "75",
+                            "label": "NON PREMIUM",
+                            "typeCode": "31338__1736512800__4977__9694_NON PREMIUM",
+                            "sType": "fixed",
+                            "sAvail": 46,
+                            "sTotal": 46,
+                            "price": 235.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 168,
+                    "avail": 132,
+                    "audi": "SCREEN2",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "IMAX 2D",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Political"
+                    ],
+                    "statusColor": "G",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "31338__1736469000__4974__9666",
+                    "pid": 1494,
+                    "pkey": "ticketnew",
+                    "cid": 25178,
+                    "mid": "OB2DEG",
+                    "fid": "URJofQgl6U",
+                    "showTime": "2025-01-10T00:30",
+                    "closeTime": "2025-01-10T00:30",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "71",
+                            "label": "PREMIUM",
+                            "typeCode": "31338__1736469000__4974__9666_PREMIUM",
+                            "sType": "fixed",
+                            "sAvail": 0,
+                            "sTotal": 247,
+                            "price": 235.0,
+                            "statusColor": "D"
+                        },
+                        {
+                            "code": "72",
+                            "label": "NON PREMIUM",
+                            "typeCode": "31338__1736469000__4974__9666_NON PREMIUM",
+                            "sType": "fixed",
+                            "sAvail": 57,
+                            "sTotal": 63,
+                            "price": 235.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 310,
+                    "avail": 57,
+                    "audi": "SCREEN1",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "IMAX 2D",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Political"
+                    ],
+                    "statusColor": "Y",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "31338__1736512200__4974__9669",
+                    "pid": 1494,
+                    "pkey": "ticketnew",
+                    "cid": 25178,
+                    "mid": "OB2DEG",
+                    "fid": "URJofQgl6U",
+                    "showTime": "2025-01-10T12:30",
+                    "closeTime": "2025-01-10T12:30",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "71",
+                            "label": "PREMIUM",
+                            "typeCode": "31338__1736512200__4974__9669_PREMIUM",
+                            "sType": "fixed",
+                            "sAvail": 146,
+                            "sTotal": 247,
+                            "price": 235.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "72",
+                            "label": "NON PREMIUM",
+                            "typeCode": "31338__1736512200__4974__9669_NON PREMIUM",
+                            "sType": "fixed",
+                            "sAvail": 63,
+                            "sTotal": 63,
+                            "price": 235.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 310,
+                    "avail": 209,
+                    "audi": "SCREEN1",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "IMAX 2D",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Political"
+                    ],
+                    "statusColor": "G",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "31338__1736525700__4974__9670",
+                    "pid": 1494,
+                    "pkey": "ticketnew",
+                    "cid": 25178,
+                    "mid": "OB2DEG",
+                    "fid": "URJofQgl6U",
+                    "showTime": "2025-01-10T16:15",
+                    "closeTime": "2025-01-10T16:15",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "71",
+                            "label": "PREMIUM",
+                            "typeCode": "31338__1736525700__4974__9670_PREMIUM",
+                            "sType": "fixed",
+                            "sAvail": 124,
+                            "sTotal": 247,
+                            "price": 235.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "72",
+                            "label": "NON PREMIUM",
+                            "typeCode": "31338__1736525700__4974__9670_NON PREMIUM",
+                            "sType": "fixed",
+                            "sAvail": 63,
+                            "sTotal": 63,
+                            "price": 235.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 310,
+                    "avail": 187,
+                    "audi": "SCREEN1",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "IMAX 2D",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Political"
+                    ],
+                    "statusColor": "G",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "31338__1736469600__4977__9691",
+                    "pid": 1494,
+                    "pkey": "ticketnew",
+                    "cid": 25178,
+                    "mid": "OB2DEG",
+                    "fid": "URJofQgl6U",
+                    "showTime": "2025-01-10T00:40",
+                    "closeTime": "2025-01-10T00:40",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "74",
+                            "label": "PREMIUM",
+                            "typeCode": "31338__1736469600__4977__9691_PREMIUM",
+                            "sType": "fixed",
+                            "sAvail": 0,
+                            "sTotal": 122,
+                            "price": 235.0,
+                            "statusColor": "D"
+                        },
+                        {
+                            "code": "75",
+                            "label": "NON PREMIUM",
+                            "typeCode": "31338__1736469600__4977__9691_NON PREMIUM",
+                            "sType": "fixed",
+                            "sAvail": 38,
+                            "sTotal": 46,
+                            "price": 235.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 168,
+                    "avail": 38,
+                    "audi": "SCREEN2",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "IMAX 2D",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Political"
+                    ],
+                    "statusColor": "Y",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "31338__1736451900__4974__9696",
+                    "pid": 1494,
+                    "pkey": "ticketnew",
+                    "cid": 25178,
+                    "mid": "OB2DEG",
+                    "fid": "URJofQgl6U",
+                    "showTime": "2025-01-09T19:45",
+                    "closeTime": "2025-01-09T19:45",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "71",
+                            "label": "PREMIUM",
+                            "typeCode": "31338__1736451900__4974__9696_PREMIUM",
+                            "sType": "fixed",
+                            "sAvail": 52,
+                            "sTotal": 247,
+                            "price": 600.0,
+                            "statusColor": "Y"
+                        },
+                        {
+                            "code": "72",
+                            "label": "NON PREMIUM",
+                            "typeCode": "31338__1736451900__4974__9696_NON PREMIUM",
+                            "sType": "fixed",
+                            "sAvail": 63,
+                            "sTotal": 63,
+                            "price": 600.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 310,
+                    "avail": 115,
+                    "audi": "SCREEN1",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "IMAX 2D",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Political"
+                    ],
+                    "statusColor": "Y",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "31338__1736484000__4977__9692",
+                    "pid": 1494,
+                    "pkey": "ticketnew",
+                    "cid": 25178,
+                    "mid": "OB2DEG",
+                    "fid": "URJofQgl6U",
+                    "showTime": "2025-01-10T04:40",
+                    "closeTime": "2025-01-10T04:40",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "74",
+                            "label": "PREMIUM",
+                            "typeCode": "31338__1736484000__4977__9692_PREMIUM",
+                            "sType": "fixed",
+                            "sAvail": 52,
+                            "sTotal": 122,
+                            "price": 235.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "75",
+                            "label": "NON PREMIUM",
+                            "typeCode": "31338__1736484000__4977__9692_NON PREMIUM",
+                            "sType": "fixed",
+                            "sAvail": 46,
+                            "sTotal": 46,
+                            "price": 235.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 168,
+                    "avail": 98,
+                    "audi": "SCREEN2",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "IMAX 2D",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Political"
+                    ],
+                    "statusColor": "G",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "31338__1736526600__4977__9695",
+                    "pid": 1494,
+                    "pkey": "ticketnew",
+                    "cid": 25178,
+                    "mid": "OB2DEG",
+                    "fid": "URJofQgl6U",
+                    "showTime": "2025-01-10T16:30",
+                    "closeTime": "2025-01-10T16:30",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "74",
+                            "label": "PREMIUM",
+                            "typeCode": "31338__1736526600__4977__9695_PREMIUM",
+                            "sType": "fixed",
+                            "sAvail": 86,
+                            "sTotal": 122,
+                            "price": 235.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "75",
+                            "label": "NON PREMIUM",
+                            "typeCode": "31338__1736526600__4977__9695_NON PREMIUM",
+                            "sType": "fixed",
+                            "sAvail": 46,
+                            "sTotal": 46,
+                            "price": 235.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 168,
+                    "avail": 132,
+                    "audi": "SCREEN2",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "IMAX 2D",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Political"
+                    ],
+                    "statusColor": "G",
+                    "subtitle": ""
+                }
+            ]
+        }
+    }
+}

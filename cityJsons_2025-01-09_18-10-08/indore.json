@@ -1,0 +1,731 @@
+{
+    "serverTime": 1736446221,
+    "meta": {
+        "movies": [
+            {
+                "id": "OB1H21",
+                "frmtId": "URJofQgl6U",
+                "name": "Game Changer",
+                "imgPath": null,
+                "appImgPath": "https://assetscdn1.paytm.com/images/cinema/Game%20Changer-3cf95ad0-cce0-11ef-a9e2-63c420e5944f.jpeg",
+                "cvrPath": "https://assetscdn1.paytm.com/images/cinema/web-cover-3dd26890-893b-11ef-b30d-5d8b2ded08e1.jpg",
+                "appCvrPath": "https://assetscdn1.paytm.com/images/cinema/app-cover-3dd0e1f0-893b-11ef-80ee-5d6ff5e29b7e.jpg",
+                "thumbnail": null,
+                "edgeBanner": null,
+                "trailer": "https://youtu.be/zHiKFSBO_JE",
+                "censor": "UA13+",
+                "duration": 165,
+                "grn": [
+                    "Action",
+                    "Drama",
+                    "Political"
+                ],
+                "scrnFmt": "2D",
+                "sndFmt": null,
+                "rnr": {
+                    "hasUReview": 0,
+                    "hasContent": 1
+                },
+                "isNew": false,
+                "imxImgUrl": null,
+                "contentId": 161066,
+                "label": "Game Changer",
+                "lang": "Telugu"
+            }
+        ],
+        "filterBuckets": {
+            "timeBuckets": [
+                {
+                    "sTime": "05:00",
+                    "eTime": "11:59",
+                    "desc": "5:00 AM to 11:59 AM",
+                    "dText": "Morning",
+                    "desc1": "Till 12 PM"
+                },
+                {
+                    "sTime": "12:00",
+                    "eTime": "15:59",
+                    "desc": "12:00 PM to 3:59 PM",
+                    "dText": "Afternoon",
+                    "desc1": "Till 4 PM"
+                },
+                {
+                    "sTime": "16:00",
+                    "eTime": "18:59",
+                    "desc": "4:00 PM to 6:59 PM",
+                    "dText": "Evening",
+                    "desc1": "Till 7 PM"
+                },
+                {
+                    "sTime": "19:00",
+                    "eTime": "04:59",
+                    "desc": "7:00 PM to 4:59 AM",
+                    "dText": "Night",
+                    "desc1": "After 7 PM"
+                }
+            ],
+            "priceBuckets": [
+                {
+                    "min": "100",
+                    "max": "200",
+                    "desc": "\u20b9 100 - \u20b9 200"
+                },
+                {
+                    "min": "200",
+                    "max": "300",
+                    "desc": "\u20b9 200 - \u20b9 300"
+                },
+                {
+                    "min": "300",
+                    "max": "400",
+                    "desc": "\u20b9 300 - \u20b9 400"
+                },
+                {
+                    "min": "400",
+                    "max": "500",
+                    "desc": "\u20b9 400 - \u20b9 500"
+                }
+            ],
+            "showTimeBuckets": [
+                {
+                    "sTime": "00:00",
+                    "eTime": "08:00",
+                    "desc": "12 AM to 8 AM",
+                    "dText": "Early Morning",
+                    "desc1": "Till 8 AM",
+                    "isEnabled": true
+                },
+                {
+                    "sTime": "08:00",
+                    "eTime": "12:00",
+                    "desc": "8 AM to 12 PM",
+                    "dText": "Morning",
+                    "desc1": "Till 12 PM",
+                    "isEnabled": true
+                },
+                {
+                    "sTime": "12:00",
+                    "eTime": "16:00",
+                    "desc": "12 PM to 4 PM",
+                    "dText": "Afternoon",
+                    "desc1": "Till 4 PM",
+                    "isEnabled": true
+                },
+                {
+                    "sTime": "16:00",
+                    "eTime": "19:00",
+                    "desc": "4 PM to 7 PM",
+                    "dText": "Evening",
+                    "desc1": "Till 7 PM",
+                    "isEnabled": true
+                },
+                {
+                    "sTime": "19:00",
+                    "eTime": "23:59",
+                    "desc": "7 PM to 12 AM",
+                    "dText": "Night",
+                    "desc1": "Till 12 AM",
+                    "isEnabled": true
+                }
+            ]
+        },
+        "amenities": [
+            {
+                "id": 2,
+                "name": "Parking",
+                "rank": 1,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Parking-c79a3400-95f6-11ef-a253-33f238ee5f34.png"
+            },
+            {
+                "id": 1,
+                "name": "Mobile Ticket",
+                "rank": 2,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Mobile%20Ticket-bc527a30-95f6-11ef-b954-a1c7e1e4be25.png"
+            },
+            {
+                "id": 3,
+                "name": "Food & Beverages",
+                "rank": 3,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/F%26B-938587f0-95f6-11ef-b954-a1c7e1e4be25.png"
+            },
+            {
+                "id": 5,
+                "name": "Recliners",
+                "rank": 4,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Seat-13023560-95f6-11ef-b954-a1c7e1e4be25.png"
+            },
+            {
+                "id": 6,
+                "name": "Digital Payments",
+                "rank": 5,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Payment-eab8cb00-95f5-11ef-a253-33f238ee5f34.png"
+            },
+            {
+                "id": 4,
+                "name": "Wheelchair Friendly",
+                "rank": 6,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Wheelchair-73f627a0-95f6-11ef-a253-33f238ee5f34.png"
+            },
+            {
+                "id": 7,
+                "name": "RGB Laser",
+                "rank": 7,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Screen-fef54df0-95f5-11ef-b954-a1c7e1e4be25.png"
+            },
+            {
+                "id": 8,
+                "name": "Dolby Atmos",
+                "rank": 8,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Audio-4acee060-95f6-11ef-b954-a1c7e1e4be25.png"
+            },
+            {
+                "id": 9,
+                "name": "IMAX",
+                "rank": 9,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Screen-fef54df0-95f5-11ef-b954-a1c7e1e4be25.png"
+            },
+            {
+                "id": 10,
+                "name": "4K",
+                "rank": 10,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Screen-fef54df0-95f5-11ef-b954-a1c7e1e4be25.png"
+            },
+            {
+                "id": 12,
+                "name": "WIFI",
+                "rank": 12,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Wifi-5646f900-95f6-11ef-b954-a1c7e1e4be25.png"
+            },
+            {
+                "id": 14,
+                "name": "Gaming Zone",
+                "rank": 14,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Gaming-d3353df0-95f6-11ef-a253-33f238ee5f34.png"
+            },
+            {
+                "id": 15,
+                "name": "2K",
+                "rank": 15,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Screen-fef54df0-95f5-11ef-b954-a1c7e1e4be25.png"
+            },
+            {
+                "id": 17,
+                "name": "4DX",
+                "rank": 17,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Screen-fef54df0-95f5-11ef-b954-a1c7e1e4be25.png"
+            },
+            {
+                "id": 18,
+                "name": "Dolby 7.1",
+                "rank": 18,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Audio-4acee060-95f6-11ef-b954-a1c7e1e4be25.png"
+            },
+            {
+                "id": 19,
+                "name": "Air Conditioning",
+                "rank": 19,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/AC-d92791f0-95f5-11ef-b954-a1c7e1e4be25.png"
+            },
+            {
+                "id": 20,
+                "name": "Metro Nearby",
+                "rank": 20,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Metro-08856cb0-95f6-11ef-b954-a1c7e1e4be25.png"
+            },
+            {
+                "id": 21,
+                "name": "Sofa",
+                "rank": 21,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Seat-13023560-95f6-11ef-b954-a1c7e1e4be25.png"
+            },
+            {
+                "id": 24,
+                "name": "Silver Screen",
+                "rank": 24,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Screen-fef54df0-95f5-11ef-b954-a1c7e1e4be25.png"
+            },
+            {
+                "id": 28,
+                "name": "Free Parking",
+                "rank": 28,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Parking-c79a3400-95f6-11ef-a253-33f238ee5f34.png"
+            },
+            {
+                "id": 29,
+                "name": "Baggage Counter",
+                "rank": 29,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Baggage%20counter-f4cbae50-95f5-11ef-a253-33f238ee5f34.png"
+            },
+            {
+                "id": 30,
+                "name": "Dolby 4 Way 11.1",
+                "rank": 30,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Audio-4acee060-95f6-11ef-b954-a1c7e1e4be25.png"
+            },
+            {
+                "id": 31,
+                "name": "Barco 4K Ultra HD",
+                "rank": 31,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Screen-fef54df0-95f5-11ef-b954-a1c7e1e4be25.png"
+            }
+        ],
+        "cinemas": [
+            {
+                "id": 1023935,
+                "pid": 1446,
+                "name": "Rajhans Cinemas, Malhar Mega Mall, Indore",
+                "address": "Rajhans Cine World Pvt. Ltd. 3rd Floor, Malhar Mega Mall, AB Road Vijay Nagar Indore, Madhya Pradesh 452010, India",
+                "pincode": "452010",
+                "lat": 22.744635,
+                "lon": 75.89435,
+                "cityId": 38,
+                "appCovrImgUrl": "",
+                "covrImgUrl": "",
+                "fnb": 0,
+                "mTkt": 1,
+                "bCode": "21",
+                "sTop": 0,
+                "isMerchantCancellable": 0,
+                "cinemaLogoUrl": "https://assetscdn1.paytm.com/images/cinema/Rajhans-28520af0-b37e-11ed-ad67-190e4e684616%5B1%5D-110df230-dc38-11ee-91a5-4fd500c3a663.png",
+                "cinemaVideoUrl": "",
+                "appCoverVideoUrl": "",
+                "webCoverVideoUrl": "",
+                "amenities": {
+                    "1": 1,
+                    "19": 1,
+                    "5": 1,
+                    "6": 1
+                },
+                "promos": null,
+                "chainKey": "Rajhans Cinemas",
+                "contentId": 170990,
+                "theatreGroupName": "",
+                "amenitiesOrder": [
+                    {
+                        "id": 1,
+                        "rank": 6,
+                        "status": 1
+                    },
+                    {
+                        "id": 5,
+                        "rank": 3,
+                        "status": 1
+                    },
+                    {
+                        "id": 6,
+                        "rank": 4,
+                        "status": 1
+                    },
+                    {
+                        "id": 19,
+                        "rank": 7,
+                        "status": 1
+                    }
+                ],
+                "carouselAttachments": [],
+                "isPassEnabled": 0,
+                "paytmCinemaId": 1023935,
+                "city": "Indore",
+                "clientId": "ticketnew",
+                "isMapped": 0,
+                "city_id": null,
+                "is_city_mapped": null,
+                "state": "madhya-pradesh",
+                "city_key": null,
+                "label": "Rajhans Cinemas, Malhar Mega Mall, Indore",
+                "sessionCount": 58
+            },
+            {
+                "id": 1024420,
+                "pid": 1707,
+                "name": "PVR Treasure Island Mall, South Tukoganj, Indore",
+                "address": "4th Floor, Treasure Island Mall, 11 M.G.Road, South Tukoganj, Indore, Madhya Pradesh 452001, India",
+                "pincode": "452001",
+                "lat": 22.721105,
+                "lon": 75.878642,
+                "cityId": 38,
+                "appCovrImgUrl": "",
+                "covrImgUrl": "",
+                "fnb": 0,
+                "mTkt": 1,
+                "bCode": "0",
+                "sTop": 0,
+                "isMerchantCancellable": 1,
+                "cinemaLogoUrl": "https://assetscdn1.paytm.com/images/cinema/PVR%20circle%20new-e63c67e0-a41d-11ef-8d2a-13243c787688.png",
+                "cinemaVideoUrl": "",
+                "appCoverVideoUrl": "",
+                "webCoverVideoUrl": "",
+                "amenities": {
+                    "1": 1,
+                    "2": 1,
+                    "3": 1,
+                    "19": 1,
+                    "4": 1,
+                    "5": 1,
+                    "6": 1
+                },
+                "promos": null,
+                "chainKey": "PVR",
+                "contentId": 171313,
+                "theatreGroupName": "",
+                "amenitiesOrder": [
+                    {
+                        "id": 1,
+                        "rank": 6,
+                        "status": 1
+                    },
+                    {
+                        "id": 2,
+                        "rank": 2,
+                        "status": 1
+                    },
+                    {
+                        "id": 3,
+                        "rank": 1,
+                        "status": 1
+                    },
+                    {
+                        "id": 4,
+                        "rank": 5,
+                        "status": 1
+                    },
+                    {
+                        "id": 5,
+                        "rank": 3,
+                        "status": 1
+                    },
+                    {
+                        "id": 6,
+                        "rank": 4,
+                        "status": 1
+                    },
+                    {
+                        "id": 19,
+                        "rank": 7,
+                        "status": 1
+                    }
+                ],
+                "carouselAttachments": [],
+                "isPassEnabled": 1,
+                "paytmCinemaId": 1024420,
+                "city": "Indore",
+                "clientId": "ticketnew",
+                "isMapped": 0,
+                "city_id": null,
+                "is_city_mapped": null,
+                "state": "madhya-pradesh",
+                "city_key": null,
+                "label": "PVR Treasure Island Mall, South Tukoganj, Indore",
+                "sessionCount": 131
+            },
+            {
+                "id": 1040946,
+                "pid": 736,
+                "name": "Kalyan Cinemas, Rajendra Nagar, Indore",
+                "address": "Near D-Mart, Rajendra Nagar, Reti Mandi, Indore, Madhya Pradesh 452001, India",
+                "pincode": "452001",
+                "lat": 22.667141,
+                "lon": 75.822815,
+                "cityId": 38,
+                "appCovrImgUrl": "",
+                "covrImgUrl": "",
+                "fnb": 0,
+                "mTkt": 1,
+                "bCode": "0",
+                "sTop": 0,
+                "isMerchantCancellable": 0,
+                "cinemaLogoUrl": "https://assetscdn1.paytm.com/images/cinema/Theatre%403x-a4b1cf60-676c-11ef-8bfd-85c2f3bcaac6.png",
+                "cinemaVideoUrl": "",
+                "appCoverVideoUrl": "",
+                "webCoverVideoUrl": "",
+                "amenities": null,
+                "promos": null,
+                "chainKey": "TicketNew",
+                "contentId": 185843,
+                "theatreGroupName": "",
+                "amenitiesOrder": null,
+                "carouselAttachments": [],
+                "isPassEnabled": 0,
+                "paytmCinemaId": 1040946,
+                "city": "Indore",
+                "clientId": "ticketnew",
+                "isMapped": 0,
+                "city_id": null,
+                "is_city_mapped": null,
+                "state": "madhya-pradesh",
+                "city_key": null,
+                "label": "Kalyan Cinemas, Rajendra Nagar, Indore",
+                "sessionCount": 21
+            }
+        ],
+        "filterData": {
+            "minSTime": "13:00",
+            "maxSTime": "13:50",
+            "minPrice": 170.0,
+            "maxPrice": 460.0,
+            "premium": true,
+            "freeSeats": false,
+            "groupSeats": false,
+            "tokenFeeSeats": false,
+            "scnFrmts": [
+                "2D"
+            ],
+            "sndFrmts": [],
+            "mLangs": [
+                "Telugu"
+            ],
+            "genres": [
+                "Action",
+                "Drama",
+                "Political"
+            ],
+            "premiumSessionCount": 2,
+            "totalSessionCount": 3,
+            "showTimeList": [
+                "18:30",
+                "19:15",
+                "19:20"
+            ],
+            "quickFilterScnFrmts": [],
+            "quickFilterLanguages": [
+                "Telugu"
+            ],
+            "priceRangeSet": [
+                "price_400_to_500",
+                "price_300_to_400",
+                "price_100_to_200",
+                "price_200_to_300"
+            ]
+        },
+        "quickFilterData": {
+            "scnFrmts": [],
+            "premium": true,
+            "showTimeBuckets": [
+                {
+                    "sTime": "17:00",
+                    "eTime": "23:59",
+                    "desc": "5 PM to 11:59 PM",
+                    "dText": "After 5 PM",
+                    "desc1": "Till 11:59 PM"
+                }
+            ]
+        }
+    },
+    "data": {
+        "pageSize": 100,
+        "cinemasOrder": [
+            1023935,
+            1024420,
+            1040946
+        ],
+        "sessionDates": [
+            "2025-01-10",
+            "2025-01-11",
+            "2025-01-12"
+        ]
+    },
+    "pageData": {
+        "sessions": {
+            "1023935": [
+                {
+                    "sid": "7274",
+                    "pid": 1446,
+                    "pkey": "vista_common_food",
+                    "cid": 1023935,
+                    "mid": "OB1H21",
+                    "fid": "URJofQgl6U",
+                    "showTime": "2025-01-10T13:50",
+                    "closeTime": "2025-01-10T13:45",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "0000000007",
+                            "label": "LOUNGER",
+                            "typeCode": "0007",
+                            "sType": "fixed",
+                            "sAvail": 26,
+                            "sTotal": 26,
+                            "price": 250.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "0000000003",
+                            "label": "ROYAL",
+                            "typeCode": "0002",
+                            "sType": "fixed",
+                            "sAvail": 90,
+                            "sTotal": 90,
+                            "price": 240.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "0000000001",
+                            "label": "EXECUTIVE",
+                            "typeCode": "0001",
+                            "sType": "fixed",
+                            "sAvail": 322,
+                            "sTotal": 360,
+                            "price": 250.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "0000000005",
+                            "label": "RECLINER",
+                            "typeCode": "0005",
+                            "sType": "fixed",
+                            "sAvail": 18,
+                            "sTotal": 24,
+                            "price": 370.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 500,
+                    "avail": 456,
+                    "audi": "SCREEN4",
+                    "premium": 1,
+                    "premiumLabel": "ATMOS",
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 10,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Political"
+                    ],
+                    "statusColor": "G",
+                    "subtitle": ""
+                }
+            ],
+            "1024420": [
+                {
+                    "sid": "13567",
+                    "pid": 1707,
+                    "pkey": "showbizz",
+                    "cid": 1024420,
+                    "mid": "OB1H21",
+                    "fid": "URJofQgl6U",
+                    "showTime": "2025-01-10T13:45",
+                    "closeTime": "2025-01-10T13:44",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "CL",
+                            "label": "CLASSIC",
+                            "typeCode": "13567_CL",
+                            "sType": "fixed",
+                            "sAvail": 48,
+                            "sTotal": 48,
+                            "price": 200.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "PR",
+                            "label": "PRIME",
+                            "typeCode": "13567_PR",
+                            "sType": "fixed",
+                            "sAvail": 96,
+                            "sTotal": 102,
+                            "price": 230.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "RE",
+                            "label": "RECLINER",
+                            "typeCode": "13567_RE",
+                            "sType": "fixed",
+                            "sAvail": 2,
+                            "sTotal": 7,
+                            "price": 460.0,
+                            "statusColor": "Y"
+                        }
+                    ],
+                    "total": 157,
+                    "avail": 146,
+                    "audi": "AUDI 06",
+                    "premium": 1,
+                    "premiumLabel": "RECLINERS",
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 10,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Political"
+                    ],
+                    "statusColor": "G"
+                }
+            ],
+            "1040946": [
+                {
+                    "sid": "31249__1736514000__3__1487",
+                    "pid": 736,
+                    "pkey": "ticketnew",
+                    "cid": 1040946,
+                    "mid": "OB1H21",
+                    "fid": "URJofQgl6U",
+                    "showTime": "2025-01-10T13:00",
+                    "closeTime": "2025-01-10T12:30",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "16296",
+                            "label": "GL",
+                            "typeCode": "31249__1736514000__3__1487_GL",
+                            "sType": "fixed",
+                            "sAvail": 42,
+                            "sTotal": 42,
+                            "price": 170.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "16297",
+                            "label": "PL",
+                            "typeCode": "31249__1736514000__3__1487_PL",
+                            "sType": "fixed",
+                            "sAvail": 144,
+                            "sTotal": 144,
+                            "price": 190.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "16298",
+                            "label": "SL",
+                            "typeCode": "31249__1736514000__3__1487_SL",
+                            "sType": "fixed",
+                            "sAvail": 42,
+                            "sTotal": 42,
+                            "price": 170.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 228,
+                    "avail": 228,
+                    "audi": "Screen 3",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 10,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Political"
+                    ],
+                    "statusColor": "G",
+                    "subtitle": ""
+                }
+            ]
+        }
+    }
+}

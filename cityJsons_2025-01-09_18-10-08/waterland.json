@@ -1,0 +1,677 @@
+{
+    "serverTime": 1736446489,
+    "meta": {
+        "movies": [
+            {
+                "id": "OB1H21",
+                "frmtId": "URJofQgl6U",
+                "name": "Game Changer",
+                "imgPath": null,
+                "appImgPath": "https://assetscdn1.paytm.com/images/cinema/Game%20Changer-3cf95ad0-cce0-11ef-a9e2-63c420e5944f.jpeg",
+                "cvrPath": "https://assetscdn1.paytm.com/images/cinema/web-cover-3dd26890-893b-11ef-b30d-5d8b2ded08e1.jpg",
+                "appCvrPath": "https://assetscdn1.paytm.com/images/cinema/app-cover-3dd0e1f0-893b-11ef-80ee-5d6ff5e29b7e.jpg",
+                "thumbnail": null,
+                "edgeBanner": null,
+                "trailer": "https://youtu.be/zHiKFSBO_JE",
+                "censor": "UA13+",
+                "duration": 165,
+                "grn": [
+                    "Action",
+                    "Drama",
+                    "Political"
+                ],
+                "scrnFmt": "2D",
+                "sndFmt": null,
+                "rnr": {
+                    "hasUReview": 0,
+                    "hasContent": 1
+                },
+                "isNew": false,
+                "imxImgUrl": null,
+                "contentId": 161066,
+                "label": "Game Changer",
+                "lang": "Telugu"
+            },
+            {
+                "id": "OB2DEG",
+                "frmtId": "URJofQgl6U",
+                "name": "Game Changer",
+                "imgPath": "assetscdn.paytm.com/HO00016460.jpg",
+                "appImgPath": "https://assetscdn1.paytm.com/images/cinema/Game%20Changer-54815f40-cce0-11ef-9d5d-039fb0afc1eb.jpeg",
+                "cvrPath": null,
+                "appCvrPath": null,
+                "thumbnail": null,
+                "edgeBanner": null,
+                "trailer": "https://youtu.be/zHiKFSBO_JE",
+                "censor": "UA13+",
+                "duration": 165,
+                "grn": [
+                    "Action",
+                    "Drama",
+                    "Political"
+                ],
+                "scrnFmt": "IMAX 2D",
+                "sndFmt": null,
+                "rnr": {
+                    "hasUReview": 0,
+                    "hasContent": 1
+                },
+                "isNew": false,
+                "imxImgUrl": "https://assetscdn1.paytm.com/images/cinema/game-changer-IMAX-7c48aef0-ce6d-11ef-a96a-c578998c2414.jpg",
+                "contentId": 161066,
+                "label": "Game Changer",
+                "lang": "Telugu"
+            }
+        ],
+        "filterBuckets": {
+            "timeBuckets": [
+                {
+                    "sTime": "05:00",
+                    "eTime": "11:59",
+                    "desc": "5:00 AM to 11:59 AM",
+                    "dText": "Morning",
+                    "desc1": "Till 12 PM"
+                },
+                {
+                    "sTime": "12:00",
+                    "eTime": "15:59",
+                    "desc": "12:00 PM to 3:59 PM",
+                    "dText": "Afternoon",
+                    "desc1": "Till 4 PM"
+                },
+                {
+                    "sTime": "16:00",
+                    "eTime": "18:59",
+                    "desc": "4:00 PM to 6:59 PM",
+                    "dText": "Evening",
+                    "desc1": "Till 7 PM"
+                },
+                {
+                    "sTime": "19:00",
+                    "eTime": "04:59",
+                    "desc": "7:00 PM to 4:59 AM",
+                    "dText": "Night",
+                    "desc1": "After 7 PM"
+                }
+            ],
+            "priceBuckets": [
+                {
+                    "min": "0",
+                    "max": "100",
+                    "desc": "\u20b9 0 - \u20b9 100"
+                }
+            ],
+            "showTimeBuckets": [
+                {
+                    "sTime": "00:00",
+                    "eTime": "08:00",
+                    "desc": "12 AM to 8 AM",
+                    "dText": "Early Morning",
+                    "desc1": "Till 8 AM",
+                    "isEnabled": true
+                },
+                {
+                    "sTime": "08:00",
+                    "eTime": "12:00",
+                    "desc": "8 AM to 12 PM",
+                    "dText": "Morning",
+                    "desc1": "Till 12 PM",
+                    "isEnabled": true
+                },
+                {
+                    "sTime": "12:00",
+                    "eTime": "16:00",
+                    "desc": "12 PM to 4 PM",
+                    "dText": "Afternoon",
+                    "desc1": "Till 4 PM",
+                    "isEnabled": true
+                },
+                {
+                    "sTime": "16:00",
+                    "eTime": "19:00",
+                    "desc": "4 PM to 7 PM",
+                    "dText": "Evening",
+                    "desc1": "Till 7 PM",
+                    "isEnabled": true
+                },
+                {
+                    "sTime": "19:00",
+                    "eTime": "23:59",
+                    "desc": "7 PM to 12 AM",
+                    "dText": "Night",
+                    "desc1": "Till 12 AM",
+                    "isEnabled": true
+                }
+            ]
+        },
+        "amenities": [
+            {
+                "id": 2,
+                "name": "Parking",
+                "rank": 1,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Parking-c79a3400-95f6-11ef-a253-33f238ee5f34.png"
+            },
+            {
+                "id": 1,
+                "name": "Mobile Ticket",
+                "rank": 2,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Mobile%20Ticket-bc527a30-95f6-11ef-b954-a1c7e1e4be25.png"
+            },
+            {
+                "id": 3,
+                "name": "Food & Beverages",
+                "rank": 3,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/F%26B-938587f0-95f6-11ef-b954-a1c7e1e4be25.png"
+            },
+            {
+                "id": 5,
+                "name": "Recliners",
+                "rank": 4,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Seat-13023560-95f6-11ef-b954-a1c7e1e4be25.png"
+            },
+            {
+                "id": 6,
+                "name": "Digital Payments",
+                "rank": 5,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Payment-eab8cb00-95f5-11ef-a253-33f238ee5f34.png"
+            },
+            {
+                "id": 4,
+                "name": "Wheelchair Friendly",
+                "rank": 6,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Wheelchair-73f627a0-95f6-11ef-a253-33f238ee5f34.png"
+            },
+            {
+                "id": 7,
+                "name": "RGB Laser",
+                "rank": 7,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Screen-fef54df0-95f5-11ef-b954-a1c7e1e4be25.png"
+            },
+            {
+                "id": 8,
+                "name": "Dolby Atmos",
+                "rank": 8,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Audio-4acee060-95f6-11ef-b954-a1c7e1e4be25.png"
+            },
+            {
+                "id": 9,
+                "name": "IMAX",
+                "rank": 9,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Screen-fef54df0-95f5-11ef-b954-a1c7e1e4be25.png"
+            },
+            {
+                "id": 10,
+                "name": "4K",
+                "rank": 10,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Screen-fef54df0-95f5-11ef-b954-a1c7e1e4be25.png"
+            },
+            {
+                "id": 12,
+                "name": "WIFI",
+                "rank": 12,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Wifi-5646f900-95f6-11ef-b954-a1c7e1e4be25.png"
+            },
+            {
+                "id": 14,
+                "name": "Gaming Zone",
+                "rank": 14,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Gaming-d3353df0-95f6-11ef-a253-33f238ee5f34.png"
+            },
+            {
+                "id": 15,
+                "name": "2K",
+                "rank": 15,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Screen-fef54df0-95f5-11ef-b954-a1c7e1e4be25.png"
+            },
+            {
+                "id": 17,
+                "name": "4DX",
+                "rank": 17,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Screen-fef54df0-95f5-11ef-b954-a1c7e1e4be25.png"
+            },
+            {
+                "id": 18,
+                "name": "Dolby 7.1",
+                "rank": 18,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Audio-4acee060-95f6-11ef-b954-a1c7e1e4be25.png"
+            },
+            {
+                "id": 19,
+                "name": "Air Conditioning",
+                "rank": 19,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/AC-d92791f0-95f5-11ef-b954-a1c7e1e4be25.png"
+            },
+            {
+                "id": 20,
+                "name": "Metro Nearby",
+                "rank": 20,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Metro-08856cb0-95f6-11ef-b954-a1c7e1e4be25.png"
+            },
+            {
+                "id": 21,
+                "name": "Sofa",
+                "rank": 21,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Seat-13023560-95f6-11ef-b954-a1c7e1e4be25.png"
+            },
+            {
+                "id": 24,
+                "name": "Silver Screen",
+                "rank": 24,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Screen-fef54df0-95f5-11ef-b954-a1c7e1e4be25.png"
+            },
+            {
+                "id": 28,
+                "name": "Free Parking",
+                "rank": 28,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Parking-c79a3400-95f6-11ef-a253-33f238ee5f34.png"
+            },
+            {
+                "id": 29,
+                "name": "Baggage Counter",
+                "rank": 29,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Baggage%20counter-f4cbae50-95f5-11ef-a253-33f238ee5f34.png"
+            },
+            {
+                "id": 30,
+                "name": "Dolby 4 Way 11.1",
+                "rank": 30,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Audio-4acee060-95f6-11ef-b954-a1c7e1e4be25.png"
+            },
+            {
+                "id": 31,
+                "name": "Barco 4K Ultra HD",
+                "rank": 31,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Screen-fef54df0-95f5-11ef-b954-a1c7e1e4be25.png"
+            }
+        ],
+        "cinemas": [
+            {
+                "id": 28389,
+                "pid": 736,
+                "name": "TPMC 3.1 OMS Ticketnew Test Ticketold, Waterland",
+                "address": "Malda, West Bengal 732101, India",
+                "pincode": "732101",
+                "lat": 14.35,
+                "lon": 87.2,
+                "cityId": 1695,
+                "appCovrImgUrl": "",
+                "covrImgUrl": "https://assetscdn1.paytm.com/images/cinema/ocean-9247f9e0-e342-11ec-a87e-fd7c9b9e577a.jpg",
+                "fnb": 0,
+                "mTkt": 1,
+                "bCode": "",
+                "sTop": 0,
+                "isMerchantCancellable": 1,
+                "cinemaLogoUrl": "https://assetscdn1.paytm.com/images/cinema/Theatre%403x-a4b1cf60-676c-11ef-8bfd-85c2f3bcaac6.png",
+                "cinemaVideoUrl": "",
+                "appCoverVideoUrl": "",
+                "webCoverVideoUrl": "",
+                "amenities": null,
+                "promos": null,
+                "chainKey": "TicketNew",
+                "contentId": 154322,
+                "theatreGroupName": "",
+                "amenitiesOrder": null,
+                "carouselAttachments": [
+                    {
+                        "type": "VIDEO",
+                        "assetPosition": 1.0,
+                        "appCoverImageUrl": "https://assetscdn1.paytm.com/images/cinema/Paytm_movie-402adde0-3a71-11ed-928b-6d638f03d68e.jpg",
+                        "webCoverImageUrl": "https://assetscdn1.paytm.com/images/cinema/Paytm_movie-443123e0-3a71-11ed-928b-6d638f03d68e.jpg",
+                        "videoUrl": "https://www.youtube.com/watch?v=NulC_JU4MSM"
+                    },
+                    {
+                        "type": "IMAGE",
+                        "assetPosition": 2.0,
+                        "appImageUrl": "https://assetscdn1.paytm.com/images/cinema/image%20(1)-39d2bda0-b6bd-11ed-9452-d9fc8dc00535.png",
+                        "webImageUrl": "https://assetscdn1.paytm.com/images/cinema/Screenshot%202023-02-22%20at%206.36.56%20PM-3d5afa00-b6bd-11ed-9452-d9fc8dc00535.png"
+                    }
+                ],
+                "isPassEnabled": 0,
+                "paytmCinemaId": 28389,
+                "city": "Waterland",
+                "clientId": "ticketnew",
+                "isMapped": 0,
+                "city_id": null,
+                "is_city_mapped": null,
+                "state": "mizoram",
+                "city_key": null,
+                "label": "TPMC 3.1 OMS Ticketnew Test Ticketold, Waterland",
+                "sessionCount": 37
+            },
+            {
+                "id": 1022500,
+                "pid": 1906,
+                "name": "Tpmc OMS New, Waterland",
+                "address": "Malda, West Bengal 732101, India",
+                "pincode": "732101",
+                "lat": 14.35,
+                "lon": 87.2,
+                "cityId": 1695,
+                "appCovrImgUrl": "",
+                "covrImgUrl": "",
+                "fnb": 0,
+                "mTkt": 0,
+                "bCode": "",
+                "sTop": 0,
+                "isMerchantCancellable": 1,
+                "cinemaLogoUrl": "https://assetscdn1.paytm.com/images/cinema/PVR-38264660-a348-11ef-8d2a-13243c787688.png",
+                "cinemaVideoUrl": "",
+                "appCoverVideoUrl": "",
+                "webCoverVideoUrl": "",
+                "amenities": null,
+                "promos": null,
+                "chainKey": "TicketNew",
+                "contentId": 170134,
+                "theatreGroupName": "",
+                "amenitiesOrder": null,
+                "carouselAttachments": [],
+                "isPassEnabled": 0,
+                "paytmCinemaId": 1022500,
+                "city": "Waterland",
+                "clientId": "ticketnew",
+                "isMapped": 0,
+                "city_id": null,
+                "is_city_mapped": null,
+                "state": "mizoram",
+                "city_key": null,
+                "label": "Tpmc OMS New, Waterland",
+                "sessionCount": 37
+            }
+        ],
+        "filterData": {
+            "minSTime": "03:30",
+            "maxSTime": "13:00",
+            "minPrice": 0.0,
+            "maxPrice": 1.0,
+            "premium": false,
+            "freeSeats": false,
+            "groupSeats": false,
+            "tokenFeeSeats": true,
+            "scnFrmts": [
+                "2D",
+                "IMAX 2D"
+            ],
+            "sndFrmts": [],
+            "mLangs": [
+                "Telugu"
+            ],
+            "genres": [
+                "Action",
+                "Drama",
+                "Political"
+            ],
+            "premiumSessionCount": 0,
+            "totalSessionCount": 4,
+            "showTimeList": [
+                "09:00",
+                "18:30",
+                "18:30",
+                "09:00"
+            ],
+            "quickFilterScnFrmts": [
+                "IMAX 2D"
+            ],
+            "quickFilterLanguages": [
+                "Telugu"
+            ],
+            "priceRangeSet": [
+                "price_below_100"
+            ]
+        },
+        "quickFilterData": {
+            "scnFrmts": [
+                "IMAX 2D"
+            ],
+            "premium": false,
+            "showTimeBuckets": [
+                {
+                    "sTime": "08:00",
+                    "eTime": "12:00",
+                    "desc": "8 AM to 12 PM",
+                    "dText": "Morning",
+                    "desc1": "Till 12 PM"
+                },
+                {
+                    "sTime": "17:00",
+                    "eTime": "23:59",
+                    "desc": "5 PM to 11:59 PM",
+                    "dText": "After 5 PM",
+                    "desc1": "Till 11:59 PM"
+                }
+            ]
+        }
+    },
+    "data": {
+        "pageSize": 100,
+        "cinemasOrder": [
+            28389,
+            1022500
+        ],
+        "sessionDates": [
+            "2025-01-10",
+            "2025-01-11",
+            "2025-01-12",
+            "2025-01-13",
+            "2025-01-14",
+            "2025-01-15"
+        ]
+    },
+    "pageData": {
+        "sessions": {
+            "28389": [
+                {
+                    "sid": "31249__1736514000__1__83469",
+                    "pid": 736,
+                    "pkey": "ticketnew",
+                    "cid": 28389,
+                    "mid": "OB1H21",
+                    "fid": "URJofQgl6U",
+                    "showTime": "2025-01-10T13:00",
+                    "closeTime": "2025-01-10T12:40",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "1",
+                            "label": "EXECUTIVE",
+                            "typeCode": "31249__1736514000__1__83469_EXECUTIVE",
+                            "sType": "fixed",
+                            "sAvail": 79,
+                            "sTotal": 222,
+                            "price": 1.0,
+                            "statusColor": "Y"
+                        },
+                        {
+                            "code": "2",
+                            "label": "CORPORATE",
+                            "typeCode": "31249__1736514000__1__83469_CORPORATE",
+                            "sType": "fixed",
+                            "sAvail": 438,
+                            "sTotal": 538,
+                            "price": 1.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "3",
+                            "label": "BUDGET",
+                            "typeCode": "31249__1736514000__1__83469_BUDGET",
+                            "sType": "fixed",
+                            "sAvail": 63,
+                            "sTotal": 95,
+                            "price": 1.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 855,
+                    "avail": 580,
+                    "audi": "Screen1",
+                    "premium": 0,
+                    "premiumLabel": "RGB",
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 10,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Political"
+                    ],
+                    "statusColor": "G",
+                    "subtitle": "",
+                    "disabledSession": 1
+                },
+                {
+                    "sid": "31338__1736479800__2__83491",
+                    "pid": 736,
+                    "pkey": "ticketnew",
+                    "cid": 28389,
+                    "mid": "OB2DEG",
+                    "fid": "URJofQgl6U",
+                    "showTime": "2025-01-10T03:30",
+                    "closeTime": "2025-01-10T03:10",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "6",
+                            "label": "CORPORATE",
+                            "typeCode": "31338__1736479800__2__83491_CORPORATE",
+                            "sType": "fixed",
+                            "sAvail": 238,
+                            "sTotal": 307,
+                            "price": 0.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 307,
+                    "avail": 238,
+                    "audi": "Screen2",
+                    "premium": 0,
+                    "premiumLabel": "SCREEN 2",
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 1,
+                    "grpSeats": 0,
+                    "maxTkt": 10,
+                    "lang": "Telugu",
+                    "scrnFmt": "IMAX 2D",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Political"
+                    ],
+                    "statusColor": "G",
+                    "subtitle": "",
+                    "disabledSession": 1
+                }
+            ],
+            "1022500": [
+                {
+                    "sid": "31338__1736479800__2__83491",
+                    "pid": 1906,
+                    "pkey": "ticketnew",
+                    "cid": 1022500,
+                    "mid": "OB2DEG",
+                    "fid": "URJofQgl6U",
+                    "showTime": "2025-01-10T03:30",
+                    "closeTime": "2025-01-10T03:10",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "6",
+                            "label": "CORPORATE",
+                            "typeCode": "31338__1736479800__2__83491_CORPORATE",
+                            "sType": "fixed",
+                            "sAvail": 238,
+                            "sTotal": 307,
+                            "price": 0.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 307,
+                    "avail": 238,
+                    "audi": "Screen2",
+                    "premium": 0,
+                    "premiumLabel": "SCREEN 2",
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 1,
+                    "grpSeats": 0,
+                    "maxTkt": 10,
+                    "lang": "Telugu",
+                    "scrnFmt": "IMAX 2D",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Political"
+                    ],
+                    "statusColor": "G",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "31249__1736514000__1__83469",
+                    "pid": 1906,
+                    "pkey": "ticketnew",
+                    "cid": 1022500,
+                    "mid": "OB1H21",
+                    "fid": "URJofQgl6U",
+                    "showTime": "2025-01-10T13:00",
+                    "closeTime": "2025-01-10T12:40",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "1",
+                            "label": "EXECUTIVE",
+                            "typeCode": "31249__1736514000__1__83469_EXECUTIVE",
+                            "sType": "fixed",
+                            "sAvail": 79,
+                            "sTotal": 222,
+                            "price": 1.0,
+                            "statusColor": "Y"
+                        },
+                        {
+                            "code": "2",
+                            "label": "CORPORATE",
+                            "typeCode": "31249__1736514000__1__83469_CORPORATE",
+                            "sType": "fixed",
+                            "sAvail": 438,
+                            "sTotal": 538,
+                            "price": 1.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "3",
+                            "label": "BUDGET",
+                            "typeCode": "31249__1736514000__1__83469_BUDGET",
+                            "sType": "fixed",
+                            "sAvail": 63,
+                            "sTotal": 95,
+                            "price": 1.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 855,
+                    "avail": 580,
+                    "audi": "Screen1",
+                    "premium": 0,
+                    "premiumLabel": "RGB",
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 10,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Political"
+                    ],
+                    "statusColor": "G",
+                    "subtitle": ""
+                }
+            ]
+        }
+    }
+}

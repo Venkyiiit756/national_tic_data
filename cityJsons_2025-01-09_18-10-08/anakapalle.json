@@ -1,0 +1,1268 @@
+{
+    "serverTime": 1736446242,
+    "meta": {
+        "movies": [
+            {
+                "id": "OB1H21",
+                "frmtId": "URJofQgl6U",
+                "name": "Game Changer",
+                "imgPath": null,
+                "appImgPath": "https://assetscdn1.paytm.com/images/cinema/Game%20Changer-3cf95ad0-cce0-11ef-a9e2-63c420e5944f.jpeg",
+                "cvrPath": "https://assetscdn1.paytm.com/images/cinema/web-cover-3dd26890-893b-11ef-b30d-5d8b2ded08e1.jpg",
+                "appCvrPath": "https://assetscdn1.paytm.com/images/cinema/app-cover-3dd0e1f0-893b-11ef-80ee-5d6ff5e29b7e.jpg",
+                "thumbnail": null,
+                "edgeBanner": null,
+                "trailer": "https://youtu.be/zHiKFSBO_JE",
+                "censor": "UA13+",
+                "duration": 165,
+                "grn": [
+                    "Action",
+                    "Drama",
+                    "Political"
+                ],
+                "scrnFmt": "2D",
+                "sndFmt": null,
+                "rnr": {
+                    "hasUReview": 0,
+                    "hasContent": 1
+                },
+                "isNew": false,
+                "imxImgUrl": null,
+                "contentId": 161066,
+                "label": "Game Changer",
+                "lang": "Telugu"
+            }
+        ],
+        "filterBuckets": {
+            "timeBuckets": [
+                {
+                    "sTime": "05:00",
+                    "eTime": "11:59",
+                    "desc": "5:00 AM to 11:59 AM",
+                    "dText": "Morning",
+                    "desc1": "Till 12 PM"
+                },
+                {
+                    "sTime": "12:00",
+                    "eTime": "15:59",
+                    "desc": "12:00 PM to 3:59 PM",
+                    "dText": "Afternoon",
+                    "desc1": "Till 4 PM"
+                },
+                {
+                    "sTime": "16:00",
+                    "eTime": "18:59",
+                    "desc": "4:00 PM to 6:59 PM",
+                    "dText": "Evening",
+                    "desc1": "Till 7 PM"
+                },
+                {
+                    "sTime": "19:00",
+                    "eTime": "04:59",
+                    "desc": "7:00 PM to 4:59 AM",
+                    "dText": "Night",
+                    "desc1": "After 7 PM"
+                }
+            ],
+            "priceBuckets": [
+                {
+                    "min": "200",
+                    "max": "300",
+                    "desc": "\u20b9 200 - \u20b9 300"
+                },
+                {
+                    "min": "300",
+                    "max": "600",
+                    "desc": "\u20b9 300 - \u20b9 600"
+                }
+            ],
+            "showTimeBuckets": [
+                {
+                    "sTime": "00:00",
+                    "eTime": "08:00",
+                    "desc": "12 AM to 8 AM",
+                    "dText": "Early Morning",
+                    "desc1": "Till 8 AM",
+                    "isEnabled": false
+                },
+                {
+                    "sTime": "08:00",
+                    "eTime": "12:00",
+                    "desc": "8 AM to 12 PM",
+                    "dText": "Morning",
+                    "desc1": "Till 12 PM",
+                    "isEnabled": false
+                },
+                {
+                    "sTime": "12:00",
+                    "eTime": "16:00",
+                    "desc": "12 PM to 4 PM",
+                    "dText": "Afternoon",
+                    "desc1": "Till 4 PM",
+                    "isEnabled": false
+                },
+                {
+                    "sTime": "16:00",
+                    "eTime": "19:00",
+                    "desc": "4 PM to 7 PM",
+                    "dText": "Evening",
+                    "desc1": "Till 7 PM",
+                    "isEnabled": false
+                },
+                {
+                    "sTime": "19:00",
+                    "eTime": "23:59",
+                    "desc": "7 PM to 12 AM",
+                    "dText": "Night",
+                    "desc1": "Till 12 AM",
+                    "isEnabled": true
+                }
+            ]
+        },
+        "amenities": [
+            {
+                "id": 2,
+                "name": "Parking",
+                "rank": 1,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Parking-c79a3400-95f6-11ef-a253-33f238ee5f34.png"
+            },
+            {
+                "id": 1,
+                "name": "Mobile Ticket",
+                "rank": 2,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Mobile%20Ticket-bc527a30-95f6-11ef-b954-a1c7e1e4be25.png"
+            },
+            {
+                "id": 3,
+                "name": "Food & Beverages",
+                "rank": 3,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/F%26B-938587f0-95f6-11ef-b954-a1c7e1e4be25.png"
+            },
+            {
+                "id": 5,
+                "name": "Recliners",
+                "rank": 4,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Seat-13023560-95f6-11ef-b954-a1c7e1e4be25.png"
+            },
+            {
+                "id": 6,
+                "name": "Digital Payments",
+                "rank": 5,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Payment-eab8cb00-95f5-11ef-a253-33f238ee5f34.png"
+            },
+            {
+                "id": 4,
+                "name": "Wheelchair Friendly",
+                "rank": 6,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Wheelchair-73f627a0-95f6-11ef-a253-33f238ee5f34.png"
+            },
+            {
+                "id": 7,
+                "name": "RGB Laser",
+                "rank": 7,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Screen-fef54df0-95f5-11ef-b954-a1c7e1e4be25.png"
+            },
+            {
+                "id": 8,
+                "name": "Dolby Atmos",
+                "rank": 8,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Audio-4acee060-95f6-11ef-b954-a1c7e1e4be25.png"
+            },
+            {
+                "id": 9,
+                "name": "IMAX",
+                "rank": 9,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Screen-fef54df0-95f5-11ef-b954-a1c7e1e4be25.png"
+            },
+            {
+                "id": 10,
+                "name": "4K",
+                "rank": 10,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Screen-fef54df0-95f5-11ef-b954-a1c7e1e4be25.png"
+            },
+            {
+                "id": 12,
+                "name": "WIFI",
+                "rank": 12,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Wifi-5646f900-95f6-11ef-b954-a1c7e1e4be25.png"
+            },
+            {
+                "id": 14,
+                "name": "Gaming Zone",
+                "rank": 14,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Gaming-d3353df0-95f6-11ef-a253-33f238ee5f34.png"
+            },
+            {
+                "id": 15,
+                "name": "2K",
+                "rank": 15,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Screen-fef54df0-95f5-11ef-b954-a1c7e1e4be25.png"
+            },
+            {
+                "id": 17,
+                "name": "4DX",
+                "rank": 17,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Screen-fef54df0-95f5-11ef-b954-a1c7e1e4be25.png"
+            },
+            {
+                "id": 18,
+                "name": "Dolby 7.1",
+                "rank": 18,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Audio-4acee060-95f6-11ef-b954-a1c7e1e4be25.png"
+            },
+            {
+                "id": 19,
+                "name": "Air Conditioning",
+                "rank": 19,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/AC-d92791f0-95f5-11ef-b954-a1c7e1e4be25.png"
+            },
+            {
+                "id": 20,
+                "name": "Metro Nearby",
+                "rank": 20,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Metro-08856cb0-95f6-11ef-b954-a1c7e1e4be25.png"
+            },
+            {
+                "id": 21,
+                "name": "Sofa",
+                "rank": 21,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Seat-13023560-95f6-11ef-b954-a1c7e1e4be25.png"
+            },
+            {
+                "id": 24,
+                "name": "Silver Screen",
+                "rank": 24,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Screen-fef54df0-95f5-11ef-b954-a1c7e1e4be25.png"
+            },
+            {
+                "id": 28,
+                "name": "Free Parking",
+                "rank": 28,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Parking-c79a3400-95f6-11ef-a253-33f238ee5f34.png"
+            },
+            {
+                "id": 29,
+                "name": "Baggage Counter",
+                "rank": 29,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Baggage%20counter-f4cbae50-95f5-11ef-a253-33f238ee5f34.png"
+            },
+            {
+                "id": 30,
+                "name": "Dolby 4 Way 11.1",
+                "rank": 30,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Audio-4acee060-95f6-11ef-b954-a1c7e1e4be25.png"
+            },
+            {
+                "id": 31,
+                "name": "Barco 4K Ultra HD",
+                "rank": 31,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Screen-fef54df0-95f5-11ef-b954-a1c7e1e4be25.png"
+            }
+        ],
+        "cinemas": [
+            {
+                "id": 1018799,
+                "pid": 750,
+                "name": "SVC Sri Sairam Movie Land, Library Road Cart Stand Road, Anakapalle",
+                "address": "12-12-76/1, Library Road Cart Stand Road, Anakapally, Andhra Pradesh, India",
+                "pincode": "531001",
+                "lat": 17.692897,
+                "lon": 83.00664,
+                "cityId": 103,
+                "appCovrImgUrl": "",
+                "covrImgUrl": "",
+                "fnb": 0,
+                "mTkt": 0,
+                "bCode": "",
+                "sTop": 0,
+                "isMerchantCancellable": 0,
+                "cinemaLogoUrl": "https://assetscdn1.paytm.com/images/cinema/svc-5551d580-869c-11ed-9b16-5b1b1e9f8842%5B1%5D-95947860-999b-11ee-9c0a-f7ea7e5b0325.png",
+                "cinemaVideoUrl": "",
+                "appCoverVideoUrl": "",
+                "webCoverVideoUrl": "",
+                "amenities": null,
+                "promos": null,
+                "chainKey": "SVC Sangeetha",
+                "contentId": 168588,
+                "theatreGroupName": "",
+                "amenitiesOrder": null,
+                "carouselAttachments": [],
+                "isPassEnabled": 0,
+                "paytmCinemaId": 1018799,
+                "city": "Anakapalle",
+                "clientId": "ticketnew",
+                "isMapped": 0,
+                "city_id": null,
+                "is_city_mapped": null,
+                "state": "andhra-pradesh",
+                "city_key": null,
+                "label": "SVC Sri Sairam Movie Land, Library Road Cart Stand Road, Anakapalle",
+                "sessionCount": 48
+            },
+            {
+                "id": 1025576,
+                "pid": 736,
+                "name": "Sri Satya A/C DTS, Anakapalle",
+                "address": "Near Gowri Parameswara Temple, Anakapalli, Andhra Pradesh 531001, India",
+                "pincode": "531001",
+                "lat": 17.688847,
+                "lon": 83.00496,
+                "cityId": 103,
+                "appCovrImgUrl": "",
+                "covrImgUrl": "",
+                "fnb": 0,
+                "mTkt": 1,
+                "bCode": "0",
+                "sTop": 0,
+                "isMerchantCancellable": 0,
+                "cinemaLogoUrl": "https://assetscdn1.paytm.com/images/cinema/Theatre%403x-a4b1cf60-676c-11ef-8bfd-85c2f3bcaac6.png",
+                "cinemaVideoUrl": "",
+                "appCoverVideoUrl": "",
+                "webCoverVideoUrl": "",
+                "amenities": null,
+                "promos": null,
+                "chainKey": "TicketNew",
+                "contentId": 172191,
+                "theatreGroupName": "",
+                "amenitiesOrder": null,
+                "carouselAttachments": [],
+                "isPassEnabled": 0,
+                "paytmCinemaId": 1025576,
+                "city": "Anakapalle",
+                "clientId": "ticketnew",
+                "isMapped": 0,
+                "city_id": null,
+                "is_city_mapped": null,
+                "state": "andhra-pradesh",
+                "city_key": null,
+                "label": "Sri Satya A/C DTS, Anakapalle",
+                "sessionCount": 29
+            }
+        ],
+        "filterData": {
+            "minSTime": "19:30",
+            "maxSTime": "16:15",
+            "minPrice": 235.0,
+            "maxPrice": 600.0,
+            "premium": false,
+            "freeSeats": false,
+            "groupSeats": false,
+            "tokenFeeSeats": false,
+            "scnFrmts": [
+                "2D"
+            ],
+            "sndFrmts": [],
+            "mLangs": [
+                "Telugu"
+            ],
+            "genres": [
+                "Action",
+                "Drama",
+                "Political"
+            ],
+            "premiumSessionCount": 0,
+            "totalSessionCount": 17,
+            "showTimeList": [
+                "18:35",
+                "07:00",
+                "21:30",
+                "01:00",
+                "11:05",
+                "10:50",
+                "21:45",
+                "14:35",
+                "14:20",
+                "06:45",
+                "18:20",
+                "01:00",
+                "21:45",
+                "06:45",
+                "14:30",
+                "18:30",
+                "11:00"
+            ],
+            "quickFilterScnFrmts": [],
+            "quickFilterLanguages": [
+                "Telugu"
+            ],
+            "priceRangeSet": [
+                "price_600_to_700",
+                "price_500_to_600",
+                "price_200_to_300"
+            ]
+        },
+        "quickFilterData": {
+            "scnFrmts": [],
+            "premium": false,
+            "showTimeBuckets": [
+                {
+                    "sTime": "08:00",
+                    "eTime": "12:00",
+                    "desc": "8 AM to 12 PM",
+                    "dText": "Morning",
+                    "desc1": "Till 12 PM"
+                },
+                {
+                    "sTime": "17:00",
+                    "eTime": "23:59",
+                    "desc": "5 PM to 11:59 PM",
+                    "dText": "After 5 PM",
+                    "desc1": "Till 11:59 PM"
+                }
+            ]
+        }
+    },
+    "data": {
+        "pageSize": 100,
+        "cinemasOrder": [
+            1018799,
+            1025576
+        ],
+        "sessionDates": [
+            "2025-01-10",
+            "2025-01-11",
+            "2025-01-12",
+            "2025-01-13",
+            "2025-01-14",
+            "2025-01-15",
+            "2025-01-16"
+        ]
+    },
+    "pageData": {
+        "sessions": {
+            "1018799": [
+                {
+                    "sid": "31249__1736514300__2091__20587",
+                    "pid": 750,
+                    "pkey": "ticketnew",
+                    "cid": 1018799,
+                    "mid": "OB1H21",
+                    "fid": "URJofQgl6U",
+                    "showTime": "2025-01-10T13:05",
+                    "closeTime": "2025-01-10T13:00",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "20",
+                            "label": "PREMIUM",
+                            "typeCode": "31249__1736514300__2091__20587_PREMIUM",
+                            "sType": "fixed",
+                            "sAvail": 216,
+                            "sTotal": 279,
+                            "price": 282.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "60",
+                            "label": "NON - PREMIUM",
+                            "typeCode": "31249__1736514300__2091__20587_NON - PREMIUM",
+                            "sType": "fixed",
+                            "sAvail": 92,
+                            "sTotal": 94,
+                            "price": 235.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 373,
+                    "avail": 308,
+                    "audi": "SHIRIDI SAI A/c Dts",
+                    "premium": 0,
+                    "premiumLabel": "SHIRIDI SAI",
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Political"
+                    ],
+                    "statusColor": "G",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "31249__1736472600__2091__20626",
+                    "pid": 750,
+                    "pkey": "ticketnew",
+                    "cid": 1018799,
+                    "mid": "OB1H21",
+                    "fid": "URJofQgl6U",
+                    "showTime": "2025-01-10T01:30",
+                    "closeTime": "2025-01-10T01:25",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "20",
+                            "label": "PREMIUM",
+                            "typeCode": "31249__1736472600__2091__20626_PREMIUM",
+                            "sType": "fixed",
+                            "sAvail": 42,
+                            "sTotal": 279,
+                            "price": 282.0,
+                            "statusColor": "Y"
+                        },
+                        {
+                            "code": "60",
+                            "label": "NON - PREMIUM",
+                            "typeCode": "31249__1736472600__2091__20626_NON - PREMIUM",
+                            "sType": "fixed",
+                            "sAvail": 89,
+                            "sTotal": 94,
+                            "price": 235.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 373,
+                    "avail": 131,
+                    "audi": "SHIRIDI SAI A/c Dts",
+                    "premium": 0,
+                    "premiumLabel": "SHIRIDI SAI",
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Political"
+                    ],
+                    "statusColor": "Y",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "31249__1736524800__2090__20583",
+                    "pid": 750,
+                    "pkey": "ticketnew",
+                    "cid": 1018799,
+                    "mid": "OB1H21",
+                    "fid": "URJofQgl6U",
+                    "showTime": "2025-01-10T16:00",
+                    "closeTime": "2025-01-10T15:55",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "10",
+                            "label": "PREMIUM",
+                            "typeCode": "31249__1736524800__2090__20583_PREMIUM",
+                            "sType": "fixed",
+                            "sAvail": 236,
+                            "sTotal": 279,
+                            "price": 282.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "50",
+                            "label": "NON - PREMIUM",
+                            "typeCode": "31249__1736524800__2090__20583_NON - PREMIUM",
+                            "sType": "fixed",
+                            "sAvail": 91,
+                            "sTotal": 94,
+                            "price": 235.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 373,
+                    "avail": 327,
+                    "audi": "PARTHI SAI A/c Dts",
+                    "premium": 0,
+                    "premiumLabel": "PARTHI SAI",
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Political"
+                    ],
+                    "statusColor": "G",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "31249__1736451000__2090__20579",
+                    "pid": 750,
+                    "pkey": "ticketnew",
+                    "cid": 1018799,
+                    "mid": "OB1H21",
+                    "fid": "URJofQgl6U",
+                    "showTime": "2025-01-09T19:30",
+                    "closeTime": "2025-01-09T19:25",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "10",
+                            "label": "PREMIUM",
+                            "typeCode": "31249__1736451000__2090__20579_PREMIUM",
+                            "sType": "fixed",
+                            "sAvail": 0,
+                            "sTotal": 279,
+                            "price": 600.0,
+                            "statusColor": "D"
+                        },
+                        {
+                            "code": "50",
+                            "label": "NON - PREMIUM",
+                            "typeCode": "31249__1736451000__2090__20579_NON - PREMIUM",
+                            "sType": "fixed",
+                            "sAvail": 92,
+                            "sTotal": 94,
+                            "price": 600.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 373,
+                    "avail": 92,
+                    "audi": "PARTHI SAI A/c Dts",
+                    "premium": 0,
+                    "premiumLabel": "PARTHI SAI",
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Political"
+                    ],
+                    "statusColor": "Y",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "31249__1736487300__2091__20585",
+                    "pid": 750,
+                    "pkey": "ticketnew",
+                    "cid": 1018799,
+                    "mid": "OB1H21",
+                    "fid": "URJofQgl6U",
+                    "showTime": "2025-01-10T05:35",
+                    "closeTime": "2025-01-10T05:30",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "20",
+                            "label": "PREMIUM",
+                            "typeCode": "31249__1736487300__2091__20585_PREMIUM",
+                            "sType": "fixed",
+                            "sAvail": 209,
+                            "sTotal": 279,
+                            "price": 282.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "60",
+                            "label": "NON - PREMIUM",
+                            "typeCode": "31249__1736487300__2091__20585_NON - PREMIUM",
+                            "sType": "fixed",
+                            "sAvail": 92,
+                            "sTotal": 94,
+                            "price": 235.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 373,
+                    "avail": 301,
+                    "audi": "SHIRIDI SAI A/c Dts",
+                    "premium": 0,
+                    "premiumLabel": "SHIRIDI SAI",
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Political"
+                    ],
+                    "statusColor": "G",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "31249__1736486400__2090__20580",
+                    "pid": 750,
+                    "pkey": "ticketnew",
+                    "cid": 1018799,
+                    "mid": "OB1H21",
+                    "fid": "URJofQgl6U",
+                    "showTime": "2025-01-10T05:20",
+                    "closeTime": "2025-01-10T05:15",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "10",
+                            "label": "PREMIUM",
+                            "typeCode": "31249__1736486400__2090__20580_PREMIUM",
+                            "sType": "fixed",
+                            "sAvail": 139,
+                            "sTotal": 279,
+                            "price": 282.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "50",
+                            "label": "NON - PREMIUM",
+                            "typeCode": "31249__1736486400__2090__20580_NON - PREMIUM",
+                            "sType": "fixed",
+                            "sAvail": 89,
+                            "sTotal": 94,
+                            "price": 235.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 373,
+                    "avail": 228,
+                    "audi": "PARTHI SAI A/c Dts",
+                    "premium": 0,
+                    "premiumLabel": "PARTHI SAI",
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Political"
+                    ],
+                    "statusColor": "G",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "31249__1736525700__2091__20588",
+                    "pid": 750,
+                    "pkey": "ticketnew",
+                    "cid": 1018799,
+                    "mid": "OB1H21",
+                    "fid": "URJofQgl6U",
+                    "showTime": "2025-01-10T16:15",
+                    "closeTime": "2025-01-10T16:10",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "20",
+                            "label": "PREMIUM",
+                            "typeCode": "31249__1736525700__2091__20588_PREMIUM",
+                            "sType": "fixed",
+                            "sAvail": 264,
+                            "sTotal": 279,
+                            "price": 282.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "60",
+                            "label": "NON - PREMIUM",
+                            "typeCode": "31249__1736525700__2091__20588_NON - PREMIUM",
+                            "sType": "fixed",
+                            "sAvail": 93,
+                            "sTotal": 94,
+                            "price": 235.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 373,
+                    "avail": 357,
+                    "audi": "SHIRIDI SAI A/c Dts",
+                    "premium": 0,
+                    "premiumLabel": "SHIRIDI SAI",
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Political"
+                    ],
+                    "statusColor": "G",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "31249__1736499900__2091__20586",
+                    "pid": 750,
+                    "pkey": "ticketnew",
+                    "cid": 1018799,
+                    "mid": "OB1H21",
+                    "fid": "URJofQgl6U",
+                    "showTime": "2025-01-10T09:05",
+                    "closeTime": "2025-01-10T09:00",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "20",
+                            "label": "PREMIUM",
+                            "typeCode": "31249__1736499900__2091__20586_PREMIUM",
+                            "sType": "fixed",
+                            "sAvail": 261,
+                            "sTotal": 279,
+                            "price": 282.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "60",
+                            "label": "NON - PREMIUM",
+                            "typeCode": "31249__1736499900__2091__20586_NON - PREMIUM",
+                            "sType": "fixed",
+                            "sAvail": 94,
+                            "sTotal": 94,
+                            "price": 235.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 373,
+                    "avail": 355,
+                    "audi": "SHIRIDI SAI A/c Dts",
+                    "premium": 0,
+                    "premiumLabel": "SHIRIDI SAI",
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Political"
+                    ],
+                    "statusColor": "G",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "31249__1736499000__2090__20581",
+                    "pid": 750,
+                    "pkey": "ticketnew",
+                    "cid": 1018799,
+                    "mid": "OB1H21",
+                    "fid": "URJofQgl6U",
+                    "showTime": "2025-01-10T08:50",
+                    "closeTime": "2025-01-10T08:45",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "10",
+                            "label": "PREMIUM",
+                            "typeCode": "31249__1736499000__2090__20581_PREMIUM",
+                            "sType": "fixed",
+                            "sAvail": 238,
+                            "sTotal": 279,
+                            "price": 282.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "50",
+                            "label": "NON - PREMIUM",
+                            "typeCode": "31249__1736499000__2090__20581_NON - PREMIUM",
+                            "sType": "fixed",
+                            "sAvail": 90,
+                            "sTotal": 94,
+                            "price": 235.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 373,
+                    "avail": 328,
+                    "audi": "PARTHI SAI A/c Dts",
+                    "premium": 0,
+                    "premiumLabel": "PARTHI SAI",
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Political"
+                    ],
+                    "statusColor": "G",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "31249__1736471700__2090__20589",
+                    "pid": 750,
+                    "pkey": "ticketnew",
+                    "cid": 1018799,
+                    "mid": "OB1H21",
+                    "fid": "URJofQgl6U",
+                    "showTime": "2025-01-10T01:15",
+                    "closeTime": "2025-01-10T01:10",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "10",
+                            "label": "PREMIUM",
+                            "typeCode": "31249__1736471700__2090__20589_PREMIUM",
+                            "sType": "fixed",
+                            "sAvail": 9,
+                            "sTotal": 279,
+                            "price": 282.0,
+                            "statusColor": "R"
+                        },
+                        {
+                            "code": "50",
+                            "label": "NON - PREMIUM",
+                            "typeCode": "31249__1736471700__2090__20589_NON - PREMIUM",
+                            "sType": "fixed",
+                            "sAvail": 62,
+                            "sTotal": 94,
+                            "price": 235.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 373,
+                    "avail": 71,
+                    "audi": "PARTHI SAI A/c Dts",
+                    "premium": 0,
+                    "premiumLabel": "PARTHI SAI",
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Political"
+                    ],
+                    "statusColor": "Y",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "31249__1736513400__2090__20582",
+                    "pid": 750,
+                    "pkey": "ticketnew",
+                    "cid": 1018799,
+                    "mid": "OB1H21",
+                    "fid": "URJofQgl6U",
+                    "showTime": "2025-01-10T12:50",
+                    "closeTime": "2025-01-10T12:45",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "10",
+                            "label": "PREMIUM",
+                            "typeCode": "31249__1736513400__2090__20582_PREMIUM",
+                            "sType": "fixed",
+                            "sAvail": 193,
+                            "sTotal": 279,
+                            "price": 282.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "50",
+                            "label": "NON - PREMIUM",
+                            "typeCode": "31249__1736513400__2090__20582_NON - PREMIUM",
+                            "sType": "fixed",
+                            "sAvail": 94,
+                            "sTotal": 94,
+                            "price": 235.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 373,
+                    "avail": 287,
+                    "audi": "PARTHI SAI A/c Dts",
+                    "premium": 0,
+                    "premiumLabel": "PARTHI SAI",
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Political"
+                    ],
+                    "statusColor": "G",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "31249__1736451000__2091__20584",
+                    "pid": 750,
+                    "pkey": "ticketnew",
+                    "cid": 1018799,
+                    "mid": "OB1H21",
+                    "fid": "URJofQgl6U",
+                    "showTime": "2025-01-09T19:30",
+                    "closeTime": "2025-01-09T19:25",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "20",
+                            "label": "PREMIUM",
+                            "typeCode": "31249__1736451000__2091__20584_PREMIUM",
+                            "sType": "fixed",
+                            "sAvail": 54,
+                            "sTotal": 279,
+                            "price": 600.0,
+                            "statusColor": "Y"
+                        },
+                        {
+                            "code": "60",
+                            "label": "NON - PREMIUM",
+                            "typeCode": "31249__1736451000__2091__20584_NON - PREMIUM",
+                            "sType": "fixed",
+                            "sAvail": 94,
+                            "sTotal": 94,
+                            "price": 600.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 373,
+                    "avail": 148,
+                    "audi": "SHIRIDI SAI A/c Dts",
+                    "premium": 0,
+                    "premiumLabel": "SHIRIDI SAI",
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Political"
+                    ],
+                    "statusColor": "Y",
+                    "subtitle": ""
+                }
+            ],
+            "1025576": [
+                {
+                    "sid": "31249__1736525700__5922__7105",
+                    "pid": 736,
+                    "pkey": "ticketnew",
+                    "cid": 1025576,
+                    "mid": "OB1H21",
+                    "fid": "URJofQgl6U",
+                    "showTime": "2025-01-10T16:15",
+                    "closeTime": "2025-01-10T16:10",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "10",
+                            "label": "FIRST CLASS",
+                            "typeCode": "31249__1736525700__5922__7105_FIRST CLASS",
+                            "sType": "fixed",
+                            "sAvail": 232,
+                            "sTotal": 344,
+                            "price": 282.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 344,
+                    "avail": 232,
+                    "audi": "SRI SATYA THEATRE",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 10,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Political"
+                    ],
+                    "statusColor": "G",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "31249__1736471700__5922__7101",
+                    "pid": 736,
+                    "pkey": "ticketnew",
+                    "cid": 1025576,
+                    "mid": "OB1H21",
+                    "fid": "URJofQgl6U",
+                    "showTime": "2025-01-10T01:15",
+                    "closeTime": "2025-01-10T01:10",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "10",
+                            "label": "FIRST CLASS",
+                            "typeCode": "31249__1736471700__5922__7101_FIRST CLASS",
+                            "sType": "fixed",
+                            "sAvail": 259,
+                            "sTotal": 344,
+                            "price": 282.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 344,
+                    "avail": 259,
+                    "audi": "SRI SATYA THEATRE",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 10,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Political"
+                    ],
+                    "statusColor": "G",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "31249__1736499600__5922__7103",
+                    "pid": 736,
+                    "pkey": "ticketnew",
+                    "cid": 1025576,
+                    "mid": "OB1H21",
+                    "fid": "URJofQgl6U",
+                    "showTime": "2025-01-10T09:00",
+                    "closeTime": "2025-01-10T08:55",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "10",
+                            "label": "FIRST CLASS",
+                            "typeCode": "31249__1736499600__5922__7103_FIRST CLASS",
+                            "sType": "fixed",
+                            "sAvail": 276,
+                            "sTotal": 344,
+                            "price": 282.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 344,
+                    "avail": 276,
+                    "audi": "SRI SATYA THEATRE",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 10,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Political"
+                    ],
+                    "statusColor": "G",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "31249__1736514000__5922__7104",
+                    "pid": 736,
+                    "pkey": "ticketnew",
+                    "cid": 1025576,
+                    "mid": "OB1H21",
+                    "fid": "URJofQgl6U",
+                    "showTime": "2025-01-10T13:00",
+                    "closeTime": "2025-01-10T12:55",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "10",
+                            "label": "FIRST CLASS",
+                            "typeCode": "31249__1736514000__5922__7104_FIRST CLASS",
+                            "sType": "fixed",
+                            "sAvail": 240,
+                            "sTotal": 344,
+                            "price": 282.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 344,
+                    "avail": 240,
+                    "audi": "SRI SATYA THEATRE",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 10,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Political"
+                    ],
+                    "statusColor": "G",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "31249__1736487000__5922__7102",
+                    "pid": 736,
+                    "pkey": "ticketnew",
+                    "cid": 1025576,
+                    "mid": "OB1H21",
+                    "fid": "URJofQgl6U",
+                    "showTime": "2025-01-10T05:30",
+                    "closeTime": "2025-01-10T05:25",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "10",
+                            "label": "FIRST CLASS",
+                            "typeCode": "31249__1736487000__5922__7102_FIRST CLASS",
+                            "sType": "fixed",
+                            "sAvail": 263,
+                            "sTotal": 344,
+                            "price": 282.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 344,
+                    "avail": 263,
+                    "audi": "SRI SATYA THEATRE",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 10,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Political"
+                    ],
+                    "statusColor": "G",
+                    "subtitle": ""
+                }
+            ]
+        }
+    }
+}

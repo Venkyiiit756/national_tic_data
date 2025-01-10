@@ -1,0 +1,1365 @@
+{
+    "serverTime": 1736284955,
+    "meta": {
+        "movies": [
+            {
+                "id": "OB1H21",
+                "frmtId": "URJofQgl6U",
+                "name": "Game Changer",
+                "imgPath": null,
+                "appImgPath": "https://assetscdn1.paytm.com/images/cinema/Game%20Changer-3cf95ad0-cce0-11ef-a9e2-63c420e5944f.jpeg",
+                "cvrPath": "https://assetscdn1.paytm.com/images/cinema/web-cover-3dd26890-893b-11ef-b30d-5d8b2ded08e1.jpg",
+                "appCvrPath": "https://assetscdn1.paytm.com/images/cinema/app-cover-3dd0e1f0-893b-11ef-80ee-5d6ff5e29b7e.jpg",
+                "thumbnail": null,
+                "edgeBanner": null,
+                "trailer": "https://youtu.be/zHiKFSBO_JE",
+                "censor": "UA",
+                "duration": 165,
+                "grn": [
+                    "Action",
+                    "Drama",
+                    "Political"
+                ],
+                "scrnFmt": "2D",
+                "sndFmt": null,
+                "rnr": {
+                    "hasUReview": 0,
+                    "hasContent": 1
+                },
+                "isNew": false,
+                "imxImgUrl": null,
+                "contentId": 161066,
+                "label": "Game Changer",
+                "lang": "Telugu"
+            }
+        ],
+        "filterBuckets": {
+            "timeBuckets": [
+                {
+                    "sTime": "05:00",
+                    "eTime": "11:59",
+                    "desc": "5:00 AM to 11:59 AM",
+                    "dText": "Morning",
+                    "desc1": "Till 12 PM"
+                },
+                {
+                    "sTime": "12:00",
+                    "eTime": "15:59",
+                    "desc": "12:00 PM to 3:59 PM",
+                    "dText": "Afternoon",
+                    "desc1": "Till 4 PM"
+                },
+                {
+                    "sTime": "16:00",
+                    "eTime": "18:59",
+                    "desc": "4:00 PM to 6:59 PM",
+                    "dText": "Evening",
+                    "desc1": "Till 7 PM"
+                },
+                {
+                    "sTime": "19:00",
+                    "eTime": "04:59",
+                    "desc": "7:00 PM to 4:59 AM",
+                    "dText": "Night",
+                    "desc1": "After 7 PM"
+                }
+            ],
+            "priceBuckets": [
+                {
+                    "min": "0",
+                    "max": "100",
+                    "desc": "\u20b9 0 - \u20b9 100"
+                },
+                {
+                    "min": "100",
+                    "max": "200",
+                    "desc": "\u20b9 100 - \u20b9 200"
+                }
+            ],
+            "showTimeBuckets": [
+                {
+                    "sTime": "00:00",
+                    "eTime": "08:00",
+                    "desc": "12 AM to 8 AM",
+                    "dText": "Early Morning",
+                    "desc1": "Till 8 AM",
+                    "isEnabled": true
+                },
+                {
+                    "sTime": "08:00",
+                    "eTime": "12:00",
+                    "desc": "8 AM to 12 PM",
+                    "dText": "Morning",
+                    "desc1": "Till 12 PM",
+                    "isEnabled": true
+                },
+                {
+                    "sTime": "12:00",
+                    "eTime": "16:00",
+                    "desc": "12 PM to 4 PM",
+                    "dText": "Afternoon",
+                    "desc1": "Till 4 PM",
+                    "isEnabled": true
+                },
+                {
+                    "sTime": "16:00",
+                    "eTime": "19:00",
+                    "desc": "4 PM to 7 PM",
+                    "dText": "Evening",
+                    "desc1": "Till 7 PM",
+                    "isEnabled": true
+                },
+                {
+                    "sTime": "19:00",
+                    "eTime": "23:59",
+                    "desc": "7 PM to 12 AM",
+                    "dText": "Night",
+                    "desc1": "Till 12 AM",
+                    "isEnabled": true
+                }
+            ]
+        },
+        "amenities": [
+            {
+                "id": 2,
+                "name": "Parking",
+                "rank": 1,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Parking-c79a3400-95f6-11ef-a253-33f238ee5f34.png"
+            },
+            {
+                "id": 1,
+                "name": "Mobile Ticket",
+                "rank": 2,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Mobile%20Ticket-bc527a30-95f6-11ef-b954-a1c7e1e4be25.png"
+            },
+            {
+                "id": 3,
+                "name": "Food & Beverages",
+                "rank": 3,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/F%26B-938587f0-95f6-11ef-b954-a1c7e1e4be25.png"
+            },
+            {
+                "id": 5,
+                "name": "Recliners",
+                "rank": 4,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Seat-13023560-95f6-11ef-b954-a1c7e1e4be25.png"
+            },
+            {
+                "id": 6,
+                "name": "Digital Payments",
+                "rank": 5,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Payment-eab8cb00-95f5-11ef-a253-33f238ee5f34.png"
+            },
+            {
+                "id": 4,
+                "name": "Wheelchair Friendly",
+                "rank": 6,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Wheelchair-73f627a0-95f6-11ef-a253-33f238ee5f34.png"
+            },
+            {
+                "id": 7,
+                "name": "RGB Laser",
+                "rank": 7,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Screen-fef54df0-95f5-11ef-b954-a1c7e1e4be25.png"
+            },
+            {
+                "id": 8,
+                "name": "Dolby Atmos",
+                "rank": 8,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Audio-4acee060-95f6-11ef-b954-a1c7e1e4be25.png"
+            },
+            {
+                "id": 9,
+                "name": "IMAX",
+                "rank": 9,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Screen-fef54df0-95f5-11ef-b954-a1c7e1e4be25.png"
+            },
+            {
+                "id": 10,
+                "name": "4K",
+                "rank": 10,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Screen-fef54df0-95f5-11ef-b954-a1c7e1e4be25.png"
+            },
+            {
+                "id": 12,
+                "name": "WIFI",
+                "rank": 12,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Wifi-5646f900-95f6-11ef-b954-a1c7e1e4be25.png"
+            },
+            {
+                "id": 14,
+                "name": "Gaming Zone",
+                "rank": 14,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Gaming-d3353df0-95f6-11ef-a253-33f238ee5f34.png"
+            },
+            {
+                "id": 15,
+                "name": "2K",
+                "rank": 15,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Screen-fef54df0-95f5-11ef-b954-a1c7e1e4be25.png"
+            },
+            {
+                "id": 17,
+                "name": "4DX",
+                "rank": 17,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Screen-fef54df0-95f5-11ef-b954-a1c7e1e4be25.png"
+            },
+            {
+                "id": 18,
+                "name": "Dolby 7.1",
+                "rank": 18,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Audio-4acee060-95f6-11ef-b954-a1c7e1e4be25.png"
+            },
+            {
+                "id": 19,
+                "name": "Air Conditioning",
+                "rank": 19,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/AC-d92791f0-95f5-11ef-b954-a1c7e1e4be25.png"
+            },
+            {
+                "id": 20,
+                "name": "Metro Nearby",
+                "rank": 20,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Metro-08856cb0-95f6-11ef-b954-a1c7e1e4be25.png"
+            },
+            {
+                "id": 21,
+                "name": "Sofa",
+                "rank": 21,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Seat-13023560-95f6-11ef-b954-a1c7e1e4be25.png"
+            },
+            {
+                "id": 24,
+                "name": "Silver Screen",
+                "rank": 24,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Screen-fef54df0-95f5-11ef-b954-a1c7e1e4be25.png"
+            },
+            {
+                "id": 28,
+                "name": "Free Parking",
+                "rank": 28,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Parking-c79a3400-95f6-11ef-a253-33f238ee5f34.png"
+            },
+            {
+                "id": 29,
+                "name": "Baggage Counter",
+                "rank": 29,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Baggage%20counter-f4cbae50-95f5-11ef-a253-33f238ee5f34.png"
+            },
+            {
+                "id": 30,
+                "name": "Dolby 4 Way 11.1",
+                "rank": 30,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Audio-4acee060-95f6-11ef-b954-a1c7e1e4be25.png"
+            },
+            {
+                "id": 31,
+                "name": "Barco 4K Ultra HD",
+                "rank": 31,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Screen-fef54df0-95f5-11ef-b954-a1c7e1e4be25.png"
+            }
+        ],
+        "cinemas": [
+            {
+                "id": 10184,
+                "pid": 1407,
+                "name": "AGS Cinemas, Villivakkam, Chennai",
+                "address": "No. 1/1, Mettu Street Villivakkam, Behind, Villivakkam Bus Depot, Chennai, Tamil Nadu 600049, India",
+                "pincode": "600049",
+                "lat": 13.1047,
+                "lon": 80.209,
+                "cityId": 34,
+                "appCovrImgUrl": "",
+                "covrImgUrl": "",
+                "fnb": 0,
+                "mTkt": 1,
+                "bCode": "AGS",
+                "sTop": 1,
+                "isMerchantCancellable": 0,
+                "cinemaLogoUrl": "https://assetscdn1.paytm.com/images/cinema/ags-fd95c880-869e-11ed-babd-1b40982c99df.png",
+                "cinemaVideoUrl": "",
+                "appCoverVideoUrl": "",
+                "webCoverVideoUrl": "",
+                "amenities": null,
+                "promos": null,
+                "chainKey": "AGS Cinemas",
+                "contentId": 150207,
+                "theatreGroupName": "",
+                "amenitiesOrder": null,
+                "carouselAttachments": [],
+                "isPassEnabled": 0,
+                "paytmCinemaId": 10184,
+                "city": "Chennai",
+                "clientId": "ticketnew",
+                "isMapped": 0,
+                "city_id": null,
+                "is_city_mapped": null,
+                "state": "tamil-nadu",
+                "city_key": null,
+                "label": "AGS Cinemas, Villivakkam, Chennai",
+                "sessionCount": 159
+            },
+            {
+                "id": 10185,
+                "pid": 1407,
+                "name": "AGS Cinemas OMR, Navlur, Chennai",
+                "address": "Coromandel Plaza 87/1A, 5th Floor, Navalur, Old Mahabalipuram Road, Near ETA Techno Park Entrance, Chennai, Tamil Nadu 603103, India",
+                "pincode": "603103",
+                "lat": 12.8505,
+                "lon": 80.2257,
+                "cityId": 34,
+                "appCovrImgUrl": "",
+                "covrImgUrl": "",
+                "fnb": 0,
+                "mTkt": 1,
+                "bCode": "AGS",
+                "sTop": 1,
+                "isMerchantCancellable": 0,
+                "cinemaLogoUrl": "https://assetscdn1.paytm.com/images/cinema/ags-fd95c880-869e-11ed-babd-1b40982c99df.png",
+                "cinemaVideoUrl": "",
+                "appCoverVideoUrl": "",
+                "webCoverVideoUrl": "",
+                "amenities": null,
+                "promos": null,
+                "chainKey": "AGS Cinemas",
+                "contentId": 150208,
+                "theatreGroupName": "",
+                "amenitiesOrder": null,
+                "carouselAttachments": [],
+                "isPassEnabled": 0,
+                "paytmCinemaId": 10185,
+                "city": "Chennai",
+                "clientId": "ticketnew",
+                "isMapped": 0,
+                "city_id": null,
+                "is_city_mapped": null,
+                "state": "tamil-nadu",
+                "city_key": null,
+                "label": "AGS Cinemas OMR, Navlur, Chennai",
+                "sessionCount": 132
+            },
+            {
+                "id": 10186,
+                "pid": 1407,
+                "name": "AGS Cinemas, Maduravoyal, Chennai",
+                "address": "No 3/47, Alapakkam Main Road, Subramaniapuram, Pallavan Nagar, Chennai, Tamil Nadu 600095, India",
+                "pincode": "600095",
+                "lat": 13.0601,
+                "lon": 80.164803,
+                "cityId": 34,
+                "appCovrImgUrl": "",
+                "covrImgUrl": "",
+                "fnb": 0,
+                "mTkt": 1,
+                "bCode": "0",
+                "sTop": 1,
+                "isMerchantCancellable": 0,
+                "cinemaLogoUrl": "https://assetscdn1.paytm.com/images/cinema/ags-fd95c880-869e-11ed-babd-1b40982c99df.png",
+                "cinemaVideoUrl": "",
+                "appCoverVideoUrl": "",
+                "webCoverVideoUrl": "",
+                "amenities": null,
+                "promos": null,
+                "chainKey": "AGS Cinemas",
+                "contentId": 150209,
+                "theatreGroupName": "",
+                "amenitiesOrder": null,
+                "carouselAttachments": [],
+                "isPassEnabled": 0,
+                "paytmCinemaId": 10186,
+                "city": "Chennai",
+                "clientId": "ticketnew",
+                "isMapped": 0,
+                "city_id": null,
+                "is_city_mapped": null,
+                "state": "tamil-nadu",
+                "city_key": null,
+                "label": "AGS Cinemas, Maduravoyal, Chennai",
+                "sessionCount": 161
+            }
+        ],
+        "filterData": {
+            "minSTime": "06:00",
+            "maxSTime": "17:20",
+            "minPrice": 63.0,
+            "maxPrice": 200.0,
+            "premium": false,
+            "freeSeats": false,
+            "groupSeats": false,
+            "tokenFeeSeats": false,
+            "scnFrmts": [
+                "2D"
+            ],
+            "sndFrmts": [],
+            "mLangs": [
+                "Telugu"
+            ],
+            "genres": [
+                "Action",
+                "Drama",
+                "Political"
+            ],
+            "premiumSessionCount": 0,
+            "totalSessionCount": 17,
+            "showTimeList": [
+                "12:10",
+                "22:40",
+                "19:25",
+                "16:00",
+                "12:45",
+                "18:40",
+                "11:30",
+                "15:20",
+                "22:50",
+                "19:30",
+                "12:20",
+                "16:25",
+                "19:45",
+                "12:15",
+                "15:30",
+                "18:45",
+                "22:00"
+            ],
+            "quickFilterScnFrmts": [],
+            "quickFilterLanguages": [
+                "Telugu"
+            ],
+            "priceRangeSet": [
+                "price_100_to_200",
+                "price_below_100",
+                "price_200_to_300"
+            ]
+        },
+        "quickFilterData": {
+            "scnFrmts": [],
+            "premium": false,
+            "showTimeBuckets": [
+                {
+                    "sTime": "08:00",
+                    "eTime": "12:00",
+                    "desc": "8 AM to 12 PM",
+                    "dText": "Morning",
+                    "desc1": "Till 12 PM"
+                },
+                {
+                    "sTime": "17:00",
+                    "eTime": "23:59",
+                    "desc": "5 PM to 11:59 PM",
+                    "dText": "After 5 PM",
+                    "desc1": "Till 11:59 PM"
+                }
+            ]
+        }
+    },
+    "data": {
+        "pageSize": 100,
+        "cinemasOrder": [
+            10184,
+            10186,
+            10185
+        ],
+        "sessionDates": [
+            "2025-01-10",
+            "2025-01-11",
+            "2025-01-12",
+            "2025-01-13",
+            "2025-01-14",
+            "2025-01-15",
+            "2025-01-16"
+        ]
+    },
+    "pageData": {
+        "sessions": {
+            "10184": [
+                {
+                    "sid": "38012",
+                    "pid": 1407,
+                    "pkey": "vista_common_food",
+                    "cid": 10184,
+                    "mid": "OB1H21",
+                    "fid": "URJofQgl6U",
+                    "showTime": "2025-01-10T06:00",
+                    "closeTime": "2025-01-10T04:00",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "0000000002",
+                            "label": "PEARL",
+                            "typeCode": "0002",
+                            "sType": "fixed",
+                            "sAvail": 0,
+                            "sTotal": 20,
+                            "price": 63.0,
+                            "statusColor": "D"
+                        },
+                        {
+                            "code": "0000000001",
+                            "label": "DIAMOND",
+                            "typeCode": "0001",
+                            "sType": "fixed",
+                            "sAvail": 133,
+                            "sTotal": 174,
+                            "price": 200.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 194,
+                    "avail": 133,
+                    "audi": "SCREEN 2",
+                    "premium": 0,
+                    "premiumLabel": "4K DOLBY 7.1",
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 10,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Political"
+                    ],
+                    "statusColor": "G",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "38010",
+                    "pid": 1407,
+                    "pkey": "vista_common_food",
+                    "cid": 10184,
+                    "mid": "OB1H21",
+                    "fid": "URJofQgl6U",
+                    "showTime": "2025-01-10T09:50",
+                    "closeTime": "2025-01-10T07:50",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "0000000002",
+                            "label": "PEARL",
+                            "typeCode": "0002",
+                            "sType": "fixed",
+                            "sAvail": 0,
+                            "sTotal": 52,
+                            "price": 63.0,
+                            "statusColor": "D"
+                        },
+                        {
+                            "code": "0000000001",
+                            "label": "DIAMOND",
+                            "typeCode": "0001",
+                            "sType": "fixed",
+                            "sAvail": 359,
+                            "sTotal": 414,
+                            "price": 200.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 466,
+                    "avail": 359,
+                    "audi": "SCREEN 5",
+                    "premium": 0,
+                    "premiumLabel": "ATMOS 4K DOLBY ",
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 10,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Political"
+                    ],
+                    "statusColor": "G",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "37856",
+                    "pid": 1407,
+                    "pkey": "vista_common_food",
+                    "cid": 10184,
+                    "mid": "OB1H21",
+                    "fid": "URJofQgl6U",
+                    "showTime": "2025-01-10T17:20",
+                    "closeTime": "2025-01-10T15:20",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "0000000002",
+                            "label": "PEARL",
+                            "typeCode": "0002",
+                            "sType": "fixed",
+                            "sAvail": 0,
+                            "sTotal": 24,
+                            "price": 63.0,
+                            "statusColor": "D"
+                        },
+                        {
+                            "code": "0000000001",
+                            "label": "DIAMOND",
+                            "typeCode": "0001",
+                            "sType": "fixed",
+                            "sAvail": 165,
+                            "sTotal": 210,
+                            "price": 200.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 234,
+                    "avail": 165,
+                    "audi": "SCREEN 3",
+                    "premium": 0,
+                    "premiumLabel": "4K DOLBY 7.1",
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 10,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Political"
+                    ],
+                    "statusColor": "G",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "37855",
+                    "pid": 1407,
+                    "pkey": "vista_common_food",
+                    "cid": 10184,
+                    "mid": "OB1H21",
+                    "fid": "URJofQgl6U",
+                    "showTime": "2025-01-10T14:00",
+                    "closeTime": "2025-01-10T12:00",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "0000000002",
+                            "label": "PEARL",
+                            "typeCode": "0002",
+                            "sType": "fixed",
+                            "sAvail": 0,
+                            "sTotal": 24,
+                            "price": 63.0,
+                            "statusColor": "D"
+                        },
+                        {
+                            "code": "0000000001",
+                            "label": "DIAMOND",
+                            "typeCode": "0001",
+                            "sType": "fixed",
+                            "sAvail": 159,
+                            "sTotal": 210,
+                            "price": 200.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 234,
+                    "avail": 159,
+                    "audi": "SCREEN 3",
+                    "premium": 0,
+                    "premiumLabel": "4K DOLBY 7.1",
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 10,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Political"
+                    ],
+                    "statusColor": "G",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "37853",
+                    "pid": 1407,
+                    "pkey": "vista_common_food",
+                    "cid": 10184,
+                    "mid": "OB1H21",
+                    "fid": "URJofQgl6U",
+                    "showTime": "2025-01-10T06:50",
+                    "closeTime": "2025-01-10T04:50",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "0000000002",
+                            "label": "PEARL",
+                            "typeCode": "0002",
+                            "sType": "fixed",
+                            "sAvail": 0,
+                            "sTotal": 24,
+                            "price": 63.0,
+                            "statusColor": "D"
+                        },
+                        {
+                            "code": "0000000001",
+                            "label": "DIAMOND",
+                            "typeCode": "0001",
+                            "sType": "fixed",
+                            "sAvail": 166,
+                            "sTotal": 210,
+                            "price": 200.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 234,
+                    "avail": 166,
+                    "audi": "SCREEN 3",
+                    "premium": 0,
+                    "premiumLabel": "4K DOLBY 7.1",
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 10,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Political"
+                    ],
+                    "statusColor": "G",
+                    "subtitle": ""
+                }
+            ],
+            "10185": [
+                {
+                    "sid": "31594",
+                    "pid": 1407,
+                    "pkey": "vista_common_food",
+                    "cid": 10185,
+                    "mid": "OB1H21",
+                    "fid": "URJofQgl6U",
+                    "showTime": "2025-01-10T10:55",
+                    "closeTime": "2025-01-10T08:55",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "0000000002",
+                            "label": "PEARL",
+                            "typeCode": "0002",
+                            "sType": "fixed",
+                            "sAvail": 0,
+                            "sTotal": 34,
+                            "price": 63.0,
+                            "statusColor": "D"
+                        },
+                        {
+                            "code": "0000000001",
+                            "label": "DIAMOND",
+                            "typeCode": "0001",
+                            "sType": "fixed",
+                            "sAvail": 254,
+                            "sTotal": 302,
+                            "price": 200.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 336,
+                    "avail": 254,
+                    "audi": "SCREEN 2",
+                    "premium": 0,
+                    "premiumLabel": "4K DOLBY 7.1",
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 10,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Political"
+                    ],
+                    "statusColor": "G",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "31472",
+                    "pid": 1407,
+                    "pkey": "vista_common_food",
+                    "cid": 10185,
+                    "mid": "OB1H21",
+                    "fid": "URJofQgl6U",
+                    "showTime": "2025-01-10T14:15",
+                    "closeTime": "2025-01-10T12:15",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "0000000002",
+                            "label": "PEARL",
+                            "typeCode": "0002",
+                            "sType": "fixed",
+                            "sAvail": 0,
+                            "sTotal": 34,
+                            "price": 63.0,
+                            "statusColor": "D"
+                        },
+                        {
+                            "code": "0000000001",
+                            "label": "DIAMOND",
+                            "typeCode": "0001",
+                            "sType": "fixed",
+                            "sAvail": 226,
+                            "sTotal": 302,
+                            "price": 200.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 336,
+                    "avail": 226,
+                    "audi": "SCREEN 2",
+                    "premium": 0,
+                    "premiumLabel": "4K DOLBY 7.1",
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 10,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Political"
+                    ],
+                    "statusColor": "G",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "31463",
+                    "pid": 1407,
+                    "pkey": "vista_common_food",
+                    "cid": 10185,
+                    "mid": "OB1H21",
+                    "fid": "URJofQgl6U",
+                    "showTime": "2025-01-10T06:45",
+                    "closeTime": "2025-01-10T04:45",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "0000000002",
+                            "label": "PEARL",
+                            "typeCode": "0002",
+                            "sType": "fixed",
+                            "sAvail": 0,
+                            "sTotal": 53,
+                            "price": 63.0,
+                            "statusColor": "D"
+                        },
+                        {
+                            "code": "0000000001",
+                            "label": "DIAMOND",
+                            "typeCode": "0001",
+                            "sType": "fixed",
+                            "sAvail": 373,
+                            "sTotal": 477,
+                            "price": 200.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 530,
+                    "avail": 373,
+                    "audi": "SCREEN 4",
+                    "premium": 0,
+                    "premiumLabel": "4K DOLBY ATMOS",
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 10,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Political"
+                    ],
+                    "statusColor": "G",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "31467",
+                    "pid": 1407,
+                    "pkey": "vista_common_food",
+                    "cid": 10185,
+                    "mid": "OB1H21",
+                    "fid": "URJofQgl6U",
+                    "showTime": "2025-01-10T10:00",
+                    "closeTime": "2025-01-10T08:00",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "0000000002",
+                            "label": "PEARL",
+                            "typeCode": "0002",
+                            "sType": "fixed",
+                            "sAvail": 0,
+                            "sTotal": 53,
+                            "price": 63.0,
+                            "statusColor": "D"
+                        },
+                        {
+                            "code": "0000000001",
+                            "label": "DIAMOND",
+                            "typeCode": "0001",
+                            "sType": "fixed",
+                            "sAvail": 417,
+                            "sTotal": 477,
+                            "price": 200.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 530,
+                    "avail": 417,
+                    "audi": "SCREEN 4",
+                    "premium": 0,
+                    "premiumLabel": "4K DOLBY ATMOS",
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 10,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Political"
+                    ],
+                    "statusColor": "G",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "31468",
+                    "pid": 1407,
+                    "pkey": "vista_common_food",
+                    "cid": 10185,
+                    "mid": "OB1H21",
+                    "fid": "URJofQgl6U",
+                    "showTime": "2025-01-10T13:15",
+                    "closeTime": "2025-01-10T11:15",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "0000000002",
+                            "label": "PEARL",
+                            "typeCode": "0002",
+                            "sType": "fixed",
+                            "sAvail": 0,
+                            "sTotal": 53,
+                            "price": 63.0,
+                            "statusColor": "D"
+                        },
+                        {
+                            "code": "0000000001",
+                            "label": "DIAMOND",
+                            "typeCode": "0001",
+                            "sType": "fixed",
+                            "sAvail": 364,
+                            "sTotal": 477,
+                            "price": 200.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 530,
+                    "avail": 364,
+                    "audi": "SCREEN 4",
+                    "premium": 0,
+                    "premiumLabel": "4K DOLBY ATMOS",
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 10,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Political"
+                    ],
+                    "statusColor": "G",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "31469",
+                    "pid": 1407,
+                    "pkey": "vista_common_food",
+                    "cid": 10185,
+                    "mid": "OB1H21",
+                    "fid": "URJofQgl6U",
+                    "showTime": "2025-01-10T16:30",
+                    "closeTime": "2025-01-10T14:30",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "0000000002",
+                            "label": "PEARL",
+                            "typeCode": "0002",
+                            "sType": "fixed",
+                            "sAvail": 0,
+                            "sTotal": 53,
+                            "price": 63.0,
+                            "statusColor": "D"
+                        },
+                        {
+                            "code": "0000000001",
+                            "label": "DIAMOND",
+                            "typeCode": "0001",
+                            "sType": "fixed",
+                            "sAvail": 354,
+                            "sTotal": 477,
+                            "price": 200.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 530,
+                    "avail": 354,
+                    "audi": "SCREEN 4",
+                    "premium": 0,
+                    "premiumLabel": "4K DOLBY ATMOS",
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 10,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Political"
+                    ],
+                    "statusColor": "G",
+                    "subtitle": ""
+                }
+            ],
+            "10186": [
+                {
+                    "sid": "37618",
+                    "pid": 1407,
+                    "pkey": "vista_common_food",
+                    "cid": 10186,
+                    "mid": "OB1H21",
+                    "fid": "URJofQgl6U",
+                    "showTime": "2025-01-10T06:40",
+                    "closeTime": "2025-01-10T04:40",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "0000000002",
+                            "label": "PEARL",
+                            "typeCode": "0002",
+                            "sType": "fixed",
+                            "sAvail": 0,
+                            "sTotal": 31,
+                            "price": 63.0,
+                            "statusColor": "D"
+                        },
+                        {
+                            "code": "0000000001",
+                            "label": "DIAMOND",
+                            "typeCode": "0001",
+                            "sType": "fixed",
+                            "sAvail": 204,
+                            "sTotal": 262,
+                            "price": 200.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 293,
+                    "avail": 204,
+                    "audi": "SCREEN 2",
+                    "premium": 0,
+                    "premiumLabel": "4K DOLBY 7.1",
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 10,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Political"
+                    ],
+                    "statusColor": "G",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "37617",
+                    "pid": 1407,
+                    "pkey": "vista_common_food",
+                    "cid": 10186,
+                    "mid": "OB1H21",
+                    "fid": "URJofQgl6U",
+                    "showTime": "2025-01-10T17:10",
+                    "closeTime": "2025-01-10T15:10",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "0000000002",
+                            "label": "PEARL",
+                            "typeCode": "0002",
+                            "sType": "fixed",
+                            "sAvail": 0,
+                            "sTotal": 36,
+                            "price": 63.0,
+                            "statusColor": "D"
+                        },
+                        {
+                            "code": "0000000001",
+                            "label": "DIAMOND",
+                            "typeCode": "0001",
+                            "sType": "fixed",
+                            "sAvail": 259,
+                            "sTotal": 324,
+                            "price": 200.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 360,
+                    "avail": 259,
+                    "audi": "SCREEN 1",
+                    "premium": 0,
+                    "premiumLabel": "4K DOLBY 7.1",
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 10,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Political"
+                    ],
+                    "statusColor": "G",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "37616",
+                    "pid": 1407,
+                    "pkey": "vista_common_food",
+                    "cid": 10186,
+                    "mid": "OB1H21",
+                    "fid": "URJofQgl6U",
+                    "showTime": "2025-01-10T13:55",
+                    "closeTime": "2025-01-10T11:55",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "0000000002",
+                            "label": "PEARL",
+                            "typeCode": "0002",
+                            "sType": "fixed",
+                            "sAvail": 0,
+                            "sTotal": 36,
+                            "price": 63.0,
+                            "statusColor": "D"
+                        },
+                        {
+                            "code": "0000000001",
+                            "label": "DIAMOND",
+                            "typeCode": "0001",
+                            "sType": "fixed",
+                            "sAvail": 260,
+                            "sTotal": 324,
+                            "price": 200.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 360,
+                    "avail": 260,
+                    "audi": "SCREEN 1",
+                    "premium": 0,
+                    "premiumLabel": "4K DOLBY 7.1",
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 10,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Political"
+                    ],
+                    "statusColor": "G",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "37615",
+                    "pid": 1407,
+                    "pkey": "vista_common_food",
+                    "cid": 10186,
+                    "mid": "OB1H21",
+                    "fid": "URJofQgl6U",
+                    "showTime": "2025-01-10T10:30",
+                    "closeTime": "2025-01-10T08:30",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "0000000002",
+                            "label": "PEARL",
+                            "typeCode": "0002",
+                            "sType": "fixed",
+                            "sAvail": 0,
+                            "sTotal": 36,
+                            "price": 63.0,
+                            "statusColor": "D"
+                        },
+                        {
+                            "code": "0000000001",
+                            "label": "DIAMOND",
+                            "typeCode": "0001",
+                            "sType": "fixed",
+                            "sAvail": 273,
+                            "sTotal": 324,
+                            "price": 200.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 360,
+                    "avail": 273,
+                    "audi": "SCREEN 1",
+                    "premium": 0,
+                    "premiumLabel": "4K DOLBY 7.1",
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 10,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Political"
+                    ],
+                    "statusColor": "G",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "37614",
+                    "pid": 1407,
+                    "pkey": "vista_common_food",
+                    "cid": 10186,
+                    "mid": "OB1H21",
+                    "fid": "URJofQgl6U",
+                    "showTime": "2025-01-10T07:15",
+                    "closeTime": "2025-01-10T05:15",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "0000000002",
+                            "label": "PEARL",
+                            "typeCode": "0002",
+                            "sType": "fixed",
+                            "sAvail": 0,
+                            "sTotal": 36,
+                            "price": 63.0,
+                            "statusColor": "D"
+                        },
+                        {
+                            "code": "0000000001",
+                            "label": "DIAMOND",
+                            "typeCode": "0001",
+                            "sType": "fixed",
+                            "sAvail": 271,
+                            "sTotal": 324,
+                            "price": 200.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 360,
+                    "avail": 271,
+                    "audi": "SCREEN 1",
+                    "premium": 0,
+                    "premiumLabel": "4K DOLBY 7.1",
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 10,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Political"
+                    ],
+                    "statusColor": "G",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "37619",
+                    "pid": 1407,
+                    "pkey": "vista_common_food",
+                    "cid": 10186,
+                    "mid": "OB1H21",
+                    "fid": "URJofQgl6U",
+                    "showTime": "2025-01-10T13:10",
+                    "closeTime": "2025-01-10T11:10",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "0000000002",
+                            "label": "PEARL",
+                            "typeCode": "0002",
+                            "sType": "fixed",
+                            "sAvail": 0,
+                            "sTotal": 31,
+                            "price": 63.0,
+                            "statusColor": "D"
+                        },
+                        {
+                            "code": "0000000001",
+                            "label": "DIAMOND",
+                            "typeCode": "0001",
+                            "sType": "fixed",
+                            "sAvail": 202,
+                            "sTotal": 262,
+                            "price": 200.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 293,
+                    "avail": 202,
+                    "audi": "SCREEN 2",
+                    "premium": 0,
+                    "premiumLabel": "4K DOLBY 7.1",
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 10,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Political"
+                    ],
+                    "statusColor": "G",
+                    "subtitle": ""
+                }
+            ]
+        }
+    }
+}

@@ -15,7 +15,7 @@ cities = ['ahmedabad', 'ambala', 'amritsar', 'bengaluru', 'bathinda', 'bhopal', 
 
 # Base API URL (replace 'hyderabad' with the actual city name in the loop)
 #base_url = "https://apiproxy.paytm.com/v3/movies/search/movie?meta=1&reqData=1&city={}&movieCode=ttdx_wuyn&version=3&site_id=6&channel=HTML5&child_site_id=370&client_id=ticketnew&clientId=ticketnew"
-base_url = "https://apiproxy.paytm.com/v3/movies/search/movie?meta=1&reqData=1&city={}&movieCode=ttdx_wuyn&date=2024-09-28&version=3&site_id=6&channel=HTML5&child_site_id=370&client_id=ticketnew&clientId=ticketnew"
+base_url = "https://apiproxy.paytm.com/v3/movies/search/movie?meta=1&reqData=1&city={}&movieCode=urjofqgl6u&date=2025-01-10&version=3&site_id=6&channel=HTML5&child_site_id=370&client_id=ticketnew&clientId=ticketnew"
 
 timestamp = datetime.datetime.now().strftime("%Y-%m-%d_%H-%M-%S")
 

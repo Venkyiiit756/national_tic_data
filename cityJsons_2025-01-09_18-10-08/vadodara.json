@@ -1,0 +1,1686 @@
+{
+    "serverTime": 1736446217,
+    "meta": {
+        "movies": [
+            {
+                "id": "OB1H21",
+                "frmtId": "URJofQgl6U",
+                "name": "Game Changer",
+                "imgPath": null,
+                "appImgPath": "https://assetscdn1.paytm.com/images/cinema/Game%20Changer-3cf95ad0-cce0-11ef-a9e2-63c420e5944f.jpeg",
+                "cvrPath": "https://assetscdn1.paytm.com/images/cinema/web-cover-3dd26890-893b-11ef-b30d-5d8b2ded08e1.jpg",
+                "appCvrPath": "https://assetscdn1.paytm.com/images/cinema/app-cover-3dd0e1f0-893b-11ef-80ee-5d6ff5e29b7e.jpg",
+                "thumbnail": null,
+                "edgeBanner": null,
+                "trailer": "https://youtu.be/zHiKFSBO_JE",
+                "censor": "UA13+",
+                "duration": 165,
+                "grn": [
+                    "Action",
+                    "Drama",
+                    "Political"
+                ],
+                "scrnFmt": "2D",
+                "sndFmt": null,
+                "rnr": {
+                    "hasUReview": 0,
+                    "hasContent": 1
+                },
+                "isNew": false,
+                "imxImgUrl": null,
+                "contentId": 161066,
+                "label": "Game Changer",
+                "lang": "Telugu"
+            }
+        ],
+        "filterBuckets": {
+            "timeBuckets": [
+                {
+                    "sTime": "05:00",
+                    "eTime": "11:59",
+                    "desc": "5:00 AM to 11:59 AM",
+                    "dText": "Morning",
+                    "desc1": "Till 12 PM"
+                },
+                {
+                    "sTime": "12:00",
+                    "eTime": "15:59",
+                    "desc": "12:00 PM to 3:59 PM",
+                    "dText": "Afternoon",
+                    "desc1": "Till 4 PM"
+                },
+                {
+                    "sTime": "16:00",
+                    "eTime": "18:59",
+                    "desc": "4:00 PM to 6:59 PM",
+                    "dText": "Evening",
+                    "desc1": "Till 7 PM"
+                },
+                {
+                    "sTime": "19:00",
+                    "eTime": "04:59",
+                    "desc": "7:00 PM to 4:59 AM",
+                    "dText": "Night",
+                    "desc1": "After 7 PM"
+                }
+            ],
+            "priceBuckets": [
+                {
+                    "min": "0",
+                    "max": "100",
+                    "desc": "\u20b9 0 - \u20b9 100"
+                },
+                {
+                    "min": "100",
+                    "max": "200",
+                    "desc": "\u20b9 100 - \u20b9 200"
+                },
+                {
+                    "min": "200",
+                    "max": "300",
+                    "desc": "\u20b9 200 - \u20b9 300"
+                },
+                {
+                    "min": "300",
+                    "max": "400",
+                    "desc": "\u20b9 300 - \u20b9 400"
+                }
+            ],
+            "showTimeBuckets": [
+                {
+                    "sTime": "00:00",
+                    "eTime": "08:00",
+                    "desc": "12 AM to 8 AM",
+                    "dText": "Early Morning",
+                    "desc1": "Till 8 AM",
+                    "isEnabled": true
+                },
+                {
+                    "sTime": "08:00",
+                    "eTime": "12:00",
+                    "desc": "8 AM to 12 PM",
+                    "dText": "Morning",
+                    "desc1": "Till 12 PM",
+                    "isEnabled": true
+                },
+                {
+                    "sTime": "12:00",
+                    "eTime": "16:00",
+                    "desc": "12 PM to 4 PM",
+                    "dText": "Afternoon",
+                    "desc1": "Till 4 PM",
+                    "isEnabled": true
+                },
+                {
+                    "sTime": "16:00",
+                    "eTime": "19:00",
+                    "desc": "4 PM to 7 PM",
+                    "dText": "Evening",
+                    "desc1": "Till 7 PM",
+                    "isEnabled": true
+                },
+                {
+                    "sTime": "19:00",
+                    "eTime": "23:59",
+                    "desc": "7 PM to 12 AM",
+                    "dText": "Night",
+                    "desc1": "Till 12 AM",
+                    "isEnabled": true
+                }
+            ]
+        },
+        "amenities": [
+            {
+                "id": 2,
+                "name": "Parking",
+                "rank": 1,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Parking-c79a3400-95f6-11ef-a253-33f238ee5f34.png"
+            },
+            {
+                "id": 1,
+                "name": "Mobile Ticket",
+                "rank": 2,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Mobile%20Ticket-bc527a30-95f6-11ef-b954-a1c7e1e4be25.png"
+            },
+            {
+                "id": 3,
+                "name": "Food & Beverages",
+                "rank": 3,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/F%26B-938587f0-95f6-11ef-b954-a1c7e1e4be25.png"
+            },
+            {
+                "id": 5,
+                "name": "Recliners",
+                "rank": 4,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Seat-13023560-95f6-11ef-b954-a1c7e1e4be25.png"
+            },
+            {
+                "id": 6,
+                "name": "Digital Payments",
+                "rank": 5,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Payment-eab8cb00-95f5-11ef-a253-33f238ee5f34.png"
+            },
+            {
+                "id": 4,
+                "name": "Wheelchair Friendly",
+                "rank": 6,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Wheelchair-73f627a0-95f6-11ef-a253-33f238ee5f34.png"
+            },
+            {
+                "id": 7,
+                "name": "RGB Laser",
+                "rank": 7,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Screen-fef54df0-95f5-11ef-b954-a1c7e1e4be25.png"
+            },
+            {
+                "id": 8,
+                "name": "Dolby Atmos",
+                "rank": 8,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Audio-4acee060-95f6-11ef-b954-a1c7e1e4be25.png"
+            },
+            {
+                "id": 9,
+                "name": "IMAX",
+                "rank": 9,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Screen-fef54df0-95f5-11ef-b954-a1c7e1e4be25.png"
+            },
+            {
+                "id": 10,
+                "name": "4K",
+                "rank": 10,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Screen-fef54df0-95f5-11ef-b954-a1c7e1e4be25.png"
+            },
+            {
+                "id": 12,
+                "name": "WIFI",
+                "rank": 12,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Wifi-5646f900-95f6-11ef-b954-a1c7e1e4be25.png"
+            },
+            {
+                "id": 14,
+                "name": "Gaming Zone",
+                "rank": 14,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Gaming-d3353df0-95f6-11ef-a253-33f238ee5f34.png"
+            },
+            {
+                "id": 15,
+                "name": "2K",
+                "rank": 15,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Screen-fef54df0-95f5-11ef-b954-a1c7e1e4be25.png"
+            },
+            {
+                "id": 17,
+                "name": "4DX",
+                "rank": 17,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Screen-fef54df0-95f5-11ef-b954-a1c7e1e4be25.png"
+            },
+            {
+                "id": 18,
+                "name": "Dolby 7.1",
+                "rank": 18,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Audio-4acee060-95f6-11ef-b954-a1c7e1e4be25.png"
+            },
+            {
+                "id": 19,
+                "name": "Air Conditioning",
+                "rank": 19,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/AC-d92791f0-95f5-11ef-b954-a1c7e1e4be25.png"
+            },
+            {
+                "id": 20,
+                "name": "Metro Nearby",
+                "rank": 20,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Metro-08856cb0-95f6-11ef-b954-a1c7e1e4be25.png"
+            },
+            {
+                "id": 21,
+                "name": "Sofa",
+                "rank": 21,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Seat-13023560-95f6-11ef-b954-a1c7e1e4be25.png"
+            },
+            {
+                "id": 24,
+                "name": "Silver Screen",
+                "rank": 24,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Screen-fef54df0-95f5-11ef-b954-a1c7e1e4be25.png"
+            },
+            {
+                "id": 28,
+                "name": "Free Parking",
+                "rank": 28,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Parking-c79a3400-95f6-11ef-a253-33f238ee5f34.png"
+            },
+            {
+                "id": 29,
+                "name": "Baggage Counter",
+                "rank": 29,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Baggage%20counter-f4cbae50-95f5-11ef-a253-33f238ee5f34.png"
+            },
+            {
+                "id": 30,
+                "name": "Dolby 4 Way 11.1",
+                "rank": 30,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Audio-4acee060-95f6-11ef-b954-a1c7e1e4be25.png"
+            },
+            {
+                "id": 31,
+                "name": "Barco 4K Ultra HD",
+                "rank": 31,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Screen-fef54df0-95f5-11ef-b954-a1c7e1e4be25.png"
+            }
+        ],
+        "cinemas": [
+            {
+                "id": 1040399,
+                "pid": 1867,
+                "name": "MovieTime S Square Mall, Ellora Park, Vadodara",
+                "address": "3rd Floor, S-Square Complex, Above Dominos, Beside Ganga Jamna Hospital Subhanpura, Vadodara, Gujarat 390023, India",
+                "pincode": "390023",
+                "lat": 22.319997,
+                "lon": 73.159554,
+                "cityId": 26,
+                "appCovrImgUrl": "",
+                "covrImgUrl": "",
+                "fnb": 0,
+                "mTkt": 1,
+                "bCode": "1122",
+                "sTop": 1,
+                "isMerchantCancellable": 0,
+                "cinemaLogoUrl": "https://assetscdn1.paytm.com/images/cinema/movietime-63b885c0-86a0-11ed-babd-1b40982c99df%5B1%5D-a05afd80-b3cd-11ef-9ef0-f7433a87e903.png",
+                "cinemaVideoUrl": "",
+                "appCoverVideoUrl": "",
+                "webCoverVideoUrl": "",
+                "amenities": {
+                    "1": 1,
+                    "2": 1,
+                    "3": 1,
+                    "19": 1,
+                    "5": 1,
+                    "6": 1
+                },
+                "promos": null,
+                "chainKey": "Movietime",
+                "contentId": 185271,
+                "theatreGroupName": "",
+                "amenitiesOrder": [
+                    {
+                        "id": 1,
+                        "rank": 5,
+                        "status": 1
+                    },
+                    {
+                        "id": 2,
+                        "rank": 2,
+                        "status": 1
+                    },
+                    {
+                        "id": 3,
+                        "rank": 1,
+                        "status": 1
+                    },
+                    {
+                        "id": 5,
+                        "rank": 3,
+                        "status": 1
+                    },
+                    {
+                        "id": 6,
+                        "rank": 4,
+                        "status": 1
+                    },
+                    {
+                        "id": 19,
+                        "rank": 6,
+                        "status": 1
+                    }
+                ],
+                "carouselAttachments": [],
+                "isPassEnabled": 0,
+                "paytmCinemaId": 1040399,
+                "city": "Vadodara",
+                "clientId": "ticketnew",
+                "isMapped": 0,
+                "city_id": null,
+                "is_city_mapped": null,
+                "state": "gujarat",
+                "city_key": null,
+                "label": "MovieTime S Square Mall, Ellora Park, Vadodara",
+                "sessionCount": 40
+            },
+            {
+                "id": 1019944,
+                "pid": 1707,
+                "name": "PVR TransCube, K. J. Patel Marg, Vadodara",
+                "address": "3rd Floor, VED TransCube Plaza, Vadodara Central Bus Terminal, K. J. Patel Marg, Opp. Main Railway Station, Vadodara, Gujarat 390005, India",
+                "pincode": "390005",
+                "lat": 22.313723,
+                "lon": 73.181399,
+                "cityId": 26,
+                "appCovrImgUrl": "",
+                "covrImgUrl": "",
+                "fnb": 0,
+                "mTkt": 1,
+                "bCode": "0",
+                "sTop": 0,
+                "isMerchantCancellable": 1,
+                "cinemaLogoUrl": "https://assetscdn1.paytm.com/images/cinema/PVR%20circle%20new-e63c67e0-a41d-11ef-8d2a-13243c787688.png",
+                "cinemaVideoUrl": "",
+                "appCoverVideoUrl": "",
+                "webCoverVideoUrl": "",
+                "amenities": {
+                    "1": 1,
+                    "2": 1,
+                    "3": 1,
+                    "19": 1,
+                    "4": 1,
+                    "5": 1,
+                    "6": 1
+                },
+                "promos": null,
+                "chainKey": "PVR",
+                "contentId": 169098,
+                "theatreGroupName": "",
+                "amenitiesOrder": [
+                    {
+                        "id": 1,
+                        "rank": 6,
+                        "status": 1
+                    },
+                    {
+                        "id": 2,
+                        "rank": 2,
+                        "status": 1
+                    },
+                    {
+                        "id": 3,
+                        "rank": 1,
+                        "status": 1
+                    },
+                    {
+                        "id": 4,
+                        "rank": 5,
+                        "status": 1
+                    },
+                    {
+                        "id": 5,
+                        "rank": 3,
+                        "status": 1
+                    },
+                    {
+                        "id": 6,
+                        "rank": 4,
+                        "status": 1
+                    },
+                    {
+                        "id": 19,
+                        "rank": 7,
+                        "status": 1
+                    }
+                ],
+                "carouselAttachments": [],
+                "isPassEnabled": 1,
+                "paytmCinemaId": 1019944,
+                "city": "Vadodara",
+                "clientId": "ticketnew",
+                "isMapped": 0,
+                "city_id": null,
+                "is_city_mapped": null,
+                "state": "gujarat",
+                "city_key": null,
+                "label": "PVR TransCube, K. J. Patel Marg, Vadodara",
+                "sessionCount": 102
+            },
+            {
+                "id": 6072,
+                "pid": 878,
+                "name": "Cinemarc Akota, Galleria Mall, Vadodara",
+                "address": "Cinemarc Theatres, 3rd Floor, Galleria Mall, Akota, Opposite D Mart, Vadodara, Gujarat 390020, India",
+                "pincode": "390020",
+                "lat": 22.300699,
+                "lon": 73.169197,
+                "cityId": 26,
+                "appCovrImgUrl": "",
+                "covrImgUrl": "",
+                "fnb": 0,
+                "mTkt": 1,
+                "bCode": "0",
+                "sTop": 1,
+                "isMerchantCancellable": 1,
+                "cinemaLogoUrl": "https://assetscdn1.paytm.com/images/cinema/Cinemarc%2C-vadodara-500X500-79e7fcc0-afdb-11ef-921a-6b45cf008ba4.png",
+                "cinemaVideoUrl": "",
+                "appCoverVideoUrl": "",
+                "webCoverVideoUrl": "",
+                "amenities": {
+                    "1": -1,
+                    "2": 1,
+                    "3": -1,
+                    "4": -1,
+                    "5": 1,
+                    "6": 1
+                },
+                "promos": null,
+                "chainKey": "Cinemarc",
+                "contentId": 149173,
+                "theatreGroupName": "",
+                "amenitiesOrder": [
+                    {
+                        "id": 1,
+                        "rank": 2,
+                        "status": -1
+                    },
+                    {
+                        "id": 2,
+                        "rank": 1,
+                        "status": 1
+                    },
+                    {
+                        "id": 3,
+                        "rank": 3,
+                        "status": -1
+                    },
+                    {
+                        "id": 4,
+                        "rank": 6,
+                        "status": -1
+                    },
+                    {
+                        "id": 5,
+                        "rank": 4,
+                        "status": 1
+                    },
+                    {
+                        "id": 6,
+                        "rank": 5,
+                        "status": 1
+                    }
+                ],
+                "carouselAttachments": [],
+                "isPassEnabled": 0,
+                "paytmCinemaId": 6072,
+                "city": "Vadodara",
+                "clientId": "ticketnew",
+                "isMapped": 0,
+                "city_id": null,
+                "is_city_mapped": null,
+                "state": "gujarat",
+                "city_key": null,
+                "label": "Cinemarc Akota, Galleria Mall, Vadodara",
+                "sessionCount": 62
+            },
+            {
+                "id": 6073,
+                "pid": 878,
+                "name": "Cinemarc VIP, Khodiyar Nagar Char Rasta, Vadodara",
+                "address": "Cinemarc Theatres, 4th Floor, Earth Icon, New VIP Ring Road, Khodiyar Nagar Char Rasta, Opposite Venice Villa, Vadodara, Gujarat 390022, India",
+                "pincode": "390022",
+                "lat": 22.3179,
+                "lon": 73.227997,
+                "cityId": 26,
+                "appCovrImgUrl": "",
+                "covrImgUrl": "",
+                "fnb": 0,
+                "mTkt": 0,
+                "bCode": "0",
+                "sTop": 1,
+                "isMerchantCancellable": 1,
+                "cinemaLogoUrl": "https://assetscdn1.paytm.com/images/cinema/Cinemarc%2C-vadodara-500X500-94e4dca0-afdb-11ef-86c3-e76b5990f01d.png",
+                "cinemaVideoUrl": "",
+                "appCoverVideoUrl": "",
+                "webCoverVideoUrl": "",
+                "amenities": {
+                    "1": -1,
+                    "2": 1,
+                    "3": -1,
+                    "4": -1,
+                    "5": 1,
+                    "6": 1
+                },
+                "promos": null,
+                "chainKey": "Cinemarc",
+                "contentId": 149174,
+                "theatreGroupName": "",
+                "amenitiesOrder": [
+                    {
+                        "id": 1,
+                        "rank": 2,
+                        "status": -1
+                    },
+                    {
+                        "id": 2,
+                        "rank": 1,
+                        "status": 1
+                    },
+                    {
+                        "id": 3,
+                        "rank": 3,
+                        "status": -1
+                    },
+                    {
+                        "id": 4,
+                        "rank": 6,
+                        "status": -1
+                    },
+                    {
+                        "id": 5,
+                        "rank": 4,
+                        "status": 1
+                    },
+                    {
+                        "id": 6,
+                        "rank": 5,
+                        "status": 1
+                    }
+                ],
+                "carouselAttachments": [],
+                "isPassEnabled": 0,
+                "paytmCinemaId": 6073,
+                "city": "Vadodara",
+                "clientId": "ticketnew",
+                "isMapped": 0,
+                "city_id": null,
+                "is_city_mapped": null,
+                "state": "gujarat",
+                "city_key": null,
+                "label": "Cinemarc VIP, Khodiyar Nagar Char Rasta, Vadodara",
+                "sessionCount": 62
+            },
+            {
+                "id": 1019942,
+                "pid": 1707,
+                "name": "INOX Taksh Galaxy Mall, Madhavpura, Vadodara",
+                "address": "2nd  Floor, Taksh Galaxy Mall ,Waghodia Bypass, NH 8, Madhavpura, Vadodara, Gujarat 390019, India",
+                "pincode": "390019",
+                "lat": 22.301237,
+                "lon": 73.254867,
+                "cityId": 26,
+                "appCovrImgUrl": "",
+                "covrImgUrl": "",
+                "fnb": 0,
+                "mTkt": 1,
+                "bCode": "0",
+                "sTop": 0,
+                "isMerchantCancellable": 1,
+                "cinemaLogoUrl": "https://assetscdn1.paytm.com/images/cinema/inox-circle%202-27a89af0-a41e-11ef-8d2a-13243c787688.png",
+                "cinemaVideoUrl": "",
+                "appCoverVideoUrl": "",
+                "webCoverVideoUrl": "",
+                "amenities": {
+                    "1": 1,
+                    "2": 1,
+                    "3": 1,
+                    "19": 1,
+                    "5": 1,
+                    "6": 1
+                },
+                "promos": null,
+                "chainKey": "PVR",
+                "contentId": 174382,
+                "theatreGroupName": "",
+                "amenitiesOrder": [
+                    {
+                        "id": 1,
+                        "rank": 6,
+                        "status": 1
+                    },
+                    {
+                        "id": 2,
+                        "rank": 2,
+                        "status": 1
+                    },
+                    {
+                        "id": 3,
+                        "rank": 1,
+                        "status": 1
+                    },
+                    {
+                        "id": 5,
+                        "rank": 3,
+                        "status": 1
+                    },
+                    {
+                        "id": 6,
+                        "rank": 4,
+                        "status": 1
+                    },
+                    {
+                        "id": 19,
+                        "rank": 7,
+                        "status": 1
+                    }
+                ],
+                "carouselAttachments": [],
+                "isPassEnabled": 1,
+                "paytmCinemaId": 1019942,
+                "city": "Vadodara",
+                "clientId": "ticketnew",
+                "isMapped": 0,
+                "city_id": null,
+                "is_city_mapped": null,
+                "state": "gujarat",
+                "city_key": null,
+                "label": "INOX Taksh Galaxy Mall, Madhavpura, Vadodara",
+                "sessionCount": 27
+            },
+            {
+                "id": 154,
+                "pid": 335,
+                "name": "Cinepolis Inorbit Mall, Gorwa, Vadodara",
+                "address": "2nd Floor Inorbit Mall, Near Alembic School, Gorwa, Vadodara, Gujarat 390023, India",
+                "pincode": "390023",
+                "lat": 22.322667,
+                "lon": 73.166253,
+                "cityId": 26,
+                "appCovrImgUrl": "",
+                "covrImgUrl": "",
+                "fnb": 0,
+                "mTkt": 1,
+                "bCode": "0621",
+                "sTop": 0,
+                "isMerchantCancellable": 0,
+                "cinemaLogoUrl": "https://assetscdn1.paytm.com/images/cinema/Cinepolis-17428170-b389-11ee-9dc3-a7b6a49337da.png",
+                "cinemaVideoUrl": "",
+                "appCoverVideoUrl": "",
+                "webCoverVideoUrl": "",
+                "amenities": {
+                    "1": 1,
+                    "2": 1,
+                    "3": 1,
+                    "19": 1,
+                    "4": 1,
+                    "5": 1,
+                    "6": 1
+                },
+                "promos": null,
+                "chainKey": "Cinepolis",
+                "contentId": 147611,
+                "theatreGroupName": "",
+                "amenitiesOrder": [
+                    {
+                        "id": 1,
+                        "rank": 6,
+                        "status": 1
+                    },
+                    {
+                        "id": 2,
+                        "rank": 2,
+                        "status": 1
+                    },
+                    {
+                        "id": 3,
+                        "rank": 1,
+                        "status": 1
+                    },
+                    {
+                        "id": 4,
+                        "rank": 5,
+                        "status": 1
+                    },
+                    {
+                        "id": 5,
+                        "rank": 3,
+                        "status": 1
+                    },
+                    {
+                        "id": 6,
+                        "rank": 4,
+                        "status": 1
+                    },
+                    {
+                        "id": 19,
+                        "rank": 7,
+                        "status": 1
+                    }
+                ],
+                "carouselAttachments": [],
+                "isPassEnabled": 0,
+                "paytmCinemaId": 154,
+                "city": "Vadodara",
+                "clientId": "ticketnew",
+                "isMapped": 0,
+                "city_id": null,
+                "is_city_mapped": null,
+                "state": "gujarat",
+                "city_key": null,
+                "label": "Cinepolis Inorbit Mall, Gorwa, Vadodara",
+                "sessionCount": 84
+            }
+        ],
+        "filterData": {
+            "minSTime": "02:30",
+            "maxSTime": "14:40",
+            "minPrice": 80.0,
+            "maxPrice": 350.0,
+            "premium": true,
+            "freeSeats": false,
+            "groupSeats": false,
+            "tokenFeeSeats": false,
+            "scnFrmts": [
+                "2D"
+            ],
+            "sndFrmts": [],
+            "mLangs": [
+                "Telugu"
+            ],
+            "genres": [
+                "Action",
+                "Drama",
+                "Political"
+            ],
+            "premiumSessionCount": 4,
+            "totalSessionCount": 13,
+            "showTimeList": [
+                "13:15",
+                "09:30",
+                "09:00",
+                "15:35",
+                "08:00",
+                "10:15",
+                "09:00",
+                "16:05",
+                "19:25",
+                "08:15",
+                "20:10",
+                "20:10",
+                "08:15"
+            ],
+            "quickFilterScnFrmts": [],
+            "quickFilterLanguages": [
+                "Telugu"
+            ],
+            "priceRangeSet": [
+                "price_300_to_400",
+                "price_100_to_200",
+                "price_below_100",
+                "price_200_to_300"
+            ]
+        },
+        "quickFilterData": {
+            "scnFrmts": [],
+            "premium": true,
+            "showTimeBuckets": [
+                {
+                    "sTime": "08:00",
+                    "eTime": "12:00",
+                    "desc": "8 AM to 12 PM",
+                    "dText": "Morning",
+                    "desc1": "Till 12 PM"
+                },
+                {
+                    "sTime": "17:00",
+                    "eTime": "23:59",
+                    "desc": "5 PM to 11:59 PM",
+                    "dText": "After 5 PM",
+                    "desc1": "Till 11:59 PM"
+                }
+            ]
+        }
+    },
+    "data": {
+        "pageSize": 100,
+        "cinemasOrder": [
+            1040399,
+            1019944,
+            6072,
+            1019942,
+            6073,
+            154
+        ],
+        "sessionDates": [
+            "2025-01-10",
+            "2025-01-11",
+            "2025-01-12"
+        ]
+    },
+    "pageData": {
+        "sessions": {
+            "1040399": [
+                {
+                    "sid": "27777",
+                    "pid": 1867,
+                    "pkey": "vista_common_food",
+                    "cid": 1040399,
+                    "mid": "OB1H21",
+                    "fid": "URJofQgl6U",
+                    "showTime": "2025-01-10T07:45",
+                    "closeTime": "2025-01-10T07:44",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "0000000001",
+                            "label": "RECLINER",
+                            "typeCode": "0002",
+                            "sType": "fixed",
+                            "sAvail": 11,
+                            "sTotal": 11,
+                            "price": 280.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "0000000003",
+                            "label": "PREMIUM",
+                            "typeCode": "0008",
+                            "sType": "fixed",
+                            "sAvail": 120,
+                            "sTotal": 120,
+                            "price": 130.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "0000000004",
+                            "label": "EXECUTIVE",
+                            "typeCode": "0010",
+                            "sType": "fixed",
+                            "sAvail": 45,
+                            "sTotal": 45,
+                            "price": 130.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 176,
+                    "avail": 176,
+                    "audi": "Audi No 2",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 10,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Political"
+                    ],
+                    "statusColor": "G",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "27806",
+                    "pid": 1867,
+                    "pkey": "vista_common_food",
+                    "cid": 1040399,
+                    "mid": "OB1H21",
+                    "fid": "URJofQgl6U",
+                    "showTime": "2025-01-10T04:00",
+                    "closeTime": "2025-01-10T03:59",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "0000000001",
+                            "label": "RECLINER",
+                            "typeCode": "0002",
+                            "sType": "fixed",
+                            "sAvail": 9,
+                            "sTotal": 9,
+                            "price": 250.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "0000000003",
+                            "label": "PREMIUM",
+                            "typeCode": "0008",
+                            "sType": "fixed",
+                            "sAvail": 104,
+                            "sTotal": 104,
+                            "price": 100.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "0000000004",
+                            "label": "EXECUTIVE",
+                            "typeCode": "0010",
+                            "sType": "fixed",
+                            "sAvail": 48,
+                            "sTotal": 48,
+                            "price": 100.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 161,
+                    "avail": 161,
+                    "audi": "Audi No 3",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 10,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Political"
+                    ],
+                    "statusColor": "G",
+                    "subtitle": ""
+                }
+            ],
+            "1019944": [
+                {
+                    "sid": "11545",
+                    "pid": 1707,
+                    "pkey": "showbizz",
+                    "cid": 1019944,
+                    "mid": "OB1H21",
+                    "fid": "URJofQgl6U",
+                    "showTime": "2025-01-10T03:30",
+                    "closeTime": "2025-01-10T03:29",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "CL",
+                            "label": "CLASSIC",
+                            "typeCode": "11545_CL",
+                            "sType": "fixed",
+                            "sAvail": 57,
+                            "sTotal": 57,
+                            "price": 150.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "PE",
+                            "label": "PRIME",
+                            "typeCode": "11545_PE",
+                            "sType": "fixed",
+                            "sAvail": 115,
+                            "sTotal": 123,
+                            "price": 150.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "RY",
+                            "label": "RECLINER",
+                            "typeCode": "11545_RY",
+                            "sType": "fixed",
+                            "sAvail": 11,
+                            "sTotal": 11,
+                            "price": 340.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 191,
+                    "avail": 183,
+                    "audi": "AUDI 05",
+                    "premium": 1,
+                    "premiumLabel": "RECLINERS",
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 10,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Political"
+                    ],
+                    "statusColor": "G"
+                },
+                {
+                    "sid": "11562",
+                    "pid": 1707,
+                    "pkey": "showbizz",
+                    "cid": 1019944,
+                    "mid": "OB1H21",
+                    "fid": "URJofQgl6U",
+                    "showTime": "2025-01-10T10:35",
+                    "closeTime": "2025-01-10T10:34",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "CL",
+                            "label": "CLASSIC",
+                            "typeCode": "11562_CL",
+                            "sType": "fixed",
+                            "sAvail": 42,
+                            "sTotal": 42,
+                            "price": 180.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "PE",
+                            "label": "PRIME",
+                            "typeCode": "11562_PE",
+                            "sType": "fixed",
+                            "sAvail": 117,
+                            "sTotal": 117,
+                            "price": 190.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "RY",
+                            "label": "RECLINER",
+                            "typeCode": "11562_RY",
+                            "sType": "fixed",
+                            "sAvail": 8,
+                            "sTotal": 8,
+                            "price": 350.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 167,
+                    "avail": 167,
+                    "audi": "AUDI 02",
+                    "premium": 1,
+                    "premiumLabel": "RECLINERS",
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 10,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Political"
+                    ],
+                    "statusColor": "G"
+                }
+            ],
+            "6072": [
+                {
+                    "sid": "50758",
+                    "pid": 878,
+                    "pkey": "vista_common_food",
+                    "cid": 6072,
+                    "mid": "OB1H21",
+                    "fid": "URJofQgl6U",
+                    "showTime": "2025-01-10T02:45",
+                    "closeTime": "2025-01-10T02:45",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "0000000003",
+                            "label": "PREMIER",
+                            "typeCode": "0003",
+                            "sType": "fixed",
+                            "sAvail": 15,
+                            "sTotal": 15,
+                            "price": 80.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "0000000002",
+                            "label": "SILVER",
+                            "typeCode": "0002",
+                            "sType": "fixed",
+                            "sAvail": 70,
+                            "sTotal": 72,
+                            "price": 80.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "0000000004",
+                            "label": "SOFA",
+                            "typeCode": "0007",
+                            "sType": "fixed",
+                            "sAvail": 29,
+                            "sTotal": 38,
+                            "price": 100.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 125,
+                    "avail": 114,
+                    "audi": "SCREEN 2",
+                    "premium": 0,
+                    "premiumLabel": "LASER DOLBY 7.1 SOUND",
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 10,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Political"
+                    ],
+                    "statusColor": "G",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "50771",
+                    "pid": 878,
+                    "pkey": "vista_common_food",
+                    "cid": 6072,
+                    "mid": "OB1H21",
+                    "fid": "URJofQgl6U",
+                    "showTime": "2025-01-10T14:40",
+                    "closeTime": "2025-01-10T14:40",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "0000000003",
+                            "label": "PREMIER",
+                            "typeCode": "0003",
+                            "sType": "fixed",
+                            "sAvail": 12,
+                            "sTotal": 12,
+                            "price": 110.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "0000000002",
+                            "label": "SILVER",
+                            "typeCode": "0002",
+                            "sType": "fixed",
+                            "sAvail": 78,
+                            "sTotal": 87,
+                            "price": 130.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "0000000004",
+                            "label": "SOFA",
+                            "typeCode": "0007",
+                            "sType": "fixed",
+                            "sAvail": 5,
+                            "sTotal": 25,
+                            "price": 140.0,
+                            "statusColor": "Y"
+                        }
+                    ],
+                    "total": 124,
+                    "avail": 95,
+                    "audi": "SCREEN 4",
+                    "premium": 0,
+                    "premiumLabel": "LASER DOLBY 7.1 SOUND",
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 10,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Political"
+                    ],
+                    "statusColor": "G",
+                    "subtitle": ""
+                }
+            ],
+            "1019942": [
+                {
+                    "sid": "46743",
+                    "pid": 1707,
+                    "pkey": "showbizz",
+                    "cid": 1019942,
+                    "mid": "OB1H21",
+                    "fid": "URJofQgl6U",
+                    "showTime": "2025-01-10T03:30",
+                    "closeTime": "2025-01-10T03:29",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "CL",
+                            "label": "CLUB",
+                            "typeCode": "46743_CL",
+                            "sType": "fixed",
+                            "sAvail": 75,
+                            "sTotal": 102,
+                            "price": 140.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "EX",
+                            "label": "EXECUTIVE",
+                            "typeCode": "46743_EX",
+                            "sType": "fixed",
+                            "sAvail": 34,
+                            "sTotal": 34,
+                            "price": 130.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "RR",
+                            "label": "ROYAL RECLINERS",
+                            "typeCode": "46743_RR",
+                            "sType": "fixed",
+                            "sAvail": 4,
+                            "sTotal": 15,
+                            "price": 290.0,
+                            "statusColor": "Y"
+                        },
+                        {
+                            "code": "RY",
+                            "label": "ROYAL",
+                            "typeCode": "46743_RY",
+                            "sType": "fixed",
+                            "sAvail": 34,
+                            "sTotal": 99,
+                            "price": 170.0,
+                            "statusColor": "Y"
+                        }
+                    ],
+                    "total": 250,
+                    "avail": 147,
+                    "audi": "SCREEN 2",
+                    "premium": 1,
+                    "premiumLabel": "RECLINERS",
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 10,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Political"
+                    ],
+                    "statusColor": "G"
+                },
+                {
+                    "sid": "46760",
+                    "pid": 1707,
+                    "pkey": "showbizz",
+                    "cid": 1019942,
+                    "mid": "OB1H21",
+                    "fid": "URJofQgl6U",
+                    "showTime": "2025-01-10T10:05",
+                    "closeTime": "2025-01-10T10:04",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "CL",
+                            "label": "CLUB",
+                            "typeCode": "46760_CL",
+                            "sType": "fixed",
+                            "sAvail": 102,
+                            "sTotal": 102,
+                            "price": 180.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "EX",
+                            "label": "EXECUTIVE",
+                            "typeCode": "46760_EX",
+                            "sType": "fixed",
+                            "sAvail": 34,
+                            "sTotal": 34,
+                            "price": 170.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "RR",
+                            "label": "ROYAL RECLINERS",
+                            "typeCode": "46760_RR",
+                            "sType": "fixed",
+                            "sAvail": 15,
+                            "sTotal": 15,
+                            "price": 330.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "RY",
+                            "label": "ROYAL",
+                            "typeCode": "46760_RY",
+                            "sType": "fixed",
+                            "sAvail": 97,
+                            "sTotal": 99,
+                            "price": 190.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 250,
+                    "avail": 248,
+                    "audi": "SCREEN 2",
+                    "premium": 1,
+                    "premiumLabel": "RECLINERS",
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 10,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Political"
+                    ],
+                    "statusColor": "G"
+                },
+                {
+                    "sid": "46748",
+                    "pid": 1707,
+                    "pkey": "showbizz",
+                    "cid": 1019942,
+                    "mid": "OB1H21",
+                    "fid": "URJofQgl6U",
+                    "showTime": "2025-01-10T02:30",
+                    "closeTime": "2025-01-10T02:29",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "CL",
+                            "label": "CLUB",
+                            "typeCode": "46748_CL",
+                            "sType": "fixed",
+                            "sAvail": 43,
+                            "sTotal": 60,
+                            "price": 140.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "EX",
+                            "label": "EXECUTIVE",
+                            "typeCode": "46748_EX",
+                            "sType": "fixed",
+                            "sAvail": 20,
+                            "sTotal": 20,
+                            "price": 130.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "RY",
+                            "label": "ROYAL",
+                            "typeCode": "46748_RY",
+                            "sType": "fixed",
+                            "sAvail": 32,
+                            "sTotal": 62,
+                            "price": 160.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 142,
+                    "avail": 95,
+                    "audi": "SCREEN 1",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 10,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Political"
+                    ],
+                    "statusColor": "G"
+                },
+                {
+                    "sid": "46735",
+                    "pid": 1707,
+                    "pkey": "showbizz",
+                    "cid": 1019942,
+                    "mid": "OB1H21",
+                    "fid": "URJofQgl6U",
+                    "showTime": "2025-01-10T04:45",
+                    "closeTime": "2025-01-10T04:44",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "CL",
+                            "label": "CLUB",
+                            "typeCode": "46735_CL",
+                            "sType": "fixed",
+                            "sAvail": 35,
+                            "sTotal": 36,
+                            "price": 140.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "EX",
+                            "label": "EXECUTIVE",
+                            "typeCode": "46735_EX",
+                            "sType": "fixed",
+                            "sAvail": 18,
+                            "sTotal": 18,
+                            "price": 130.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "RY",
+                            "label": "ROYAL",
+                            "typeCode": "46735_RY",
+                            "sType": "fixed",
+                            "sAvail": 68,
+                            "sTotal": 88,
+                            "price": 150.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 142,
+                    "avail": 121,
+                    "audi": "SCREEN 4",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 10,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Political"
+                    ],
+                    "statusColor": "G"
+                }
+            ],
+            "6073": [
+                {
+                    "sid": "70610",
+                    "pid": 878,
+                    "pkey": "vista_common_food",
+                    "cid": 6073,
+                    "mid": "OB1H21",
+                    "fid": "URJofQgl6U",
+                    "showTime": "2025-01-10T14:40",
+                    "closeTime": "2025-01-10T14:40",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "0000000004",
+                            "label": "Premium",
+                            "typeCode": "0004",
+                            "sType": "fixed",
+                            "sAvail": 13,
+                            "sTotal": 13,
+                            "price": 110.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "0000000003",
+                            "label": "Silver",
+                            "typeCode": "0003",
+                            "sType": "fixed",
+                            "sAvail": 86,
+                            "sTotal": 87,
+                            "price": 130.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "0000000002",
+                            "label": "Gold",
+                            "typeCode": "0002",
+                            "sType": "fixed",
+                            "sAvail": 7,
+                            "sTotal": 20,
+                            "price": 140.0,
+                            "statusColor": "Y"
+                        },
+                        {
+                            "code": "0000000005",
+                            "label": "SOFA",
+                            "typeCode": "0009",
+                            "sType": "fixed",
+                            "sAvail": 7,
+                            "sTotal": 19,
+                            "price": 150.0,
+                            "statusColor": "Y"
+                        }
+                    ],
+                    "total": 139,
+                    "avail": 113,
+                    "audi": "Screen 4",
+                    "premium": 0,
+                    "premiumLabel": "LASER DOLBY 7.1 SOUND",
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 10,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Political"
+                    ],
+                    "statusColor": "G",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "70612",
+                    "pid": 878,
+                    "pkey": "vista_common_food",
+                    "cid": 6073,
+                    "mid": "OB1H21",
+                    "fid": "URJofQgl6U",
+                    "showTime": "2025-01-10T02:45",
+                    "closeTime": "2025-01-10T02:45",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "0000000004",
+                            "label": "Premium",
+                            "typeCode": "0004",
+                            "sType": "fixed",
+                            "sAvail": 46,
+                            "sTotal": 46,
+                            "price": 90.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "0000000003",
+                            "label": "Silver",
+                            "typeCode": "0003",
+                            "sType": "fixed",
+                            "sAvail": 140,
+                            "sTotal": 158,
+                            "price": 90.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "0000000002",
+                            "label": "Gold",
+                            "typeCode": "0002",
+                            "sType": "fixed",
+                            "sAvail": 14,
+                            "sTotal": 37,
+                            "price": 100.0,
+                            "statusColor": "Y"
+                        },
+                        {
+                            "code": "0000000005",
+                            "label": "SOFA",
+                            "typeCode": "0009",
+                            "sType": "fixed",
+                            "sAvail": 11,
+                            "sTotal": 35,
+                            "price": 110.0,
+                            "statusColor": "Y"
+                        }
+                    ],
+                    "total": 276,
+                    "avail": 211,
+                    "audi": "Screen 2",
+                    "premium": 0,
+                    "premiumLabel": "LASER DOLBY 7.1 SOUND",
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 10,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Political"
+                    ],
+                    "statusColor": "G",
+                    "subtitle": ""
+                }
+            ],
+            "154": [
+                {
+                    "sid": "128955",
+                    "pid": 335,
+                    "pkey": "vista_common_food",
+                    "cid": 154,
+                    "mid": "OB1H21",
+                    "fid": "URJofQgl6U",
+                    "showTime": "2025-01-10T13:55",
+                    "closeTime": "2025-01-10T13:54",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "0000000001",
+                            "label": "PREMIUM",
+                            "typeCode": "0003",
+                            "sType": "fixed",
+                            "sAvail": 14,
+                            "sTotal": 28,
+                            "price": 220.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "0000000002",
+                            "label": "EXECUTIVE",
+                            "typeCode": "0001",
+                            "sType": "fixed",
+                            "sAvail": 106,
+                            "sTotal": 112,
+                            "price": 200.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "0000000000",
+                            "label": "NORMAL",
+                            "typeCode": "0002",
+                            "sType": "fixed",
+                            "sAvail": 24,
+                            "sTotal": 24,
+                            "price": 200.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 164,
+                    "avail": 144,
+                    "audi": "AUDI 3",
+                    "premium": 0,
+                    "premiumLabel": "DOLBY 7.1",
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 10,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Political"
+                    ],
+                    "statusColor": "G",
+                    "subtitle": ""
+                }
+            ]
+        }
+    }
+}

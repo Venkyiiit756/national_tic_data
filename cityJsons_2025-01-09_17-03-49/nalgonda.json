@@ -1,0 +1,1577 @@
+{
+    "serverTime": 1736442306,
+    "meta": {
+        "movies": [
+            {
+                "id": "OB1H21",
+                "frmtId": "URJofQgl6U",
+                "name": "Game Changer",
+                "imgPath": null,
+                "appImgPath": "https://assetscdn1.paytm.com/images/cinema/Game%20Changer-3cf95ad0-cce0-11ef-a9e2-63c420e5944f.jpeg",
+                "cvrPath": "https://assetscdn1.paytm.com/images/cinema/web-cover-3dd26890-893b-11ef-b30d-5d8b2ded08e1.jpg",
+                "appCvrPath": "https://assetscdn1.paytm.com/images/cinema/app-cover-3dd0e1f0-893b-11ef-80ee-5d6ff5e29b7e.jpg",
+                "thumbnail": null,
+                "edgeBanner": null,
+                "trailer": "https://youtu.be/zHiKFSBO_JE",
+                "censor": "UA13+",
+                "duration": 165,
+                "grn": [
+                    "Action",
+                    "Drama",
+                    "Political"
+                ],
+                "scrnFmt": "2D",
+                "sndFmt": null,
+                "rnr": {
+                    "hasUReview": 0,
+                    "hasContent": 1
+                },
+                "isNew": false,
+                "imxImgUrl": null,
+                "contentId": 161066,
+                "label": "Game Changer",
+                "lang": "Telugu"
+            }
+        ],
+        "filterBuckets": {
+            "timeBuckets": [
+                {
+                    "sTime": "05:00",
+                    "eTime": "11:59",
+                    "desc": "5:00 AM to 11:59 AM",
+                    "dText": "Morning",
+                    "desc1": "Till 12 PM"
+                },
+                {
+                    "sTime": "12:00",
+                    "eTime": "15:59",
+                    "desc": "12:00 PM to 3:59 PM",
+                    "dText": "Afternoon",
+                    "desc1": "Till 4 PM"
+                },
+                {
+                    "sTime": "16:00",
+                    "eTime": "18:59",
+                    "desc": "4:00 PM to 6:59 PM",
+                    "dText": "Evening",
+                    "desc1": "Till 7 PM"
+                },
+                {
+                    "sTime": "19:00",
+                    "eTime": "04:59",
+                    "desc": "7:00 PM to 4:59 AM",
+                    "dText": "Night",
+                    "desc1": "After 7 PM"
+                }
+            ],
+            "priceBuckets": [
+                {
+                    "min": "100",
+                    "max": "200",
+                    "desc": "\u20b9 100 - \u20b9 200"
+                },
+                {
+                    "min": "200",
+                    "max": "300",
+                    "desc": "\u20b9 200 - \u20b9 300"
+                }
+            ],
+            "showTimeBuckets": [
+                {
+                    "sTime": "00:00",
+                    "eTime": "08:00",
+                    "desc": "12 AM to 8 AM",
+                    "dText": "Early Morning",
+                    "desc1": "Till 8 AM",
+                    "isEnabled": false
+                },
+                {
+                    "sTime": "08:00",
+                    "eTime": "12:00",
+                    "desc": "8 AM to 12 PM",
+                    "dText": "Morning",
+                    "desc1": "Till 12 PM",
+                    "isEnabled": false
+                },
+                {
+                    "sTime": "12:00",
+                    "eTime": "16:00",
+                    "desc": "12 PM to 4 PM",
+                    "dText": "Afternoon",
+                    "desc1": "Till 4 PM",
+                    "isEnabled": false
+                },
+                {
+                    "sTime": "16:00",
+                    "eTime": "19:00",
+                    "desc": "4 PM to 7 PM",
+                    "dText": "Evening",
+                    "desc1": "Till 7 PM",
+                    "isEnabled": false
+                },
+                {
+                    "sTime": "19:00",
+                    "eTime": "23:59",
+                    "desc": "7 PM to 12 AM",
+                    "dText": "Night",
+                    "desc1": "Till 12 AM",
+                    "isEnabled": true
+                }
+            ]
+        },
+        "amenities": [
+            {
+                "id": 2,
+                "name": "Parking",
+                "rank": 1,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Parking-c79a3400-95f6-11ef-a253-33f238ee5f34.png"
+            },
+            {
+                "id": 1,
+                "name": "Mobile Ticket",
+                "rank": 2,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Mobile%20Ticket-bc527a30-95f6-11ef-b954-a1c7e1e4be25.png"
+            },
+            {
+                "id": 3,
+                "name": "Food & Beverages",
+                "rank": 3,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/F%26B-938587f0-95f6-11ef-b954-a1c7e1e4be25.png"
+            },
+            {
+                "id": 5,
+                "name": "Recliners",
+                "rank": 4,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Seat-13023560-95f6-11ef-b954-a1c7e1e4be25.png"
+            },
+            {
+                "id": 6,
+                "name": "Digital Payments",
+                "rank": 5,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Payment-eab8cb00-95f5-11ef-a253-33f238ee5f34.png"
+            },
+            {
+                "id": 4,
+                "name": "Wheelchair Friendly",
+                "rank": 6,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Wheelchair-73f627a0-95f6-11ef-a253-33f238ee5f34.png"
+            },
+            {
+                "id": 7,
+                "name": "RGB Laser",
+                "rank": 7,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Screen-fef54df0-95f5-11ef-b954-a1c7e1e4be25.png"
+            },
+            {
+                "id": 8,
+                "name": "Dolby Atmos",
+                "rank": 8,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Audio-4acee060-95f6-11ef-b954-a1c7e1e4be25.png"
+            },
+            {
+                "id": 9,
+                "name": "IMAX",
+                "rank": 9,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Screen-fef54df0-95f5-11ef-b954-a1c7e1e4be25.png"
+            },
+            {
+                "id": 10,
+                "name": "4K",
+                "rank": 10,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Screen-fef54df0-95f5-11ef-b954-a1c7e1e4be25.png"
+            },
+            {
+                "id": 12,
+                "name": "WIFI",
+                "rank": 12,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Wifi-5646f900-95f6-11ef-b954-a1c7e1e4be25.png"
+            },
+            {
+                "id": 14,
+                "name": "Gaming Zone",
+                "rank": 14,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Gaming-d3353df0-95f6-11ef-a253-33f238ee5f34.png"
+            },
+            {
+                "id": 15,
+                "name": "2K",
+                "rank": 15,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Screen-fef54df0-95f5-11ef-b954-a1c7e1e4be25.png"
+            },
+            {
+                "id": 17,
+                "name": "4DX",
+                "rank": 17,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Screen-fef54df0-95f5-11ef-b954-a1c7e1e4be25.png"
+            },
+            {
+                "id": 18,
+                "name": "Dolby 7.1",
+                "rank": 18,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Audio-4acee060-95f6-11ef-b954-a1c7e1e4be25.png"
+            },
+            {
+                "id": 19,
+                "name": "Air Conditioning",
+                "rank": 19,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/AC-d92791f0-95f5-11ef-b954-a1c7e1e4be25.png"
+            },
+            {
+                "id": 20,
+                "name": "Metro Nearby",
+                "rank": 20,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Metro-08856cb0-95f6-11ef-b954-a1c7e1e4be25.png"
+            },
+            {
+                "id": 21,
+                "name": "Sofa",
+                "rank": 21,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Seat-13023560-95f6-11ef-b954-a1c7e1e4be25.png"
+            },
+            {
+                "id": 24,
+                "name": "Silver Screen",
+                "rank": 24,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Screen-fef54df0-95f5-11ef-b954-a1c7e1e4be25.png"
+            },
+            {
+                "id": 28,
+                "name": "Free Parking",
+                "rank": 28,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Parking-c79a3400-95f6-11ef-a253-33f238ee5f34.png"
+            },
+            {
+                "id": 29,
+                "name": "Baggage Counter",
+                "rank": 29,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Baggage%20counter-f4cbae50-95f5-11ef-a253-33f238ee5f34.png"
+            },
+            {
+                "id": 30,
+                "name": "Dolby 4 Way 11.1",
+                "rank": 30,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Audio-4acee060-95f6-11ef-b954-a1c7e1e4be25.png"
+            },
+            {
+                "id": 31,
+                "name": "Barco 4K Ultra HD",
+                "rank": 31,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Screen-fef54df0-95f5-11ef-b954-a1c7e1e4be25.png"
+            }
+        ],
+        "cinemas": [
+            {
+                "id": 4739,
+                "pid": 750,
+                "name": "SVC Natraj Theatre, Bottu Guda, Nalgonda",
+                "address": "New Prakasham Bazar, Bottu Guda, Nalgonda, Telangana 508001, India",
+                "pincode": "508001",
+                "lat": 17.053904,
+                "lon": 79.272964,
+                "cityId": 217,
+                "appCovrImgUrl": "",
+                "covrImgUrl": "",
+                "fnb": 0,
+                "mTkt": 1,
+                "bCode": "0",
+                "sTop": 0,
+                "isMerchantCancellable": 0,
+                "cinemaLogoUrl": "https://assetscdn1.paytm.com/images/cinema/svc-5551d580-869c-11ed-9b16-5b1b1e9f8842.png",
+                "cinemaVideoUrl": "",
+                "appCoverVideoUrl": "",
+                "webCoverVideoUrl": "",
+                "amenities": {
+                    "1": -1,
+                    "2": 1,
+                    "3": -1,
+                    "4": -1,
+                    "5": -1,
+                    "6": 1
+                },
+                "promos": null,
+                "chainKey": "SVC Sangeetha",
+                "contentId": 148917,
+                "theatreGroupName": "",
+                "amenitiesOrder": [
+                    {
+                        "id": 1,
+                        "rank": 2,
+                        "status": -1
+                    },
+                    {
+                        "id": 2,
+                        "rank": 1,
+                        "status": 1
+                    },
+                    {
+                        "id": 3,
+                        "rank": 3,
+                        "status": -1
+                    },
+                    {
+                        "id": 4,
+                        "rank": 6,
+                        "status": -1
+                    },
+                    {
+                        "id": 5,
+                        "rank": 4,
+                        "status": -1
+                    },
+                    {
+                        "id": 6,
+                        "rank": 5,
+                        "status": 1
+                    }
+                ],
+                "carouselAttachments": [],
+                "isPassEnabled": 0,
+                "paytmCinemaId": 4739,
+                "city": "Nalgonda",
+                "clientId": "ticketnew",
+                "isMapped": 0,
+                "city_id": null,
+                "is_city_mapped": null,
+                "state": "telangana",
+                "city_key": null,
+                "label": "SVC Natraj Theatre, Bottu Guda, Nalgonda",
+                "sessionCount": 6
+            },
+            {
+                "id": 4340,
+                "pid": 749,
+                "name": "Tirumala Theater, Sri Lakshmi Nagar Colony, Nalgonda",
+                "address": "Hyderabad Rd, Sri Lakshmi Nagar Colony, Housing Board Colony, Nalgonda, Telangana 508002",
+                "pincode": "508002",
+                "lat": 17.06113,
+                "lon": 79.265905,
+                "cityId": 217,
+                "appCovrImgUrl": "",
+                "covrImgUrl": "",
+                "fnb": 0,
+                "mTkt": 1,
+                "bCode": "0",
+                "sTop": 0,
+                "isMerchantCancellable": 0,
+                "cinemaLogoUrl": "https://assetscdn1.paytm.com/images/cinema/TRI-500X500-7417eaa0-ae17-11ef-8c84-77d8adfebaea.png",
+                "cinemaVideoUrl": "",
+                "appCoverVideoUrl": "",
+                "webCoverVideoUrl": "",
+                "amenities": {
+                    "1": -1,
+                    "2": 1,
+                    "3": -1,
+                    "4": -1,
+                    "5": -1,
+                    "6": -1
+                },
+                "promos": null,
+                "chainKey": "Tirumala",
+                "contentId": 148697,
+                "theatreGroupName": "",
+                "amenitiesOrder": [
+                    {
+                        "id": 1,
+                        "rank": 2,
+                        "status": -1
+                    },
+                    {
+                        "id": 2,
+                        "rank": 1,
+                        "status": 1
+                    },
+                    {
+                        "id": 3,
+                        "rank": 3,
+                        "status": -1
+                    },
+                    {
+                        "id": 4,
+                        "rank": 6,
+                        "status": -1
+                    },
+                    {
+                        "id": 5,
+                        "rank": 4,
+                        "status": -1
+                    },
+                    {
+                        "id": 6,
+                        "rank": 5,
+                        "status": -1
+                    }
+                ],
+                "carouselAttachments": [],
+                "isPassEnabled": 0,
+                "paytmCinemaId": 4340,
+                "city": "Nalgonda",
+                "clientId": "ticketnew",
+                "isMapped": 0,
+                "city_id": null,
+                "is_city_mapped": null,
+                "state": "telangana",
+                "city_key": null,
+                "label": "Tirumala Theater, Sri Lakshmi Nagar Colony, Nalgonda",
+                "sessionCount": 6
+            },
+            {
+                "id": 1039862,
+                "pid": 1896,
+                "name": "Mythri Theatres, Sri Venkateshwara Theatre 2K 7.1 Dolby (Newly Renovated), Nalgonda",
+                "address": "Nagarjuna Colony, Nalgonda, Telangana 508002, India",
+                "pincode": "508002",
+                "lat": 17.061854,
+                "lon": 79.270662,
+                "cityId": 217,
+                "appCovrImgUrl": "",
+                "covrImgUrl": "",
+                "fnb": 0,
+                "mTkt": 1,
+                "bCode": "0",
+                "sTop": 0,
+                "isMerchantCancellable": 0,
+                "cinemaLogoUrl": "https://assetscdn1.paytm.com/images/cinema/Mythri-7c2cb220-6367-11ef-ab88-c71a50c73cdf%5B1%5D-d14d9b90-ae47-11ef-8c84-77d8adfebaea.png",
+                "cinemaVideoUrl": "",
+                "appCoverVideoUrl": "",
+                "webCoverVideoUrl": "",
+                "amenities": {
+                    "1": 1,
+                    "2": 1,
+                    "18": 1,
+                    "3": 1,
+                    "19": 1,
+                    "6": 1,
+                    "15": 1
+                },
+                "promos": null,
+                "chainKey": "Mythri Theatres",
+                "contentId": 184927,
+                "theatreGroupName": "",
+                "amenitiesOrder": [
+                    {
+                        "id": 1,
+                        "rank": 4,
+                        "status": 1
+                    },
+                    {
+                        "id": 2,
+                        "rank": 2,
+                        "status": 1
+                    },
+                    {
+                        "id": 3,
+                        "rank": 1,
+                        "status": 1
+                    },
+                    {
+                        "id": 6,
+                        "rank": 3,
+                        "status": 1
+                    },
+                    {
+                        "id": 15,
+                        "rank": 6,
+                        "status": 1
+                    },
+                    {
+                        "id": 18,
+                        "rank": 7,
+                        "status": 1
+                    },
+                    {
+                        "id": 19,
+                        "rank": 5,
+                        "status": 1
+                    }
+                ],
+                "carouselAttachments": [],
+                "isPassEnabled": 0,
+                "paytmCinemaId": 1039862,
+                "city": "Nalgonda",
+                "clientId": "ticketnew",
+                "isMapped": 0,
+                "city_id": null,
+                "is_city_mapped": null,
+                "state": "telangana",
+                "city_key": null,
+                "label": "Mythri Theatres, Sri Venkateshwara Theatre 2K 7.1 Dolby (Newly Renovated), Nalgonda",
+                "sessionCount": 10
+            }
+        ],
+        "filterData": {
+            "minSTime": "22:30",
+            "maxSTime": "16:30",
+            "minPrice": 150.0,
+            "maxPrice": 275.0,
+            "premium": false,
+            "freeSeats": false,
+            "groupSeats": false,
+            "tokenFeeSeats": false,
+            "scnFrmts": [
+                "2D"
+            ],
+            "sndFrmts": [],
+            "mLangs": [
+                "Telugu"
+            ],
+            "genres": [
+                "Action",
+                "Drama",
+                "Political"
+            ],
+            "premiumSessionCount": 0,
+            "totalSessionCount": 17,
+            "showTimeList": [
+                "08:00",
+                "18:30",
+                "22:00",
+                "15:00",
+                "11:30",
+                "11:00",
+                "21:30",
+                "18:00",
+                "07:15",
+                "14:30",
+                "07:30",
+                "14:30",
+                "21:30",
+                "11:00",
+                "18:00",
+                "04:00",
+                "04:00"
+            ],
+            "quickFilterScnFrmts": [],
+            "quickFilterLanguages": [
+                "Telugu"
+            ],
+            "priceRangeSet": [
+                "price_100_to_200",
+                "price_200_to_300"
+            ]
+        },
+        "quickFilterData": {
+            "scnFrmts": [],
+            "premium": false,
+            "showTimeBuckets": [
+                {
+                    "sTime": "08:00",
+                    "eTime": "12:00",
+                    "desc": "8 AM to 12 PM",
+                    "dText": "Morning",
+                    "desc1": "Till 12 PM"
+                },
+                {
+                    "sTime": "17:00",
+                    "eTime": "23:59",
+                    "desc": "5 PM to 11:59 PM",
+                    "dText": "After 5 PM",
+                    "desc1": "Till 11:59 PM"
+                }
+            ]
+        }
+    },
+    "data": {
+        "pageSize": 100,
+        "cinemasOrder": [
+            4739,
+            4340,
+            1039862
+        ],
+        "sessionDates": [
+            "2025-01-10",
+            "2025-01-11"
+        ]
+    },
+    "pageData": {
+        "sessions": {
+            "4739": [
+                {
+                    "sid": "31249__1736474400__2501__12802",
+                    "pid": 750,
+                    "pkey": "ticketnew",
+                    "cid": 4739,
+                    "mid": "OB1H21",
+                    "fid": "URJofQgl6U",
+                    "showTime": "2025-01-10T02:00",
+                    "closeTime": "2025-01-10T01:55",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "10",
+                            "label": "BALCONY",
+                            "typeCode": "31249__1736474400__2501__12802_BALCONY",
+                            "sType": "fixed",
+                            "sAvail": 140,
+                            "sTotal": 418,
+                            "price": 275.0,
+                            "statusColor": "Y"
+                        },
+                        {
+                            "code": "20",
+                            "label": "FIRST CLASS",
+                            "typeCode": "31249__1736474400__2501__12802_FIRST CLASS",
+                            "sType": "fixed",
+                            "sAvail": 32,
+                            "sTotal": 76,
+                            "price": 210.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "30",
+                            "label": "SECOND CLASS",
+                            "typeCode": "31249__1736474400__2501__12802_SECOND CLASS",
+                            "sType": "fixed",
+                            "sAvail": 70,
+                            "sTotal": 109,
+                            "price": 150.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 603,
+                    "avail": 242,
+                    "audi": "SVC NATRAJ",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Political"
+                    ],
+                    "statusColor": "G",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "31249__1736499600__2501__12799",
+                    "pid": 750,
+                    "pkey": "ticketnew",
+                    "cid": 4739,
+                    "mid": "OB1H21",
+                    "fid": "URJofQgl6U",
+                    "showTime": "2025-01-10T09:00",
+                    "closeTime": "2025-01-10T08:55",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "10",
+                            "label": "BALCONY",
+                            "typeCode": "31249__1736499600__2501__12799_BALCONY",
+                            "sType": "fixed",
+                            "sAvail": 291,
+                            "sTotal": 418,
+                            "price": 275.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "20",
+                            "label": "FIRST CLASS",
+                            "typeCode": "31249__1736499600__2501__12799_FIRST CLASS",
+                            "sType": "fixed",
+                            "sAvail": 65,
+                            "sTotal": 76,
+                            "price": 210.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "30",
+                            "label": "SECOND CLASS",
+                            "typeCode": "31249__1736499600__2501__12799_SECOND CLASS",
+                            "sType": "fixed",
+                            "sAvail": 63,
+                            "sTotal": 109,
+                            "price": 150.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 603,
+                    "avail": 419,
+                    "audi": "SVC NATRAJ",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Political"
+                    ],
+                    "statusColor": "G",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "31249__1736524800__2501__12801",
+                    "pid": 750,
+                    "pkey": "ticketnew",
+                    "cid": 4739,
+                    "mid": "OB1H21",
+                    "fid": "URJofQgl6U",
+                    "showTime": "2025-01-10T16:00",
+                    "closeTime": "2025-01-10T15:55",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "10",
+                            "label": "BALCONY",
+                            "typeCode": "31249__1736524800__2501__12801_BALCONY",
+                            "sType": "fixed",
+                            "sAvail": 250,
+                            "sTotal": 418,
+                            "price": 275.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "20",
+                            "label": "FIRST CLASS",
+                            "typeCode": "31249__1736524800__2501__12801_FIRST CLASS",
+                            "sType": "fixed",
+                            "sAvail": 63,
+                            "sTotal": 76,
+                            "price": 210.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "30",
+                            "label": "SECOND CLASS",
+                            "typeCode": "31249__1736524800__2501__12801_SECOND CLASS",
+                            "sType": "fixed",
+                            "sAvail": 69,
+                            "sTotal": 109,
+                            "price": 150.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 603,
+                    "avail": 382,
+                    "audi": "SVC NATRAJ",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Political"
+                    ],
+                    "statusColor": "G",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "31249__1736487000__2501__12798",
+                    "pid": 750,
+                    "pkey": "ticketnew",
+                    "cid": 4739,
+                    "mid": "OB1H21",
+                    "fid": "URJofQgl6U",
+                    "showTime": "2025-01-10T05:30",
+                    "closeTime": "2025-01-10T05:25",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "10",
+                            "label": "BALCONY",
+                            "typeCode": "31249__1736487000__2501__12798_BALCONY",
+                            "sType": "fixed",
+                            "sAvail": 140,
+                            "sTotal": 418,
+                            "price": 275.0,
+                            "statusColor": "Y"
+                        },
+                        {
+                            "code": "20",
+                            "label": "FIRST CLASS",
+                            "typeCode": "31249__1736487000__2501__12798_FIRST CLASS",
+                            "sType": "fixed",
+                            "sAvail": 20,
+                            "sTotal": 76,
+                            "price": 210.0,
+                            "statusColor": "Y"
+                        },
+                        {
+                            "code": "30",
+                            "label": "SECOND CLASS",
+                            "typeCode": "31249__1736487000__2501__12798_SECOND CLASS",
+                            "sType": "fixed",
+                            "sAvail": 44,
+                            "sTotal": 109,
+                            "price": 150.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 603,
+                    "avail": 204,
+                    "audi": "SVC NATRAJ",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Political"
+                    ],
+                    "statusColor": "Y",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "31249__1736512200__2501__12800",
+                    "pid": 750,
+                    "pkey": "ticketnew",
+                    "cid": 4739,
+                    "mid": "OB1H21",
+                    "fid": "URJofQgl6U",
+                    "showTime": "2025-01-10T12:30",
+                    "closeTime": "2025-01-10T12:25",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "10",
+                            "label": "BALCONY",
+                            "typeCode": "31249__1736512200__2501__12800_BALCONY",
+                            "sType": "fixed",
+                            "sAvail": 216,
+                            "sTotal": 418,
+                            "price": 275.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "20",
+                            "label": "FIRST CLASS",
+                            "typeCode": "31249__1736512200__2501__12800_FIRST CLASS",
+                            "sType": "fixed",
+                            "sAvail": 39,
+                            "sTotal": 76,
+                            "price": 210.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "30",
+                            "label": "SECOND CLASS",
+                            "typeCode": "31249__1736512200__2501__12800_SECOND CLASS",
+                            "sType": "fixed",
+                            "sAvail": 67,
+                            "sTotal": 109,
+                            "price": 150.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 603,
+                    "avail": 322,
+                    "audi": "SVC NATRAJ",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Political"
+                    ],
+                    "statusColor": "G",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "31249__1736461800__2501__12797",
+                    "pid": 750,
+                    "pkey": "ticketnew",
+                    "cid": 4739,
+                    "mid": "OB1H21",
+                    "fid": "URJofQgl6U",
+                    "showTime": "2025-01-09T22:30",
+                    "closeTime": "2025-01-09T22:25",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "10",
+                            "label": "BALCONY",
+                            "typeCode": "31249__1736461800__2501__12797_BALCONY",
+                            "sType": "fixed",
+                            "sAvail": 3,
+                            "sTotal": 418,
+                            "price": 275.0,
+                            "statusColor": "R"
+                        },
+                        {
+                            "code": "20",
+                            "label": "FIRST CLASS",
+                            "typeCode": "31249__1736461800__2501__12797_FIRST CLASS",
+                            "sType": "fixed",
+                            "sAvail": 11,
+                            "sTotal": 76,
+                            "price": 210.0,
+                            "statusColor": "Y"
+                        },
+                        {
+                            "code": "30",
+                            "label": "SECOND CLASS",
+                            "typeCode": "31249__1736461800__2501__12797_SECOND CLASS",
+                            "sType": "fixed",
+                            "sAvail": 18,
+                            "sTotal": 109,
+                            "price": 150.0,
+                            "statusColor": "Y"
+                        }
+                    ],
+                    "total": 603,
+                    "avail": 32,
+                    "audi": "SVC NATRAJ",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Political"
+                    ],
+                    "statusColor": "R",
+                    "subtitle": ""
+                }
+            ],
+            "4340": [
+                {
+                    "sid": "31249__1736487000__1190__12782",
+                    "pid": 749,
+                    "pkey": "ticketnew",
+                    "cid": 4340,
+                    "mid": "OB1H21",
+                    "fid": "URJofQgl6U",
+                    "showTime": "2025-01-10T05:30",
+                    "closeTime": "2025-01-10T05:25",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "10",
+                            "label": "BALCONY",
+                            "typeCode": "31249__1736487000__1190__12782_BALCONY",
+                            "sType": "fixed",
+                            "sAvail": 169,
+                            "sTotal": 439,
+                            "price": 275.0,
+                            "statusColor": "Y"
+                        },
+                        {
+                            "code": "20",
+                            "label": "FIRST CLASS",
+                            "typeCode": "31249__1736487000__1190__12782_FIRST CLASS",
+                            "sType": "fixed",
+                            "sAvail": 35,
+                            "sTotal": 133,
+                            "price": 150.0,
+                            "statusColor": "Y"
+                        }
+                    ],
+                    "total": 572,
+                    "avail": 204,
+                    "audi": "THIRUMALA THEATRE ",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Political"
+                    ],
+                    "statusColor": "Y",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "31249__1736524800__1190__12785",
+                    "pid": 749,
+                    "pkey": "ticketnew",
+                    "cid": 4340,
+                    "mid": "OB1H21",
+                    "fid": "URJofQgl6U",
+                    "showTime": "2025-01-10T16:00",
+                    "closeTime": "2025-01-10T15:55",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "10",
+                            "label": "BALCONY",
+                            "typeCode": "31249__1736524800__1190__12785_BALCONY",
+                            "sType": "fixed",
+                            "sAvail": 255,
+                            "sTotal": 439,
+                            "price": 275.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "20",
+                            "label": "FIRST CLASS",
+                            "typeCode": "31249__1736524800__1190__12785_FIRST CLASS",
+                            "sType": "fixed",
+                            "sAvail": 72,
+                            "sTotal": 133,
+                            "price": 150.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 572,
+                    "avail": 327,
+                    "audi": "THIRUMALA THEATRE ",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Political"
+                    ],
+                    "statusColor": "G",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "31249__1736512200__1190__12784",
+                    "pid": 749,
+                    "pkey": "ticketnew",
+                    "cid": 4340,
+                    "mid": "OB1H21",
+                    "fid": "URJofQgl6U",
+                    "showTime": "2025-01-10T12:30",
+                    "closeTime": "2025-01-10T12:25",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "10",
+                            "label": "BALCONY",
+                            "typeCode": "31249__1736512200__1190__12784_BALCONY",
+                            "sType": "fixed",
+                            "sAvail": 205,
+                            "sTotal": 439,
+                            "price": 275.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "20",
+                            "label": "FIRST CLASS",
+                            "typeCode": "31249__1736512200__1190__12784_FIRST CLASS",
+                            "sType": "fixed",
+                            "sAvail": 64,
+                            "sTotal": 133,
+                            "price": 150.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 572,
+                    "avail": 269,
+                    "audi": "THIRUMALA THEATRE ",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Political"
+                    ],
+                    "statusColor": "G",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "31249__1736473500__1190__12781",
+                    "pid": 749,
+                    "pkey": "ticketnew",
+                    "cid": 4340,
+                    "mid": "OB1H21",
+                    "fid": "URJofQgl6U",
+                    "showTime": "2025-01-10T01:45",
+                    "closeTime": "2025-01-10T01:40",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "10",
+                            "label": "BALCONY",
+                            "typeCode": "31249__1736473500__1190__12781_BALCONY",
+                            "sType": "fixed",
+                            "sAvail": 201,
+                            "sTotal": 439,
+                            "price": 275.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "20",
+                            "label": "FIRST CLASS",
+                            "typeCode": "31249__1736473500__1190__12781_FIRST CLASS",
+                            "sType": "fixed",
+                            "sAvail": 33,
+                            "sTotal": 133,
+                            "price": 150.0,
+                            "statusColor": "Y"
+                        }
+                    ],
+                    "total": 572,
+                    "avail": 234,
+                    "audi": "THIRUMALA THEATRE ",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Political"
+                    ],
+                    "statusColor": "G",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "31249__1736499600__1190__12783",
+                    "pid": 749,
+                    "pkey": "ticketnew",
+                    "cid": 4340,
+                    "mid": "OB1H21",
+                    "fid": "URJofQgl6U",
+                    "showTime": "2025-01-10T09:00",
+                    "closeTime": "2025-01-10T08:55",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "10",
+                            "label": "BALCONY",
+                            "typeCode": "31249__1736499600__1190__12783_BALCONY",
+                            "sType": "fixed",
+                            "sAvail": 277,
+                            "sTotal": 439,
+                            "price": 275.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "20",
+                            "label": "FIRST CLASS",
+                            "typeCode": "31249__1736499600__1190__12783_FIRST CLASS",
+                            "sType": "fixed",
+                            "sAvail": 86,
+                            "sTotal": 133,
+                            "price": 150.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 572,
+                    "avail": 363,
+                    "audi": "THIRUMALA THEATRE ",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Political"
+                    ],
+                    "statusColor": "G",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "31249__1736461800__1190__12786",
+                    "pid": 749,
+                    "pkey": "ticketnew",
+                    "cid": 4340,
+                    "mid": "OB1H21",
+                    "fid": "URJofQgl6U",
+                    "showTime": "2025-01-09T22:30",
+                    "closeTime": "2025-01-09T22:25",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "10",
+                            "label": "BALCONY",
+                            "typeCode": "31249__1736461800__1190__12786_BALCONY",
+                            "sType": "fixed",
+                            "sAvail": 4,
+                            "sTotal": 439,
+                            "price": 275.0,
+                            "statusColor": "R"
+                        },
+                        {
+                            "code": "20",
+                            "label": "FIRST CLASS",
+                            "typeCode": "31249__1736461800__1190__12786_FIRST CLASS",
+                            "sType": "fixed",
+                            "sAvail": 1,
+                            "sTotal": 133,
+                            "price": 150.0,
+                            "statusColor": "R"
+                        }
+                    ],
+                    "total": 572,
+                    "avail": 5,
+                    "audi": "THIRUMALA THEATRE ",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Political"
+                    ],
+                    "statusColor": "R",
+                    "subtitle": ""
+                }
+            ],
+            "1039862": [
+                {
+                    "sid": "31249__1736476200__5982__1172",
+                    "pid": 1896,
+                    "pkey": "ticketnew",
+                    "cid": 1039862,
+                    "mid": "OB1H21",
+                    "fid": "URJofQgl6U",
+                    "showTime": "2025-01-10T02:30",
+                    "closeTime": "2025-01-10T02:30",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "1",
+                            "label": "GOLD",
+                            "typeCode": "31249__1736476200__5982__1172_GOLD",
+                            "sType": "fixed",
+                            "sAvail": 177,
+                            "sTotal": 327,
+                            "price": 275.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "2",
+                            "label": "SILVER",
+                            "typeCode": "31249__1736476200__5982__1172_SILVER",
+                            "sType": "fixed",
+                            "sAvail": 42,
+                            "sTotal": 90,
+                            "price": 210.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "3",
+                            "label": "EXECUTIVE",
+                            "typeCode": "31249__1736476200__5982__1172_EXECUTIVE",
+                            "sType": "fixed",
+                            "sAvail": 71,
+                            "sTotal": 120,
+                            "price": 150.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 537,
+                    "avail": 290,
+                    "audi": "MYTHRI SRI VENKATESWARA TALKIES",
+                    "premium": 0,
+                    "premiumLabel": "2K-7.1 DOLBY",
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 10,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Political"
+                    ],
+                    "statusColor": "G",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "31249__1736514000__5982__1175",
+                    "pid": 1896,
+                    "pkey": "ticketnew",
+                    "cid": 1039862,
+                    "mid": "OB1H21",
+                    "fid": "URJofQgl6U",
+                    "showTime": "2025-01-10T13:00",
+                    "closeTime": "2025-01-10T13:00",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "1",
+                            "label": "GOLD",
+                            "typeCode": "31249__1736514000__5982__1175_GOLD",
+                            "sType": "fixed",
+                            "sAvail": 221,
+                            "sTotal": 327,
+                            "price": 275.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "2",
+                            "label": "SILVER",
+                            "typeCode": "31249__1736514000__5982__1175_SILVER",
+                            "sType": "fixed",
+                            "sAvail": 68,
+                            "sTotal": 90,
+                            "price": 210.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "3",
+                            "label": "EXECUTIVE",
+                            "typeCode": "31249__1736514000__5982__1175_EXECUTIVE",
+                            "sType": "fixed",
+                            "sAvail": 107,
+                            "sTotal": 120,
+                            "price": 150.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 537,
+                    "avail": 396,
+                    "audi": "MYTHRI SRI VENKATESWARA TALKIES",
+                    "premium": 0,
+                    "premiumLabel": "2K-7.1 DOLBY",
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 10,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Political"
+                    ],
+                    "statusColor": "G",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "31249__1736526600__5982__1176",
+                    "pid": 1896,
+                    "pkey": "ticketnew",
+                    "cid": 1039862,
+                    "mid": "OB1H21",
+                    "fid": "URJofQgl6U",
+                    "showTime": "2025-01-10T16:30",
+                    "closeTime": "2025-01-10T16:30",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "1",
+                            "label": "GOLD",
+                            "typeCode": "31249__1736526600__5982__1176_GOLD",
+                            "sType": "fixed",
+                            "sAvail": 236,
+                            "sTotal": 327,
+                            "price": 275.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "2",
+                            "label": "SILVER",
+                            "typeCode": "31249__1736526600__5982__1176_SILVER",
+                            "sType": "fixed",
+                            "sAvail": 78,
+                            "sTotal": 90,
+                            "price": 210.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "3",
+                            "label": "EXECUTIVE",
+                            "typeCode": "31249__1736526600__5982__1176_EXECUTIVE",
+                            "sType": "fixed",
+                            "sAvail": 115,
+                            "sTotal": 120,
+                            "price": 150.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 537,
+                    "avail": 429,
+                    "audi": "MYTHRI SRI VENKATESWARA TALKIES",
+                    "premium": 0,
+                    "premiumLabel": "2K-7.1 DOLBY",
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 10,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Political"
+                    ],
+                    "statusColor": "G",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "31249__1736501400__5982__1174",
+                    "pid": 1896,
+                    "pkey": "ticketnew",
+                    "cid": 1039862,
+                    "mid": "OB1H21",
+                    "fid": "URJofQgl6U",
+                    "showTime": "2025-01-10T09:30",
+                    "closeTime": "2025-01-10T09:30",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "1",
+                            "label": "GOLD",
+                            "typeCode": "31249__1736501400__5982__1174_GOLD",
+                            "sType": "fixed",
+                            "sAvail": 260,
+                            "sTotal": 327,
+                            "price": 275.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "2",
+                            "label": "SILVER",
+                            "typeCode": "31249__1736501400__5982__1174_SILVER",
+                            "sType": "fixed",
+                            "sAvail": 82,
+                            "sTotal": 90,
+                            "price": 210.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "3",
+                            "label": "EXECUTIVE",
+                            "typeCode": "31249__1736501400__5982__1174_EXECUTIVE",
+                            "sType": "fixed",
+                            "sAvail": 120,
+                            "sTotal": 120,
+                            "price": 150.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 537,
+                    "avail": 462,
+                    "audi": "MYTHRI SRI VENKATESWARA TALKIES",
+                    "premium": 0,
+                    "premiumLabel": "2K-7.1 DOLBY",
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 10,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Political"
+                    ],
+                    "statusColor": "G",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "31249__1736488800__5982__1173",
+                    "pid": 1896,
+                    "pkey": "ticketnew",
+                    "cid": 1039862,
+                    "mid": "OB1H21",
+                    "fid": "URJofQgl6U",
+                    "showTime": "2025-01-10T06:00",
+                    "closeTime": "2025-01-10T06:00",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "1",
+                            "label": "GOLD",
+                            "typeCode": "31249__1736488800__5982__1173_GOLD",
+                            "sType": "fixed",
+                            "sAvail": 196,
+                            "sTotal": 327,
+                            "price": 275.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "2",
+                            "label": "SILVER",
+                            "typeCode": "31249__1736488800__5982__1173_SILVER",
+                            "sType": "fixed",
+                            "sAvail": 61,
+                            "sTotal": 90,
+                            "price": 210.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "3",
+                            "label": "EXECUTIVE",
+                            "typeCode": "31249__1736488800__5982__1173_EXECUTIVE",
+                            "sType": "fixed",
+                            "sAvail": 102,
+                            "sTotal": 120,
+                            "price": 150.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 537,
+                    "avail": 359,
+                    "audi": "MYTHRI SRI VENKATESWARA TALKIES",
+                    "premium": 0,
+                    "premiumLabel": "2K-7.1 DOLBY",
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 10,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Political"
+                    ],
+                    "statusColor": "G",
+                    "subtitle": ""
+                }
+            ]
+        }
+    }
+}

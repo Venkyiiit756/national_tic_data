@@ -1,0 +1,1333 @@
+{
+    "serverTime": 1736442610,
+    "meta": {
+        "movies": [
+            {
+                "id": "OB1H21",
+                "frmtId": "URJofQgl6U",
+                "name": "Game Changer",
+                "imgPath": null,
+                "appImgPath": "https://assetscdn1.paytm.com/images/cinema/Game%20Changer-3cf95ad0-cce0-11ef-a9e2-63c420e5944f.jpeg",
+                "cvrPath": "https://assetscdn1.paytm.com/images/cinema/web-cover-3dd26890-893b-11ef-b30d-5d8b2ded08e1.jpg",
+                "appCvrPath": "https://assetscdn1.paytm.com/images/cinema/app-cover-3dd0e1f0-893b-11ef-80ee-5d6ff5e29b7e.jpg",
+                "thumbnail": null,
+                "edgeBanner": null,
+                "trailer": "https://youtu.be/zHiKFSBO_JE",
+                "censor": "UA13+",
+                "duration": 165,
+                "grn": [
+                    "Action",
+                    "Drama",
+                    "Political"
+                ],
+                "scrnFmt": "2D",
+                "sndFmt": null,
+                "rnr": {
+                    "hasUReview": 0,
+                    "hasContent": 1
+                },
+                "isNew": false,
+                "imxImgUrl": null,
+                "contentId": 161066,
+                "label": "Game Changer",
+                "lang": "Telugu"
+            }
+        ],
+        "filterBuckets": {
+            "timeBuckets": [
+                {
+                    "sTime": "05:00",
+                    "eTime": "11:59",
+                    "desc": "5:00 AM to 11:59 AM",
+                    "dText": "Morning",
+                    "desc1": "Till 12 PM"
+                },
+                {
+                    "sTime": "12:00",
+                    "eTime": "15:59",
+                    "desc": "12:00 PM to 3:59 PM",
+                    "dText": "Afternoon",
+                    "desc1": "Till 4 PM"
+                },
+                {
+                    "sTime": "16:00",
+                    "eTime": "18:59",
+                    "desc": "4:00 PM to 6:59 PM",
+                    "dText": "Evening",
+                    "desc1": "Till 7 PM"
+                },
+                {
+                    "sTime": "19:00",
+                    "eTime": "04:59",
+                    "desc": "7:00 PM to 4:59 AM",
+                    "dText": "Night",
+                    "desc1": "After 7 PM"
+                }
+            ],
+            "priceBuckets": [
+                {
+                    "min": "200",
+                    "max": "300",
+                    "desc": "\u20b9 200 - \u20b9 300"
+                },
+                {
+                    "min": "300",
+                    "max": "600",
+                    "desc": "\u20b9 300 - \u20b9 600"
+                }
+            ],
+            "showTimeBuckets": [
+                {
+                    "sTime": "00:00",
+                    "eTime": "08:00",
+                    "desc": "12 AM to 8 AM",
+                    "dText": "Early Morning",
+                    "desc1": "Till 8 AM",
+                    "isEnabled": false
+                },
+                {
+                    "sTime": "08:00",
+                    "eTime": "12:00",
+                    "desc": "8 AM to 12 PM",
+                    "dText": "Morning",
+                    "desc1": "Till 12 PM",
+                    "isEnabled": false
+                },
+                {
+                    "sTime": "12:00",
+                    "eTime": "16:00",
+                    "desc": "12 PM to 4 PM",
+                    "dText": "Afternoon",
+                    "desc1": "Till 4 PM",
+                    "isEnabled": false
+                },
+                {
+                    "sTime": "16:00",
+                    "eTime": "19:00",
+                    "desc": "4 PM to 7 PM",
+                    "dText": "Evening",
+                    "desc1": "Till 7 PM",
+                    "isEnabled": false
+                },
+                {
+                    "sTime": "19:00",
+                    "eTime": "23:59",
+                    "desc": "7 PM to 12 AM",
+                    "dText": "Night",
+                    "desc1": "Till 12 AM",
+                    "isEnabled": true
+                }
+            ]
+        },
+        "amenities": [
+            {
+                "id": 2,
+                "name": "Parking",
+                "rank": 1,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Parking-c79a3400-95f6-11ef-a253-33f238ee5f34.png"
+            },
+            {
+                "id": 1,
+                "name": "Mobile Ticket",
+                "rank": 2,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Mobile%20Ticket-bc527a30-95f6-11ef-b954-a1c7e1e4be25.png"
+            },
+            {
+                "id": 3,
+                "name": "Food & Beverages",
+                "rank": 3,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/F%26B-938587f0-95f6-11ef-b954-a1c7e1e4be25.png"
+            },
+            {
+                "id": 5,
+                "name": "Recliners",
+                "rank": 4,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Seat-13023560-95f6-11ef-b954-a1c7e1e4be25.png"
+            },
+            {
+                "id": 6,
+                "name": "Digital Payments",
+                "rank": 5,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Payment-eab8cb00-95f5-11ef-a253-33f238ee5f34.png"
+            },
+            {
+                "id": 4,
+                "name": "Wheelchair Friendly",
+                "rank": 6,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Wheelchair-73f627a0-95f6-11ef-a253-33f238ee5f34.png"
+            },
+            {
+                "id": 7,
+                "name": "RGB Laser",
+                "rank": 7,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Screen-fef54df0-95f5-11ef-b954-a1c7e1e4be25.png"
+            },
+            {
+                "id": 8,
+                "name": "Dolby Atmos",
+                "rank": 8,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Audio-4acee060-95f6-11ef-b954-a1c7e1e4be25.png"
+            },
+            {
+                "id": 9,
+                "name": "IMAX",
+                "rank": 9,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Screen-fef54df0-95f5-11ef-b954-a1c7e1e4be25.png"
+            },
+            {
+                "id": 10,
+                "name": "4K",
+                "rank": 10,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Screen-fef54df0-95f5-11ef-b954-a1c7e1e4be25.png"
+            },
+            {
+                "id": 12,
+                "name": "WIFI",
+                "rank": 12,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Wifi-5646f900-95f6-11ef-b954-a1c7e1e4be25.png"
+            },
+            {
+                "id": 14,
+                "name": "Gaming Zone",
+                "rank": 14,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Gaming-d3353df0-95f6-11ef-a253-33f238ee5f34.png"
+            },
+            {
+                "id": 15,
+                "name": "2K",
+                "rank": 15,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Screen-fef54df0-95f5-11ef-b954-a1c7e1e4be25.png"
+            },
+            {
+                "id": 17,
+                "name": "4DX",
+                "rank": 17,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Screen-fef54df0-95f5-11ef-b954-a1c7e1e4be25.png"
+            },
+            {
+                "id": 18,
+                "name": "Dolby 7.1",
+                "rank": 18,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Audio-4acee060-95f6-11ef-b954-a1c7e1e4be25.png"
+            },
+            {
+                "id": 19,
+                "name": "Air Conditioning",
+                "rank": 19,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/AC-d92791f0-95f5-11ef-b954-a1c7e1e4be25.png"
+            },
+            {
+                "id": 20,
+                "name": "Metro Nearby",
+                "rank": 20,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Metro-08856cb0-95f6-11ef-b954-a1c7e1e4be25.png"
+            },
+            {
+                "id": 21,
+                "name": "Sofa",
+                "rank": 21,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Seat-13023560-95f6-11ef-b954-a1c7e1e4be25.png"
+            },
+            {
+                "id": 24,
+                "name": "Silver Screen",
+                "rank": 24,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Screen-fef54df0-95f5-11ef-b954-a1c7e1e4be25.png"
+            },
+            {
+                "id": 28,
+                "name": "Free Parking",
+                "rank": 28,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Parking-c79a3400-95f6-11ef-a253-33f238ee5f34.png"
+            },
+            {
+                "id": 29,
+                "name": "Baggage Counter",
+                "rank": 29,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Baggage%20counter-f4cbae50-95f5-11ef-a253-33f238ee5f34.png"
+            },
+            {
+                "id": 30,
+                "name": "Dolby 4 Way 11.1",
+                "rank": 30,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Audio-4acee060-95f6-11ef-b954-a1c7e1e4be25.png"
+            },
+            {
+                "id": 31,
+                "name": "Barco 4K Ultra HD",
+                "rank": 31,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Screen-fef54df0-95f5-11ef-b954-a1c7e1e4be25.png"
+            }
+        ],
+        "cinemas": [
+            {
+                "id": 50915,
+                "pid": 736,
+                "name": "Sri Bala Tripura Sundari Kalamandir, S Rayavaram, P Dharmavaram",
+                "address": "Dharmavaram Yelamanchali Road, S Rayavaram, Dharmavaram, Andhra Pradesh 531055, India",
+                "pincode": "531055",
+                "lat": 17.474602,
+                "lon": 82.77867,
+                "cityId": 1690,
+                "appCovrImgUrl": "",
+                "covrImgUrl": "",
+                "fnb": 0,
+                "mTkt": 0,
+                "bCode": "0",
+                "sTop": 0,
+                "isMerchantCancellable": 0,
+                "cinemaLogoUrl": "https://assetscdn1.paytm.com/images/cinema/Theatre%403x-a4b1cf60-676c-11ef-8bfd-85c2f3bcaac6.png",
+                "cinemaVideoUrl": "",
+                "appCoverVideoUrl": "",
+                "webCoverVideoUrl": "",
+                "amenities": null,
+                "promos": null,
+                "chainKey": "TicketNew",
+                "contentId": 158239,
+                "theatreGroupName": "",
+                "amenitiesOrder": null,
+                "carouselAttachments": [],
+                "isPassEnabled": 0,
+                "paytmCinemaId": 50915,
+                "city": "P Dharmavaram",
+                "clientId": "ticketnew",
+                "isMapped": 0,
+                "city_id": null,
+                "is_city_mapped": null,
+                "state": "andhra-pradesh",
+                "city_key": null,
+                "label": "Sri Bala Tripura Sundari Kalamandir, S Rayavaram, P Dharmavaram",
+                "sessionCount": 18
+            },
+            {
+                "id": 29510,
+                "pid": 750,
+                "name": "SVC Sita Chitramandir, SBH Road, Yelamanchili",
+                "address": "SBH ROAD, Yelamanchili, Andhra Pradesh 531055, India",
+                "pincode": "531055",
+                "lat": 17.548717,
+                "lon": 82.8584,
+                "cityId": 1761,
+                "appCovrImgUrl": "",
+                "covrImgUrl": "",
+                "fnb": 0,
+                "mTkt": 1,
+                "bCode": "0",
+                "sTop": 0,
+                "isMerchantCancellable": 0,
+                "cinemaLogoUrl": "https://assetscdn1.paytm.com/images/cinema/svc-5551d580-869c-11ed-9b16-5b1b1e9f8842.png",
+                "cinemaVideoUrl": "",
+                "appCoverVideoUrl": "",
+                "webCoverVideoUrl": "",
+                "amenities": null,
+                "promos": null,
+                "chainKey": "SVC Sangeetha",
+                "contentId": 154354,
+                "theatreGroupName": "",
+                "amenitiesOrder": null,
+                "carouselAttachments": [],
+                "isPassEnabled": 0,
+                "paytmCinemaId": 29510,
+                "city": "Yelamanchili",
+                "clientId": "ticketnew",
+                "isMapped": 0,
+                "city_id": null,
+                "is_city_mapped": null,
+                "state": "andhra-pradesh",
+                "city_key": null,
+                "label": "SVC Sita Chitramandir, SBH Road, Yelamanchili",
+                "sessionCount": 26
+            },
+            {
+                "id": 29560,
+                "pid": 750,
+                "name": "SVC Tulasi Chitramandir, Elamanchili",
+                "address": "SBH Road Yelamanchili, Andhra Pradesh 531055, India",
+                "pincode": "531055",
+                "lat": 17.54813,
+                "lon": 82.858262,
+                "cityId": 1761,
+                "appCovrImgUrl": "",
+                "covrImgUrl": "",
+                "fnb": 0,
+                "mTkt": 1,
+                "bCode": "0",
+                "sTop": 0,
+                "isMerchantCancellable": 0,
+                "cinemaLogoUrl": "https://assetscdn1.paytm.com/images/cinema/svc-5551d580-869c-11ed-9b16-5b1b1e9f8842.png",
+                "cinemaVideoUrl": "",
+                "appCoverVideoUrl": "",
+                "webCoverVideoUrl": "",
+                "amenities": null,
+                "promos": null,
+                "chainKey": "SVC Sangeetha",
+                "contentId": 154358,
+                "theatreGroupName": "",
+                "amenitiesOrder": null,
+                "carouselAttachments": [],
+                "isPassEnabled": 0,
+                "paytmCinemaId": 29560,
+                "city": "Yelamanchili",
+                "clientId": "ticketnew",
+                "isMapped": 0,
+                "city_id": null,
+                "is_city_mapped": null,
+                "state": "andhra-pradesh",
+                "city_key": null,
+                "label": "SVC Tulasi Chitramandir, Elamanchili",
+                "sessionCount": 10
+            }
+        ],
+        "filterData": {
+            "minSTime": "19:30",
+            "maxSTime": "16:15",
+            "minPrice": 225.0,
+            "maxPrice": 600.0,
+            "premium": false,
+            "freeSeats": false,
+            "groupSeats": false,
+            "tokenFeeSeats": false,
+            "scnFrmts": [
+                "2D"
+            ],
+            "sndFrmts": [],
+            "mLangs": [
+                "Telugu"
+            ],
+            "genres": [
+                "Action",
+                "Drama",
+                "Political"
+            ],
+            "premiumSessionCount": 0,
+            "totalSessionCount": 18,
+            "showTimeList": [
+                "11:00",
+                "18:15",
+                "06:20",
+                "01:20",
+                "14:30",
+                "21:45",
+                "01:00",
+                "06:00",
+                "10:30",
+                "21:30",
+                "18:00",
+                "21:30",
+                "10:45",
+                "18:00",
+                "14:15",
+                "06:00",
+                "01:00",
+                "14:15"
+            ],
+            "quickFilterScnFrmts": [],
+            "quickFilterLanguages": [
+                "Telugu"
+            ],
+            "priceRangeSet": [
+                "price_600_to_700",
+                "price_500_to_600",
+                "price_200_to_300"
+            ]
+        },
+        "quickFilterData": {
+            "scnFrmts": [],
+            "premium": false,
+            "showTimeBuckets": [
+                {
+                    "sTime": "08:00",
+                    "eTime": "12:00",
+                    "desc": "8 AM to 12 PM",
+                    "dText": "Morning",
+                    "desc1": "Till 12 PM"
+                },
+                {
+                    "sTime": "17:00",
+                    "eTime": "23:59",
+                    "desc": "5 PM to 11:59 PM",
+                    "dText": "After 5 PM",
+                    "desc1": "Till 11:59 PM"
+                }
+            ]
+        }
+    },
+    "data": {
+        "pageSize": 100,
+        "cinemasOrder": [
+            50915,
+            29510,
+            29560
+        ],
+        "sessionDates": [
+            "2025-01-10",
+            "2025-01-11",
+            "2025-01-12",
+            "2025-01-13",
+            "2025-01-14",
+            "2025-01-15"
+        ]
+    },
+    "pageData": {
+        "sessions": {
+            "50915": [
+                {
+                    "sid": "31249__1736451000__5379__4156",
+                    "pid": 736,
+                    "pkey": "ticketnew",
+                    "cid": 50915,
+                    "mid": "OB1H21",
+                    "fid": "URJofQgl6U",
+                    "showTime": "2025-01-09T19:30",
+                    "closeTime": "2025-01-09T19:30",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "41",
+                            "label": "FIRST CLASS",
+                            "typeCode": "31249__1736451000__5379__4156_FIRST CLASS",
+                            "sType": "fixed",
+                            "sAvail": 83,
+                            "sTotal": 220,
+                            "price": 600.0,
+                            "statusColor": "Y"
+                        }
+                    ],
+                    "total": 220,
+                    "avail": 83,
+                    "audi": "SBTS Kalamandir",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Political"
+                    ],
+                    "statusColor": "Y",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "31249__1736469000__5379__4136",
+                    "pid": 736,
+                    "pkey": "ticketnew",
+                    "cid": 50915,
+                    "mid": "OB1H21",
+                    "fid": "URJofQgl6U",
+                    "showTime": "2025-01-10T00:30",
+                    "closeTime": "2025-01-10T00:30",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "41",
+                            "label": "FIRST CLASS",
+                            "typeCode": "31249__1736469000__5379__4136_FIRST CLASS",
+                            "sType": "fixed",
+                            "sAvail": 0,
+                            "sTotal": 220,
+                            "price": 235.0,
+                            "statusColor": "D"
+                        }
+                    ],
+                    "total": 220,
+                    "avail": 0,
+                    "audi": "SBTS Kalamandir",
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Political"
+                    ],
+                    "statusColor": "D",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "31249__1736485200__5379__4137",
+                    "pid": 736,
+                    "pkey": "ticketnew",
+                    "cid": 50915,
+                    "mid": "OB1H21",
+                    "fid": "URJofQgl6U",
+                    "showTime": "2025-01-10T05:00",
+                    "closeTime": "2025-01-10T05:00",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "41",
+                            "label": "FIRST CLASS",
+                            "typeCode": "31249__1736485200__5379__4137_FIRST CLASS",
+                            "sType": "fixed",
+                            "sAvail": 59,
+                            "sTotal": 220,
+                            "price": 235.0,
+                            "statusColor": "Y"
+                        }
+                    ],
+                    "total": 220,
+                    "avail": 59,
+                    "audi": "SBTS Kalamandir",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Political"
+                    ],
+                    "statusColor": "Y",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "31249__1736524800__5379__4140",
+                    "pid": 736,
+                    "pkey": "ticketnew",
+                    "cid": 50915,
+                    "mid": "OB1H21",
+                    "fid": "URJofQgl6U",
+                    "showTime": "2025-01-10T16:00",
+                    "closeTime": "2025-01-10T16:00",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "41",
+                            "label": "FIRST CLASS",
+                            "typeCode": "31249__1736524800__5379__4140_FIRST CLASS",
+                            "sType": "fixed",
+                            "sAvail": 84,
+                            "sTotal": 220,
+                            "price": 235.0,
+                            "statusColor": "Y"
+                        }
+                    ],
+                    "total": 220,
+                    "avail": 84,
+                    "audi": "SBTS Kalamandir",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Political"
+                    ],
+                    "statusColor": "Y",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "31249__1736512200__5379__4139",
+                    "pid": 736,
+                    "pkey": "ticketnew",
+                    "cid": 50915,
+                    "mid": "OB1H21",
+                    "fid": "URJofQgl6U",
+                    "showTime": "2025-01-10T12:30",
+                    "closeTime": "2025-01-10T12:30",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "41",
+                            "label": "FIRST CLASS",
+                            "typeCode": "31249__1736512200__5379__4139_FIRST CLASS",
+                            "sType": "fixed",
+                            "sAvail": 64,
+                            "sTotal": 220,
+                            "price": 235.0,
+                            "statusColor": "Y"
+                        }
+                    ],
+                    "total": 220,
+                    "avail": 64,
+                    "audi": "SBTS Kalamandir",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Political"
+                    ],
+                    "statusColor": "Y",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "31249__1736498700__5379__4138",
+                    "pid": 736,
+                    "pkey": "ticketnew",
+                    "cid": 50915,
+                    "mid": "OB1H21",
+                    "fid": "URJofQgl6U",
+                    "showTime": "2025-01-10T08:45",
+                    "closeTime": "2025-01-10T08:45",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "41",
+                            "label": "FIRST CLASS",
+                            "typeCode": "31249__1736498700__5379__4138_FIRST CLASS",
+                            "sType": "fixed",
+                            "sAvail": 112,
+                            "sTotal": 220,
+                            "price": 235.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 220,
+                    "avail": 112,
+                    "audi": "SBTS Kalamandir",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Political"
+                    ],
+                    "statusColor": "G",
+                    "subtitle": ""
+                }
+            ],
+            "29510": [
+                {
+                    "sid": "31249__1736524800__5114__5081",
+                    "pid": 750,
+                    "pkey": "ticketnew",
+                    "cid": 29510,
+                    "mid": "OB1H21",
+                    "fid": "URJofQgl6U",
+                    "showTime": "2025-01-10T16:00",
+                    "closeTime": "2025-01-10T16:00",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "1",
+                            "label": "PREMIUM",
+                            "typeCode": "31249__1736524800__5114__5081_PREMIUM",
+                            "sType": "fixed",
+                            "sAvail": 175,
+                            "sTotal": 345,
+                            "price": 247.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "2",
+                            "label": "NON PREMIUM",
+                            "typeCode": "31249__1736524800__5114__5081_NON PREMIUM",
+                            "sType": "fixed",
+                            "sAvail": 0,
+                            "sTotal": 105,
+                            "price": 225.0,
+                            "statusColor": "D"
+                        }
+                    ],
+                    "total": 450,
+                    "avail": 175,
+                    "audi": "Svc Sita Chitramandir",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Political"
+                    ],
+                    "statusColor": "Y",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "31249__1736486100__5114__5078",
+                    "pid": 750,
+                    "pkey": "ticketnew",
+                    "cid": 29510,
+                    "mid": "OB1H21",
+                    "fid": "URJofQgl6U",
+                    "showTime": "2025-01-10T05:15",
+                    "closeTime": "2025-01-10T05:15",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "1",
+                            "label": "PREMIUM",
+                            "typeCode": "31249__1736486100__5114__5078_PREMIUM",
+                            "sType": "fixed",
+                            "sAvail": 96,
+                            "sTotal": 345,
+                            "price": 247.0,
+                            "statusColor": "Y"
+                        },
+                        {
+                            "code": "2",
+                            "label": "NON PREMIUM",
+                            "typeCode": "31249__1736486100__5114__5078_NON PREMIUM",
+                            "sType": "fixed",
+                            "sAvail": 0,
+                            "sTotal": 105,
+                            "price": 225.0,
+                            "statusColor": "D"
+                        }
+                    ],
+                    "total": 450,
+                    "avail": 96,
+                    "audi": "Svc Sita Chitramandir",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Political"
+                    ],
+                    "statusColor": "Y",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "31249__1736512200__5114__5080",
+                    "pid": 750,
+                    "pkey": "ticketnew",
+                    "cid": 29510,
+                    "mid": "OB1H21",
+                    "fid": "URJofQgl6U",
+                    "showTime": "2025-01-10T12:30",
+                    "closeTime": "2025-01-10T12:30",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "1",
+                            "label": "PREMIUM",
+                            "typeCode": "31249__1736512200__5114__5080_PREMIUM",
+                            "sType": "fixed",
+                            "sAvail": 211,
+                            "sTotal": 345,
+                            "price": 247.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "2",
+                            "label": "NON PREMIUM",
+                            "typeCode": "31249__1736512200__5114__5080_NON PREMIUM",
+                            "sType": "fixed",
+                            "sAvail": 0,
+                            "sTotal": 105,
+                            "price": 225.0,
+                            "statusColor": "D"
+                        }
+                    ],
+                    "total": 450,
+                    "avail": 211,
+                    "audi": "Svc Sita Chitramandir",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Political"
+                    ],
+                    "statusColor": "G",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "31249__1736498700__5114__5079",
+                    "pid": 750,
+                    "pkey": "ticketnew",
+                    "cid": 29510,
+                    "mid": "OB1H21",
+                    "fid": "URJofQgl6U",
+                    "showTime": "2025-01-10T08:45",
+                    "closeTime": "2025-01-10T08:45",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "1",
+                            "label": "PREMIUM",
+                            "typeCode": "31249__1736498700__5114__5079_PREMIUM",
+                            "sType": "fixed",
+                            "sAvail": 229,
+                            "sTotal": 345,
+                            "price": 247.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "2",
+                            "label": "NON PREMIUM",
+                            "typeCode": "31249__1736498700__5114__5079_NON PREMIUM",
+                            "sType": "fixed",
+                            "sAvail": 0,
+                            "sTotal": 105,
+                            "price": 225.0,
+                            "statusColor": "D"
+                        }
+                    ],
+                    "total": 450,
+                    "avail": 229,
+                    "audi": "Svc Sita Chitramandir",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Political"
+                    ],
+                    "statusColor": "G",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "31249__1736469000__5114__5082",
+                    "pid": 750,
+                    "pkey": "ticketnew",
+                    "cid": 29510,
+                    "mid": "OB1H21",
+                    "fid": "URJofQgl6U",
+                    "showTime": "2025-01-10T00:30",
+                    "closeTime": "2025-01-10T00:30",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "1",
+                            "label": "PREMIUM",
+                            "typeCode": "31249__1736469000__5114__5082_PREMIUM",
+                            "sType": "fixed",
+                            "sAvail": 0,
+                            "sTotal": 345,
+                            "price": 247.0,
+                            "statusColor": "D"
+                        },
+                        {
+                            "code": "2",
+                            "label": "NON PREMIUM",
+                            "typeCode": "31249__1736469000__5114__5082_NON PREMIUM",
+                            "sType": "fixed",
+                            "sAvail": 97,
+                            "sTotal": 105,
+                            "price": 225.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 450,
+                    "avail": 97,
+                    "audi": "Svc Sita Chitramandir",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Political"
+                    ],
+                    "statusColor": "Y",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "31249__1736451000__5114__5077",
+                    "pid": 750,
+                    "pkey": "ticketnew",
+                    "cid": 29510,
+                    "mid": "OB1H21",
+                    "fid": "URJofQgl6U",
+                    "showTime": "2025-01-09T19:30",
+                    "closeTime": "2025-01-09T19:30",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "1",
+                            "label": "PREMIUM",
+                            "typeCode": "31249__1736451000__5114__5077_PREMIUM",
+                            "sType": "fixed",
+                            "sAvail": 0,
+                            "sTotal": 345,
+                            "price": 600.0,
+                            "statusColor": "D"
+                        },
+                        {
+                            "code": "2",
+                            "label": "NON PREMIUM",
+                            "typeCode": "31249__1736451000__5114__5077_NON PREMIUM",
+                            "sType": "fixed",
+                            "sAvail": 97,
+                            "sTotal": 105,
+                            "price": 600.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 450,
+                    "avail": 97,
+                    "audi": "Svc Sita Chitramandir",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Political"
+                    ],
+                    "statusColor": "Y",
+                    "subtitle": ""
+                }
+            ],
+            "29560": [
+                {
+                    "sid": "31249__1736487000__5115__4942",
+                    "pid": 750,
+                    "pkey": "ticketnew",
+                    "cid": 29560,
+                    "mid": "OB1H21",
+                    "fid": "URJofQgl6U",
+                    "showTime": "2025-01-10T05:30",
+                    "closeTime": "2025-01-10T05:30",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "4",
+                            "label": "PREMIUM",
+                            "typeCode": "31249__1736487000__5115__4942_PREMIUM",
+                            "sType": "fixed",
+                            "sAvail": 146,
+                            "sTotal": 273,
+                            "price": 247.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "5",
+                            "label": "NON PREMIUM",
+                            "typeCode": "31249__1736487000__5115__4942_NON PREMIUM",
+                            "sType": "fixed",
+                            "sAvail": 0,
+                            "sTotal": 68,
+                            "price": 225.0,
+                            "statusColor": "D"
+                        }
+                    ],
+                    "total": 341,
+                    "avail": 146,
+                    "audi": "SVC TULASI CHITRAMANDIR",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Political"
+                    ],
+                    "statusColor": "G",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "31249__1736513100__5115__4944",
+                    "pid": 750,
+                    "pkey": "ticketnew",
+                    "cid": 29560,
+                    "mid": "OB1H21",
+                    "fid": "URJofQgl6U",
+                    "showTime": "2025-01-10T12:45",
+                    "closeTime": "2025-01-10T12:45",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "4",
+                            "label": "PREMIUM",
+                            "typeCode": "31249__1736513100__5115__4944_PREMIUM",
+                            "sType": "fixed",
+                            "sAvail": 207,
+                            "sTotal": 273,
+                            "price": 247.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "5",
+                            "label": "NON PREMIUM",
+                            "typeCode": "31249__1736513100__5115__4944_NON PREMIUM",
+                            "sType": "fixed",
+                            "sAvail": 0,
+                            "sTotal": 68,
+                            "price": 225.0,
+                            "statusColor": "D"
+                        }
+                    ],
+                    "total": 341,
+                    "avail": 207,
+                    "audi": "SVC TULASI CHITRAMANDIR",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Political"
+                    ],
+                    "statusColor": "G",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "31249__1736470200__5115__4941",
+                    "pid": 750,
+                    "pkey": "ticketnew",
+                    "cid": 29560,
+                    "mid": "OB1H21",
+                    "fid": "URJofQgl6U",
+                    "showTime": "2025-01-10T00:50",
+                    "closeTime": "2025-01-10T00:50",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "4",
+                            "label": "PREMIUM",
+                            "typeCode": "31249__1736470200__5115__4941_PREMIUM",
+                            "sType": "fixed",
+                            "sAvail": 1,
+                            "sTotal": 273,
+                            "price": 247.0,
+                            "statusColor": "R"
+                        },
+                        {
+                            "code": "5",
+                            "label": "NON PREMIUM",
+                            "typeCode": "31249__1736470200__5115__4941_NON PREMIUM",
+                            "sType": "fixed",
+                            "sAvail": 0,
+                            "sTotal": 68,
+                            "price": 225.0,
+                            "statusColor": "D"
+                        }
+                    ],
+                    "total": 341,
+                    "avail": 1,
+                    "audi": "SVC TULASI CHITRAMANDIR",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Political"
+                    ],
+                    "statusColor": "R",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "31249__1736452200__5115__4946",
+                    "pid": 750,
+                    "pkey": "ticketnew",
+                    "cid": 29560,
+                    "mid": "OB1H21",
+                    "fid": "URJofQgl6U",
+                    "showTime": "2025-01-09T19:50",
+                    "closeTime": "2025-01-09T19:50",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "4",
+                            "label": "PREMIUM",
+                            "typeCode": "31249__1736452200__5115__4946_PREMIUM",
+                            "sType": "fixed",
+                            "sAvail": 179,
+                            "sTotal": 273,
+                            "price": 600.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "5",
+                            "label": "NON PREMIUM",
+                            "typeCode": "31249__1736452200__5115__4946_NON PREMIUM",
+                            "sType": "fixed",
+                            "sAvail": 0,
+                            "sTotal": 68,
+                            "price": 600.0,
+                            "statusColor": "D"
+                        }
+                    ],
+                    "total": 341,
+                    "avail": 179,
+                    "audi": "SVC TULASI CHITRAMANDIR",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Political"
+                    ],
+                    "statusColor": "G",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "31249__1736499600__5115__4943",
+                    "pid": 750,
+                    "pkey": "ticketnew",
+                    "cid": 29560,
+                    "mid": "OB1H21",
+                    "fid": "URJofQgl6U",
+                    "showTime": "2025-01-10T09:00",
+                    "closeTime": "2025-01-10T09:00",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "4",
+                            "label": "PREMIUM",
+                            "typeCode": "31249__1736499600__5115__4943_PREMIUM",
+                            "sType": "fixed",
+                            "sAvail": 215,
+                            "sTotal": 273,
+                            "price": 247.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "5",
+                            "label": "NON PREMIUM",
+                            "typeCode": "31249__1736499600__5115__4943_NON PREMIUM",
+                            "sType": "fixed",
+                            "sAvail": 0,
+                            "sTotal": 68,
+                            "price": 225.0,
+                            "statusColor": "D"
+                        }
+                    ],
+                    "total": 341,
+                    "avail": 215,
+                    "audi": "SVC TULASI CHITRAMANDIR",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Political"
+                    ],
+                    "statusColor": "G",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "31249__1736525700__5115__4945",
+                    "pid": 750,
+                    "pkey": "ticketnew",
+                    "cid": 29560,
+                    "mid": "OB1H21",
+                    "fid": "URJofQgl6U",
+                    "showTime": "2025-01-10T16:15",
+                    "closeTime": "2025-01-10T16:15",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "4",
+                            "label": "PREMIUM",
+                            "typeCode": "31249__1736525700__5115__4945_PREMIUM",
+                            "sType": "fixed",
+                            "sAvail": 207,
+                            "sTotal": 273,
+                            "price": 247.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "5",
+                            "label": "NON PREMIUM",
+                            "typeCode": "31249__1736525700__5115__4945_NON PREMIUM",
+                            "sType": "fixed",
+                            "sAvail": 0,
+                            "sTotal": 68,
+                            "price": 225.0,
+                            "statusColor": "D"
+                        }
+                    ],
+                    "total": 341,
+                    "avail": 207,
+                    "audi": "SVC TULASI CHITRAMANDIR",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Political"
+                    ],
+                    "statusColor": "G",
+                    "subtitle": ""
+                }
+            ]
+        }
+    }
+}

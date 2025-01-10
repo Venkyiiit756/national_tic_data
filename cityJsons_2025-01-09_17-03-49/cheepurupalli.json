@@ -1,0 +1,1590 @@
+{
+    "serverTime": 1736442444,
+    "meta": {
+        "movies": [
+            {
+                "id": "OB1H21",
+                "frmtId": "URJofQgl6U",
+                "name": "Game Changer",
+                "imgPath": null,
+                "appImgPath": "https://assetscdn1.paytm.com/images/cinema/Game%20Changer-3cf95ad0-cce0-11ef-a9e2-63c420e5944f.jpeg",
+                "cvrPath": "https://assetscdn1.paytm.com/images/cinema/web-cover-3dd26890-893b-11ef-b30d-5d8b2ded08e1.jpg",
+                "appCvrPath": "https://assetscdn1.paytm.com/images/cinema/app-cover-3dd0e1f0-893b-11ef-80ee-5d6ff5e29b7e.jpg",
+                "thumbnail": null,
+                "edgeBanner": null,
+                "trailer": "https://youtu.be/zHiKFSBO_JE",
+                "censor": "UA13+",
+                "duration": 165,
+                "grn": [
+                    "Action",
+                    "Drama",
+                    "Political"
+                ],
+                "scrnFmt": "2D",
+                "sndFmt": null,
+                "rnr": {
+                    "hasUReview": 0,
+                    "hasContent": 1
+                },
+                "isNew": false,
+                "imxImgUrl": null,
+                "contentId": 161066,
+                "label": "Game Changer",
+                "lang": "Telugu"
+            }
+        ],
+        "filterBuckets": {
+            "timeBuckets": [
+                {
+                    "sTime": "05:00",
+                    "eTime": "11:59",
+                    "desc": "5:00 AM to 11:59 AM",
+                    "dText": "Morning",
+                    "desc1": "Till 12 PM"
+                },
+                {
+                    "sTime": "12:00",
+                    "eTime": "15:59",
+                    "desc": "12:00 PM to 3:59 PM",
+                    "dText": "Afternoon",
+                    "desc1": "Till 4 PM"
+                },
+                {
+                    "sTime": "16:00",
+                    "eTime": "18:59",
+                    "desc": "4:00 PM to 6:59 PM",
+                    "dText": "Evening",
+                    "desc1": "Till 7 PM"
+                },
+                {
+                    "sTime": "19:00",
+                    "eTime": "04:59",
+                    "desc": "7:00 PM to 4:59 AM",
+                    "dText": "Night",
+                    "desc1": "After 7 PM"
+                }
+            ],
+            "priceBuckets": [
+                {
+                    "min": "200",
+                    "max": "300",
+                    "desc": "\u20b9 200 - \u20b9 300"
+                },
+                {
+                    "min": "300",
+                    "max": "600",
+                    "desc": "\u20b9 300 - \u20b9 600"
+                }
+            ],
+            "showTimeBuckets": [
+                {
+                    "sTime": "00:00",
+                    "eTime": "08:00",
+                    "desc": "12 AM to 8 AM",
+                    "dText": "Early Morning",
+                    "desc1": "Till 8 AM",
+                    "isEnabled": false
+                },
+                {
+                    "sTime": "08:00",
+                    "eTime": "12:00",
+                    "desc": "8 AM to 12 PM",
+                    "dText": "Morning",
+                    "desc1": "Till 12 PM",
+                    "isEnabled": false
+                },
+                {
+                    "sTime": "12:00",
+                    "eTime": "16:00",
+                    "desc": "12 PM to 4 PM",
+                    "dText": "Afternoon",
+                    "desc1": "Till 4 PM",
+                    "isEnabled": false
+                },
+                {
+                    "sTime": "16:00",
+                    "eTime": "19:00",
+                    "desc": "4 PM to 7 PM",
+                    "dText": "Evening",
+                    "desc1": "Till 7 PM",
+                    "isEnabled": false
+                },
+                {
+                    "sTime": "19:00",
+                    "eTime": "23:59",
+                    "desc": "7 PM to 12 AM",
+                    "dText": "Night",
+                    "desc1": "Till 12 AM",
+                    "isEnabled": true
+                }
+            ]
+        },
+        "amenities": [
+            {
+                "id": 2,
+                "name": "Parking",
+                "rank": 1,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Parking-c79a3400-95f6-11ef-a253-33f238ee5f34.png"
+            },
+            {
+                "id": 1,
+                "name": "Mobile Ticket",
+                "rank": 2,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Mobile%20Ticket-bc527a30-95f6-11ef-b954-a1c7e1e4be25.png"
+            },
+            {
+                "id": 3,
+                "name": "Food & Beverages",
+                "rank": 3,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/F%26B-938587f0-95f6-11ef-b954-a1c7e1e4be25.png"
+            },
+            {
+                "id": 5,
+                "name": "Recliners",
+                "rank": 4,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Seat-13023560-95f6-11ef-b954-a1c7e1e4be25.png"
+            },
+            {
+                "id": 6,
+                "name": "Digital Payments",
+                "rank": 5,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Payment-eab8cb00-95f5-11ef-a253-33f238ee5f34.png"
+            },
+            {
+                "id": 4,
+                "name": "Wheelchair Friendly",
+                "rank": 6,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Wheelchair-73f627a0-95f6-11ef-a253-33f238ee5f34.png"
+            },
+            {
+                "id": 7,
+                "name": "RGB Laser",
+                "rank": 7,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Screen-fef54df0-95f5-11ef-b954-a1c7e1e4be25.png"
+            },
+            {
+                "id": 8,
+                "name": "Dolby Atmos",
+                "rank": 8,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Audio-4acee060-95f6-11ef-b954-a1c7e1e4be25.png"
+            },
+            {
+                "id": 9,
+                "name": "IMAX",
+                "rank": 9,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Screen-fef54df0-95f5-11ef-b954-a1c7e1e4be25.png"
+            },
+            {
+                "id": 10,
+                "name": "4K",
+                "rank": 10,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Screen-fef54df0-95f5-11ef-b954-a1c7e1e4be25.png"
+            },
+            {
+                "id": 12,
+                "name": "WIFI",
+                "rank": 12,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Wifi-5646f900-95f6-11ef-b954-a1c7e1e4be25.png"
+            },
+            {
+                "id": 14,
+                "name": "Gaming Zone",
+                "rank": 14,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Gaming-d3353df0-95f6-11ef-a253-33f238ee5f34.png"
+            },
+            {
+                "id": 15,
+                "name": "2K",
+                "rank": 15,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Screen-fef54df0-95f5-11ef-b954-a1c7e1e4be25.png"
+            },
+            {
+                "id": 17,
+                "name": "4DX",
+                "rank": 17,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Screen-fef54df0-95f5-11ef-b954-a1c7e1e4be25.png"
+            },
+            {
+                "id": 18,
+                "name": "Dolby 7.1",
+                "rank": 18,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Audio-4acee060-95f6-11ef-b954-a1c7e1e4be25.png"
+            },
+            {
+                "id": 19,
+                "name": "Air Conditioning",
+                "rank": 19,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/AC-d92791f0-95f5-11ef-b954-a1c7e1e4be25.png"
+            },
+            {
+                "id": 20,
+                "name": "Metro Nearby",
+                "rank": 20,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Metro-08856cb0-95f6-11ef-b954-a1c7e1e4be25.png"
+            },
+            {
+                "id": 21,
+                "name": "Sofa",
+                "rank": 21,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Seat-13023560-95f6-11ef-b954-a1c7e1e4be25.png"
+            },
+            {
+                "id": 24,
+                "name": "Silver Screen",
+                "rank": 24,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Screen-fef54df0-95f5-11ef-b954-a1c7e1e4be25.png"
+            },
+            {
+                "id": 28,
+                "name": "Free Parking",
+                "rank": 28,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Parking-c79a3400-95f6-11ef-a253-33f238ee5f34.png"
+            },
+            {
+                "id": 29,
+                "name": "Baggage Counter",
+                "rank": 29,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Baggage%20counter-f4cbae50-95f5-11ef-a253-33f238ee5f34.png"
+            },
+            {
+                "id": 30,
+                "name": "Dolby 4 Way 11.1",
+                "rank": 30,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Audio-4acee060-95f6-11ef-b954-a1c7e1e4be25.png"
+            },
+            {
+                "id": 31,
+                "name": "Barco 4K Ultra HD",
+                "rank": 31,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Screen-fef54df0-95f5-11ef-b954-a1c7e1e4be25.png"
+            }
+        ],
+        "cinemas": [
+            {
+                "id": 55272,
+                "pid": 750,
+                "name": "SVC Vamsi Vishnu Vaibhav Theatres, Lecturers Colony, Cheepurupalli",
+                "address": "Lecturers Colony, Anjaneyapuram, Cheepurupalli, Andhra Pradesh 535128, India",
+                "pincode": "535128",
+                "lat": 18.308312,
+                "lon": 83.567066,
+                "cityId": 1059,
+                "appCovrImgUrl": "",
+                "covrImgUrl": "",
+                "fnb": 0,
+                "mTkt": 1,
+                "bCode": "0",
+                "sTop": 0,
+                "isMerchantCancellable": 0,
+                "cinemaLogoUrl": "https://assetscdn1.paytm.com/images/cinema/svc-5551d580-869c-11ed-9b16-5b1b1e9f8842.png",
+                "cinemaVideoUrl": "",
+                "appCoverVideoUrl": "",
+                "webCoverVideoUrl": "",
+                "amenities": null,
+                "promos": null,
+                "chainKey": "SVC Sangeetha",
+                "contentId": 159086,
+                "theatreGroupName": "",
+                "amenitiesOrder": null,
+                "carouselAttachments": [],
+                "isPassEnabled": 0,
+                "paytmCinemaId": 55272,
+                "city": "Cheepurupalli",
+                "clientId": "ticketnew",
+                "isMapped": 0,
+                "city_id": null,
+                "is_city_mapped": null,
+                "state": "andhra-pradesh",
+                "city_key": null,
+                "label": "SVC Vamsi Vishnu Vaibhav Theatres, Lecturers Colony, Cheepurupalli",
+                "sessionCount": 40
+            },
+            {
+                "id": 57037,
+                "pid": 750,
+                "name": "SVC Anurag And Amogh Theatres, Kotta Agraharam, Cheepurupalli",
+                "address": "8H68 7F2, Kotta Agraharam, Cheepurupalli, Andhra Pradesh 535128, India",
+                "pincode": "535128",
+                "lat": 18.310649,
+                "lon": 83.566152,
+                "cityId": 1059,
+                "appCovrImgUrl": "",
+                "covrImgUrl": "",
+                "fnb": 0,
+                "mTkt": 0,
+                "bCode": "0",
+                "sTop": 0,
+                "isMerchantCancellable": 0,
+                "cinemaLogoUrl": "https://assetscdn1.paytm.com/images/cinema/svc-5551d580-869c-11ed-9b16-5b1b1e9f8842.png",
+                "cinemaVideoUrl": "",
+                "appCoverVideoUrl": "",
+                "webCoverVideoUrl": "",
+                "amenities": null,
+                "promos": null,
+                "chainKey": "SVC Sangeetha",
+                "contentId": 159659,
+                "theatreGroupName": "",
+                "amenitiesOrder": null,
+                "carouselAttachments": [],
+                "isPassEnabled": 0,
+                "paytmCinemaId": 57037,
+                "city": "Cheepurupalli",
+                "clientId": "ticketnew",
+                "isMapped": 0,
+                "city_id": null,
+                "is_city_mapped": null,
+                "state": "andhra-pradesh",
+                "city_key": null,
+                "label": "SVC Anurag And Amogh Theatres, Kotta Agraharam, Cheepurupalli",
+                "sessionCount": 8
+            }
+        ],
+        "filterData": {
+            "minSTime": "19:30",
+            "maxSTime": "16:15",
+            "minPrice": 235.0,
+            "maxPrice": 600.0,
+            "premium": false,
+            "freeSeats": false,
+            "groupSeats": false,
+            "tokenFeeSeats": false,
+            "scnFrmts": [
+                "2D"
+            ],
+            "sndFrmts": [],
+            "mLangs": [
+                "Telugu"
+            ],
+            "genres": [
+                "Action",
+                "Drama",
+                "Political"
+            ],
+            "premiumSessionCount": 0,
+            "totalSessionCount": 24,
+            "showTimeList": [
+                "06:20",
+                "18:20",
+                "18:10",
+                "10:10",
+                "10:00",
+                "06:00",
+                "10:20",
+                "18:00",
+                "21:40",
+                "21:30",
+                "01:00",
+                "14:00",
+                "14:10",
+                "06:10",
+                "21:45",
+                "14:20",
+                "18:20",
+                "10:30",
+                "21:30",
+                "10:20",
+                "14:30",
+                "18:30",
+                "14:20",
+                "21:40"
+            ],
+            "quickFilterScnFrmts": [],
+            "quickFilterLanguages": [
+                "Telugu"
+            ],
+            "priceRangeSet": [
+                "price_600_to_700",
+                "price_500_to_600",
+                "price_200_to_300"
+            ]
+        },
+        "quickFilterData": {
+            "scnFrmts": [],
+            "premium": false,
+            "showTimeBuckets": [
+                {
+                    "sTime": "08:00",
+                    "eTime": "12:00",
+                    "desc": "8 AM to 12 PM",
+                    "dText": "Morning",
+                    "desc1": "Till 12 PM"
+                },
+                {
+                    "sTime": "17:00",
+                    "eTime": "23:59",
+                    "desc": "5 PM to 11:59 PM",
+                    "dText": "After 5 PM",
+                    "desc1": "Till 11:59 PM"
+                }
+            ]
+        }
+    },
+    "data": {
+        "pageSize": 100,
+        "cinemasOrder": [
+            55272,
+            57037
+        ],
+        "sessionDates": [
+            "2025-01-10",
+            "2025-01-11",
+            "2025-01-12",
+            "2025-01-13",
+            "2025-01-14",
+            "2025-01-15",
+            "2025-01-16"
+        ]
+    },
+    "pageData": {
+        "sessions": {
+            "55272": [
+                {
+                    "sid": "31249__1736470200__5417__14459",
+                    "pid": 750,
+                    "pkey": "ticketnew",
+                    "cid": 55272,
+                    "mid": "OB1H21",
+                    "fid": "URJofQgl6U",
+                    "showTime": "2025-01-10T00:50",
+                    "closeTime": "2025-01-10T00:50",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "10",
+                            "label": "PREMIUM",
+                            "typeCode": "31249__1736470200__5417__14459_PREMIUM",
+                            "sType": "fixed",
+                            "sAvail": 41,
+                            "sTotal": 252,
+                            "price": 235.0,
+                            "statusColor": "Y"
+                        },
+                        {
+                            "code": "20",
+                            "label": "NON PREMIUM",
+                            "typeCode": "31249__1736470200__5417__14459_NON PREMIUM",
+                            "sType": "fixed",
+                            "sAvail": 67,
+                            "sTotal": 67,
+                            "price": 235.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 319,
+                    "avail": 108,
+                    "audi": "VAIBHAV ",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Political"
+                    ],
+                    "statusColor": "Y",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "31249__1736513400__5417__14462",
+                    "pid": 750,
+                    "pkey": "ticketnew",
+                    "cid": 55272,
+                    "mid": "OB1H21",
+                    "fid": "URJofQgl6U",
+                    "showTime": "2025-01-10T12:50",
+                    "closeTime": "2025-01-10T12:50",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "10",
+                            "label": "PREMIUM",
+                            "typeCode": "31249__1736513400__5417__14462_PREMIUM",
+                            "sType": "fixed",
+                            "sAvail": 210,
+                            "sTotal": 252,
+                            "price": 235.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "20",
+                            "label": "NON PREMIUM",
+                            "typeCode": "31249__1736513400__5417__14462_NON PREMIUM",
+                            "sType": "fixed",
+                            "sAvail": 67,
+                            "sTotal": 67,
+                            "price": 235.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 319,
+                    "avail": 277,
+                    "audi": "VAIBHAV ",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Political"
+                    ],
+                    "statusColor": "G",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "31249__1736512800__5416__14456",
+                    "pid": 750,
+                    "pkey": "ticketnew",
+                    "cid": 55272,
+                    "mid": "OB1H21",
+                    "fid": "URJofQgl6U",
+                    "showTime": "2025-01-10T12:40",
+                    "closeTime": "2025-01-10T12:40",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "10",
+                            "label": "PREMIUM",
+                            "typeCode": "31249__1736512800__5416__14456_PREMIUM",
+                            "sType": "fixed",
+                            "sAvail": 160,
+                            "sTotal": 206,
+                            "price": 235.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "20",
+                            "label": "NON PREMIUM",
+                            "typeCode": "31249__1736512800__5416__14456_NON PREMIUM",
+                            "sType": "fixed",
+                            "sAvail": 116,
+                            "sTotal": 116,
+                            "price": 235.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 322,
+                    "avail": 276,
+                    "audi": "VISHNU ",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Political"
+                    ],
+                    "statusColor": "G",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "31249__1736484000__5416__14454",
+                    "pid": 750,
+                    "pkey": "ticketnew",
+                    "cid": 55272,
+                    "mid": "OB1H21",
+                    "fid": "URJofQgl6U",
+                    "showTime": "2025-01-10T04:40",
+                    "closeTime": "2025-01-10T04:40",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "10",
+                            "label": "PREMIUM",
+                            "typeCode": "31249__1736484000__5416__14454_PREMIUM",
+                            "sType": "fixed",
+                            "sAvail": 95,
+                            "sTotal": 206,
+                            "price": 235.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "20",
+                            "label": "NON PREMIUM",
+                            "typeCode": "31249__1736484000__5416__14454_NON PREMIUM",
+                            "sType": "fixed",
+                            "sAvail": 116,
+                            "sTotal": 116,
+                            "price": 235.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 322,
+                    "avail": 211,
+                    "audi": "VISHNU ",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Political"
+                    ],
+                    "statusColor": "G",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "31249__1736483400__5415__14400",
+                    "pid": 750,
+                    "pkey": "ticketnew",
+                    "cid": 55272,
+                    "mid": "OB1H21",
+                    "fid": "URJofQgl6U",
+                    "showTime": "2025-01-10T04:30",
+                    "closeTime": "2025-01-10T04:30",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "10",
+                            "label": "PREMIUM",
+                            "typeCode": "31249__1736483400__5415__14400_PREMIUM",
+                            "sType": "fixed",
+                            "sAvail": 11,
+                            "sTotal": 361,
+                            "price": 235.0,
+                            "statusColor": "R"
+                        },
+                        {
+                            "code": "20",
+                            "label": "NON PREMIUM",
+                            "typeCode": "31249__1736483400__5415__14400_NON PREMIUM",
+                            "sType": "fixed",
+                            "sAvail": 134,
+                            "sTotal": 134,
+                            "price": 235.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 495,
+                    "avail": 145,
+                    "audi": "VAMSI ",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Political"
+                    ],
+                    "statusColor": "Y",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "31249__1736469000__5415__14399",
+                    "pid": 750,
+                    "pkey": "ticketnew",
+                    "cid": 55272,
+                    "mid": "OB1H21",
+                    "fid": "URJofQgl6U",
+                    "showTime": "2025-01-10T00:30",
+                    "closeTime": "2025-01-10T00:30",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "10",
+                            "label": "PREMIUM",
+                            "typeCode": "31249__1736469000__5415__14399_PREMIUM",
+                            "sType": "fixed",
+                            "sAvail": 0,
+                            "sTotal": 361,
+                            "price": 235.0,
+                            "statusColor": "D"
+                        },
+                        {
+                            "code": "20",
+                            "label": "NON PREMIUM",
+                            "typeCode": "31249__1736469000__5415__14399_NON PREMIUM",
+                            "sType": "fixed",
+                            "sAvail": 33,
+                            "sTotal": 134,
+                            "price": 235.0,
+                            "statusColor": "Y"
+                        }
+                    ],
+                    "total": 495,
+                    "avail": 33,
+                    "audi": "VAMSI ",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Political"
+                    ],
+                    "statusColor": "R",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "31249__1736484600__5417__14460",
+                    "pid": 750,
+                    "pkey": "ticketnew",
+                    "cid": 55272,
+                    "mid": "OB1H21",
+                    "fid": "URJofQgl6U",
+                    "showTime": "2025-01-10T04:50",
+                    "closeTime": "2025-01-10T04:50",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "10",
+                            "label": "PREMIUM",
+                            "typeCode": "31249__1736484600__5417__14460_PREMIUM",
+                            "sType": "fixed",
+                            "sAvail": 206,
+                            "sTotal": 252,
+                            "price": 235.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "20",
+                            "label": "NON PREMIUM",
+                            "typeCode": "31249__1736484600__5417__14460_NON PREMIUM",
+                            "sType": "fixed",
+                            "sAvail": 67,
+                            "sTotal": 67,
+                            "price": 235.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 319,
+                    "avail": 273,
+                    "audi": "VAIBHAV ",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Political"
+                    ],
+                    "statusColor": "G",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "31249__1736512200__5415__14402",
+                    "pid": 750,
+                    "pkey": "ticketnew",
+                    "cid": 55272,
+                    "mid": "OB1H21",
+                    "fid": "URJofQgl6U",
+                    "showTime": "2025-01-10T12:30",
+                    "closeTime": "2025-01-10T12:30",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "10",
+                            "label": "PREMIUM",
+                            "typeCode": "31249__1736512200__5415__14402_PREMIUM",
+                            "sType": "fixed",
+                            "sAvail": 98,
+                            "sTotal": 361,
+                            "price": 235.0,
+                            "statusColor": "Y"
+                        },
+                        {
+                            "code": "20",
+                            "label": "NON PREMIUM",
+                            "typeCode": "31249__1736512200__5415__14402_NON PREMIUM",
+                            "sType": "fixed",
+                            "sAvail": 134,
+                            "sTotal": 134,
+                            "price": 235.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 495,
+                    "avail": 232,
+                    "audi": "VAMSI ",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Political"
+                    ],
+                    "statusColor": "G",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "31249__1736525400__5416__14457",
+                    "pid": 750,
+                    "pkey": "ticketnew",
+                    "cid": 55272,
+                    "mid": "OB1H21",
+                    "fid": "URJofQgl6U",
+                    "showTime": "2025-01-10T16:10",
+                    "closeTime": "2025-01-10T16:10",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "10",
+                            "label": "PREMIUM",
+                            "typeCode": "31249__1736525400__5416__14457_PREMIUM",
+                            "sType": "fixed",
+                            "sAvail": 162,
+                            "sTotal": 206,
+                            "price": 235.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "20",
+                            "label": "NON PREMIUM",
+                            "typeCode": "31249__1736525400__5416__14457_NON PREMIUM",
+                            "sType": "fixed",
+                            "sAvail": 116,
+                            "sTotal": 116,
+                            "price": 235.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 322,
+                    "avail": 278,
+                    "audi": "VISHNU ",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Political"
+                    ],
+                    "statusColor": "G",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "31249__1736524800__5415__14403",
+                    "pid": 750,
+                    "pkey": "ticketnew",
+                    "cid": 55272,
+                    "mid": "OB1H21",
+                    "fid": "URJofQgl6U",
+                    "showTime": "2025-01-10T16:00",
+                    "closeTime": "2025-01-10T16:00",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "10",
+                            "label": "PREMIUM",
+                            "typeCode": "31249__1736524800__5415__14403_PREMIUM",
+                            "sType": "fixed",
+                            "sAvail": 127,
+                            "sTotal": 361,
+                            "price": 235.0,
+                            "statusColor": "Y"
+                        },
+                        {
+                            "code": "20",
+                            "label": "NON PREMIUM",
+                            "typeCode": "31249__1736524800__5415__14403_NON PREMIUM",
+                            "sType": "fixed",
+                            "sAvail": 134,
+                            "sTotal": 134,
+                            "price": 235.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 495,
+                    "avail": 261,
+                    "audi": "VAMSI ",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Political"
+                    ],
+                    "statusColor": "G",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "31249__1736451000__5415__14398",
+                    "pid": 750,
+                    "pkey": "ticketnew",
+                    "cid": 55272,
+                    "mid": "OB1H21",
+                    "fid": "URJofQgl6U",
+                    "showTime": "2025-01-09T19:30",
+                    "closeTime": "2025-01-09T19:30",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "10",
+                            "label": "PREMIUM",
+                            "typeCode": "31249__1736451000__5415__14398_PREMIUM",
+                            "sType": "fixed",
+                            "sAvail": 3,
+                            "sTotal": 361,
+                            "price": 600.0,
+                            "statusColor": "R"
+                        },
+                        {
+                            "code": "20",
+                            "label": "NON PREMIUM",
+                            "typeCode": "31249__1736451000__5415__14398_NON PREMIUM",
+                            "sType": "fixed",
+                            "sAvail": 98,
+                            "sTotal": 134,
+                            "price": 600.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 495,
+                    "avail": 101,
+                    "audi": "VAMSI ",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Political"
+                    ],
+                    "statusColor": "Y",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "31249__1736497800__5415__14401",
+                    "pid": 750,
+                    "pkey": "ticketnew",
+                    "cid": 55272,
+                    "mid": "OB1H21",
+                    "fid": "URJofQgl6U",
+                    "showTime": "2025-01-10T08:30",
+                    "closeTime": "2025-01-10T08:30",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "10",
+                            "label": "PREMIUM",
+                            "typeCode": "31249__1736497800__5415__14401_PREMIUM",
+                            "sType": "fixed",
+                            "sAvail": 170,
+                            "sTotal": 361,
+                            "price": 235.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "20",
+                            "label": "NON PREMIUM",
+                            "typeCode": "31249__1736497800__5415__14401_NON PREMIUM",
+                            "sType": "fixed",
+                            "sAvail": 134,
+                            "sTotal": 134,
+                            "price": 235.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 495,
+                    "avail": 304,
+                    "audi": "VAMSI ",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Political"
+                    ],
+                    "statusColor": "G",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "31249__1736498400__5416__14455",
+                    "pid": 750,
+                    "pkey": "ticketnew",
+                    "cid": 55272,
+                    "mid": "OB1H21",
+                    "fid": "URJofQgl6U",
+                    "showTime": "2025-01-10T08:40",
+                    "closeTime": "2025-01-10T08:40",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "10",
+                            "label": "PREMIUM",
+                            "typeCode": "31249__1736498400__5416__14455_PREMIUM",
+                            "sType": "fixed",
+                            "sAvail": 165,
+                            "sTotal": 206,
+                            "price": 235.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "20",
+                            "label": "NON PREMIUM",
+                            "typeCode": "31249__1736498400__5416__14455_NON PREMIUM",
+                            "sType": "fixed",
+                            "sAvail": 116,
+                            "sTotal": 116,
+                            "price": 235.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 322,
+                    "avail": 281,
+                    "audi": "VISHNU ",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Political"
+                    ],
+                    "statusColor": "G",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "31249__1736469600__5416__14453",
+                    "pid": 750,
+                    "pkey": "ticketnew",
+                    "cid": 55272,
+                    "mid": "OB1H21",
+                    "fid": "URJofQgl6U",
+                    "showTime": "2025-01-10T00:40",
+                    "closeTime": "2025-01-10T00:40",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "10",
+                            "label": "PREMIUM",
+                            "typeCode": "31249__1736469600__5416__14453_PREMIUM",
+                            "sType": "fixed",
+                            "sAvail": 2,
+                            "sTotal": 206,
+                            "price": 235.0,
+                            "statusColor": "R"
+                        },
+                        {
+                            "code": "20",
+                            "label": "NON PREMIUM",
+                            "typeCode": "31249__1736469600__5416__14453_NON PREMIUM",
+                            "sType": "fixed",
+                            "sAvail": 93,
+                            "sTotal": 116,
+                            "price": 235.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 322,
+                    "avail": 95,
+                    "audi": "VISHNU ",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Political"
+                    ],
+                    "statusColor": "Y",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "31249__1736525700__5417__14463",
+                    "pid": 750,
+                    "pkey": "ticketnew",
+                    "cid": 55272,
+                    "mid": "OB1H21",
+                    "fid": "URJofQgl6U",
+                    "showTime": "2025-01-10T16:15",
+                    "closeTime": "2025-01-10T16:15",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "10",
+                            "label": "PREMIUM",
+                            "typeCode": "31249__1736525700__5417__14463_PREMIUM",
+                            "sType": "fixed",
+                            "sAvail": 240,
+                            "sTotal": 252,
+                            "price": 235.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "20",
+                            "label": "NON PREMIUM",
+                            "typeCode": "31249__1736525700__5417__14463_NON PREMIUM",
+                            "sType": "fixed",
+                            "sAvail": 67,
+                            "sTotal": 67,
+                            "price": 235.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 319,
+                    "avail": 307,
+                    "audi": "VAIBHAV ",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Political"
+                    ],
+                    "statusColor": "G",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "31249__1736499000__5417__14461",
+                    "pid": 750,
+                    "pkey": "ticketnew",
+                    "cid": 55272,
+                    "mid": "OB1H21",
+                    "fid": "URJofQgl6U",
+                    "showTime": "2025-01-10T08:50",
+                    "closeTime": "2025-01-10T08:50",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "10",
+                            "label": "PREMIUM",
+                            "typeCode": "31249__1736499000__5417__14461_PREMIUM",
+                            "sType": "fixed",
+                            "sAvail": 242,
+                            "sTotal": 252,
+                            "price": 235.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "20",
+                            "label": "NON PREMIUM",
+                            "typeCode": "31249__1736499000__5417__14461_NON PREMIUM",
+                            "sType": "fixed",
+                            "sAvail": 67,
+                            "sTotal": 67,
+                            "price": 235.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 319,
+                    "avail": 309,
+                    "audi": "VAIBHAV ",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Political"
+                    ],
+                    "statusColor": "G",
+                    "subtitle": ""
+                }
+            ],
+            "57037": [
+                {
+                    "sid": "31249__1736513400__5470__7789",
+                    "pid": 750,
+                    "pkey": "ticketnew",
+                    "cid": 57037,
+                    "mid": "OB1H21",
+                    "fid": "URJofQgl6U",
+                    "showTime": "2025-01-10T12:50",
+                    "closeTime": "2025-01-10T12:50",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "4",
+                            "label": "PREMIUM",
+                            "typeCode": "31249__1736513400__5470__7789_PREMIUM",
+                            "sType": "fixed",
+                            "sAvail": 261,
+                            "sTotal": 318,
+                            "price": 235.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 318,
+                    "avail": 261,
+                    "audi": "Anurag 70MM A/C Dts",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Political"
+                    ],
+                    "statusColor": "G",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "31249__1736485200__5471__7802",
+                    "pid": 750,
+                    "pkey": "ticketnew",
+                    "cid": 57037,
+                    "mid": "OB1H21",
+                    "fid": "URJofQgl6U",
+                    "showTime": "2025-01-10T05:00",
+                    "closeTime": "2025-01-10T05:00",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "6",
+                            "label": "PREMIUM",
+                            "typeCode": "31249__1736485200__5471__7802_PREMIUM",
+                            "sType": "fixed",
+                            "sAvail": 178,
+                            "sTotal": 184,
+                            "price": 235.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 184,
+                    "avail": 178,
+                    "audi": "Amogh 35MM A/C Dts",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Political"
+                    ],
+                    "statusColor": "G",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "31249__1736524800__5470__7790",
+                    "pid": 750,
+                    "pkey": "ticketnew",
+                    "cid": 57037,
+                    "mid": "OB1H21",
+                    "fid": "URJofQgl6U",
+                    "showTime": "2025-01-10T16:00",
+                    "closeTime": "2025-01-10T16:00",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "4",
+                            "label": "PREMIUM",
+                            "typeCode": "31249__1736524800__5470__7790_PREMIUM",
+                            "sType": "fixed",
+                            "sAvail": 257,
+                            "sTotal": 318,
+                            "price": 235.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 318,
+                    "avail": 257,
+                    "audi": "Anurag 70MM A/C Dts",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Political"
+                    ],
+                    "statusColor": "G",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "31249__1736484600__5470__7787",
+                    "pid": 750,
+                    "pkey": "ticketnew",
+                    "cid": 57037,
+                    "mid": "OB1H21",
+                    "fid": "URJofQgl6U",
+                    "showTime": "2025-01-10T04:50",
+                    "closeTime": "2025-01-10T04:50",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "4",
+                            "label": "PREMIUM",
+                            "typeCode": "31249__1736484600__5470__7787_PREMIUM",
+                            "sType": "fixed",
+                            "sAvail": 223,
+                            "sTotal": 318,
+                            "price": 235.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 318,
+                    "avail": 223,
+                    "audi": "Anurag 70MM A/C Dts",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Political"
+                    ],
+                    "statusColor": "G",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "31249__1736499600__5471__7803",
+                    "pid": 750,
+                    "pkey": "ticketnew",
+                    "cid": 57037,
+                    "mid": "OB1H21",
+                    "fid": "URJofQgl6U",
+                    "showTime": "2025-01-10T09:00",
+                    "closeTime": "2025-01-10T09:00",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "6",
+                            "label": "PREMIUM",
+                            "typeCode": "31249__1736499600__5471__7803_PREMIUM",
+                            "sType": "fixed",
+                            "sAvail": 184,
+                            "sTotal": 184,
+                            "price": 235.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 184,
+                    "avail": 184,
+                    "audi": "Amogh 35MM A/C Dts",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Political"
+                    ],
+                    "statusColor": "G",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "31249__1736514000__5471__7804",
+                    "pid": 750,
+                    "pkey": "ticketnew",
+                    "cid": 57037,
+                    "mid": "OB1H21",
+                    "fid": "URJofQgl6U",
+                    "showTime": "2025-01-10T13:00",
+                    "closeTime": "2025-01-10T13:00",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "6",
+                            "label": "PREMIUM",
+                            "typeCode": "31249__1736514000__5471__7804_PREMIUM",
+                            "sType": "fixed",
+                            "sAvail": 184,
+                            "sTotal": 184,
+                            "price": 235.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 184,
+                    "avail": 184,
+                    "audi": "Amogh 35MM A/C Dts",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Political"
+                    ],
+                    "statusColor": "G",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "31249__1736499000__5470__7788",
+                    "pid": 750,
+                    "pkey": "ticketnew",
+                    "cid": 57037,
+                    "mid": "OB1H21",
+                    "fid": "URJofQgl6U",
+                    "showTime": "2025-01-10T08:50",
+                    "closeTime": "2025-01-10T08:50",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "4",
+                            "label": "PREMIUM",
+                            "typeCode": "31249__1736499000__5470__7788_PREMIUM",
+                            "sType": "fixed",
+                            "sAvail": 270,
+                            "sTotal": 318,
+                            "price": 235.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 318,
+                    "avail": 270,
+                    "audi": "Anurag 70MM A/C Dts",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Political"
+                    ],
+                    "statusColor": "G",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "31249__1736525400__5471__7805",
+                    "pid": 750,
+                    "pkey": "ticketnew",
+                    "cid": 57037,
+                    "mid": "OB1H21",
+                    "fid": "URJofQgl6U",
+                    "showTime": "2025-01-10T16:10",
+                    "closeTime": "2025-01-10T16:10",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "6",
+                            "label": "PREMIUM",
+                            "typeCode": "31249__1736525400__5471__7805_PREMIUM",
+                            "sType": "fixed",
+                            "sAvail": 184,
+                            "sTotal": 184,
+                            "price": 235.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 184,
+                    "avail": 184,
+                    "audi": "Amogh 35MM A/C Dts",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Political"
+                    ],
+                    "statusColor": "G",
+                    "subtitle": ""
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,2587 @@
+{
+    "serverTime": 1736442279,
+    "meta": {
+        "movies": [
+            {
+                "id": "OB1H21",
+                "frmtId": "URJofQgl6U",
+                "name": "Game Changer",
+                "imgPath": null,
+                "appImgPath": "https://assetscdn1.paytm.com/images/cinema/Game%20Changer-3cf95ad0-cce0-11ef-a9e2-63c420e5944f.jpeg",
+                "cvrPath": "https://assetscdn1.paytm.com/images/cinema/web-cover-3dd26890-893b-11ef-b30d-5d8b2ded08e1.jpg",
+                "appCvrPath": "https://assetscdn1.paytm.com/images/cinema/app-cover-3dd0e1f0-893b-11ef-80ee-5d6ff5e29b7e.jpg",
+                "thumbnail": null,
+                "edgeBanner": null,
+                "trailer": "https://youtu.be/zHiKFSBO_JE",
+                "censor": "UA13+",
+                "duration": 165,
+                "grn": [
+                    "Action",
+                    "Drama",
+                    "Political"
+                ],
+                "scrnFmt": "2D",
+                "sndFmt": null,
+                "rnr": {
+                    "hasUReview": 0,
+                    "hasContent": 1
+                },
+                "isNew": false,
+                "imxImgUrl": null,
+                "contentId": 161066,
+                "label": "Game Changer",
+                "lang": "Telugu"
+            }
+        ],
+        "filterBuckets": {
+            "timeBuckets": [
+                {
+                    "sTime": "05:00",
+                    "eTime": "11:59",
+                    "desc": "5:00 AM to 11:59 AM",
+                    "dText": "Morning",
+                    "desc1": "Till 12 PM"
+                },
+                {
+                    "sTime": "12:00",
+                    "eTime": "15:59",
+                    "desc": "12:00 PM to 3:59 PM",
+                    "dText": "Afternoon",
+                    "desc1": "Till 4 PM"
+                },
+                {
+                    "sTime": "16:00",
+                    "eTime": "18:59",
+                    "desc": "4:00 PM to 6:59 PM",
+                    "dText": "Evening",
+                    "desc1": "Till 7 PM"
+                },
+                {
+                    "sTime": "19:00",
+                    "eTime": "04:59",
+                    "desc": "7:00 PM to 4:59 AM",
+                    "dText": "Night",
+                    "desc1": "After 7 PM"
+                }
+            ],
+            "priceBuckets": [
+                {
+                    "min": "100",
+                    "max": "200",
+                    "desc": "\u20b9 100 - \u20b9 200"
+                },
+                {
+                    "min": "200",
+                    "max": "300",
+                    "desc": "\u20b9 200 - \u20b9 300"
+                },
+                {
+                    "min": "300",
+                    "max": "400",
+                    "desc": "\u20b9 300 - \u20b9 400"
+                },
+                {
+                    "min": "400",
+                    "max": "500",
+                    "desc": "\u20b9 400 - \u20b9 500"
+                },
+                {
+                    "min": "500",
+                    "max": "600",
+                    "desc": "\u20b9 500 - \u20b9 600"
+                }
+            ],
+            "showTimeBuckets": [
+                {
+                    "sTime": "00:00",
+                    "eTime": "08:00",
+                    "desc": "12 AM to 8 AM",
+                    "dText": "Early Morning",
+                    "desc1": "Till 8 AM",
+                    "isEnabled": false
+                },
+                {
+                    "sTime": "08:00",
+                    "eTime": "12:00",
+                    "desc": "8 AM to 12 PM",
+                    "dText": "Morning",
+                    "desc1": "Till 12 PM",
+                    "isEnabled": false
+                },
+                {
+                    "sTime": "12:00",
+                    "eTime": "16:00",
+                    "desc": "12 PM to 4 PM",
+                    "dText": "Afternoon",
+                    "desc1": "Till 4 PM",
+                    "isEnabled": false
+                },
+                {
+                    "sTime": "16:00",
+                    "eTime": "19:00",
+                    "desc": "4 PM to 7 PM",
+                    "dText": "Evening",
+                    "desc1": "Till 7 PM",
+                    "isEnabled": false
+                },
+                {
+                    "sTime": "19:00",
+                    "eTime": "23:59",
+                    "desc": "7 PM to 12 AM",
+                    "dText": "Night",
+                    "desc1": "Till 12 AM",
+                    "isEnabled": true
+                }
+            ]
+        },
+        "amenities": [
+            {
+                "id": 2,
+                "name": "Parking",
+                "rank": 1,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Parking-c79a3400-95f6-11ef-a253-33f238ee5f34.png"
+            },
+            {
+                "id": 1,
+                "name": "Mobile Ticket",
+                "rank": 2,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Mobile%20Ticket-bc527a30-95f6-11ef-b954-a1c7e1e4be25.png"
+            },
+            {
+                "id": 3,
+                "name": "Food & Beverages",
+                "rank": 3,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/F%26B-938587f0-95f6-11ef-b954-a1c7e1e4be25.png"
+            },
+            {
+                "id": 5,
+                "name": "Recliners",
+                "rank": 4,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Seat-13023560-95f6-11ef-b954-a1c7e1e4be25.png"
+            },
+            {
+                "id": 6,
+                "name": "Digital Payments",
+                "rank": 5,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Payment-eab8cb00-95f5-11ef-a253-33f238ee5f34.png"
+            },
+            {
+                "id": 4,
+                "name": "Wheelchair Friendly",
+                "rank": 6,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Wheelchair-73f627a0-95f6-11ef-a253-33f238ee5f34.png"
+            },
+            {
+                "id": 7,
+                "name": "RGB Laser",
+                "rank": 7,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Screen-fef54df0-95f5-11ef-b954-a1c7e1e4be25.png"
+            },
+            {
+                "id": 8,
+                "name": "Dolby Atmos",
+                "rank": 8,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Audio-4acee060-95f6-11ef-b954-a1c7e1e4be25.png"
+            },
+            {
+                "id": 9,
+                "name": "IMAX",
+                "rank": 9,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Screen-fef54df0-95f5-11ef-b954-a1c7e1e4be25.png"
+            },
+            {
+                "id": 10,
+                "name": "4K",
+                "rank": 10,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Screen-fef54df0-95f5-11ef-b954-a1c7e1e4be25.png"
+            },
+            {
+                "id": 12,
+                "name": "WIFI",
+                "rank": 12,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Wifi-5646f900-95f6-11ef-b954-a1c7e1e4be25.png"
+            },
+            {
+                "id": 14,
+                "name": "Gaming Zone",
+                "rank": 14,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Gaming-d3353df0-95f6-11ef-a253-33f238ee5f34.png"
+            },
+            {
+                "id": 15,
+                "name": "2K",
+                "rank": 15,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Screen-fef54df0-95f5-11ef-b954-a1c7e1e4be25.png"
+            },
+            {
+                "id": 17,
+                "name": "4DX",
+                "rank": 17,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Screen-fef54df0-95f5-11ef-b954-a1c7e1e4be25.png"
+            },
+            {
+                "id": 18,
+                "name": "Dolby 7.1",
+                "rank": 18,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Audio-4acee060-95f6-11ef-b954-a1c7e1e4be25.png"
+            },
+            {
+                "id": 19,
+                "name": "Air Conditioning",
+                "rank": 19,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/AC-d92791f0-95f5-11ef-b954-a1c7e1e4be25.png"
+            },
+            {
+                "id": 20,
+                "name": "Metro Nearby",
+                "rank": 20,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Metro-08856cb0-95f6-11ef-b954-a1c7e1e4be25.png"
+            },
+            {
+                "id": 21,
+                "name": "Sofa",
+                "rank": 21,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Seat-13023560-95f6-11ef-b954-a1c7e1e4be25.png"
+            },
+            {
+                "id": 24,
+                "name": "Silver Screen",
+                "rank": 24,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Screen-fef54df0-95f5-11ef-b954-a1c7e1e4be25.png"
+            },
+            {
+                "id": 28,
+                "name": "Free Parking",
+                "rank": 28,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Parking-c79a3400-95f6-11ef-a253-33f238ee5f34.png"
+            },
+            {
+                "id": 29,
+                "name": "Baggage Counter",
+                "rank": 29,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Baggage%20counter-f4cbae50-95f5-11ef-a253-33f238ee5f34.png"
+            },
+            {
+                "id": 30,
+                "name": "Dolby 4 Way 11.1",
+                "rank": 30,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Audio-4acee060-95f6-11ef-b954-a1c7e1e4be25.png"
+            },
+            {
+                "id": 31,
+                "name": "Barco 4K Ultra HD",
+                "rank": 31,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Screen-fef54df0-95f5-11ef-b954-a1c7e1e4be25.png"
+            }
+        ],
+        "cinemas": [
+            {
+                "id": 1028778,
+                "pid": 1707,
+                "name": "PVR Varam Central, Jaldu Avenue, Machilipatnam",
+                "address": "1st Floor, Varam Central, Jaldu Avenue, Machavaram, Machilipatnam, Andhra Pradesh 521002, India",
+                "pincode": "521002",
+                "lat": 16.197177,
+                "lon": 81.138616,
+                "cityId": 125,
+                "appCovrImgUrl": "",
+                "covrImgUrl": "",
+                "fnb": 0,
+                "mTkt": 1,
+                "bCode": "",
+                "sTop": 0,
+                "isMerchantCancellable": 1,
+                "cinemaLogoUrl": "https://assetscdn1.paytm.com/images/cinema/PVR%20circle%20new-e63c67e0-a41d-11ef-8d2a-13243c787688.png",
+                "cinemaVideoUrl": "",
+                "appCoverVideoUrl": "",
+                "webCoverVideoUrl": "",
+                "amenities": {
+                    "1": 1,
+                    "2": 1,
+                    "3": 1,
+                    "19": 1,
+                    "5": 1,
+                    "6": 1
+                },
+                "promos": null,
+                "chainKey": "PVR",
+                "contentId": 173982,
+                "theatreGroupName": "",
+                "amenitiesOrder": [
+                    {
+                        "id": 1,
+                        "rank": 6,
+                        "status": 1
+                    },
+                    {
+                        "id": 2,
+                        "rank": 2,
+                        "status": 1
+                    },
+                    {
+                        "id": 3,
+                        "rank": 1,
+                        "status": 1
+                    },
+                    {
+                        "id": 5,
+                        "rank": 3,
+                        "status": 1
+                    },
+                    {
+                        "id": 6,
+                        "rank": 4,
+                        "status": 1
+                    },
+                    {
+                        "id": 19,
+                        "rank": 7,
+                        "status": 1
+                    }
+                ],
+                "carouselAttachments": [],
+                "isPassEnabled": 1,
+                "paytmCinemaId": 1028778,
+                "city": "Machilipatnam",
+                "clientId": "ticketnew",
+                "isMapped": 0,
+                "city_id": null,
+                "is_city_mapped": null,
+                "state": "andhra-pradesh",
+                "city_key": null,
+                "label": "PVR Varam Central, Jaldu Avenue, Machilipatnam",
+                "sessionCount": 36
+            },
+            {
+                "id": 4332,
+                "pid": 721,
+                "name": "Revathi Picture Palace, Near Naidus Petrol Pump, Machilipatnam",
+                "address": "Near Naidus Petrol Pump, Ramanaidupet, Machilipatnam, Andhra Pradesh 521001",
+                "pincode": "521001",
+                "lat": 16.185514,
+                "lon": 81.135654,
+                "cityId": 125,
+                "appCovrImgUrl": "",
+                "covrImgUrl": "",
+                "fnb": 0,
+                "mTkt": 1,
+                "bCode": "0",
+                "sTop": 0,
+                "isMerchantCancellable": 0,
+                "cinemaLogoUrl": "https://assetscdn1.paytm.com/images/cinema/SP-cinema-logo-bea3e990-8504-11ed-9a8d-9b91ffeaf739.png",
+                "cinemaVideoUrl": "",
+                "appCoverVideoUrl": "",
+                "webCoverVideoUrl": "",
+                "amenities": {
+                    "1": -1,
+                    "2": 1,
+                    "3": -1,
+                    "4": -1,
+                    "5": -1,
+                    "6": -1
+                },
+                "promos": null,
+                "chainKey": "Suresh Production",
+                "contentId": 148691,
+                "theatreGroupName": "",
+                "amenitiesOrder": [
+                    {
+                        "id": 1,
+                        "rank": 2,
+                        "status": -1
+                    },
+                    {
+                        "id": 2,
+                        "rank": 1,
+                        "status": 1
+                    },
+                    {
+                        "id": 3,
+                        "rank": 3,
+                        "status": -1
+                    },
+                    {
+                        "id": 4,
+                        "rank": 6,
+                        "status": -1
+                    },
+                    {
+                        "id": 5,
+                        "rank": 4,
+                        "status": -1
+                    },
+                    {
+                        "id": 6,
+                        "rank": 5,
+                        "status": -1
+                    }
+                ],
+                "carouselAttachments": [],
+                "isPassEnabled": 0,
+                "paytmCinemaId": 4332,
+                "city": "Machilipatnam",
+                "clientId": "ticketnew",
+                "isMapped": 0,
+                "city_id": null,
+                "is_city_mapped": null,
+                "state": "andhra-pradesh",
+                "city_key": null,
+                "label": "Revathi Picture Palace, Near Naidus Petrol Pump, Machilipatnam",
+                "sessionCount": 21
+            }
+        ],
+        "filterData": {
+            "minSTime": "19:30",
+            "maxSTime": "17:20",
+            "minPrice": 150.0,
+            "maxPrice": 600.0,
+            "premium": true,
+            "freeSeats": false,
+            "groupSeats": false,
+            "tokenFeeSeats": false,
+            "scnFrmts": [
+                "2D"
+            ],
+            "sndFrmts": [],
+            "mLangs": [
+                "Telugu"
+            ],
+            "genres": [
+                "Action",
+                "Drama",
+                "Political"
+            ],
+            "premiumSessionCount": 21,
+            "totalSessionCount": 30,
+            "showTimeList": [
+                "11:00",
+                "11:15",
+                "18:00",
+                "21:45",
+                "14:30",
+                "14:30",
+                "21:30",
+                "18:15",
+                "15:50",
+                "18:40",
+                "15:10",
+                "11:40",
+                "08:10",
+                "12:20",
+                "08:50",
+                "22:50",
+                "22:10",
+                "19:00",
+                "15:30",
+                "12:00",
+                "01:10",
+                "04:40",
+                "05:01",
+                "08:30",
+                "01:00",
+                "22:30",
+                "05:21",
+                "01:50",
+                "19:20",
+                "01:30"
+            ],
+            "quickFilterScnFrmts": [],
+            "quickFilterLanguages": [
+                "Telugu"
+            ],
+            "priceRangeSet": [
+                "price_600_to_700",
+                "price_400_to_500",
+                "price_300_to_400",
+                "price_100_to_200",
+                "price_500_to_600",
+                "price_200_to_300"
+            ]
+        },
+        "quickFilterData": {
+            "scnFrmts": [],
+            "premium": true,
+            "showTimeBuckets": [
+                {
+                    "sTime": "08:00",
+                    "eTime": "12:00",
+                    "desc": "8 AM to 12 PM",
+                    "dText": "Morning",
+                    "desc1": "Till 12 PM"
+                },
+                {
+                    "sTime": "17:00",
+                    "eTime": "23:59",
+                    "desc": "5 PM to 11:59 PM",
+                    "dText": "After 5 PM",
+                    "desc1": "Till 11:59 PM"
+                }
+            ]
+        }
+    },
+    "data": {
+        "pageSize": 100,
+        "cinemasOrder": [
+            1028778,
+            4332
+        ],
+        "sessionDates": [
+            "2025-01-10",
+            "2025-01-11",
+            "2025-01-12"
+        ]
+    },
+    "pageData": {
+        "sessions": {
+            "1028778": [
+                {
+                    "sid": "3028",
+                    "pid": 1707,
+                    "pkey": "showbizz",
+                    "cid": 1028778,
+                    "mid": "OB1H21",
+                    "fid": "URJofQgl6U",
+                    "showTime": "2025-01-10T10:20",
+                    "closeTime": "2025-01-10T10:19",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "CL",
+                            "label": "CLASSIC",
+                            "typeCode": "3028_CL",
+                            "sType": "fixed",
+                            "sAvail": 36,
+                            "sTotal": 36,
+                            "price": 287.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "CP",
+                            "label": "CLASSIC PLUS",
+                            "typeCode": "3028_CP",
+                            "sType": "fixed",
+                            "sAvail": 54,
+                            "sTotal": 54,
+                            "price": 319.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "PR",
+                            "label": "PREMIUM",
+                            "typeCode": "3028_PR",
+                            "sType": "fixed",
+                            "sAvail": 142,
+                            "sTotal": 168,
+                            "price": 352.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "RE",
+                            "label": "RECLINER",
+                            "typeCode": "3028_RE",
+                            "sType": "fixed",
+                            "sAvail": 0,
+                            "sTotal": 11,
+                            "price": 470.0,
+                            "statusColor": "D"
+                        }
+                    ],
+                    "total": 269,
+                    "avail": 232,
+                    "audi": "SCREEN 1",
+                    "premium": 1,
+                    "premiumLabel": "RECLINERS",
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 10,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Political"
+                    ],
+                    "statusColor": "G"
+                },
+                {
+                    "sid": "3023",
+                    "pid": 1707,
+                    "pkey": "showbizz",
+                    "cid": 1028778,
+                    "mid": "OB1H21",
+                    "fid": "URJofQgl6U",
+                    "showTime": "2025-01-10T13:10",
+                    "closeTime": "2025-01-10T13:09",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "CL",
+                            "label": "CLASSIC",
+                            "typeCode": "3023_CL",
+                            "sType": "fixed",
+                            "sAvail": 37,
+                            "sTotal": 37,
+                            "price": 287.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "CP",
+                            "label": "CLASSIC PLUS",
+                            "typeCode": "3023_CP",
+                            "sType": "fixed",
+                            "sAvail": 57,
+                            "sTotal": 57,
+                            "price": 319.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "PR",
+                            "label": "PREMIUM",
+                            "typeCode": "3023_PR",
+                            "sType": "fixed",
+                            "sAvail": 77,
+                            "sTotal": 168,
+                            "price": 352.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "RE",
+                            "label": "RECLINER",
+                            "typeCode": "3023_RE",
+                            "sType": "fixed",
+                            "sAvail": 0,
+                            "sTotal": 14,
+                            "price": 470.0,
+                            "statusColor": "D"
+                        }
+                    ],
+                    "total": 276,
+                    "avail": 171,
+                    "audi": "SCREEN 3",
+                    "premium": 1,
+                    "premiumLabel": "RECLINERS",
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 10,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Political"
+                    ],
+                    "statusColor": "G"
+                },
+                {
+                    "sid": "3022",
+                    "pid": 1707,
+                    "pkey": "showbizz",
+                    "cid": 1028778,
+                    "mid": "OB1H21",
+                    "fid": "URJofQgl6U",
+                    "showTime": "2025-01-10T09:40",
+                    "closeTime": "2025-01-10T09:39",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "CL",
+                            "label": "CLASSIC",
+                            "typeCode": "3022_CL",
+                            "sType": "fixed",
+                            "sAvail": 37,
+                            "sTotal": 37,
+                            "price": 287.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "CP",
+                            "label": "CLASSIC PLUS",
+                            "typeCode": "3022_CP",
+                            "sType": "fixed",
+                            "sAvail": 54,
+                            "sTotal": 57,
+                            "price": 319.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "PR",
+                            "label": "PREMIUM",
+                            "typeCode": "3022_PR",
+                            "sType": "fixed",
+                            "sAvail": 130,
+                            "sTotal": 168,
+                            "price": 352.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "RE",
+                            "label": "RECLINER",
+                            "typeCode": "3022_RE",
+                            "sType": "fixed",
+                            "sAvail": 12,
+                            "sTotal": 14,
+                            "price": 470.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 276,
+                    "avail": 233,
+                    "audi": "SCREEN 3",
+                    "premium": 1,
+                    "premiumLabel": "RECLINERS",
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 10,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Political"
+                    ],
+                    "statusColor": "G"
+                },
+                {
+                    "sid": "3021",
+                    "pid": 1707,
+                    "pkey": "showbizz",
+                    "cid": 1028778,
+                    "mid": "OB1H21",
+                    "fid": "URJofQgl6U",
+                    "showTime": "2025-01-10T06:10",
+                    "closeTime": "2025-01-10T06:09",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "CL",
+                            "label": "CLASSIC",
+                            "typeCode": "3021_CL",
+                            "sType": "fixed",
+                            "sAvail": 37,
+                            "sTotal": 37,
+                            "price": 287.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "CP",
+                            "label": "CLASSIC PLUS",
+                            "typeCode": "3021_CP",
+                            "sType": "fixed",
+                            "sAvail": 57,
+                            "sTotal": 57,
+                            "price": 319.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "PR",
+                            "label": "PREMIUM",
+                            "typeCode": "3021_PR",
+                            "sType": "fixed",
+                            "sAvail": 110,
+                            "sTotal": 168,
+                            "price": 352.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "RE",
+                            "label": "RECLINER",
+                            "typeCode": "3021_RE",
+                            "sType": "fixed",
+                            "sAvail": 8,
+                            "sTotal": 14,
+                            "price": 470.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 276,
+                    "avail": 212,
+                    "audi": "SCREEN 3",
+                    "premium": 1,
+                    "premiumLabel": "RECLINERS",
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 10,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Political"
+                    ],
+                    "statusColor": "G"
+                },
+                {
+                    "sid": "3020",
+                    "pid": 1707,
+                    "pkey": "showbizz",
+                    "cid": 1028778,
+                    "mid": "OB1H21",
+                    "fid": "URJofQgl6U",
+                    "showTime": "2025-01-10T02:40",
+                    "closeTime": "2025-01-10T02:39",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "CL",
+                            "label": "CLASSIC",
+                            "typeCode": "3020_CL",
+                            "sType": "fixed",
+                            "sAvail": 37,
+                            "sTotal": 37,
+                            "price": 287.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "CP",
+                            "label": "CLASSIC PLUS",
+                            "typeCode": "3020_CP",
+                            "sType": "fixed",
+                            "sAvail": 57,
+                            "sTotal": 57,
+                            "price": 319.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "PR",
+                            "label": "PREMIUM",
+                            "typeCode": "3020_PR",
+                            "sType": "fixed",
+                            "sAvail": 117,
+                            "sTotal": 168,
+                            "price": 352.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "RE",
+                            "label": "RECLINER",
+                            "typeCode": "3020_RE",
+                            "sType": "fixed",
+                            "sAvail": 6,
+                            "sTotal": 14,
+                            "price": 470.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 276,
+                    "avail": 217,
+                    "audi": "SCREEN 3",
+                    "premium": 1,
+                    "premiumLabel": "RECLINERS",
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 10,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Political"
+                    ],
+                    "statusColor": "G"
+                },
+                {
+                    "sid": "3027",
+                    "pid": 1707,
+                    "pkey": "showbizz",
+                    "cid": 1028778,
+                    "mid": "OB1H21",
+                    "fid": "URJofQgl6U",
+                    "showTime": "2025-01-10T06:50",
+                    "closeTime": "2025-01-10T06:49",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "CL",
+                            "label": "CLASSIC",
+                            "typeCode": "3027_CL",
+                            "sType": "fixed",
+                            "sAvail": 36,
+                            "sTotal": 36,
+                            "price": 287.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "CP",
+                            "label": "CLASSIC PLUS",
+                            "typeCode": "3027_CP",
+                            "sType": "fixed",
+                            "sAvail": 54,
+                            "sTotal": 54,
+                            "price": 319.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "PR",
+                            "label": "PREMIUM",
+                            "typeCode": "3027_PR",
+                            "sType": "fixed",
+                            "sAvail": 143,
+                            "sTotal": 168,
+                            "price": 352.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "RE",
+                            "label": "RECLINER",
+                            "typeCode": "3027_RE",
+                            "sType": "fixed",
+                            "sAvail": 8,
+                            "sTotal": 11,
+                            "price": 470.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 269,
+                    "avail": 241,
+                    "audi": "SCREEN 1",
+                    "premium": 1,
+                    "premiumLabel": "RECLINERS",
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 10,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Political"
+                    ],
+                    "statusColor": "G"
+                },
+                {
+                    "sid": "3026",
+                    "pid": 1707,
+                    "pkey": "showbizz",
+                    "cid": 1028778,
+                    "mid": "OB1H21",
+                    "fid": "URJofQgl6U",
+                    "showTime": "2025-01-10T03:20",
+                    "closeTime": "2025-01-10T03:19",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "CL",
+                            "label": "CLASSIC",
+                            "typeCode": "3026_CL",
+                            "sType": "fixed",
+                            "sAvail": 36,
+                            "sTotal": 36,
+                            "price": 287.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "CP",
+                            "label": "CLASSIC PLUS",
+                            "typeCode": "3026_CP",
+                            "sType": "fixed",
+                            "sAvail": 54,
+                            "sTotal": 54,
+                            "price": 319.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "PR",
+                            "label": "PREMIUM",
+                            "typeCode": "3026_PR",
+                            "sType": "fixed",
+                            "sAvail": 109,
+                            "sTotal": 168,
+                            "price": 352.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "RE",
+                            "label": "RECLINER",
+                            "typeCode": "3026_RE",
+                            "sType": "fixed",
+                            "sAvail": 7,
+                            "sTotal": 11,
+                            "price": 470.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 269,
+                    "avail": 206,
+                    "audi": "SCREEN 1",
+                    "premium": 1,
+                    "premiumLabel": "RECLINERS",
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 10,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Political"
+                    ],
+                    "statusColor": "G"
+                },
+                {
+                    "sid": "3025",
+                    "pid": 1707,
+                    "pkey": "showbizz",
+                    "cid": 1028778,
+                    "mid": "OB1H21",
+                    "fid": "URJofQgl6U",
+                    "showTime": "2025-01-10T17:20",
+                    "closeTime": "2025-01-10T17:19",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "CL",
+                            "label": "CLASSIC",
+                            "typeCode": "3025_CL",
+                            "sType": "fixed",
+                            "sAvail": 36,
+                            "sTotal": 36,
+                            "price": 287.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "CP",
+                            "label": "CLASSIC PLUS",
+                            "typeCode": "3025_CP",
+                            "sType": "fixed",
+                            "sAvail": 52,
+                            "sTotal": 54,
+                            "price": 319.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "PR",
+                            "label": "PREMIUM",
+                            "typeCode": "3025_PR",
+                            "sType": "fixed",
+                            "sAvail": 138,
+                            "sTotal": 168,
+                            "price": 352.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "RE",
+                            "label": "RECLINER",
+                            "typeCode": "3025_RE",
+                            "sType": "fixed",
+                            "sAvail": 1,
+                            "sTotal": 11,
+                            "price": 470.0,
+                            "statusColor": "R"
+                        }
+                    ],
+                    "total": 269,
+                    "avail": 227,
+                    "audi": "SCREEN 1",
+                    "premium": 1,
+                    "premiumLabel": "RECLINERS",
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 10,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Political"
+                    ],
+                    "statusColor": "G"
+                },
+                {
+                    "sid": "3024",
+                    "pid": 1707,
+                    "pkey": "showbizz",
+                    "cid": 1028778,
+                    "mid": "OB1H21",
+                    "fid": "URJofQgl6U",
+                    "showTime": "2025-01-10T16:40",
+                    "closeTime": "2025-01-10T16:39",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "CL",
+                            "label": "CLASSIC",
+                            "typeCode": "3024_CL",
+                            "sType": "fixed",
+                            "sAvail": 37,
+                            "sTotal": 37,
+                            "price": 287.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "CP",
+                            "label": "CLASSIC PLUS",
+                            "typeCode": "3024_CP",
+                            "sType": "fixed",
+                            "sAvail": 57,
+                            "sTotal": 57,
+                            "price": 319.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "PR",
+                            "label": "PREMIUM",
+                            "typeCode": "3024_PR",
+                            "sType": "fixed",
+                            "sAvail": 84,
+                            "sTotal": 168,
+                            "price": 352.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "RE",
+                            "label": "RECLINER",
+                            "typeCode": "3024_RE",
+                            "sType": "fixed",
+                            "sAvail": 0,
+                            "sTotal": 14,
+                            "price": 470.0,
+                            "statusColor": "D"
+                        }
+                    ],
+                    "total": 276,
+                    "avail": 178,
+                    "audi": "SCREEN 3",
+                    "premium": 1,
+                    "premiumLabel": "RECLINERS",
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 10,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Political"
+                    ],
+                    "statusColor": "G"
+                },
+                {
+                    "sid": "3019",
+                    "pid": 1707,
+                    "pkey": "showbizz",
+                    "cid": 1028778,
+                    "mid": "OB1H21",
+                    "fid": "URJofQgl6U",
+                    "showTime": "2025-01-10T13:30",
+                    "closeTime": "2025-01-10T13:29",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "CL",
+                            "label": "CLASSIC",
+                            "typeCode": "3019_CL",
+                            "sType": "fixed",
+                            "sAvail": 39,
+                            "sTotal": 39,
+                            "price": 287.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "CP",
+                            "label": "CLASSIC PLUS",
+                            "typeCode": "3019_CP",
+                            "sType": "fixed",
+                            "sAvail": 60,
+                            "sTotal": 60,
+                            "price": 319.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "PR",
+                            "label": "PREMIUM",
+                            "typeCode": "3019_PR",
+                            "sType": "fixed",
+                            "sAvail": 75,
+                            "sTotal": 176,
+                            "price": 352.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "RE",
+                            "label": "RECLINER",
+                            "typeCode": "3019_RE",
+                            "sType": "fixed",
+                            "sAvail": 0,
+                            "sTotal": 14,
+                            "price": 470.0,
+                            "statusColor": "D"
+                        }
+                    ],
+                    "total": 289,
+                    "avail": 174,
+                    "audi": "SCREEN 2",
+                    "premium": 1,
+                    "premiumLabel": "RECLINERS",
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 10,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Political"
+                    ],
+                    "statusColor": "G"
+                },
+                {
+                    "sid": "3018",
+                    "pid": 1707,
+                    "pkey": "showbizz",
+                    "cid": 1028778,
+                    "mid": "OB1H21",
+                    "fid": "URJofQgl6U",
+                    "showTime": "2025-01-10T10:00",
+                    "closeTime": "2025-01-10T09:59",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "CL",
+                            "label": "CLASSIC",
+                            "typeCode": "3018_CL",
+                            "sType": "fixed",
+                            "sAvail": 39,
+                            "sTotal": 39,
+                            "price": 287.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "CP",
+                            "label": "CLASSIC PLUS",
+                            "typeCode": "3018_CP",
+                            "sType": "fixed",
+                            "sAvail": 58,
+                            "sTotal": 60,
+                            "price": 319.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "PR",
+                            "label": "PREMIUM",
+                            "typeCode": "3018_PR",
+                            "sType": "fixed",
+                            "sAvail": 145,
+                            "sTotal": 176,
+                            "price": 352.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "RE",
+                            "label": "RECLINER",
+                            "typeCode": "3018_RE",
+                            "sType": "fixed",
+                            "sAvail": 9,
+                            "sTotal": 14,
+                            "price": 470.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 289,
+                    "avail": 251,
+                    "audi": "SCREEN 2",
+                    "premium": 1,
+                    "premiumLabel": "RECLINERS",
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 10,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Political"
+                    ],
+                    "statusColor": "G"
+                },
+                {
+                    "sid": "3017",
+                    "pid": 1707,
+                    "pkey": "showbizz",
+                    "cid": 1028778,
+                    "mid": "OB1H21",
+                    "fid": "URJofQgl6U",
+                    "showTime": "2025-01-10T06:30",
+                    "closeTime": "2025-01-10T06:29",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "CL",
+                            "label": "CLASSIC",
+                            "typeCode": "3017_CL",
+                            "sType": "fixed",
+                            "sAvail": 39,
+                            "sTotal": 39,
+                            "price": 287.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "CP",
+                            "label": "CLASSIC PLUS",
+                            "typeCode": "3017_CP",
+                            "sType": "fixed",
+                            "sAvail": 60,
+                            "sTotal": 60,
+                            "price": 319.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "PR",
+                            "label": "PREMIUM",
+                            "typeCode": "3017_PR",
+                            "sType": "fixed",
+                            "sAvail": 170,
+                            "sTotal": 176,
+                            "price": 352.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "RE",
+                            "label": "RECLINER",
+                            "typeCode": "3017_RE",
+                            "sType": "fixed",
+                            "sAvail": 8,
+                            "sTotal": 14,
+                            "price": 470.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 289,
+                    "avail": 277,
+                    "audi": "SCREEN 2",
+                    "premium": 1,
+                    "premiumLabel": "RECLINERS",
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 10,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Political"
+                    ],
+                    "statusColor": "G"
+                },
+                {
+                    "sid": "3055",
+                    "pid": 1707,
+                    "pkey": "showbizz",
+                    "cid": 1028778,
+                    "mid": "OB1H21",
+                    "fid": "URJofQgl6U",
+                    "showTime": "2025-01-09T19:40",
+                    "closeTime": "2025-01-09T19:39",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "CL",
+                            "label": "CLASSIC",
+                            "typeCode": "3055_CL",
+                            "sType": "fixed",
+                            "sAvail": 37,
+                            "sTotal": 37,
+                            "price": 600.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "CP",
+                            "label": "CLASSIC PLUS",
+                            "typeCode": "3055_CP",
+                            "sType": "fixed",
+                            "sAvail": 57,
+                            "sTotal": 57,
+                            "price": 600.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "PR",
+                            "label": "PREMIUM",
+                            "typeCode": "3055_PR",
+                            "sType": "fixed",
+                            "sAvail": 62,
+                            "sTotal": 168,
+                            "price": 600.0,
+                            "statusColor": "Y"
+                        },
+                        {
+                            "code": "RE",
+                            "label": "RECLINER",
+                            "typeCode": "3055_RE",
+                            "sType": "fixed",
+                            "sAvail": 0,
+                            "sTotal": 14,
+                            "price": 600.0,
+                            "statusColor": "D"
+                        }
+                    ],
+                    "total": 276,
+                    "avail": 156,
+                    "audi": "SCREEN 3",
+                    "premium": 1,
+                    "premiumLabel": "RECLINERS",
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 10,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Political"
+                    ],
+                    "statusColor": "G"
+                },
+                {
+                    "sid": "3054",
+                    "pid": 1707,
+                    "pkey": "showbizz",
+                    "cid": 1028778,
+                    "mid": "OB1H21",
+                    "fid": "URJofQgl6U",
+                    "showTime": "2025-01-09T23:10",
+                    "closeTime": "2025-01-09T23:09",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "CL",
+                            "label": "CLASSIC",
+                            "typeCode": "3054_CL",
+                            "sType": "fixed",
+                            "sAvail": 34,
+                            "sTotal": 37,
+                            "price": 287.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "CP",
+                            "label": "CLASSIC PLUS",
+                            "typeCode": "3054_CP",
+                            "sType": "fixed",
+                            "sAvail": 55,
+                            "sTotal": 57,
+                            "price": 319.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "PR",
+                            "label": "PREMIUM",
+                            "typeCode": "3054_PR",
+                            "sType": "fixed",
+                            "sAvail": 65,
+                            "sTotal": 168,
+                            "price": 352.0,
+                            "statusColor": "Y"
+                        },
+                        {
+                            "code": "RE",
+                            "label": "RECLINER",
+                            "typeCode": "3054_RE",
+                            "sType": "fixed",
+                            "sAvail": 0,
+                            "sTotal": 14,
+                            "price": 470.0,
+                            "statusColor": "D"
+                        }
+                    ],
+                    "total": 276,
+                    "avail": 154,
+                    "audi": "SCREEN 3",
+                    "premium": 1,
+                    "premiumLabel": "RECLINERS",
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 10,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Political"
+                    ],
+                    "statusColor": "G"
+                },
+                {
+                    "sid": "3053",
+                    "pid": 1707,
+                    "pkey": "showbizz",
+                    "cid": 1028778,
+                    "mid": "OB1H21",
+                    "fid": "URJofQgl6U",
+                    "showTime": "2025-01-09T23:31",
+                    "closeTime": "2025-01-09T23:30",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "CL",
+                            "label": "CLASSIC",
+                            "typeCode": "3053_CL",
+                            "sType": "fixed",
+                            "sAvail": 35,
+                            "sTotal": 39,
+                            "price": 287.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "CP",
+                            "label": "CLASSIC PLUS",
+                            "typeCode": "3053_CP",
+                            "sType": "fixed",
+                            "sAvail": 52,
+                            "sTotal": 60,
+                            "price": 319.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "PR",
+                            "label": "PREMIUM",
+                            "typeCode": "3053_PR",
+                            "sType": "fixed",
+                            "sAvail": 81,
+                            "sTotal": 176,
+                            "price": 352.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "RE",
+                            "label": "RECLINER",
+                            "typeCode": "3053_RE",
+                            "sType": "fixed",
+                            "sAvail": 1,
+                            "sTotal": 14,
+                            "price": 470.0,
+                            "statusColor": "R"
+                        }
+                    ],
+                    "total": 289,
+                    "avail": 169,
+                    "audi": "SCREEN 2",
+                    "premium": 1,
+                    "premiumLabel": "RECLINERS",
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 10,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Political"
+                    ],
+                    "statusColor": "G"
+                },
+                {
+                    "sid": "3016",
+                    "pid": 1707,
+                    "pkey": "showbizz",
+                    "cid": 1028778,
+                    "mid": "OB1H21",
+                    "fid": "URJofQgl6U",
+                    "showTime": "2025-01-10T03:00",
+                    "closeTime": "2025-01-10T02:59",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "CL",
+                            "label": "CLASSIC",
+                            "typeCode": "3016_CL",
+                            "sType": "fixed",
+                            "sAvail": 39,
+                            "sTotal": 39,
+                            "price": 287.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "CP",
+                            "label": "CLASSIC PLUS",
+                            "typeCode": "3016_CP",
+                            "sType": "fixed",
+                            "sAvail": 56,
+                            "sTotal": 60,
+                            "price": 319.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "PR",
+                            "label": "PREMIUM",
+                            "typeCode": "3016_PR",
+                            "sType": "fixed",
+                            "sAvail": 129,
+                            "sTotal": 176,
+                            "price": 352.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "RE",
+                            "label": "RECLINER",
+                            "typeCode": "3016_RE",
+                            "sType": "fixed",
+                            "sAvail": 6,
+                            "sTotal": 14,
+                            "price": 470.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 289,
+                    "avail": 230,
+                    "audi": "SCREEN 2",
+                    "premium": 1,
+                    "premiumLabel": "RECLINERS",
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 10,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Political"
+                    ],
+                    "statusColor": "G"
+                },
+                {
+                    "sid": "3057",
+                    "pid": 1707,
+                    "pkey": "showbizz",
+                    "cid": 1028778,
+                    "mid": "OB1H21",
+                    "fid": "URJofQgl6U",
+                    "showTime": "2025-01-09T19:30",
+                    "closeTime": "2025-01-09T19:29",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "CL",
+                            "label": "CLASSIC",
+                            "typeCode": "3057_CL",
+                            "sType": "fixed",
+                            "sAvail": 39,
+                            "sTotal": 39,
+                            "price": 600.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "CP",
+                            "label": "CLASSIC PLUS",
+                            "typeCode": "3057_CP",
+                            "sType": "fixed",
+                            "sAvail": 45,
+                            "sTotal": 60,
+                            "price": 600.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "PR",
+                            "label": "PREMIUM",
+                            "typeCode": "3057_PR",
+                            "sType": "fixed",
+                            "sAvail": 1,
+                            "sTotal": 176,
+                            "price": 600.0,
+                            "statusColor": "R"
+                        },
+                        {
+                            "code": "RE",
+                            "label": "RECLINER",
+                            "typeCode": "3057_RE",
+                            "sType": "fixed",
+                            "sAvail": 0,
+                            "sTotal": 14,
+                            "price": 600.0,
+                            "statusColor": "D"
+                        }
+                    ],
+                    "total": 289,
+                    "avail": 85,
+                    "audi": "SCREEN 2",
+                    "premium": 1,
+                    "premiumLabel": "RECLINERS",
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 10,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Political"
+                    ],
+                    "statusColor": "Y"
+                },
+                {
+                    "sid": "3030",
+                    "pid": 1707,
+                    "pkey": "showbizz",
+                    "cid": 1028778,
+                    "mid": "OB1H21",
+                    "fid": "URJofQgl6U",
+                    "showTime": "2025-01-10T17:00",
+                    "closeTime": "2025-01-10T16:59",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "CL",
+                            "label": "CLASSIC",
+                            "typeCode": "3030_CL",
+                            "sType": "fixed",
+                            "sAvail": 39,
+                            "sTotal": 39,
+                            "price": 287.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "CP",
+                            "label": "CLASSIC PLUS",
+                            "typeCode": "3030_CP",
+                            "sType": "fixed",
+                            "sAvail": 60,
+                            "sTotal": 60,
+                            "price": 319.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "PR",
+                            "label": "PREMIUM",
+                            "typeCode": "3030_PR",
+                            "sType": "fixed",
+                            "sAvail": 132,
+                            "sTotal": 176,
+                            "price": 352.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "RE",
+                            "label": "RECLINER",
+                            "typeCode": "3030_RE",
+                            "sType": "fixed",
+                            "sAvail": 0,
+                            "sTotal": 14,
+                            "price": 470.0,
+                            "statusColor": "D"
+                        }
+                    ],
+                    "total": 289,
+                    "avail": 231,
+                    "audi": "SCREEN 2",
+                    "premium": 1,
+                    "premiumLabel": "RECLINERS",
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 10,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Political"
+                    ],
+                    "statusColor": "G"
+                },
+                {
+                    "sid": "3051",
+                    "pid": 1707,
+                    "pkey": "showbizz",
+                    "cid": 1028778,
+                    "mid": "OB1H21",
+                    "fid": "URJofQgl6U",
+                    "showTime": "2025-01-09T23:51",
+                    "closeTime": "2025-01-09T23:50",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "CL",
+                            "label": "CLASSIC",
+                            "typeCode": "3051_CL",
+                            "sType": "fixed",
+                            "sAvail": 35,
+                            "sTotal": 36,
+                            "price": 287.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "CP",
+                            "label": "CLASSIC PLUS",
+                            "typeCode": "3051_CP",
+                            "sType": "fixed",
+                            "sAvail": 49,
+                            "sTotal": 54,
+                            "price": 319.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "PR",
+                            "label": "PREMIUM",
+                            "typeCode": "3051_PR",
+                            "sType": "fixed",
+                            "sAvail": 96,
+                            "sTotal": 168,
+                            "price": 352.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "RE",
+                            "label": "RECLINER",
+                            "typeCode": "3051_RE",
+                            "sType": "fixed",
+                            "sAvail": 1,
+                            "sTotal": 11,
+                            "price": 470.0,
+                            "statusColor": "R"
+                        }
+                    ],
+                    "total": 269,
+                    "avail": 181,
+                    "audi": "SCREEN 1",
+                    "premium": 1,
+                    "premiumLabel": "RECLINERS",
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 10,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Political"
+                    ],
+                    "statusColor": "G"
+                },
+                {
+                    "sid": "3050",
+                    "pid": 1707,
+                    "pkey": "showbizz",
+                    "cid": 1028778,
+                    "mid": "OB1H21",
+                    "fid": "URJofQgl6U",
+                    "showTime": "2025-01-09T20:20",
+                    "closeTime": "2025-01-09T20:19",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "CL",
+                            "label": "CLASSIC",
+                            "typeCode": "3050_CL",
+                            "sType": "fixed",
+                            "sAvail": 36,
+                            "sTotal": 36,
+                            "price": 600.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "CP",
+                            "label": "CLASSIC PLUS",
+                            "typeCode": "3050_CP",
+                            "sType": "fixed",
+                            "sAvail": 54,
+                            "sTotal": 54,
+                            "price": 600.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "PR",
+                            "label": "PREMIUM",
+                            "typeCode": "3050_PR",
+                            "sType": "fixed",
+                            "sAvail": 146,
+                            "sTotal": 168,
+                            "price": 600.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "RE",
+                            "label": "RECLINER",
+                            "typeCode": "3050_RE",
+                            "sType": "fixed",
+                            "sAvail": 0,
+                            "sTotal": 11,
+                            "price": 600.0,
+                            "statusColor": "D"
+                        }
+                    ],
+                    "total": 269,
+                    "avail": 236,
+                    "audi": "SCREEN 1",
+                    "premium": 1,
+                    "premiumLabel": "RECLINERS",
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 10,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Political"
+                    ],
+                    "statusColor": "G"
+                },
+                {
+                    "sid": "3029",
+                    "pid": 1707,
+                    "pkey": "showbizz",
+                    "cid": 1028778,
+                    "mid": "OB1H21",
+                    "fid": "URJofQgl6U",
+                    "showTime": "2025-01-10T13:50",
+                    "closeTime": "2025-01-10T13:49",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "CL",
+                            "label": "CLASSIC",
+                            "typeCode": "3029_CL",
+                            "sType": "fixed",
+                            "sAvail": 36,
+                            "sTotal": 36,
+                            "price": 287.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "CP",
+                            "label": "CLASSIC PLUS",
+                            "typeCode": "3029_CP",
+                            "sType": "fixed",
+                            "sAvail": 40,
+                            "sTotal": 54,
+                            "price": 319.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "PR",
+                            "label": "PREMIUM",
+                            "typeCode": "3029_PR",
+                            "sType": "fixed",
+                            "sAvail": 84,
+                            "sTotal": 168,
+                            "price": 352.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "RE",
+                            "label": "RECLINER",
+                            "typeCode": "3029_RE",
+                            "sType": "fixed",
+                            "sAvail": 0,
+                            "sTotal": 11,
+                            "price": 470.0,
+                            "statusColor": "D"
+                        }
+                    ],
+                    "total": 269,
+                    "avail": 160,
+                    "audi": "SCREEN 1",
+                    "premium": 1,
+                    "premiumLabel": "RECLINERS",
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 10,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Political"
+                    ],
+                    "statusColor": "G"
+                }
+            ],
+            "4332": [
+                {
+                    "sid": "31249__1736487000__1559__22304",
+                    "pid": 721,
+                    "pkey": "ticketnew",
+                    "cid": 4332,
+                    "mid": "OB1H21",
+                    "fid": "URJofQgl6U",
+                    "showTime": "2025-01-10T05:30",
+                    "closeTime": "2025-01-10T05:30",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "20",
+                            "label": "CLASSIC",
+                            "typeCode": "31249__1736487000__1559__22304_CLASSIC",
+                            "sType": "fixed",
+                            "sAvail": 91,
+                            "sTotal": 367,
+                            "price": 247.0,
+                            "statusColor": "Y"
+                        },
+                        {
+                            "code": "30",
+                            "label": "PREMIUM",
+                            "typeCode": "31249__1736487000__1559__22304_PREMIUM",
+                            "sType": "fixed",
+                            "sAvail": 61,
+                            "sTotal": 135,
+                            "price": 200.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "40",
+                            "label": "NON-PREMIUM",
+                            "typeCode": "31249__1736487000__1559__22304_NON-PREMIUM",
+                            "sType": "fixed",
+                            "sAvail": 46,
+                            "sTotal": 54,
+                            "price": 150.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 556,
+                    "avail": 198,
+                    "audi": "SCREEN 1",
+                    "premium": 0,
+                    "premiumLabel": "SCREEN 1",
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Political"
+                    ],
+                    "statusColor": "Y",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "31249__1736487900__1560__22322",
+                    "pid": 721,
+                    "pkey": "ticketnew",
+                    "cid": 4332,
+                    "mid": "OB1H21",
+                    "fid": "URJofQgl6U",
+                    "showTime": "2025-01-10T05:45",
+                    "closeTime": "2025-01-10T05:45",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "20",
+                            "label": "CLASSIC",
+                            "typeCode": "31249__1736487900__1560__22322_CLASSIC",
+                            "sType": "fixed",
+                            "sAvail": 158,
+                            "sTotal": 178,
+                            "price": 247.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "30",
+                            "label": "PREMIUM",
+                            "typeCode": "31249__1736487900__1560__22322_PREMIUM",
+                            "sType": "fixed",
+                            "sAvail": 32,
+                            "sTotal": 62,
+                            "price": 200.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "40",
+                            "label": "NON-PREMIUM",
+                            "typeCode": "31249__1736487900__1560__22322_NON-PREMIUM",
+                            "sType": "fixed",
+                            "sAvail": 26,
+                            "sTotal": 26,
+                            "price": 150.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 266,
+                    "avail": 216,
+                    "audi": "SCREEN 2",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Political"
+                    ],
+                    "statusColor": "G",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "31249__1736512200__1559__22306",
+                    "pid": 721,
+                    "pkey": "ticketnew",
+                    "cid": 4332,
+                    "mid": "OB1H21",
+                    "fid": "URJofQgl6U",
+                    "showTime": "2025-01-10T12:30",
+                    "closeTime": "2025-01-10T12:30",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "20",
+                            "label": "CLASSIC",
+                            "typeCode": "31249__1736512200__1559__22306_CLASSIC",
+                            "sType": "fixed",
+                            "sAvail": 100,
+                            "sTotal": 367,
+                            "price": 247.0,
+                            "statusColor": "Y"
+                        },
+                        {
+                            "code": "30",
+                            "label": "PREMIUM",
+                            "typeCode": "31249__1736512200__1559__22306_PREMIUM",
+                            "sType": "fixed",
+                            "sAvail": 73,
+                            "sTotal": 135,
+                            "price": 200.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "40",
+                            "label": "NON-PREMIUM",
+                            "typeCode": "31249__1736512200__1559__22306_NON-PREMIUM",
+                            "sType": "fixed",
+                            "sAvail": 54,
+                            "sTotal": 54,
+                            "price": 150.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 556,
+                    "avail": 227,
+                    "audi": "SCREEN 1",
+                    "premium": 0,
+                    "premiumLabel": "SCREEN 1",
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Political"
+                    ],
+                    "statusColor": "G",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "31249__1736525700__1560__22325",
+                    "pid": 721,
+                    "pkey": "ticketnew",
+                    "cid": 4332,
+                    "mid": "OB1H21",
+                    "fid": "URJofQgl6U",
+                    "showTime": "2025-01-10T16:15",
+                    "closeTime": "2025-01-10T16:15",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "20",
+                            "label": "CLASSIC",
+                            "typeCode": "31249__1736525700__1560__22325_CLASSIC",
+                            "sType": "fixed",
+                            "sAvail": 152,
+                            "sTotal": 178,
+                            "price": 247.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "30",
+                            "label": "PREMIUM",
+                            "typeCode": "31249__1736525700__1560__22325_PREMIUM",
+                            "sType": "fixed",
+                            "sAvail": 36,
+                            "sTotal": 62,
+                            "price": 200.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "40",
+                            "label": "NON-PREMIUM",
+                            "typeCode": "31249__1736525700__1560__22325_NON-PREMIUM",
+                            "sType": "fixed",
+                            "sAvail": 25,
+                            "sTotal": 26,
+                            "price": 150.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 266,
+                    "avail": 213,
+                    "audi": "SCREEN 2",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Political"
+                    ],
+                    "statusColor": "G",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "31249__1736499600__1559__22305",
+                    "pid": 721,
+                    "pkey": "ticketnew",
+                    "cid": 4332,
+                    "mid": "OB1H21",
+                    "fid": "URJofQgl6U",
+                    "showTime": "2025-01-10T09:00",
+                    "closeTime": "2025-01-10T09:00",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "20",
+                            "label": "CLASSIC",
+                            "typeCode": "31249__1736499600__1559__22305_CLASSIC",
+                            "sType": "fixed",
+                            "sAvail": 152,
+                            "sTotal": 367,
+                            "price": 247.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "30",
+                            "label": "PREMIUM",
+                            "typeCode": "31249__1736499600__1559__22305_PREMIUM",
+                            "sType": "fixed",
+                            "sAvail": 74,
+                            "sTotal": 135,
+                            "price": 200.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "40",
+                            "label": "NON-PREMIUM",
+                            "typeCode": "31249__1736499600__1559__22305_NON-PREMIUM",
+                            "sType": "fixed",
+                            "sAvail": 54,
+                            "sTotal": 54,
+                            "price": 150.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 556,
+                    "avail": 280,
+                    "audi": "SCREEN 1",
+                    "premium": 0,
+                    "premiumLabel": "SCREEN 1",
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Political"
+                    ],
+                    "statusColor": "G",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "31249__1736499600__1560__22323",
+                    "pid": 721,
+                    "pkey": "ticketnew",
+                    "cid": 4332,
+                    "mid": "OB1H21",
+                    "fid": "URJofQgl6U",
+                    "showTime": "2025-01-10T09:00",
+                    "closeTime": "2025-01-10T09:00",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "20",
+                            "label": "CLASSIC",
+                            "typeCode": "31249__1736499600__1560__22323_CLASSIC",
+                            "sType": "fixed",
+                            "sAvail": 162,
+                            "sTotal": 178,
+                            "price": 247.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "30",
+                            "label": "PREMIUM",
+                            "typeCode": "31249__1736499600__1560__22323_PREMIUM",
+                            "sType": "fixed",
+                            "sAvail": 36,
+                            "sTotal": 62,
+                            "price": 200.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "40",
+                            "label": "NON-PREMIUM",
+                            "typeCode": "31249__1736499600__1560__22323_NON-PREMIUM",
+                            "sType": "fixed",
+                            "sAvail": 26,
+                            "sTotal": 26,
+                            "price": 150.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 266,
+                    "avail": 224,
+                    "audi": "SCREEN 2",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Political"
+                    ],
+                    "statusColor": "G",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "31249__1736524800__1559__22307",
+                    "pid": 721,
+                    "pkey": "ticketnew",
+                    "cid": 4332,
+                    "mid": "OB1H21",
+                    "fid": "URJofQgl6U",
+                    "showTime": "2025-01-10T16:00",
+                    "closeTime": "2025-01-10T16:00",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "20",
+                            "label": "CLASSIC",
+                            "typeCode": "31249__1736524800__1559__22307_CLASSIC",
+                            "sType": "fixed",
+                            "sAvail": 83,
+                            "sTotal": 367,
+                            "price": 247.0,
+                            "statusColor": "Y"
+                        },
+                        {
+                            "code": "30",
+                            "label": "PREMIUM",
+                            "typeCode": "31249__1736524800__1559__22307_PREMIUM",
+                            "sType": "fixed",
+                            "sAvail": 70,
+                            "sTotal": 135,
+                            "price": 200.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "40",
+                            "label": "NON-PREMIUM",
+                            "typeCode": "31249__1736524800__1559__22307_NON-PREMIUM",
+                            "sType": "fixed",
+                            "sAvail": 54,
+                            "sTotal": 54,
+                            "price": 150.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 556,
+                    "avail": 207,
+                    "audi": "SCREEN 1",
+                    "premium": 0,
+                    "premiumLabel": "SCREEN 1",
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Political"
+                    ],
+                    "statusColor": "Y",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "31249__1736513100__1560__22324",
+                    "pid": 721,
+                    "pkey": "ticketnew",
+                    "cid": 4332,
+                    "mid": "OB1H21",
+                    "fid": "URJofQgl6U",
+                    "showTime": "2025-01-10T12:45",
+                    "closeTime": "2025-01-10T12:45",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "20",
+                            "label": "CLASSIC",
+                            "typeCode": "31249__1736513100__1560__22324_CLASSIC",
+                            "sType": "fixed",
+                            "sAvail": 154,
+                            "sTotal": 178,
+                            "price": 247.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "30",
+                            "label": "PREMIUM",
+                            "typeCode": "31249__1736513100__1560__22324_PREMIUM",
+                            "sType": "fixed",
+                            "sAvail": 36,
+                            "sTotal": 62,
+                            "price": 200.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "40",
+                            "label": "NON-PREMIUM",
+                            "typeCode": "31249__1736513100__1560__22324_NON-PREMIUM",
+                            "sType": "fixed",
+                            "sAvail": 26,
+                            "sTotal": 26,
+                            "price": 150.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 266,
+                    "avail": 216,
+                    "audi": "SCREEN 2",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Political"
+                    ],
+                    "statusColor": "G",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "31249__1736452800__1559__22303",
+                    "pid": 721,
+                    "pkey": "ticketnew",
+                    "cid": 4332,
+                    "mid": "OB1H21",
+                    "fid": "URJofQgl6U",
+                    "showTime": "2025-01-09T20:00",
+                    "closeTime": "2025-01-09T20:00",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "20",
+                            "label": "CLASSIC",
+                            "typeCode": "31249__1736452800__1559__22303_CLASSIC",
+                            "sType": "fixed",
+                            "sAvail": 21,
+                            "sTotal": 367,
+                            "price": 600.0,
+                            "statusColor": "R"
+                        },
+                        {
+                            "code": "30",
+                            "label": "PREMIUM",
+                            "typeCode": "31249__1736452800__1559__22303_PREMIUM",
+                            "sType": "fixed",
+                            "sAvail": 3,
+                            "sTotal": 81,
+                            "price": 600.0,
+                            "statusColor": "R"
+                        },
+                        {
+                            "code": "40",
+                            "label": "NON-PREMIUM",
+                            "typeCode": "31249__1736452800__1559__22303_NON-PREMIUM",
+                            "sType": "fixed",
+                            "sAvail": 1,
+                            "sTotal": 54,
+                            "price": 600.0,
+                            "statusColor": "R"
+                        }
+                    ],
+                    "total": 502,
+                    "avail": 25,
+                    "audi": "SCREEN 1",
+                    "premium": 0,
+                    "premiumLabel": "SCREEN 1",
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Political"
+                    ],
+                    "statusColor": "R",
+                    "subtitle": ""
+                }
+            ]
+        }
+    }
+}

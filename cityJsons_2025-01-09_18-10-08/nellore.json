@@ -1,0 +1,2660 @@
+{
+    "serverTime": 1736446249,
+    "meta": {
+        "movies": [
+            {
+                "id": "OB1H21",
+                "frmtId": "URJofQgl6U",
+                "name": "Game Changer",
+                "imgPath": null,
+                "appImgPath": "https://assetscdn1.paytm.com/images/cinema/Game%20Changer-3cf95ad0-cce0-11ef-a9e2-63c420e5944f.jpeg",
+                "cvrPath": "https://assetscdn1.paytm.com/images/cinema/web-cover-3dd26890-893b-11ef-b30d-5d8b2ded08e1.jpg",
+                "appCvrPath": "https://assetscdn1.paytm.com/images/cinema/app-cover-3dd0e1f0-893b-11ef-80ee-5d6ff5e29b7e.jpg",
+                "thumbnail": null,
+                "edgeBanner": null,
+                "trailer": "https://youtu.be/zHiKFSBO_JE",
+                "censor": "UA13+",
+                "duration": 165,
+                "grn": [
+                    "Action",
+                    "Drama",
+                    "Political"
+                ],
+                "scrnFmt": "2D",
+                "sndFmt": null,
+                "rnr": {
+                    "hasUReview": 0,
+                    "hasContent": 1
+                },
+                "isNew": false,
+                "imxImgUrl": null,
+                "contentId": 161066,
+                "label": "Game Changer",
+                "lang": "Telugu"
+            }
+        ],
+        "filterBuckets": {
+            "timeBuckets": [
+                {
+                    "sTime": "05:00",
+                    "eTime": "11:59",
+                    "desc": "5:00 AM to 11:59 AM",
+                    "dText": "Morning",
+                    "desc1": "Till 12 PM"
+                },
+                {
+                    "sTime": "12:00",
+                    "eTime": "15:59",
+                    "desc": "12:00 PM to 3:59 PM",
+                    "dText": "Afternoon",
+                    "desc1": "Till 4 PM"
+                },
+                {
+                    "sTime": "16:00",
+                    "eTime": "18:59",
+                    "desc": "4:00 PM to 6:59 PM",
+                    "dText": "Evening",
+                    "desc1": "Till 7 PM"
+                },
+                {
+                    "sTime": "19:00",
+                    "eTime": "04:59",
+                    "desc": "7:00 PM to 4:59 AM",
+                    "dText": "Night",
+                    "desc1": "After 7 PM"
+                }
+            ],
+            "priceBuckets": [
+                {
+                    "min": "100",
+                    "max": "200",
+                    "desc": "\u20b9 100 - \u20b9 200"
+                },
+                {
+                    "min": "200",
+                    "max": "300",
+                    "desc": "\u20b9 200 - \u20b9 300"
+                },
+                {
+                    "min": "300",
+                    "max": "400",
+                    "desc": "\u20b9 300 - \u20b9 400"
+                },
+                {
+                    "min": "400",
+                    "max": "500",
+                    "desc": "\u20b9 400 - \u20b9 500"
+                }
+            ],
+            "showTimeBuckets": [
+                {
+                    "sTime": "00:00",
+                    "eTime": "08:00",
+                    "desc": "12 AM to 8 AM",
+                    "dText": "Early Morning",
+                    "desc1": "Till 8 AM",
+                    "isEnabled": false
+                },
+                {
+                    "sTime": "08:00",
+                    "eTime": "12:00",
+                    "desc": "8 AM to 12 PM",
+                    "dText": "Morning",
+                    "desc1": "Till 12 PM",
+                    "isEnabled": false
+                },
+                {
+                    "sTime": "12:00",
+                    "eTime": "16:00",
+                    "desc": "12 PM to 4 PM",
+                    "dText": "Afternoon",
+                    "desc1": "Till 4 PM",
+                    "isEnabled": false
+                },
+                {
+                    "sTime": "16:00",
+                    "eTime": "19:00",
+                    "desc": "4 PM to 7 PM",
+                    "dText": "Evening",
+                    "desc1": "Till 7 PM",
+                    "isEnabled": false
+                },
+                {
+                    "sTime": "19:00",
+                    "eTime": "23:59",
+                    "desc": "7 PM to 12 AM",
+                    "dText": "Night",
+                    "desc1": "Till 12 AM",
+                    "isEnabled": true
+                }
+            ]
+        },
+        "amenities": [
+            {
+                "id": 2,
+                "name": "Parking",
+                "rank": 1,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Parking-c79a3400-95f6-11ef-a253-33f238ee5f34.png"
+            },
+            {
+                "id": 1,
+                "name": "Mobile Ticket",
+                "rank": 2,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Mobile%20Ticket-bc527a30-95f6-11ef-b954-a1c7e1e4be25.png"
+            },
+            {
+                "id": 3,
+                "name": "Food & Beverages",
+                "rank": 3,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/F%26B-938587f0-95f6-11ef-b954-a1c7e1e4be25.png"
+            },
+            {
+                "id": 5,
+                "name": "Recliners",
+                "rank": 4,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Seat-13023560-95f6-11ef-b954-a1c7e1e4be25.png"
+            },
+            {
+                "id": 6,
+                "name": "Digital Payments",
+                "rank": 5,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Payment-eab8cb00-95f5-11ef-a253-33f238ee5f34.png"
+            },
+            {
+                "id": 4,
+                "name": "Wheelchair Friendly",
+                "rank": 6,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Wheelchair-73f627a0-95f6-11ef-a253-33f238ee5f34.png"
+            },
+            {
+                "id": 7,
+                "name": "RGB Laser",
+                "rank": 7,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Screen-fef54df0-95f5-11ef-b954-a1c7e1e4be25.png"
+            },
+            {
+                "id": 8,
+                "name": "Dolby Atmos",
+                "rank": 8,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Audio-4acee060-95f6-11ef-b954-a1c7e1e4be25.png"
+            },
+            {
+                "id": 9,
+                "name": "IMAX",
+                "rank": 9,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Screen-fef54df0-95f5-11ef-b954-a1c7e1e4be25.png"
+            },
+            {
+                "id": 10,
+                "name": "4K",
+                "rank": 10,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Screen-fef54df0-95f5-11ef-b954-a1c7e1e4be25.png"
+            },
+            {
+                "id": 12,
+                "name": "WIFI",
+                "rank": 12,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Wifi-5646f900-95f6-11ef-b954-a1c7e1e4be25.png"
+            },
+            {
+                "id": 14,
+                "name": "Gaming Zone",
+                "rank": 14,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Gaming-d3353df0-95f6-11ef-a253-33f238ee5f34.png"
+            },
+            {
+                "id": 15,
+                "name": "2K",
+                "rank": 15,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Screen-fef54df0-95f5-11ef-b954-a1c7e1e4be25.png"
+            },
+            {
+                "id": 17,
+                "name": "4DX",
+                "rank": 17,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Screen-fef54df0-95f5-11ef-b954-a1c7e1e4be25.png"
+            },
+            {
+                "id": 18,
+                "name": "Dolby 7.1",
+                "rank": 18,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Audio-4acee060-95f6-11ef-b954-a1c7e1e4be25.png"
+            },
+            {
+                "id": 19,
+                "name": "Air Conditioning",
+                "rank": 19,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/AC-d92791f0-95f5-11ef-b954-a1c7e1e4be25.png"
+            },
+            {
+                "id": 20,
+                "name": "Metro Nearby",
+                "rank": 20,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Metro-08856cb0-95f6-11ef-b954-a1c7e1e4be25.png"
+            },
+            {
+                "id": 21,
+                "name": "Sofa",
+                "rank": 21,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Seat-13023560-95f6-11ef-b954-a1c7e1e4be25.png"
+            },
+            {
+                "id": 24,
+                "name": "Silver Screen",
+                "rank": 24,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Screen-fef54df0-95f5-11ef-b954-a1c7e1e4be25.png"
+            },
+            {
+                "id": 28,
+                "name": "Free Parking",
+                "rank": 28,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Parking-c79a3400-95f6-11ef-a253-33f238ee5f34.png"
+            },
+            {
+                "id": 29,
+                "name": "Baggage Counter",
+                "rank": 29,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Baggage%20counter-f4cbae50-95f5-11ef-a253-33f238ee5f34.png"
+            },
+            {
+                "id": 30,
+                "name": "Dolby 4 Way 11.1",
+                "rank": 30,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Audio-4acee060-95f6-11ef-b954-a1c7e1e4be25.png"
+            },
+            {
+                "id": 31,
+                "name": "Barco 4K Ultra HD",
+                "rank": 31,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Screen-fef54df0-95f5-11ef-b954-a1c7e1e4be25.png"
+            }
+        ],
+        "cinemas": [
+            {
+                "id": 1035919,
+                "pid": 736,
+                "name": "Lucky Cinemas Dsr Theatre A/C, Indukurpet Bit - 1, Indukurpet",
+                "address": "Indukurpet Bit - I, Indukurpet, Andhra Pradesh 524314, India",
+                "pincode": "524314",
+                "lat": 14.472295,
+                "lon": 80.102945,
+                "cityId": 1914,
+                "appCovrImgUrl": "",
+                "covrImgUrl": "",
+                "fnb": 0,
+                "mTkt": 1,
+                "bCode": "0",
+                "sTop": 0,
+                "isMerchantCancellable": 0,
+                "cinemaLogoUrl": "https://assetscdn1.paytm.com/images/cinema/Theatre%403x-a4b1cf60-676c-11ef-8bfd-85c2f3bcaac6.png",
+                "cinemaVideoUrl": "",
+                "appCoverVideoUrl": "",
+                "webCoverVideoUrl": "",
+                "amenities": null,
+                "promos": null,
+                "chainKey": "TicketNew",
+                "contentId": 178426,
+                "theatreGroupName": "",
+                "amenitiesOrder": null,
+                "carouselAttachments": [],
+                "isPassEnabled": 0,
+                "paytmCinemaId": 1035919,
+                "city": "Indukurpet",
+                "clientId": "ticketnew",
+                "isMapped": 0,
+                "city_id": null,
+                "is_city_mapped": null,
+                "state": "andhra-pradesh",
+                "city_key": null,
+                "label": "Lucky Cinemas Dsr Theatre A/C, Indukurpet Bit - 1, Indukurpet",
+                "sessionCount": 9
+            },
+            {
+                "id": 9411,
+                "pid": 1126,
+                "name": "M1 Cinemas (Earlier S2), Pogathota, Nellore",
+                "address": "S2 Multiplex Road, Pogathota, Nellore, Andhra Pradesh 524001, India",
+                "pincode": "524001",
+                "lat": 14.447964,
+                "lon": 79.984618,
+                "cityId": 133,
+                "appCovrImgUrl": "",
+                "covrImgUrl": "",
+                "fnb": 0,
+                "mTkt": 1,
+                "bCode": "0",
+                "sTop": 0,
+                "isMerchantCancellable": 0,
+                "cinemaLogoUrl": "https://assetscdn1.paytm.com/images/cinema/M1-Cinemas-657a1120-85ca-11ed-be6e-a3c16d070160.png",
+                "cinemaVideoUrl": "",
+                "appCoverVideoUrl": "",
+                "webCoverVideoUrl": "",
+                "amenities": null,
+                "promos": null,
+                "chainKey": "Krishnaveni Multiplex",
+                "contentId": 149754,
+                "theatreGroupName": "",
+                "amenitiesOrder": null,
+                "carouselAttachments": [],
+                "isPassEnabled": 0,
+                "paytmCinemaId": 9411,
+                "city": "Nellore",
+                "clientId": "ticketnew",
+                "isMapped": 0,
+                "city_id": null,
+                "is_city_mapped": null,
+                "state": "andhra-pradesh",
+                "city_key": null,
+                "label": "M1 Cinemas (Earlier S2), Pogathota, Nellore",
+                "sessionCount": 110
+            },
+            {
+                "id": 9413,
+                "pid": 1126,
+                "name": "SPICE Cinemas (Earlier The Cinema MG), MGB Felicity Mall, Nellore",
+                "address": "24 -383-A2 MGB Felicity Mall, Obul Reddy Naga, Nellore, Andhra Pradesh 524003, India",
+                "pincode": "524003",
+                "lat": 14.432184,
+                "lon": 79.966698,
+                "cityId": 133,
+                "appCovrImgUrl": "",
+                "covrImgUrl": "",
+                "fnb": 0,
+                "mTkt": 1,
+                "bCode": "0",
+                "sTop": 0,
+                "isMerchantCancellable": 0,
+                "cinemaLogoUrl": "https://assetscdn1.paytm.com/images/cinema/Spice-Cinemas_Colour-33820380-85ca-11ed-be6e-a3c16d070160.png",
+                "cinemaVideoUrl": "",
+                "appCoverVideoUrl": "",
+                "webCoverVideoUrl": "",
+                "amenities": null,
+                "promos": null,
+                "chainKey": "Krishnaveni Multiplex",
+                "contentId": 149755,
+                "theatreGroupName": "",
+                "amenitiesOrder": null,
+                "carouselAttachments": [],
+                "isPassEnabled": 0,
+                "paytmCinemaId": 9413,
+                "city": "Nellore",
+                "clientId": "ticketnew",
+                "isMapped": 0,
+                "city_id": null,
+                "is_city_mapped": null,
+                "state": "andhra-pradesh",
+                "city_key": null,
+                "label": "SPICE Cinemas (Earlier The Cinema MG), MGB Felicity Mall, Nellore",
+                "sessionCount": 159
+            }
+        ],
+        "filterData": {
+            "minSTime": "19:39",
+            "maxSTime": "17:20",
+            "minPrice": 200.0,
+            "maxPrice": 470.0,
+            "premium": false,
+            "freeSeats": false,
+            "groupSeats": false,
+            "tokenFeeSeats": false,
+            "scnFrmts": [
+                "2D"
+            ],
+            "sndFrmts": [],
+            "mLangs": [
+                "Telugu"
+            ],
+            "genres": [
+                "Action",
+                "Drama",
+                "Political"
+            ],
+            "premiumSessionCount": 0,
+            "totalSessionCount": 48,
+            "showTimeList": [
+                "22:45",
+                "15:15",
+                "18:25",
+                "11:40",
+                "07:50",
+                "19:15",
+                "04:25",
+                "18:50",
+                "11:15",
+                "14:50",
+                "04:40",
+                "04:55",
+                "12:05",
+                "22:00",
+                "15:40",
+                "22:25",
+                "18:30",
+                "15:15",
+                "07:50",
+                "11:40",
+                "21:45",
+                "12:00",
+                "22:40",
+                "22:50",
+                "15:35",
+                "22:25",
+                "08:10",
+                "14:35",
+                "12:10",
+                "18:10",
+                "19:10",
+                "18:50",
+                "11:00",
+                "08:00",
+                "15:45",
+                "14:55",
+                "22:05",
+                "11:20",
+                "19:20",
+                "08:20",
+                "07:40",
+                "08:05",
+                "01:09",
+                "14:00",
+                "11:00",
+                "18:00",
+                "21:00",
+                "08:20"
+            ],
+            "quickFilterScnFrmts": [],
+            "quickFilterLanguages": [
+                "Telugu"
+            ],
+            "priceRangeSet": [
+                "price_400_to_500",
+                "price_300_to_400",
+                "price_100_to_200",
+                "price_200_to_300"
+            ]
+        },
+        "quickFilterData": {
+            "scnFrmts": [],
+            "premium": false,
+            "showTimeBuckets": [
+                {
+                    "sTime": "08:00",
+                    "eTime": "12:00",
+                    "desc": "8 AM to 12 PM",
+                    "dText": "Morning",
+                    "desc1": "Till 12 PM"
+                },
+                {
+                    "sTime": "17:00",
+                    "eTime": "23:59",
+                    "desc": "5 PM to 11:59 PM",
+                    "dText": "After 5 PM",
+                    "desc1": "Till 11:59 PM"
+                }
+            ]
+        }
+    },
+    "data": {
+        "pageSize": 100,
+        "cinemasOrder": [
+            1035919,
+            9411,
+            9413
+        ],
+        "sessionDates": [
+            "2025-01-10",
+            "2025-01-11",
+            "2025-01-12",
+            "2025-01-13",
+            "2025-01-14",
+            "2025-01-15",
+            "2025-01-16",
+            "2025-01-17",
+            "2025-01-18",
+            "2025-01-19",
+            "2025-01-20",
+            "2025-01-21",
+            "2025-01-22",
+            "2025-01-23"
+        ]
+    },
+    "pageData": {
+        "sessions": {
+            "1035919": [
+                {
+                    "sid": "31249__1736451540__1__247",
+                    "pid": 736,
+                    "pkey": "ticketnew",
+                    "cid": 1035919,
+                    "mid": "OB1H21",
+                    "fid": "URJofQgl6U",
+                    "showTime": "2025-01-09T19:39",
+                    "closeTime": "2025-01-09T19:39",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "1",
+                            "label": "FIRST CLASS",
+                            "typeCode": "31249__1736451540__1__247_FIRST CLASS",
+                            "sType": "fixed",
+                            "sAvail": 313,
+                            "sTotal": 362,
+                            "price": 300.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 362,
+                    "avail": 313,
+                    "audi": "DSR Theatre",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 10,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Political"
+                    ],
+                    "statusColor": "G",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "31249__1736497800__1__249",
+                    "pid": 736,
+                    "pkey": "ticketnew",
+                    "cid": 1035919,
+                    "mid": "OB1H21",
+                    "fid": "URJofQgl6U",
+                    "showTime": "2025-01-10T08:30",
+                    "closeTime": "2025-01-10T08:30",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "1",
+                            "label": "FIRST CLASS",
+                            "typeCode": "31249__1736497800__1__249_FIRST CLASS",
+                            "sType": "fixed",
+                            "sAvail": 336,
+                            "sTotal": 362,
+                            "price": 200.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 362,
+                    "avail": 336,
+                    "audi": "DSR Theatre",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 10,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Political"
+                    ],
+                    "statusColor": "G",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "31249__1736487000__1__248",
+                    "pid": 736,
+                    "pkey": "ticketnew",
+                    "cid": 1035919,
+                    "mid": "OB1H21",
+                    "fid": "URJofQgl6U",
+                    "showTime": "2025-01-10T05:30",
+                    "closeTime": "2025-01-10T05:30",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "1",
+                            "label": "FIRST CLASS",
+                            "typeCode": "31249__1736487000__1__248_FIRST CLASS",
+                            "sType": "fixed",
+                            "sAvail": 332,
+                            "sTotal": 362,
+                            "price": 200.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 362,
+                    "avail": 332,
+                    "audi": "DSR Theatre",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 10,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Political"
+                    ],
+                    "statusColor": "G",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "31249__1736512200__1__250",
+                    "pid": 736,
+                    "pkey": "ticketnew",
+                    "cid": 1035919,
+                    "mid": "OB1H21",
+                    "fid": "URJofQgl6U",
+                    "showTime": "2025-01-10T12:30",
+                    "closeTime": "2025-01-10T12:30",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "1",
+                            "label": "FIRST CLASS",
+                            "typeCode": "31249__1736512200__1__250_FIRST CLASS",
+                            "sType": "fixed",
+                            "sAvail": 336,
+                            "sTotal": 362,
+                            "price": 200.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 362,
+                    "avail": 336,
+                    "audi": "DSR Theatre",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 10,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Political"
+                    ],
+                    "statusColor": "G",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "31249__1736523000__1__251",
+                    "pid": 736,
+                    "pkey": "ticketnew",
+                    "cid": 1035919,
+                    "mid": "OB1H21",
+                    "fid": "URJofQgl6U",
+                    "showTime": "2025-01-10T15:30",
+                    "closeTime": "2025-01-10T15:30",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "1",
+                            "label": "FIRST CLASS",
+                            "typeCode": "31249__1736523000__1__251_FIRST CLASS",
+                            "sType": "fixed",
+                            "sAvail": 336,
+                            "sTotal": 362,
+                            "price": 200.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 362,
+                    "avail": 336,
+                    "audi": "DSR Theatre",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 10,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Political"
+                    ],
+                    "statusColor": "G",
+                    "subtitle": ""
+                }
+            ],
+            "9411": [
+                {
+                    "sid": "31249__1736529300__3__57074",
+                    "pid": 1126,
+                    "pkey": "ticketnew",
+                    "cid": 9411,
+                    "mid": "OB1H21",
+                    "fid": "URJofQgl6U",
+                    "showTime": "2025-01-10T17:15",
+                    "closeTime": "2025-01-10T16:45",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "129",
+                            "label": "470 GOLD",
+                            "typeCode": "31249__1736529300__3__57074_470 GOLD",
+                            "sType": "fixed",
+                            "sAvail": 0,
+                            "sTotal": 14,
+                            "price": 470.0,
+                            "statusColor": "D"
+                        },
+                        {
+                            "code": "134",
+                            "label": "352 ELITE",
+                            "typeCode": "31249__1736529300__3__57074_352 ELITE",
+                            "sType": "fixed",
+                            "sAvail": 69,
+                            "sTotal": 319,
+                            "price": 352.0,
+                            "statusColor": "Y"
+                        }
+                    ],
+                    "total": 333,
+                    "avail": 69,
+                    "audi": "SCREEN3",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Political"
+                    ],
+                    "statusColor": "Y",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "31249__1736502300__1__57068",
+                    "pid": 1126,
+                    "pkey": "ticketnew",
+                    "cid": 9411,
+                    "mid": "OB1H21",
+                    "fid": "URJofQgl6U",
+                    "showTime": "2025-01-10T09:45",
+                    "closeTime": "2025-01-10T09:15",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "129",
+                            "label": "470 GOLD",
+                            "typeCode": "31249__1736502300__1__57068_470 GOLD",
+                            "sType": "fixed",
+                            "sAvail": 0,
+                            "sTotal": 12,
+                            "price": 470.0,
+                            "statusColor": "D"
+                        },
+                        {
+                            "code": "134",
+                            "label": "352 ELITE",
+                            "typeCode": "31249__1736502300__1__57068_352 ELITE",
+                            "sType": "fixed",
+                            "sAvail": 103,
+                            "sTotal": 550,
+                            "price": 352.0,
+                            "statusColor": "Y"
+                        }
+                    ],
+                    "total": 562,
+                    "avail": 103,
+                    "audi": "SCREEN1",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Political"
+                    ],
+                    "statusColor": "Y",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "31249__1736513700__2__57072",
+                    "pid": 1126,
+                    "pkey": "ticketnew",
+                    "cid": 9411,
+                    "mid": "OB1H21",
+                    "fid": "URJofQgl6U",
+                    "showTime": "2025-01-10T12:55",
+                    "closeTime": "2025-01-10T12:25",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "129",
+                            "label": "470 GOLD",
+                            "typeCode": "31249__1736513700__2__57072_470 GOLD",
+                            "sType": "fixed",
+                            "sAvail": 0,
+                            "sTotal": 16,
+                            "price": 470.0,
+                            "statusColor": "D"
+                        },
+                        {
+                            "code": "134",
+                            "label": "352 ELITE",
+                            "typeCode": "31249__1736513700__2__57072_352 ELITE",
+                            "sType": "fixed",
+                            "sAvail": 81,
+                            "sTotal": 610,
+                            "price": 352.0,
+                            "statusColor": "Y"
+                        }
+                    ],
+                    "total": 626,
+                    "avail": 81,
+                    "audi": "SCREEN2",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Political"
+                    ],
+                    "statusColor": "Y",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "31249__1736489400__1__57075",
+                    "pid": 1126,
+                    "pkey": "ticketnew",
+                    "cid": 9411,
+                    "mid": "OB1H21",
+                    "fid": "URJofQgl6U",
+                    "showTime": "2025-01-10T06:10",
+                    "closeTime": "2025-01-10T05:40",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "129",
+                            "label": "470 GOLD",
+                            "typeCode": "31249__1736489400__1__57075_470 GOLD",
+                            "sType": "fixed",
+                            "sAvail": 0,
+                            "sTotal": 12,
+                            "price": 470.0,
+                            "statusColor": "D"
+                        },
+                        {
+                            "code": "134",
+                            "label": "352 ELITE",
+                            "typeCode": "31249__1736489400__1__57075_352 ELITE",
+                            "sType": "fixed",
+                            "sAvail": 69,
+                            "sTotal": 550,
+                            "price": 352.0,
+                            "statusColor": "Y"
+                        }
+                    ],
+                    "total": 562,
+                    "avail": 69,
+                    "audi": "SCREEN1",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Political"
+                    ],
+                    "statusColor": "Y",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "31249__1736475600__2__57081",
+                    "pid": 1126,
+                    "pkey": "ticketnew",
+                    "cid": 9411,
+                    "mid": "OB1H21",
+                    "fid": "URJofQgl6U",
+                    "showTime": "2025-01-10T02:20",
+                    "closeTime": "2025-01-10T01:50",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "129",
+                            "label": "470 GOLD",
+                            "typeCode": "31249__1736475600__2__57081_470 GOLD",
+                            "sType": "fixed",
+                            "sAvail": 0,
+                            "sTotal": 16,
+                            "price": 470.0,
+                            "statusColor": "D"
+                        },
+                        {
+                            "code": "134",
+                            "label": "352 ELITE",
+                            "typeCode": "31249__1736475600__2__57081_352 ELITE",
+                            "sType": "fixed",
+                            "sAvail": 40,
+                            "sTotal": 610,
+                            "price": 352.0,
+                            "statusColor": "R"
+                        }
+                    ],
+                    "total": 626,
+                    "avail": 40,
+                    "audi": "SCREEN2",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Political"
+                    ],
+                    "statusColor": "R",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "31249__1736516700__3__57077",
+                    "pid": 1126,
+                    "pkey": "ticketnew",
+                    "cid": 9411,
+                    "mid": "OB1H21",
+                    "fid": "URJofQgl6U",
+                    "showTime": "2025-01-10T13:45",
+                    "closeTime": "2025-01-10T13:15",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "129",
+                            "label": "470 GOLD",
+                            "typeCode": "31249__1736516700__3__57077_470 GOLD",
+                            "sType": "fixed",
+                            "sAvail": 0,
+                            "sTotal": 14,
+                            "price": 470.0,
+                            "statusColor": "D"
+                        },
+                        {
+                            "code": "134",
+                            "label": "352 ELITE",
+                            "typeCode": "31249__1736516700__3__57077_352 ELITE",
+                            "sType": "fixed",
+                            "sAvail": 57,
+                            "sTotal": 319,
+                            "price": 352.0,
+                            "statusColor": "Y"
+                        }
+                    ],
+                    "total": 333,
+                    "avail": 57,
+                    "audi": "SCREEN3",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Political"
+                    ],
+                    "statusColor": "Y",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "31249__1736463300__2__57084",
+                    "pid": 1126,
+                    "pkey": "ticketnew",
+                    "cid": 9411,
+                    "mid": "OB1H21",
+                    "fid": "URJofQgl6U",
+                    "showTime": "2025-01-09T22:55",
+                    "closeTime": "2025-01-09T22:25",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "129",
+                            "label": "470 GOLD",
+                            "typeCode": "31249__1736463300__2__57084_470 GOLD",
+                            "sType": "fixed",
+                            "sAvail": 0,
+                            "sTotal": 16,
+                            "price": 470.0,
+                            "statusColor": "D"
+                        },
+                        {
+                            "code": "134",
+                            "label": "352 ELITE",
+                            "typeCode": "31249__1736463300__2__57084_352 ELITE",
+                            "sType": "fixed",
+                            "sAvail": 0,
+                            "sTotal": 610,
+                            "price": 352.0,
+                            "statusColor": "D"
+                        }
+                    ],
+                    "total": 626,
+                    "avail": 0,
+                    "audi": "SCREEN2",
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Political"
+                    ],
+                    "statusColor": "D",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "31249__1736515200__1__57069",
+                    "pid": 1126,
+                    "pkey": "ticketnew",
+                    "cid": 9411,
+                    "mid": "OB1H21",
+                    "fid": "URJofQgl6U",
+                    "showTime": "2025-01-10T13:20",
+                    "closeTime": "2025-01-10T12:50",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "129",
+                            "label": "470 GOLD",
+                            "typeCode": "31249__1736515200__1__57069_470 GOLD",
+                            "sType": "fixed",
+                            "sAvail": 0,
+                            "sTotal": 12,
+                            "price": 470.0,
+                            "statusColor": "D"
+                        },
+                        {
+                            "code": "134",
+                            "label": "352 ELITE",
+                            "typeCode": "31249__1736515200__1__57069_352 ELITE",
+                            "sType": "fixed",
+                            "sAvail": 80,
+                            "sTotal": 550,
+                            "price": 352.0,
+                            "statusColor": "Y"
+                        }
+                    ],
+                    "total": 562,
+                    "avail": 80,
+                    "audi": "SCREEN1",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Political"
+                    ],
+                    "statusColor": "Y",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "31249__1736487900__2__57076",
+                    "pid": 1126,
+                    "pkey": "ticketnew",
+                    "cid": 9411,
+                    "mid": "OB1H21",
+                    "fid": "URJofQgl6U",
+                    "showTime": "2025-01-10T05:45",
+                    "closeTime": "2025-01-10T05:15",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "129",
+                            "label": "470 GOLD",
+                            "typeCode": "31249__1736487900__2__57076_470 GOLD",
+                            "sType": "fixed",
+                            "sAvail": 0,
+                            "sTotal": 16,
+                            "price": 470.0,
+                            "statusColor": "D"
+                        },
+                        {
+                            "code": "134",
+                            "label": "352 ELITE",
+                            "typeCode": "31249__1736487900__2__57076_352 ELITE",
+                            "sType": "fixed",
+                            "sAvail": 71,
+                            "sTotal": 610,
+                            "price": 352.0,
+                            "statusColor": "Y"
+                        }
+                    ],
+                    "total": 626,
+                    "avail": 71,
+                    "audi": "SCREEN2",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Political"
+                    ],
+                    "statusColor": "Y",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "31249__1736500800__2__57071",
+                    "pid": 1126,
+                    "pkey": "ticketnew",
+                    "cid": 9411,
+                    "mid": "OB1H21",
+                    "fid": "URJofQgl6U",
+                    "showTime": "2025-01-10T09:20",
+                    "closeTime": "2025-01-10T08:50",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "129",
+                            "label": "470 GOLD",
+                            "typeCode": "31249__1736500800__2__57071_470 GOLD",
+                            "sType": "fixed",
+                            "sAvail": 0,
+                            "sTotal": 16,
+                            "price": 470.0,
+                            "statusColor": "D"
+                        },
+                        {
+                            "code": "134",
+                            "label": "352 ELITE",
+                            "typeCode": "31249__1736500800__2__57071_352 ELITE",
+                            "sType": "fixed",
+                            "sAvail": 99,
+                            "sTotal": 610,
+                            "price": 352.0,
+                            "statusColor": "Y"
+                        }
+                    ],
+                    "total": 626,
+                    "avail": 99,
+                    "audi": "SCREEN2",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Political"
+                    ],
+                    "statusColor": "Y",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "31249__1736464200__1__57083",
+                    "pid": 1126,
+                    "pkey": "ticketnew",
+                    "cid": 9411,
+                    "mid": "OB1H21",
+                    "fid": "URJofQgl6U",
+                    "showTime": "2025-01-09T23:10",
+                    "closeTime": "2025-01-09T22:40",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "129",
+                            "label": "470 GOLD",
+                            "typeCode": "31249__1736464200__1__57083_470 GOLD",
+                            "sType": "fixed",
+                            "sAvail": 0,
+                            "sTotal": 12,
+                            "price": 470.0,
+                            "statusColor": "D"
+                        },
+                        {
+                            "code": "134",
+                            "label": "352 ELITE",
+                            "typeCode": "31249__1736464200__1__57083_352 ELITE",
+                            "sType": "fixed",
+                            "sAvail": 1,
+                            "sTotal": 550,
+                            "price": 352.0,
+                            "statusColor": "R"
+                        }
+                    ],
+                    "total": 562,
+                    "avail": 1,
+                    "audi": "SCREEN1",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Political"
+                    ],
+                    "statusColor": "R",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "31249__1736465100__3__57085",
+                    "pid": 1126,
+                    "pkey": "ticketnew",
+                    "cid": 9411,
+                    "mid": "OB1H21",
+                    "fid": "URJofQgl6U",
+                    "showTime": "2025-01-09T23:25",
+                    "closeTime": "2025-01-09T22:55",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "129",
+                            "label": "470 GOLD",
+                            "typeCode": "31249__1736465100__3__57085_470 GOLD",
+                            "sType": "fixed",
+                            "sAvail": 0,
+                            "sTotal": 14,
+                            "price": 470.0,
+                            "statusColor": "D"
+                        },
+                        {
+                            "code": "134",
+                            "label": "352 ELITE",
+                            "typeCode": "31249__1736465100__3__57085_352 ELITE",
+                            "sType": "fixed",
+                            "sAvail": 0,
+                            "sTotal": 319,
+                            "price": 352.0,
+                            "statusColor": "D"
+                        }
+                    ],
+                    "total": 333,
+                    "avail": 0,
+                    "audi": "SCREEN3",
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Political"
+                    ],
+                    "statusColor": "D",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "31249__1736490900__3__57079",
+                    "pid": 1126,
+                    "pkey": "ticketnew",
+                    "cid": 9411,
+                    "mid": "OB1H21",
+                    "fid": "URJofQgl6U",
+                    "showTime": "2025-01-10T06:35",
+                    "closeTime": "2025-01-10T06:05",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "129",
+                            "label": "470 GOLD",
+                            "typeCode": "31249__1736490900__3__57079_470 GOLD",
+                            "sType": "fixed",
+                            "sAvail": 0,
+                            "sTotal": 14,
+                            "price": 470.0,
+                            "statusColor": "D"
+                        },
+                        {
+                            "code": "134",
+                            "label": "352 ELITE",
+                            "typeCode": "31249__1736490900__3__57079_352 ELITE",
+                            "sType": "fixed",
+                            "sAvail": 54,
+                            "sTotal": 319,
+                            "price": 352.0,
+                            "statusColor": "Y"
+                        }
+                    ],
+                    "total": 333,
+                    "avail": 54,
+                    "audi": "SCREEN3",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Political"
+                    ],
+                    "statusColor": "Y",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "31249__1736526600__2__57073",
+                    "pid": 1126,
+                    "pkey": "ticketnew",
+                    "cid": 9411,
+                    "mid": "OB1H21",
+                    "fid": "URJofQgl6U",
+                    "showTime": "2025-01-10T16:30",
+                    "closeTime": "2025-01-10T16:00",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "129",
+                            "label": "470 GOLD",
+                            "typeCode": "31249__1736526600__2__57073_470 GOLD",
+                            "sType": "fixed",
+                            "sAvail": 0,
+                            "sTotal": 16,
+                            "price": 470.0,
+                            "statusColor": "D"
+                        },
+                        {
+                            "code": "134",
+                            "label": "352 ELITE",
+                            "typeCode": "31249__1736526600__2__57073_352 ELITE",
+                            "sType": "fixed",
+                            "sAvail": 81,
+                            "sTotal": 610,
+                            "price": 352.0,
+                            "statusColor": "Y"
+                        }
+                    ],
+                    "total": 626,
+                    "avail": 81,
+                    "audi": "SCREEN2",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Political"
+                    ],
+                    "statusColor": "Y",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "31249__1736503800__3__57078",
+                    "pid": 1126,
+                    "pkey": "ticketnew",
+                    "cid": 9411,
+                    "mid": "OB1H21",
+                    "fid": "URJofQgl6U",
+                    "showTime": "2025-01-10T10:10",
+                    "closeTime": "2025-01-10T09:40",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "129",
+                            "label": "470 GOLD",
+                            "typeCode": "31249__1736503800__3__57078_470 GOLD",
+                            "sType": "fixed",
+                            "sAvail": 0,
+                            "sTotal": 14,
+                            "price": 470.0,
+                            "statusColor": "D"
+                        },
+                        {
+                            "code": "134",
+                            "label": "352 ELITE",
+                            "typeCode": "31249__1736503800__3__57078_352 ELITE",
+                            "sType": "fixed",
+                            "sAvail": 77,
+                            "sTotal": 319,
+                            "price": 352.0,
+                            "statusColor": "Y"
+                        }
+                    ],
+                    "total": 333,
+                    "avail": 77,
+                    "audi": "SCREEN3",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Political"
+                    ],
+                    "statusColor": "Y",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "31249__1736528100__1__57070",
+                    "pid": 1126,
+                    "pkey": "ticketnew",
+                    "cid": 9411,
+                    "mid": "OB1H21",
+                    "fid": "URJofQgl6U",
+                    "showTime": "2025-01-10T16:55",
+                    "closeTime": "2025-01-10T16:25",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "129",
+                            "label": "470 GOLD",
+                            "typeCode": "31249__1736528100__1__57070_470 GOLD",
+                            "sType": "fixed",
+                            "sAvail": 0,
+                            "sTotal": 12,
+                            "price": 470.0,
+                            "statusColor": "D"
+                        },
+                        {
+                            "code": "134",
+                            "label": "352 ELITE",
+                            "typeCode": "31249__1736528100__1__57070_352 ELITE",
+                            "sType": "fixed",
+                            "sAvail": 97,
+                            "sTotal": 550,
+                            "price": 352.0,
+                            "statusColor": "Y"
+                        }
+                    ],
+                    "total": 562,
+                    "avail": 97,
+                    "audi": "SCREEN1",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Political"
+                    ],
+                    "statusColor": "Y",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "31249__1736477400__3__57082",
+                    "pid": 1126,
+                    "pkey": "ticketnew",
+                    "cid": 9411,
+                    "mid": "OB1H21",
+                    "fid": "URJofQgl6U",
+                    "showTime": "2025-01-10T02:50",
+                    "closeTime": "2025-01-10T02:20",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "129",
+                            "label": "470 GOLD",
+                            "typeCode": "31249__1736477400__3__57082_470 GOLD",
+                            "sType": "fixed",
+                            "sAvail": 1,
+                            "sTotal": 14,
+                            "price": 470.0,
+                            "statusColor": "R"
+                        },
+                        {
+                            "code": "134",
+                            "label": "352 ELITE",
+                            "typeCode": "31249__1736477400__3__57082_352 ELITE",
+                            "sType": "fixed",
+                            "sAvail": 28,
+                            "sTotal": 319,
+                            "price": 352.0,
+                            "statusColor": "R"
+                        }
+                    ],
+                    "total": 333,
+                    "avail": 29,
+                    "audi": "SCREEN3",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Political"
+                    ],
+                    "statusColor": "R",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "31249__1736476500__1__57080",
+                    "pid": 1126,
+                    "pkey": "ticketnew",
+                    "cid": 9411,
+                    "mid": "OB1H21",
+                    "fid": "URJofQgl6U",
+                    "showTime": "2025-01-10T02:35",
+                    "closeTime": "2025-01-10T02:05",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "129",
+                            "label": "470 GOLD",
+                            "typeCode": "31249__1736476500__1__57080_470 GOLD",
+                            "sType": "fixed",
+                            "sAvail": 1,
+                            "sTotal": 12,
+                            "price": 470.0,
+                            "statusColor": "R"
+                        },
+                        {
+                            "code": "134",
+                            "label": "352 ELITE",
+                            "typeCode": "31249__1736476500__1__57080_352 ELITE",
+                            "sType": "fixed",
+                            "sAvail": 40,
+                            "sTotal": 550,
+                            "price": 352.0,
+                            "statusColor": "R"
+                        }
+                    ],
+                    "total": 562,
+                    "avail": 41,
+                    "audi": "SCREEN1",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Political"
+                    ],
+                    "statusColor": "R",
+                    "subtitle": ""
+                }
+            ],
+            "9413": [
+                {
+                    "sid": "31249__1736514000__4__53162",
+                    "pid": 1126,
+                    "pkey": "ticketnew",
+                    "cid": 9413,
+                    "mid": "OB1H21",
+                    "fid": "URJofQgl6U",
+                    "showTime": "2025-01-10T13:00",
+                    "closeTime": "2025-01-10T12:30",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "50",
+                            "label": "352 ELITE",
+                            "typeCode": "31249__1736514000__4__53162_352 ELITE",
+                            "sType": "fixed",
+                            "sAvail": 42,
+                            "sTotal": 248,
+                            "price": 352.0,
+                            "statusColor": "Y"
+                        }
+                    ],
+                    "total": 248,
+                    "avail": 42,
+                    "audi": "SCREEN-4",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Political"
+                    ],
+                    "statusColor": "Y",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "31249__1736502300__1__53154",
+                    "pid": 1126,
+                    "pkey": "ticketnew",
+                    "cid": 9413,
+                    "mid": "OB1H21",
+                    "fid": "URJofQgl6U",
+                    "showTime": "2025-01-10T09:45",
+                    "closeTime": "2025-01-10T09:15",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "50",
+                            "label": "352 ELITE",
+                            "typeCode": "31249__1736502300__1__53154_352 ELITE",
+                            "sType": "fixed",
+                            "sAvail": 68,
+                            "sTotal": 226,
+                            "price": 352.0,
+                            "statusColor": "Y"
+                        }
+                    ],
+                    "total": 226,
+                    "avail": 68,
+                    "audi": "SCREEN-1",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Political"
+                    ],
+                    "statusColor": "Y",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "31249__1736475600__4__53176",
+                    "pid": 1126,
+                    "pkey": "ticketnew",
+                    "cid": 9413,
+                    "mid": "OB1H21",
+                    "fid": "URJofQgl6U",
+                    "showTime": "2025-01-10T02:20",
+                    "closeTime": "2025-01-10T01:50",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "50",
+                            "label": "352 ELITE",
+                            "typeCode": "31249__1736475600__4__53176_352 ELITE",
+                            "sType": "fixed",
+                            "sAvail": 21,
+                            "sTotal": 248,
+                            "price": 352.0,
+                            "statusColor": "R"
+                        }
+                    ],
+                    "total": 248,
+                    "avail": 21,
+                    "audi": "SCREEN-4",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Political"
+                    ],
+                    "statusColor": "R",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "31249__1736489400__1__53153",
+                    "pid": 1126,
+                    "pkey": "ticketnew",
+                    "cid": 9413,
+                    "mid": "OB1H21",
+                    "fid": "URJofQgl6U",
+                    "showTime": "2025-01-10T06:10",
+                    "closeTime": "2025-01-10T05:40",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "50",
+                            "label": "352 ELITE",
+                            "typeCode": "31249__1736489400__1__53153_352 ELITE",
+                            "sType": "fixed",
+                            "sAvail": 65,
+                            "sTotal": 226,
+                            "price": 352.0,
+                            "statusColor": "Y"
+                        }
+                    ],
+                    "total": 226,
+                    "avail": 65,
+                    "audi": "SCREEN-1",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Political"
+                    ],
+                    "statusColor": "Y",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "31249__1736525700__5__53167",
+                    "pid": 1126,
+                    "pkey": "ticketnew",
+                    "cid": 9413,
+                    "mid": "OB1H21",
+                    "fid": "URJofQgl6U",
+                    "showTime": "2025-01-10T16:15",
+                    "closeTime": "2025-01-10T15:45",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "50",
+                            "label": "352 ELITE",
+                            "typeCode": "31249__1736525700__5__53167_352 ELITE",
+                            "sType": "fixed",
+                            "sAvail": 76,
+                            "sTotal": 277,
+                            "price": 352.0,
+                            "statusColor": "Y"
+                        }
+                    ],
+                    "total": 277,
+                    "avail": 76,
+                    "audi": "SCREEN-5",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Political"
+                    ],
+                    "statusColor": "Y",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "31249__1736490600__2__53169",
+                    "pid": 1126,
+                    "pkey": "ticketnew",
+                    "cid": 9413,
+                    "mid": "OB1H21",
+                    "fid": "URJofQgl6U",
+                    "showTime": "2025-01-10T06:30",
+                    "closeTime": "2025-01-10T06:00",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "50",
+                            "label": "352 ELITE",
+                            "typeCode": "31249__1736490600__2__53169_352 ELITE",
+                            "sType": "fixed",
+                            "sAvail": 31,
+                            "sTotal": 131,
+                            "price": 352.0,
+                            "statusColor": "Y"
+                        }
+                    ],
+                    "total": 131,
+                    "avail": 31,
+                    "audi": "SCREEN-2",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Political"
+                    ],
+                    "statusColor": "Y",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "31249__1736529000__2__53168",
+                    "pid": 1126,
+                    "pkey": "ticketnew",
+                    "cid": 9413,
+                    "mid": "OB1H21",
+                    "fid": "URJofQgl6U",
+                    "showTime": "2025-01-10T17:10",
+                    "closeTime": "2025-01-10T16:40",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "50",
+                            "label": "352 ELITE",
+                            "typeCode": "31249__1736529000__2__53168_352 ELITE",
+                            "sType": "fixed",
+                            "sAvail": 37,
+                            "sTotal": 131,
+                            "price": 352.0,
+                            "statusColor": "Y"
+                        }
+                    ],
+                    "total": 131,
+                    "avail": 37,
+                    "audi": "SCREEN-2",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Political"
+                    ],
+                    "statusColor": "Y",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "31249__1736529600__3__53172",
+                    "pid": 1126,
+                    "pkey": "ticketnew",
+                    "cid": 9413,
+                    "mid": "OB1H21",
+                    "fid": "URJofQgl6U",
+                    "showTime": "2025-01-10T17:20",
+                    "closeTime": "2025-01-10T16:50",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "50",
+                            "label": "352 ELITE",
+                            "typeCode": "31249__1736529600__3__53172_352 ELITE",
+                            "sType": "fixed",
+                            "sAvail": 39,
+                            "sTotal": 132,
+                            "price": 352.0,
+                            "statusColor": "Y"
+                        }
+                    ],
+                    "total": 132,
+                    "avail": 39,
+                    "audi": "SCREEN-3",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Political"
+                    ],
+                    "statusColor": "Y",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "31249__1736503500__2__53157",
+                    "pid": 1126,
+                    "pkey": "ticketnew",
+                    "cid": 9413,
+                    "mid": "OB1H21",
+                    "fid": "URJofQgl6U",
+                    "showTime": "2025-01-10T10:05",
+                    "closeTime": "2025-01-10T09:35",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "50",
+                            "label": "352 ELITE",
+                            "typeCode": "31249__1736503500__2__53157_352 ELITE",
+                            "sType": "fixed",
+                            "sAvail": 35,
+                            "sTotal": 131,
+                            "price": 352.0,
+                            "statusColor": "Y"
+                        }
+                    ],
+                    "total": 131,
+                    "avail": 35,
+                    "audi": "SCREEN-2",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Political"
+                    ],
+                    "statusColor": "Y",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "31249__1736528100__1__53156",
+                    "pid": 1126,
+                    "pkey": "ticketnew",
+                    "cid": 9413,
+                    "mid": "OB1H21",
+                    "fid": "URJofQgl6U",
+                    "showTime": "2025-01-10T16:55",
+                    "closeTime": "2025-01-10T16:25",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "50",
+                            "label": "352 ELITE",
+                            "typeCode": "31249__1736528100__1__53156_352 ELITE",
+                            "sType": "fixed",
+                            "sAvail": 63,
+                            "sTotal": 226,
+                            "price": 352.0,
+                            "statusColor": "Y"
+                        }
+                    ],
+                    "total": 226,
+                    "avail": 63,
+                    "audi": "SCREEN-1",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Political"
+                    ],
+                    "statusColor": "Y",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "31249__1736476800__2__53174",
+                    "pid": 1126,
+                    "pkey": "ticketnew",
+                    "cid": 9413,
+                    "mid": "OB1H21",
+                    "fid": "URJofQgl6U",
+                    "showTime": "2025-01-10T02:40",
+                    "closeTime": "2025-01-10T02:10",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "50",
+                            "label": "352 ELITE",
+                            "typeCode": "31249__1736476800__2__53174_352 ELITE",
+                            "sType": "fixed",
+                            "sAvail": 0,
+                            "sTotal": 131,
+                            "price": 352.0,
+                            "statusColor": "D"
+                        }
+                    ],
+                    "total": 131,
+                    "avail": 0,
+                    "audi": "SCREEN-2",
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Political"
+                    ],
+                    "statusColor": "D",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "31249__1736499900__5__53165",
+                    "pid": 1126,
+                    "pkey": "ticketnew",
+                    "cid": 9413,
+                    "mid": "OB1H21",
+                    "fid": "URJofQgl6U",
+                    "showTime": "2025-01-10T09:05",
+                    "closeTime": "2025-01-10T08:35",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "50",
+                            "label": "352 ELITE",
+                            "typeCode": "31249__1736499900__5__53165_352 ELITE",
+                            "sType": "fixed",
+                            "sAvail": 59,
+                            "sTotal": 277,
+                            "price": 352.0,
+                            "statusColor": "Y"
+                        }
+                    ],
+                    "total": 277,
+                    "avail": 59,
+                    "audi": "SCREEN-5",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Political"
+                    ],
+                    "statusColor": "Y",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "31249__1736491200__3__53159",
+                    "pid": 1126,
+                    "pkey": "ticketnew",
+                    "cid": 9413,
+                    "mid": "OB1H21",
+                    "fid": "URJofQgl6U",
+                    "showTime": "2025-01-10T06:40",
+                    "closeTime": "2025-01-10T06:10",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "50",
+                            "label": "352 ELITE",
+                            "typeCode": "31249__1736491200__3__53159_352 ELITE",
+                            "sType": "fixed",
+                            "sAvail": 28,
+                            "sTotal": 132,
+                            "price": 352.0,
+                            "statusColor": "Y"
+                        }
+                    ],
+                    "total": 132,
+                    "avail": 28,
+                    "audi": "SCREEN-3",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Political"
+                    ],
+                    "statusColor": "Y",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "31249__1736512800__5__53166",
+                    "pid": 1126,
+                    "pkey": "ticketnew",
+                    "cid": 9413,
+                    "mid": "OB1H21",
+                    "fid": "URJofQgl6U",
+                    "showTime": "2025-01-10T12:40",
+                    "closeTime": "2025-01-10T12:10",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "50",
+                            "label": "352 ELITE",
+                            "typeCode": "31249__1736512800__5__53166_352 ELITE",
+                            "sType": "fixed",
+                            "sAvail": 57,
+                            "sTotal": 277,
+                            "price": 352.0,
+                            "statusColor": "Y"
+                        }
+                    ],
+                    "total": 277,
+                    "avail": 57,
+                    "audi": "SCREEN-5",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Political"
+                    ],
+                    "statusColor": "Y",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "31249__1736516400__2__53158",
+                    "pid": 1126,
+                    "pkey": "ticketnew",
+                    "cid": 9413,
+                    "mid": "OB1H21",
+                    "fid": "URJofQgl6U",
+                    "showTime": "2025-01-10T13:40",
+                    "closeTime": "2025-01-10T13:10",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "50",
+                            "label": "352 ELITE",
+                            "typeCode": "31249__1736516400__2__53158_352 ELITE",
+                            "sType": "fixed",
+                            "sAvail": 15,
+                            "sTotal": 131,
+                            "price": 352.0,
+                            "statusColor": "Y"
+                        }
+                    ],
+                    "total": 131,
+                    "avail": 15,
+                    "audi": "SCREEN-2",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Political"
+                    ],
+                    "statusColor": "Y",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "31249__1736515200__1__53155",
+                    "pid": 1126,
+                    "pkey": "ticketnew",
+                    "cid": 9413,
+                    "mid": "OB1H21",
+                    "fid": "URJofQgl6U",
+                    "showTime": "2025-01-10T13:20",
+                    "closeTime": "2025-01-10T12:50",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "50",
+                            "label": "352 ELITE",
+                            "typeCode": "31249__1736515200__1__53155_352 ELITE",
+                            "sType": "fixed",
+                            "sAvail": 45,
+                            "sTotal": 226,
+                            "price": 352.0,
+                            "statusColor": "Y"
+                        }
+                    ],
+                    "total": 226,
+                    "avail": 45,
+                    "audi": "SCREEN-1",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Political"
+                    ],
+                    "statusColor": "Y",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "31249__1736487000__5__53164",
+                    "pid": 1126,
+                    "pkey": "ticketnew",
+                    "cid": 9413,
+                    "mid": "OB1H21",
+                    "fid": "URJofQgl6U",
+                    "showTime": "2025-01-10T05:30",
+                    "closeTime": "2025-01-10T05:00",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "50",
+                            "label": "352 ELITE",
+                            "typeCode": "31249__1736487000__5__53164_352 ELITE",
+                            "sType": "fixed",
+                            "sAvail": 45,
+                            "sTotal": 277,
+                            "price": 352.0,
+                            "statusColor": "Y"
+                        }
+                    ],
+                    "total": 277,
+                    "avail": 45,
+                    "audi": "SCREEN-5",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Political"
+                    ],
+                    "statusColor": "Y",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "31249__1736476200__1__53173",
+                    "pid": 1126,
+                    "pkey": "ticketnew",
+                    "cid": 9413,
+                    "mid": "OB1H21",
+                    "fid": "URJofQgl6U",
+                    "showTime": "2025-01-10T02:30",
+                    "closeTime": "2025-01-10T02:00",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "50",
+                            "label": "352 ELITE",
+                            "typeCode": "31249__1736476200__1__53173_352 ELITE",
+                            "sType": "fixed",
+                            "sAvail": 30,
+                            "sTotal": 226,
+                            "price": 352.0,
+                            "statusColor": "Y"
+                        }
+                    ],
+                    "total": 226,
+                    "avail": 30,
+                    "audi": "SCREEN-1",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Political"
+                    ],
+                    "statusColor": "Y",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "31249__1736504100__3__53170",
+                    "pid": 1126,
+                    "pkey": "ticketnew",
+                    "cid": 9413,
+                    "mid": "OB1H21",
+                    "fid": "URJofQgl6U",
+                    "showTime": "2025-01-10T10:15",
+                    "closeTime": "2025-01-10T09:45",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "50",
+                            "label": "352 ELITE",
+                            "typeCode": "31249__1736504100__3__53170_352 ELITE",
+                            "sType": "fixed",
+                            "sAvail": 34,
+                            "sTotal": 132,
+                            "price": 352.0,
+                            "statusColor": "Y"
+                        }
+                    ],
+                    "total": 132,
+                    "avail": 34,
+                    "audi": "SCREEN-3",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Political"
+                    ],
+                    "statusColor": "Y",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "31249__1736501100__4__53161",
+                    "pid": 1126,
+                    "pkey": "ticketnew",
+                    "cid": 9413,
+                    "mid": "OB1H21",
+                    "fid": "URJofQgl6U",
+                    "showTime": "2025-01-10T09:25",
+                    "closeTime": "2025-01-10T08:55",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "50",
+                            "label": "352 ELITE",
+                            "typeCode": "31249__1736501100__4__53161_352 ELITE",
+                            "sType": "fixed",
+                            "sAvail": 48,
+                            "sTotal": 248,
+                            "price": 352.0,
+                            "statusColor": "Y"
+                        }
+                    ],
+                    "total": 248,
+                    "avail": 48,
+                    "audi": "SCREEN-4",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Political"
+                    ],
+                    "statusColor": "Y",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "31249__1736526900__4__53163",
+                    "pid": 1126,
+                    "pkey": "ticketnew",
+                    "cid": 9413,
+                    "mid": "OB1H21",
+                    "fid": "URJofQgl6U",
+                    "showTime": "2025-01-10T16:35",
+                    "closeTime": "2025-01-10T16:05",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "50",
+                            "label": "352 ELITE",
+                            "typeCode": "31249__1736526900__4__53163_352 ELITE",
+                            "sType": "fixed",
+                            "sAvail": 39,
+                            "sTotal": 248,
+                            "price": 352.0,
+                            "statusColor": "Y"
+                        }
+                    ],
+                    "total": 248,
+                    "avail": 39,
+                    "audi": "SCREEN-4",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Political"
+                    ],
+                    "statusColor": "Y",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "31249__1736488200__4__53160",
+                    "pid": 1126,
+                    "pkey": "ticketnew",
+                    "cid": 9413,
+                    "mid": "OB1H21",
+                    "fid": "URJofQgl6U",
+                    "showTime": "2025-01-10T05:50",
+                    "closeTime": "2025-01-10T05:20",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "50",
+                            "label": "352 ELITE",
+                            "typeCode": "31249__1736488200__4__53160_352 ELITE",
+                            "sType": "fixed",
+                            "sAvail": 32,
+                            "sTotal": 248,
+                            "price": 352.0,
+                            "statusColor": "Y"
+                        }
+                    ],
+                    "total": 248,
+                    "avail": 32,
+                    "audi": "SCREEN-4",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Political"
+                    ],
+                    "statusColor": "Y",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "31249__1736517000__3__53171",
+                    "pid": 1126,
+                    "pkey": "ticketnew",
+                    "cid": 9413,
+                    "mid": "OB1H21",
+                    "fid": "URJofQgl6U",
+                    "showTime": "2025-01-10T13:50",
+                    "closeTime": "2025-01-10T13:20",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "50",
+                            "label": "352 ELITE",
+                            "typeCode": "31249__1736517000__3__53171_352 ELITE",
+                            "sType": "fixed",
+                            "sAvail": 13,
+                            "sTotal": 132,
+                            "price": 352.0,
+                            "statusColor": "R"
+                        }
+                    ],
+                    "total": 132,
+                    "avail": 13,
+                    "audi": "SCREEN-3",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Political"
+                    ],
+                    "statusColor": "R",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "31249__1736475000__5__53177",
+                    "pid": 1126,
+                    "pkey": "ticketnew",
+                    "cid": 9413,
+                    "mid": "OB1H21",
+                    "fid": "URJofQgl6U",
+                    "showTime": "2025-01-10T02:10",
+                    "closeTime": "2025-01-10T01:40",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "50",
+                            "label": "352 ELITE",
+                            "typeCode": "31249__1736475000__5__53177_352 ELITE",
+                            "sType": "fixed",
+                            "sAvail": 15,
+                            "sTotal": 277,
+                            "price": 352.0,
+                            "statusColor": "R"
+                        }
+                    ],
+                    "total": 277,
+                    "avail": 15,
+                    "audi": "SCREEN-5",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Political"
+                    ],
+                    "statusColor": "R",
+                    "subtitle": ""
+                },
+                {
+                    "sid": "31249__1736477400__3__53175",
+                    "pid": 1126,
+                    "pkey": "ticketnew",
+                    "cid": 9413,
+                    "mid": "OB1H21",
+                    "fid": "URJofQgl6U",
+                    "showTime": "2025-01-10T02:50",
+                    "closeTime": "2025-01-10T02:20",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "50",
+                            "label": "352 ELITE",
+                            "typeCode": "31249__1736477400__3__53175_352 ELITE",
+                            "sType": "fixed",
+                            "sAvail": 13,
+                            "sTotal": 132,
+                            "price": 352.0,
+                            "statusColor": "R"
+                        }
+                    ],
+                    "total": 132,
+                    "avail": 13,
+                    "audi": "SCREEN-3",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Political"
+                    ],
+                    "statusColor": "R",
+                    "subtitle": ""
+                }
+            ]
+        }
+    }
+}

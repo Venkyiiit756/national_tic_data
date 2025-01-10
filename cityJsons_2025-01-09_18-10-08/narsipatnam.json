@@ -1,0 +1,1694 @@
+{
+    "serverTime": 1736446249,
+    "meta": {
+        "movies": [
+            {
+                "id": "OB1H21",
+                "frmtId": "URJofQgl6U",
+                "name": "Game Changer",
+                "imgPath": null,
+                "appImgPath": "https://assetscdn1.paytm.com/images/cinema/Game%20Changer-3cf95ad0-cce0-11ef-a9e2-63c420e5944f.jpeg",
+                "cvrPath": "https://assetscdn1.paytm.com/images/cinema/web-cover-3dd26890-893b-11ef-b30d-5d8b2ded08e1.jpg",
+                "appCvrPath": "https://assetscdn1.paytm.com/images/cinema/app-cover-3dd0e1f0-893b-11ef-80ee-5d6ff5e29b7e.jpg",
+                "thumbnail": null,
+                "edgeBanner": null,
+                "trailer": "https://youtu.be/zHiKFSBO_JE",
+                "censor": "UA13+",
+                "duration": 165,
+                "grn": [
+                    "Action",
+                    "Drama",
+                    "Political"
+                ],
+                "scrnFmt": "2D",
+                "sndFmt": null,
+                "rnr": {
+                    "hasUReview": 0,
+                    "hasContent": 1
+                },
+                "isNew": false,
+                "imxImgUrl": null,
+                "contentId": 161066,
+                "label": "Game Changer",
+                "lang": "Telugu"
+            }
+        ],
+        "filterBuckets": {
+            "timeBuckets": [
+                {
+                    "sTime": "05:00",
+                    "eTime": "11:59",
+                    "desc": "5:00 AM to 11:59 AM",
+                    "dText": "Morning",
+                    "desc1": "Till 12 PM"
+                },
+                {
+                    "sTime": "12:00",
+                    "eTime": "15:59",
+                    "desc": "12:00 PM to 3:59 PM",
+                    "dText": "Afternoon",
+                    "desc1": "Till 4 PM"
+                },
+                {
+                    "sTime": "16:00",
+                    "eTime": "18:59",
+                    "desc": "4:00 PM to 6:59 PM",
+                    "dText": "Evening",
+                    "desc1": "Till 7 PM"
+                },
+                {
+                    "sTime": "19:00",
+                    "eTime": "04:59",
+                    "desc": "7:00 PM to 4:59 AM",
+                    "dText": "Night",
+                    "desc1": "After 7 PM"
+                }
+            ],
+            "priceBuckets": [
+                {
+                    "min": "200",
+                    "max": "300",
+                    "desc": "\u20b9 200 - \u20b9 300"
+                },
+                {
+                    "min": "300",
+                    "max": "400",
+                    "desc": "\u20b9 300 - \u20b9 400"
+                },
+                {
+                    "min": "400",
+                    "max": "600",
+                    "desc": "\u20b9 400 - \u20b9 600"
+                }
+            ],
+            "showTimeBuckets": [
+                {
+                    "sTime": "00:00",
+                    "eTime": "08:00",
+                    "desc": "12 AM to 8 AM",
+                    "dText": "Early Morning",
+                    "desc1": "Till 8 AM",
+                    "isEnabled": false
+                },
+                {
+                    "sTime": "08:00",
+                    "eTime": "12:00",
+                    "desc": "8 AM to 12 PM",
+                    "dText": "Morning",
+                    "desc1": "Till 12 PM",
+                    "isEnabled": false
+                },
+                {
+                    "sTime": "12:00",
+                    "eTime": "16:00",
+                    "desc": "12 PM to 4 PM",
+                    "dText": "Afternoon",
+                    "desc1": "Till 4 PM",
+                    "isEnabled": false
+                },
+                {
+                    "sTime": "16:00",
+                    "eTime": "19:00",
+                    "desc": "4 PM to 7 PM",
+                    "dText": "Evening",
+                    "desc1": "Till 7 PM",
+                    "isEnabled": false
+                },
+                {
+                    "sTime": "19:00",
+                    "eTime": "23:59",
+                    "desc": "7 PM to 12 AM",
+                    "dText": "Night",
+                    "desc1": "Till 12 AM",
+                    "isEnabled": true
+                }
+            ]
+        },
+        "amenities": [
+            {
+                "id": 2,
+                "name": "Parking",
+                "rank": 1,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Parking-c79a3400-95f6-11ef-a253-33f238ee5f34.png"
+            },
+            {
+                "id": 1,
+                "name": "Mobile Ticket",
+                "rank": 2,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Mobile%20Ticket-bc527a30-95f6-11ef-b954-a1c7e1e4be25.png"
+            },
+            {
+                "id": 3,
+                "name": "Food & Beverages",
+                "rank": 3,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/F%26B-938587f0-95f6-11ef-b954-a1c7e1e4be25.png"
+            },
+            {
+                "id": 5,
+                "name": "Recliners",
+                "rank": 4,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Seat-13023560-95f6-11ef-b954-a1c7e1e4be25.png"
+            },
+            {
+                "id": 6,
+                "name": "Digital Payments",
+                "rank": 5,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Payment-eab8cb00-95f5-11ef-a253-33f238ee5f34.png"
+            },
+            {
+                "id": 4,
+                "name": "Wheelchair Friendly",
+                "rank": 6,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Wheelchair-73f627a0-95f6-11ef-a253-33f238ee5f34.png"
+            },
+            {
+                "id": 7,
+                "name": "RGB Laser",
+                "rank": 7,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Screen-fef54df0-95f5-11ef-b954-a1c7e1e4be25.png"
+            },
+            {
+                "id": 8,
+                "name": "Dolby Atmos",
+                "rank": 8,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Audio-4acee060-95f6-11ef-b954-a1c7e1e4be25.png"
+            },
+            {
+                "id": 9,
+                "name": "IMAX",
+                "rank": 9,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Screen-fef54df0-95f5-11ef-b954-a1c7e1e4be25.png"
+            },
+            {
+                "id": 10,
+                "name": "4K",
+                "rank": 10,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Screen-fef54df0-95f5-11ef-b954-a1c7e1e4be25.png"
+            },
+            {
+                "id": 12,
+                "name": "WIFI",
+                "rank": 12,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Wifi-5646f900-95f6-11ef-b954-a1c7e1e4be25.png"
+            },
+            {
+                "id": 14,
+                "name": "Gaming Zone",
+                "rank": 14,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Gaming-d3353df0-95f6-11ef-a253-33f238ee5f34.png"
+            },
+            {
+                "id": 15,
+                "name": "2K",
+                "rank": 15,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Screen-fef54df0-95f5-11ef-b954-a1c7e1e4be25.png"
+            },
+            {
+                "id": 17,
+                "name": "4DX",
+                "rank": 17,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Screen-fef54df0-95f5-11ef-b954-a1c7e1e4be25.png"
+            },
+            {
+                "id": 18,
+                "name": "Dolby 7.1",
+                "rank": 18,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Audio-4acee060-95f6-11ef-b954-a1c7e1e4be25.png"
+            },
+            {
+                "id": 19,
+                "name": "Air Conditioning",
+                "rank": 19,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/AC-d92791f0-95f5-11ef-b954-a1c7e1e4be25.png"
+            },
+            {
+                "id": 20,
+                "name": "Metro Nearby",
+                "rank": 20,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Metro-08856cb0-95f6-11ef-b954-a1c7e1e4be25.png"
+            },
+            {
+                "id": 21,
+                "name": "Sofa",
+                "rank": 21,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Seat-13023560-95f6-11ef-b954-a1c7e1e4be25.png"
+            },
+            {
+                "id": 24,
+                "name": "Silver Screen",
+                "rank": 24,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Screen-fef54df0-95f5-11ef-b954-a1c7e1e4be25.png"
+            },
+            {
+                "id": 28,
+                "name": "Free Parking",
+                "rank": 28,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Parking-c79a3400-95f6-11ef-a253-33f238ee5f34.png"
+            },
+            {
+                "id": 29,
+                "name": "Baggage Counter",
+                "rank": 29,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Baggage%20counter-f4cbae50-95f5-11ef-a253-33f238ee5f34.png"
+            },
+            {
+                "id": 30,
+                "name": "Dolby 4 Way 11.1",
+                "rank": 30,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Audio-4acee060-95f6-11ef-b954-a1c7e1e4be25.png"
+            },
+            {
+                "id": 31,
+                "name": "Barco 4K Ultra HD",
+                "rank": 31,
+                "icon_url": "https://assetscdn1.paytm.com/images/cinema/Screen-fef54df0-95f5-11ef-b954-a1c7e1e4be25.png"
+            }
+        ],
+        "cinemas": [
+            {
+                "id": 1023469,
+                "pid": 1707,
+                "name": "PVR Sreekanya, Sreekanya Cinemax Complex, Narsipatnam",
+                "address": "Cinemax Complex 15-1-91, Besides Rtc Complex, Main Road, Narsipatnam,  Andhra Pradesh 531116, India",
+                "pincode": "531116",
+                "lat": 17.663833,
+                "lon": 82.62124,
+                "cityId": 132,
+                "appCovrImgUrl": "",
+                "covrImgUrl": "",
+                "fnb": 0,
+                "mTkt": 1,
+                "bCode": "0",
+                "sTop": 0,
+                "isMerchantCancellable": 1,
+                "cinemaLogoUrl": "https://assetscdn1.paytm.com/images/cinema/PVR%20circle%20new-e63c67e0-a41d-11ef-8d2a-13243c787688.png",
+                "cinemaVideoUrl": "",
+                "appCoverVideoUrl": "",
+                "webCoverVideoUrl": "",
+                "amenities": {
+                    "1": 1,
+                    "2": 1,
+                    "3": 1,
+                    "19": 1,
+                    "4": 1,
+                    "6": 1
+                },
+                "promos": null,
+                "chainKey": "PVR",
+                "contentId": 170661,
+                "theatreGroupName": "",
+                "amenitiesOrder": [
+                    {
+                        "id": 1,
+                        "rank": 6,
+                        "status": 1
+                    },
+                    {
+                        "id": 2,
+                        "rank": 2,
+                        "status": 1
+                    },
+                    {
+                        "id": 3,
+                        "rank": 1,
+                        "status": 1
+                    },
+                    {
+                        "id": 4,
+                        "rank": 5,
+                        "status": 1
+                    },
+                    {
+                        "id": 6,
+                        "rank": 4,
+                        "status": 1
+                    },
+                    {
+                        "id": 19,
+                        "rank": 7,
+                        "status": 1
+                    }
+                ],
+                "carouselAttachments": [],
+                "isPassEnabled": 1,
+                "paytmCinemaId": 1023469,
+                "city": "Narsipatnam",
+                "clientId": "ticketnew",
+                "isMapped": 0,
+                "city_id": null,
+                "is_city_mapped": null,
+                "state": "andhra-pradesh",
+                "city_key": null,
+                "label": "PVR Sreekanya, Sreekanya Cinemax Complex, Narsipatnam",
+                "sessionCount": 45
+            }
+        ],
+        "filterData": {
+            "minSTime": "19:30",
+            "maxSTime": "17:00",
+            "minPrice": 235.0,
+            "maxPrice": 600.0,
+            "premium": false,
+            "freeSeats": false,
+            "groupSeats": false,
+            "tokenFeeSeats": false,
+            "scnFrmts": [
+                "2D"
+            ],
+            "sndFrmts": [],
+            "mLangs": [
+                "Telugu"
+            ],
+            "genres": [
+                "Action",
+                "Drama",
+                "Political"
+            ],
+            "premiumSessionCount": 0,
+            "totalSessionCount": 25,
+            "showTimeList": [
+                "04:40",
+                "01:00",
+                "04:30",
+                "18:50",
+                "22:20",
+                "15:20",
+                "11:30",
+                "15:00",
+                "22:30",
+                "08:00",
+                "18:40",
+                "18:30",
+                "22:00",
+                "12:00",
+                "15:30",
+                "22:10",
+                "08:30",
+                "04:50",
+                "11:40",
+                "05:00",
+                "15:10",
+                "19:00",
+                "08:10",
+                "08:20",
+                "11:50"
+            ],
+            "quickFilterScnFrmts": [],
+            "quickFilterLanguages": [
+                "Telugu"
+            ],
+            "priceRangeSet": [
+                "price_600_to_700",
+                "price_300_to_400",
+                "price_500_to_600",
+                "price_200_to_300"
+            ]
+        },
+        "quickFilterData": {
+            "scnFrmts": [],
+            "premium": false,
+            "showTimeBuckets": [
+                {
+                    "sTime": "08:00",
+                    "eTime": "12:00",
+                    "desc": "8 AM to 12 PM",
+                    "dText": "Morning",
+                    "desc1": "Till 12 PM"
+                },
+                {
+                    "sTime": "17:00",
+                    "eTime": "23:59",
+                    "desc": "5 PM to 11:59 PM",
+                    "dText": "After 5 PM",
+                    "desc1": "Till 11:59 PM"
+                }
+            ]
+        }
+    },
+    "data": {
+        "pageSize": 100,
+        "cinemasOrder": [
+            1023469
+        ],
+        "sessionDates": [
+            "2025-01-10",
+            "2025-01-11"
+        ]
+    },
+    "pageData": {
+        "sessions": {
+            "1023469": [
+                {
+                    "sid": "5861",
+                    "pid": 1707,
+                    "pkey": "showbizz",
+                    "cid": 1023469,
+                    "mid": "OB1H21",
+                    "fid": "URJofQgl6U",
+                    "showTime": "2025-01-09T23:10",
+                    "closeTime": "2025-01-09T23:09",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "CL",
+                            "label": "CLASSIC",
+                            "typeCode": "5861_CL",
+                            "sType": "fixed",
+                            "sAvail": 12,
+                            "sTotal": 40,
+                            "price": 235.0,
+                            "statusColor": "Y"
+                        },
+                        {
+                            "code": "CP",
+                            "label": "CLASSIC PLUS",
+                            "typeCode": "5861_CP",
+                            "sType": "fixed",
+                            "sAvail": 72,
+                            "sTotal": 239,
+                            "price": 325.0,
+                            "statusColor": "Y"
+                        }
+                    ],
+                    "total": 279,
+                    "avail": 84,
+                    "audi": "AUDI 04",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Political"
+                    ],
+                    "statusColor": "Y"
+                },
+                {
+                    "sid": "5862",
+                    "pid": 1707,
+                    "pkey": "showbizz",
+                    "cid": 1023469,
+                    "mid": "OB1H21",
+                    "fid": "URJofQgl6U",
+                    "showTime": "2025-01-09T19:30",
+                    "closeTime": "2025-01-09T19:29",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "CL",
+                            "label": "CLASSIC",
+                            "typeCode": "5862_CL",
+                            "sType": "fixed",
+                            "sAvail": 45,
+                            "sTotal": 45,
+                            "price": 600.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "CP",
+                            "label": "CLASSIC PLUS",
+                            "typeCode": "5862_CP",
+                            "sType": "fixed",
+                            "sAvail": 216,
+                            "sTotal": 331,
+                            "price": 600.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 376,
+                    "avail": 261,
+                    "audi": "AUDI 03",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Political"
+                    ],
+                    "statusColor": "G"
+                },
+                {
+                    "sid": "5860",
+                    "pid": 1707,
+                    "pkey": "showbizz",
+                    "cid": 1023469,
+                    "mid": "OB1H21",
+                    "fid": "URJofQgl6U",
+                    "showTime": "2025-01-09T23:00",
+                    "closeTime": "2025-01-09T22:59",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "CL",
+                            "label": "CLASSIC",
+                            "typeCode": "5860_CL",
+                            "sType": "fixed",
+                            "sAvail": 4,
+                            "sTotal": 45,
+                            "price": 235.0,
+                            "statusColor": "R"
+                        },
+                        {
+                            "code": "CP",
+                            "label": "CLASSIC PLUS",
+                            "typeCode": "5860_CP",
+                            "sType": "fixed",
+                            "sAvail": 65,
+                            "sTotal": 331,
+                            "price": 325.0,
+                            "statusColor": "Y"
+                        }
+                    ],
+                    "total": 376,
+                    "avail": 69,
+                    "audi": "AUDI 03",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Political"
+                    ],
+                    "statusColor": "Y"
+                },
+                {
+                    "sid": "5821",
+                    "pid": 1707,
+                    "pkey": "showbizz",
+                    "cid": 1023469,
+                    "mid": "OB1H21",
+                    "fid": "URJofQgl6U",
+                    "showTime": "2025-01-10T13:20",
+                    "closeTime": "2025-01-10T13:19",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "CL",
+                            "label": "CLASSIC",
+                            "typeCode": "5821_CL",
+                            "sType": "fixed",
+                            "sAvail": 29,
+                            "sTotal": 29,
+                            "price": 235.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "CP",
+                            "label": "CLASSIC PLUS",
+                            "typeCode": "5821_CP",
+                            "sType": "fixed",
+                            "sAvail": 145,
+                            "sTotal": 152,
+                            "price": 325.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 181,
+                    "avail": 174,
+                    "audi": "AUDI 01",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Political"
+                    ],
+                    "statusColor": "G"
+                },
+                {
+                    "sid": "5822",
+                    "pid": 1707,
+                    "pkey": "showbizz",
+                    "cid": 1023469,
+                    "mid": "OB1H21",
+                    "fid": "URJofQgl6U",
+                    "showTime": "2025-01-10T16:50",
+                    "closeTime": "2025-01-10T16:49",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "CL",
+                            "label": "CLASSIC",
+                            "typeCode": "5822_CL",
+                            "sType": "fixed",
+                            "sAvail": 29,
+                            "sTotal": 29,
+                            "price": 235.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "CP",
+                            "label": "CLASSIC PLUS",
+                            "typeCode": "5822_CP",
+                            "sType": "fixed",
+                            "sAvail": 152,
+                            "sTotal": 152,
+                            "price": 325.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 181,
+                    "avail": 181,
+                    "audi": "AUDI 01",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Political"
+                    ],
+                    "statusColor": "G"
+                },
+                {
+                    "sid": "5820",
+                    "pid": 1707,
+                    "pkey": "showbizz",
+                    "cid": 1023469,
+                    "mid": "OB1H21",
+                    "fid": "URJofQgl6U",
+                    "showTime": "2025-01-10T09:50",
+                    "closeTime": "2025-01-10T09:49",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "CL",
+                            "label": "CLASSIC",
+                            "typeCode": "5820_CL",
+                            "sType": "fixed",
+                            "sAvail": 29,
+                            "sTotal": 29,
+                            "price": 235.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "CP",
+                            "label": "CLASSIC PLUS",
+                            "typeCode": "5820_CP",
+                            "sType": "fixed",
+                            "sAvail": 144,
+                            "sTotal": 152,
+                            "price": 325.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 181,
+                    "avail": 173,
+                    "audi": "AUDI 01",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Political"
+                    ],
+                    "statusColor": "G"
+                },
+                {
+                    "sid": "5825",
+                    "pid": 1707,
+                    "pkey": "showbizz",
+                    "cid": 1023469,
+                    "mid": "OB1H21",
+                    "fid": "URJofQgl6U",
+                    "showTime": "2025-01-10T06:00",
+                    "closeTime": "2025-01-10T05:59",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "CL",
+                            "label": "CLASSIC",
+                            "typeCode": "5825_CL",
+                            "sType": "fixed",
+                            "sAvail": 29,
+                            "sTotal": 45,
+                            "price": 235.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "CP",
+                            "label": "CLASSIC PLUS",
+                            "typeCode": "5825_CP",
+                            "sType": "fixed",
+                            "sAvail": 128,
+                            "sTotal": 331,
+                            "price": 325.0,
+                            "statusColor": "Y"
+                        }
+                    ],
+                    "total": 376,
+                    "avail": 157,
+                    "audi": "AUDI 03",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Political"
+                    ],
+                    "statusColor": "G"
+                },
+                {
+                    "sid": "5826",
+                    "pid": 1707,
+                    "pkey": "showbizz",
+                    "cid": 1023469,
+                    "mid": "OB1H21",
+                    "fid": "URJofQgl6U",
+                    "showTime": "2025-01-10T09:30",
+                    "closeTime": "2025-01-10T09:29",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "CL",
+                            "label": "CLASSIC",
+                            "typeCode": "5826_CL",
+                            "sType": "fixed",
+                            "sAvail": 43,
+                            "sTotal": 45,
+                            "price": 235.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "CP",
+                            "label": "CLASSIC PLUS",
+                            "typeCode": "5826_CP",
+                            "sType": "fixed",
+                            "sAvail": 241,
+                            "sTotal": 331,
+                            "price": 325.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 376,
+                    "avail": 284,
+                    "audi": "AUDI 03",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Political"
+                    ],
+                    "statusColor": "G"
+                },
+                {
+                    "sid": "5823",
+                    "pid": 1707,
+                    "pkey": "showbizz",
+                    "cid": 1023469,
+                    "mid": "OB1H21",
+                    "fid": "URJofQgl6U",
+                    "showTime": "2025-01-10T17:00",
+                    "closeTime": "2025-01-10T16:59",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "CL",
+                            "label": "CLASSIC",
+                            "typeCode": "5823_CL",
+                            "sType": "fixed",
+                            "sAvail": 38,
+                            "sTotal": 42,
+                            "price": 235.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "CP",
+                            "label": "CLASSIC PLUS",
+                            "typeCode": "5823_CP",
+                            "sType": "fixed",
+                            "sAvail": 223,
+                            "sTotal": 231,
+                            "price": 325.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 273,
+                    "avail": 261,
+                    "audi": "AUDI 02",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Political"
+                    ],
+                    "statusColor": "G"
+                },
+                {
+                    "sid": "5824",
+                    "pid": 1707,
+                    "pkey": "showbizz",
+                    "cid": 1023469,
+                    "mid": "OB1H21",
+                    "fid": "URJofQgl6U",
+                    "showTime": "2025-01-10T02:30",
+                    "closeTime": "2025-01-10T02:29",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "CL",
+                            "label": "CLASSIC",
+                            "typeCode": "5824_CL",
+                            "sType": "fixed",
+                            "sAvail": 36,
+                            "sTotal": 45,
+                            "price": 235.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "CP",
+                            "label": "CLASSIC PLUS",
+                            "typeCode": "5824_CP",
+                            "sType": "fixed",
+                            "sAvail": 172,
+                            "sTotal": 331,
+                            "price": 325.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 376,
+                    "avail": 208,
+                    "audi": "AUDI 03",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Political"
+                    ],
+                    "statusColor": "G"
+                },
+                {
+                    "sid": "5829",
+                    "pid": 1707,
+                    "pkey": "showbizz",
+                    "cid": 1023469,
+                    "mid": "OB1H21",
+                    "fid": "URJofQgl6U",
+                    "showTime": "2025-01-10T13:10",
+                    "closeTime": "2025-01-10T13:09",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "CL",
+                            "label": "CLASSIC",
+                            "typeCode": "5829_CL",
+                            "sType": "fixed",
+                            "sAvail": 40,
+                            "sTotal": 40,
+                            "price": 235.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "CP",
+                            "label": "CLASSIC PLUS",
+                            "typeCode": "5829_CP",
+                            "sType": "fixed",
+                            "sAvail": 191,
+                            "sTotal": 239,
+                            "price": 325.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 279,
+                    "avail": 231,
+                    "audi": "AUDI 04",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Political"
+                    ],
+                    "statusColor": "G"
+                },
+                {
+                    "sid": "5827",
+                    "pid": 1707,
+                    "pkey": "showbizz",
+                    "cid": 1023469,
+                    "mid": "OB1H21",
+                    "fid": "URJofQgl6U",
+                    "showTime": "2025-01-10T13:00",
+                    "closeTime": "2025-01-10T12:59",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "CL",
+                            "label": "CLASSIC",
+                            "typeCode": "5827_CL",
+                            "sType": "fixed",
+                            "sAvail": 41,
+                            "sTotal": 45,
+                            "price": 235.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "CP",
+                            "label": "CLASSIC PLUS",
+                            "typeCode": "5827_CP",
+                            "sType": "fixed",
+                            "sAvail": 221,
+                            "sTotal": 331,
+                            "price": 325.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 376,
+                    "avail": 262,
+                    "audi": "AUDI 03",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Political"
+                    ],
+                    "statusColor": "G"
+                },
+                {
+                    "sid": "5828",
+                    "pid": 1707,
+                    "pkey": "showbizz",
+                    "cid": 1023469,
+                    "mid": "OB1H21",
+                    "fid": "URJofQgl6U",
+                    "showTime": "2025-01-10T16:30",
+                    "closeTime": "2025-01-10T16:29",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "CL",
+                            "label": "CLASSIC",
+                            "typeCode": "5828_CL",
+                            "sType": "fixed",
+                            "sAvail": 39,
+                            "sTotal": 45,
+                            "price": 235.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "CP",
+                            "label": "CLASSIC PLUS",
+                            "typeCode": "5828_CP",
+                            "sType": "fixed",
+                            "sAvail": 225,
+                            "sTotal": 331,
+                            "price": 325.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 376,
+                    "avail": 264,
+                    "audi": "AUDI 03",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Political"
+                    ],
+                    "statusColor": "G"
+                },
+                {
+                    "sid": "5832",
+                    "pid": 1707,
+                    "pkey": "showbizz",
+                    "cid": 1023469,
+                    "mid": "OB1H21",
+                    "fid": "URJofQgl6U",
+                    "showTime": "2025-01-10T06:30",
+                    "closeTime": "2025-01-10T06:29",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "CL",
+                            "label": "CLASSIC",
+                            "typeCode": "5832_CL",
+                            "sType": "fixed",
+                            "sAvail": 35,
+                            "sTotal": 42,
+                            "price": 235.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "CP",
+                            "label": "CLASSIC PLUS",
+                            "typeCode": "5832_CP",
+                            "sType": "fixed",
+                            "sAvail": 156,
+                            "sTotal": 231,
+                            "price": 325.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 273,
+                    "avail": 191,
+                    "audi": "AUDI 02",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Political"
+                    ],
+                    "statusColor": "G"
+                },
+                {
+                    "sid": "5833",
+                    "pid": 1707,
+                    "pkey": "showbizz",
+                    "cid": 1023469,
+                    "mid": "OB1H21",
+                    "fid": "URJofQgl6U",
+                    "showTime": "2025-01-10T10:00",
+                    "closeTime": "2025-01-10T09:59",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "CL",
+                            "label": "CLASSIC",
+                            "typeCode": "5833_CL",
+                            "sType": "fixed",
+                            "sAvail": 41,
+                            "sTotal": 42,
+                            "price": 235.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "CP",
+                            "label": "CLASSIC PLUS",
+                            "typeCode": "5833_CP",
+                            "sType": "fixed",
+                            "sAvail": 203,
+                            "sTotal": 231,
+                            "price": 325.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 273,
+                    "avail": 244,
+                    "audi": "AUDI 02",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Political"
+                    ],
+                    "statusColor": "G"
+                },
+                {
+                    "sid": "5830",
+                    "pid": 1707,
+                    "pkey": "showbizz",
+                    "cid": 1023469,
+                    "mid": "OB1H21",
+                    "fid": "URJofQgl6U",
+                    "showTime": "2025-01-10T16:40",
+                    "closeTime": "2025-01-10T16:39",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "CL",
+                            "label": "CLASSIC",
+                            "typeCode": "5830_CL",
+                            "sType": "fixed",
+                            "sAvail": 39,
+                            "sTotal": 40,
+                            "price": 235.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "CP",
+                            "label": "CLASSIC PLUS",
+                            "typeCode": "5830_CP",
+                            "sType": "fixed",
+                            "sAvail": 214,
+                            "sTotal": 239,
+                            "price": 325.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 279,
+                    "avail": 253,
+                    "audi": "AUDI 04",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Political"
+                    ],
+                    "statusColor": "G"
+                },
+                {
+                    "sid": "5831",
+                    "pid": 1707,
+                    "pkey": "showbizz",
+                    "cid": 1023469,
+                    "mid": "OB1H21",
+                    "fid": "URJofQgl6U",
+                    "showTime": "2025-01-10T03:00",
+                    "closeTime": "2025-01-10T02:59",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "CL",
+                            "label": "CLASSIC",
+                            "typeCode": "5831_CL",
+                            "sType": "fixed",
+                            "sAvail": 35,
+                            "sTotal": 42,
+                            "price": 235.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "CP",
+                            "label": "CLASSIC PLUS",
+                            "typeCode": "5831_CP",
+                            "sType": "fixed",
+                            "sAvail": 132,
+                            "sTotal": 231,
+                            "price": 325.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 273,
+                    "avail": 167,
+                    "audi": "AUDI 02",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Political"
+                    ],
+                    "statusColor": "G"
+                },
+                {
+                    "sid": "5858",
+                    "pid": 1707,
+                    "pkey": "showbizz",
+                    "cid": 1023469,
+                    "mid": "OB1H21",
+                    "fid": "URJofQgl6U",
+                    "showTime": "2025-01-09T23:20",
+                    "closeTime": "2025-01-09T23:19",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "CL",
+                            "label": "CLASSIC",
+                            "typeCode": "5858_CL",
+                            "sType": "fixed",
+                            "sAvail": 14,
+                            "sTotal": 29,
+                            "price": 235.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "CP",
+                            "label": "CLASSIC PLUS",
+                            "typeCode": "5858_CP",
+                            "sType": "fixed",
+                            "sAvail": 66,
+                            "sTotal": 152,
+                            "price": 325.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 181,
+                    "avail": 80,
+                    "audi": "AUDI 01",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Political"
+                    ],
+                    "statusColor": "G"
+                },
+                {
+                    "sid": "5836",
+                    "pid": 1707,
+                    "pkey": "showbizz",
+                    "cid": 1023469,
+                    "mid": "OB1H21",
+                    "fid": "URJofQgl6U",
+                    "showTime": "2025-01-10T06:10",
+                    "closeTime": "2025-01-10T06:09",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "CL",
+                            "label": "CLASSIC",
+                            "typeCode": "5836_CL",
+                            "sType": "fixed",
+                            "sAvail": 29,
+                            "sTotal": 40,
+                            "price": 235.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "CP",
+                            "label": "CLASSIC PLUS",
+                            "typeCode": "5836_CP",
+                            "sType": "fixed",
+                            "sAvail": 172,
+                            "sTotal": 239,
+                            "price": 325.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 279,
+                    "avail": 201,
+                    "audi": "AUDI 04",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Political"
+                    ],
+                    "statusColor": "G"
+                },
+                {
+                    "sid": "5859",
+                    "pid": 1707,
+                    "pkey": "showbizz",
+                    "cid": 1023469,
+                    "mid": "OB1H21",
+                    "fid": "URJofQgl6U",
+                    "showTime": "2025-01-09T23:30",
+                    "closeTime": "2025-01-09T23:29",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "CL",
+                            "label": "CLASSIC",
+                            "typeCode": "5859_CL",
+                            "sType": "fixed",
+                            "sAvail": 23,
+                            "sTotal": 42,
+                            "price": 235.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "CP",
+                            "label": "CLASSIC PLUS",
+                            "typeCode": "5859_CP",
+                            "sType": "fixed",
+                            "sAvail": 53,
+                            "sTotal": 231,
+                            "price": 325.0,
+                            "statusColor": "Y"
+                        }
+                    ],
+                    "total": 273,
+                    "avail": 76,
+                    "audi": "AUDI 02",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Political"
+                    ],
+                    "statusColor": "Y"
+                },
+                {
+                    "sid": "5837",
+                    "pid": 1707,
+                    "pkey": "showbizz",
+                    "cid": 1023469,
+                    "mid": "OB1H21",
+                    "fid": "URJofQgl6U",
+                    "showTime": "2025-01-10T09:40",
+                    "closeTime": "2025-01-10T09:39",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "CL",
+                            "label": "CLASSIC",
+                            "typeCode": "5837_CL",
+                            "sType": "fixed",
+                            "sAvail": 40,
+                            "sTotal": 40,
+                            "price": 235.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "CP",
+                            "label": "CLASSIC PLUS",
+                            "typeCode": "5837_CP",
+                            "sType": "fixed",
+                            "sAvail": 234,
+                            "sTotal": 239,
+                            "price": 325.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 279,
+                    "avail": 274,
+                    "audi": "AUDI 04",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Political"
+                    ],
+                    "statusColor": "G"
+                },
+                {
+                    "sid": "5834",
+                    "pid": 1707,
+                    "pkey": "showbizz",
+                    "cid": 1023469,
+                    "mid": "OB1H21",
+                    "fid": "URJofQgl6U",
+                    "showTime": "2025-01-10T13:30",
+                    "closeTime": "2025-01-10T13:29",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "CL",
+                            "label": "CLASSIC",
+                            "typeCode": "5834_CL",
+                            "sType": "fixed",
+                            "sAvail": 39,
+                            "sTotal": 42,
+                            "price": 235.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "CP",
+                            "label": "CLASSIC PLUS",
+                            "typeCode": "5834_CP",
+                            "sType": "fixed",
+                            "sAvail": 141,
+                            "sTotal": 231,
+                            "price": 325.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 273,
+                    "avail": 180,
+                    "audi": "AUDI 02",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Political"
+                    ],
+                    "statusColor": "G"
+                },
+                {
+                    "sid": "5835",
+                    "pid": 1707,
+                    "pkey": "showbizz",
+                    "cid": 1023469,
+                    "mid": "OB1H21",
+                    "fid": "URJofQgl6U",
+                    "showTime": "2025-01-10T02:40",
+                    "closeTime": "2025-01-10T02:39",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "CL",
+                            "label": "CLASSIC",
+                            "typeCode": "5835_CL",
+                            "sType": "fixed",
+                            "sAvail": 39,
+                            "sTotal": 40,
+                            "price": 235.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "CP",
+                            "label": "CLASSIC PLUS",
+                            "typeCode": "5835_CP",
+                            "sType": "fixed",
+                            "sAvail": 183,
+                            "sTotal": 239,
+                            "price": 325.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 279,
+                    "avail": 222,
+                    "audi": "AUDI 04",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Political"
+                    ],
+                    "statusColor": "G"
+                },
+                {
+                    "sid": "5818",
+                    "pid": 1707,
+                    "pkey": "showbizz",
+                    "cid": 1023469,
+                    "mid": "OB1H21",
+                    "fid": "URJofQgl6U",
+                    "showTime": "2025-01-10T02:50",
+                    "closeTime": "2025-01-10T02:49",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "CL",
+                            "label": "CLASSIC",
+                            "typeCode": "5818_CL",
+                            "sType": "fixed",
+                            "sAvail": 29,
+                            "sTotal": 29,
+                            "price": 235.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "CP",
+                            "label": "CLASSIC PLUS",
+                            "typeCode": "5818_CP",
+                            "sType": "fixed",
+                            "sAvail": 121,
+                            "sTotal": 152,
+                            "price": 325.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 181,
+                    "avail": 150,
+                    "audi": "AUDI 01",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Political"
+                    ],
+                    "statusColor": "G"
+                },
+                {
+                    "sid": "5819",
+                    "pid": 1707,
+                    "pkey": "showbizz",
+                    "cid": 1023469,
+                    "mid": "OB1H21",
+                    "fid": "URJofQgl6U",
+                    "showTime": "2025-01-10T06:20",
+                    "closeTime": "2025-01-10T06:19",
+                    "mandatoryItems": [],
+                    "areas": [
+                        {
+                            "code": "CL",
+                            "label": "CLASSIC",
+                            "typeCode": "5819_CL",
+                            "sType": "fixed",
+                            "sAvail": 28,
+                            "sTotal": 29,
+                            "price": 235.0,
+                            "statusColor": "G"
+                        },
+                        {
+                            "code": "CP",
+                            "label": "CLASSIC PLUS",
+                            "typeCode": "5819_CP",
+                            "sType": "fixed",
+                            "sAvail": 120,
+                            "sTotal": 152,
+                            "price": 325.0,
+                            "statusColor": "G"
+                        }
+                    ],
+                    "total": 181,
+                    "avail": 148,
+                    "audi": "AUDI 01",
+                    "premium": 0,
+                    "tFeePkupTime": 0,
+                    "sType": 0,
+                    "tFee": 0,
+                    "grpSeats": 0,
+                    "maxTkt": 6,
+                    "lang": "Telugu",
+                    "scrnFmt": "2D",
+                    "gnrs": [
+                        "Action",
+                        "Drama",
+                        "Political"
+                    ],
+                    "statusColor": "G"
+                }
+            ]
+        }
+    }
+}
